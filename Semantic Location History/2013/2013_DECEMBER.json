@@ -1,0 +1,502 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494975092,
+        "longitudeE7" : 5678002,
+        "placeId" : "ChIJmy4EuVlQ4EcRSyR7-kpxtyM",
+        "locationConfidence" : 99.98716
+      },
+      "duration" : {
+        "startTimestampMs" : "1385891463325",
+        "endTimestampMs" : "1385897892347"
+      },
+      "centerLatE7" : 494974842,
+      "centerLngE7" : 5678116,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcRxmpmbHobpMs",
+        "name" : "Transport 3 D",
+        "locationConfidence" : 0.006118142
+      }, {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcReDiWaOs5wIQ",
+        "name" : "Transports 3D",
+        "locationConfidence" : 0.0019161865
+      }, {
+        "latitudeE7" : 494965149,
+        "longitudeE7" : 5679164,
+        "placeId" : "ChIJD-1Q0FlQ4EcR5y_klTTeeXg",
+        "name" : "Exxon Mobil Sports et Loisirs",
+        "locationConfidence" : 0.001750962
+      }, {
+        "latitudeE7" : 494950807,
+        "longitudeE7" : 5688644,
+        "placeId" : "ChIJN097mVdQ4EcRgXtAGNblbPQ",
+        "name" : "Foyer des Sports",
+        "locationConfidence" : 0.0012314463
+      }, {
+        "latitudeE7" : 494955669,
+        "longitudeE7" : 5688473,
+        "placeId" : "ChIJfWI-g1dQ4EcRYTkJZkyWyv8",
+        "name" : "Rosay Dumouchel Marie Francoise",
+        "locationConfidence" : 6.5468234E-4
+      }, {
+        "latitudeE7" : 494954150,
+        "longitudeE7" : 5691560,
+        "placeId" : "ChIJbXO0mldQ4EcRFtDgxaNdBV4",
+        "name" : "Club Sportif De Gravenchon",
+        "locationConfidence" : 4.91765E-4
+      }, {
+        "latitudeE7" : 494961967,
+        "longitudeE7" : 5685439,
+        "placeId" : "ChIJCUIjK1hQ4EcRxL0D_ErIfzA",
+        "name" : "Chauveau Grandin Jeanine",
+        "locationConfidence" : 3.6640224E-4
+      }, {
+        "latitudeE7" : 494964869,
+        "longitudeE7" : 5642745,
+        "placeId" : "ChIJ1Q7kcVpQ4EcR6ORWBa5ewWI",
+        "name" : "Meslet Yolande",
+        "locationConfidence" : 3.1300363E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1385897892347",
+        "endTimestampMs" : "1385898225556"
+      },
+      "distance" : 11767,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494975242,
+          "lngE7" : 5676273
+        }, {
+          "latE7" : 494232749,
+          "lngE7" : 4520851
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1385898536088",
+        "endTimestampMs" : "1385899171790"
+      },
+      "distance" : 11770,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494232749,
+          "lngE7" : 4520854
+        }, {
+          "latE7" : 494975585,
+          "lngE7" : 5676527
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494975092,
+        "longitudeE7" : 5678002,
+        "placeId" : "ChIJmy4EuVlQ4EcRSyR7-kpxtyM",
+        "locationConfidence" : 99.981094
+      },
+      "duration" : {
+        "startTimestampMs" : "1385899171790",
+        "endTimestampMs" : "1385929454312"
+      },
+      "centerLatE7" : 494940584,
+      "centerLngE7" : 5621803,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcRxmpmbHobpMs",
+        "name" : "Transport 3 D",
+        "locationConfidence" : 0.007134595
+      }, {
+        "latitudeE7" : 494950807,
+        "longitudeE7" : 5688644,
+        "placeId" : "ChIJN097mVdQ4EcRgXtAGNblbPQ",
+        "name" : "Foyer des Sports",
+        "locationConfidence" : 0.0048609786
+      }, {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcReDiWaOs5wIQ",
+        "name" : "Transports 3D",
+        "locationConfidence" : 0.0023598385
+      }, {
+        "latitudeE7" : 494965149,
+        "longitudeE7" : 5679164,
+        "placeId" : "ChIJD-1Q0FlQ4EcR5y_klTTeeXg",
+        "name" : "Exxon Mobil Sports et Loisirs",
+        "locationConfidence" : 0.0016224891
+      }, {
+        "latitudeE7" : 494961967,
+        "longitudeE7" : 5685439,
+        "placeId" : "ChIJCUIjK1hQ4EcRxL0D_ErIfzA",
+        "name" : "Chauveau Grandin Jeanine",
+        "locationConfidence" : 0.0010911276
+      }, {
+        "latitudeE7" : 494955669,
+        "longitudeE7" : 5688473,
+        "placeId" : "ChIJfWI-g1dQ4EcRYTkJZkyWyv8",
+        "name" : "Rosay Dumouchel Marie Francoise",
+        "locationConfidence" : 8.3613244E-4
+      }, {
+        "latitudeE7" : 494954150,
+        "longitudeE7" : 5691560,
+        "placeId" : "ChIJbXO0mldQ4EcRFtDgxaNdBV4",
+        "name" : "Club Sportif De Gravenchon",
+        "locationConfidence" : 6.304642E-4
+      }, {
+        "latitudeE7" : 494964869,
+        "longitudeE7" : 5642745,
+        "placeId" : "ChIJ1Q7kcVpQ4EcR6ORWBa5ewWI",
+        "name" : "Meslet Yolande",
+        "locationConfidence" : 3.6987846E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494975092,
+        "longitudeE7" : 5678002,
+        "placeId" : "ChIJmy4EuVlQ4EcRSyR7-kpxtyM",
+        "locationConfidence" : 99.95885
+      },
+      "duration" : {
+        "startTimestampMs" : "1385982759255",
+        "endTimestampMs" : "1386002174969"
+      },
+      "centerLatE7" : 494975387,
+      "centerLngE7" : 5675951,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494950807,
+        "longitudeE7" : 5688644,
+        "placeId" : "ChIJN097mVdQ4EcRgXtAGNblbPQ",
+        "name" : "Foyer des Sports",
+        "locationConfidence" : 0.014116166
+      }, {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcRxmpmbHobpMs",
+        "name" : "Transport 3 D",
+        "locationConfidence" : 0.010272466
+      }, {
+        "latitudeE7" : 494965149,
+        "longitudeE7" : 5679164,
+        "placeId" : "ChIJD-1Q0FlQ4EcR5y_klTTeeXg",
+        "name" : "Exxon Mobil Sports et Loisirs",
+        "locationConfidence" : 0.007266031
+      }, {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcReDiWaOs5wIQ",
+        "name" : "Transports 3D",
+        "locationConfidence" : 0.003370639
+      }, {
+        "latitudeE7" : 494955669,
+        "longitudeE7" : 5688473,
+        "placeId" : "ChIJfWI-g1dQ4EcRYTkJZkyWyv8",
+        "name" : "Rosay Dumouchel Marie Francoise",
+        "locationConfidence" : 0.0017540766
+      }, {
+        "latitudeE7" : 494961967,
+        "longitudeE7" : 5685439,
+        "placeId" : "ChIJCUIjK1hQ4EcRxL0D_ErIfzA",
+        "name" : "Chauveau Grandin Jeanine",
+        "locationConfidence" : 0.0015363721
+      }, {
+        "latitudeE7" : 494954150,
+        "longitudeE7" : 5691560,
+        "placeId" : "ChIJbXO0mldQ4EcRFtDgxaNdBV4",
+        "name" : "Club Sportif De Gravenchon",
+        "locationConfidence" : 0.0015095007
+      }, {
+        "latitudeE7" : 494964869,
+        "longitudeE7" : 5642745,
+        "placeId" : "ChIJ1Q7kcVpQ4EcR6ORWBa5ewWI",
+        "name" : "Meslet Yolande",
+        "locationConfidence" : 0.0013258854
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494975092,
+        "longitudeE7" : 5678002,
+        "placeId" : "ChIJmy4EuVlQ4EcRSyR7-kpxtyM",
+        "locationConfidence" : 99.97808
+      },
+      "duration" : {
+        "startTimestampMs" : "1386003836330",
+        "endTimestampMs" : "1386007806874"
+      },
+      "centerLatE7" : 494974255,
+      "centerLngE7" : 5678725,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcRxmpmbHobpMs",
+        "name" : "Transport 3 D",
+        "locationConfidence" : 0.0068702474
+      }, {
+        "latitudeE7" : 494965149,
+        "longitudeE7" : 5679164,
+        "placeId" : "ChIJD-1Q0FlQ4EcR5y_klTTeeXg",
+        "name" : "Exxon Mobil Sports et Loisirs",
+        "locationConfidence" : 0.005533271
+      }, {
+        "latitudeE7" : 494950807,
+        "longitudeE7" : 5688644,
+        "placeId" : "ChIJN097mVdQ4EcRgXtAGNblbPQ",
+        "name" : "Foyer des Sports",
+        "locationConfidence" : 0.0045518284
+      }, {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcReDiWaOs5wIQ",
+        "name" : "Transports 3D",
+        "locationConfidence" : 0.0022292968
+      }, {
+        "latitudeE7" : 494961967,
+        "longitudeE7" : 5685439,
+        "placeId" : "ChIJCUIjK1hQ4EcRxL0D_ErIfzA",
+        "name" : "Chauveau Grandin Jeanine",
+        "locationConfidence" : 0.0010208549
+      }, {
+        "latitudeE7" : 494955669,
+        "longitudeE7" : 5688473,
+        "placeId" : "ChIJfWI-g1dQ4EcRYTkJZkyWyv8",
+        "name" : "Rosay Dumouchel Marie Francoise",
+        "locationConfidence" : 7.7543024E-4
+      }, {
+        "latitudeE7" : 494954150,
+        "longitudeE7" : 5691560,
+        "placeId" : "ChIJbXO0mldQ4EcRFtDgxaNdBV4",
+        "name" : "Club Sportif De Gravenchon",
+        "locationConfidence" : 5.832678E-4
+      }, {
+        "latitudeE7" : 494964869,
+        "longitudeE7" : 5642745,
+        "placeId" : "ChIJ1Q7kcVpQ4EcR6ORWBa5ewWI",
+        "name" : "Meslet Yolande",
+        "locationConfidence" : 3.5172724E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494982070,
+        "longitudeE7" : 7568970,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 100.0
+      },
+      "duration" : {
+        "startTimestampMs" : "1386081714656",
+        "endTimestampMs" : "1386089294203"
+      },
+      "centerLatE7" : 494798100,
+      "centerLngE7" : 4803100,
+      "visitConfidence" : 64,
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494975092,
+        "longitudeE7" : 5678002,
+        "placeId" : "ChIJmy4EuVlQ4EcRSyR7-kpxtyM",
+        "locationConfidence" : 99.9794
+      },
+      "duration" : {
+        "startTimestampMs" : "1386158458108",
+        "endTimestampMs" : "1386168172426"
+      },
+      "centerLatE7" : 494974600,
+      "centerLngE7" : 5679200,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcRxmpmbHobpMs",
+        "name" : "Transport 3 D",
+        "locationConfidence" : 0.00736329
+      }, {
+        "latitudeE7" : 494965149,
+        "longitudeE7" : 5679164,
+        "placeId" : "ChIJD-1Q0FlQ4EcR5y_klTTeeXg",
+        "name" : "Exxon Mobil Sports et Loisirs",
+        "locationConfidence" : 0.005311281
+      }, {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcReDiWaOs5wIQ",
+        "name" : "Transports 3D",
+        "locationConfidence" : 0.002988264
+      }, {
+        "latitudeE7" : 494950807,
+        "longitudeE7" : 5688644,
+        "placeId" : "ChIJN097mVdQ4EcRgXtAGNblbPQ",
+        "name" : "Foyer des Sports",
+        "locationConfidence" : 0.0019965498
+      }, {
+        "latitudeE7" : 494955669,
+        "longitudeE7" : 5688473,
+        "placeId" : "ChIJfWI-g1dQ4EcRYTkJZkyWyv8",
+        "name" : "Rosay Dumouchel Marie Francoise",
+        "locationConfidence" : 0.0010694218
+      }, {
+        "latitudeE7" : 494954150,
+        "longitudeE7" : 5691560,
+        "placeId" : "ChIJbXO0mldQ4EcRFtDgxaNdBV4",
+        "name" : "Club Sportif De Gravenchon",
+        "locationConfidence" : 8.0611644E-4
+      }, {
+        "latitudeE7" : 494961967,
+        "longitudeE7" : 5685439,
+        "placeId" : "ChIJCUIjK1hQ4EcRxL0D_ErIfzA",
+        "name" : "Chauveau Grandin Jeanine",
+        "locationConfidence" : 6.16908E-4
+      }, {
+        "latitudeE7" : 494964869,
+        "longitudeE7" : 5642745,
+        "placeId" : "ChIJ1Q7kcVpQ4EcR6ORWBa5ewWI",
+        "name" : "Meslet Yolande",
+        "locationConfidence" : 4.4652921E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1386168172426",
+        "endTimestampMs" : "1386168250673"
+      },
+      "distance" : 11762,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494975092,
+        "longitudeE7" : 5678002,
+        "placeId" : "ChIJmy4EuVlQ4EcRSyR7-kpxtyM",
+        "locationConfidence" : 99.97096
+      },
+      "duration" : {
+        "startTimestampMs" : "1386606964682",
+        "endTimestampMs" : "1386607718910"
+      },
+      "centerLatE7" : 494974600,
+      "centerLngE7" : 5679200,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcRxmpmbHobpMs",
+        "name" : "Transport 3 D",
+        "locationConfidence" : 0.0094861975
+      }, {
+        "latitudeE7" : 494965149,
+        "longitudeE7" : 5679164,
+        "placeId" : "ChIJD-1Q0FlQ4EcR5y_klTTeeXg",
+        "name" : "Exxon Mobil Sports et Loisirs",
+        "locationConfidence" : 0.0065556094
+      }, {
+        "latitudeE7" : 494950807,
+        "longitudeE7" : 5688644,
+        "placeId" : "ChIJN097mVdQ4EcRgXtAGNblbPQ",
+        "name" : "Foyer des Sports",
+        "locationConfidence" : 0.006248595
+      }, {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcReDiWaOs5wIQ",
+        "name" : "Transports 3D",
+        "locationConfidence" : 0.0029880118
+      }, {
+        "latitudeE7" : 494961967,
+        "longitudeE7" : 5685439,
+        "placeId" : "ChIJCUIjK1hQ4EcRxL0D_ErIfzA",
+        "name" : "Chauveau Grandin Jeanine",
+        "locationConfidence" : 0.0014342711
+      }, {
+        "latitudeE7" : 494955669,
+        "longitudeE7" : 5688473,
+        "placeId" : "ChIJfWI-g1dQ4EcRYTkJZkyWyv8",
+        "name" : "Rosay Dumouchel Marie Francoise",
+        "locationConfidence" : 0.0010693315
+      }, {
+        "latitudeE7" : 494954150,
+        "longitudeE7" : 5691560,
+        "placeId" : "ChIJbXO0mldQ4EcRFtDgxaNdBV4",
+        "name" : "Club Sportif De Gravenchon",
+        "locationConfidence" : 8.060484E-4
+      }, {
+        "latitudeE7" : 494964869,
+        "longitudeE7" : 5642745,
+        "placeId" : "ChIJ1Q7kcVpQ4EcR6ORWBa5ewWI",
+        "name" : "Meslet Yolande",
+        "locationConfidence" : 4.4649155E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

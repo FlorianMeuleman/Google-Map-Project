@@ -1,0 +1,217 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494959764,
+        "longitudeE7" : 1114567,
+        "placeId" : "ChIJJZ6KOBgv4EcRhNSXBdHBlHk",
+        "address" : "22 Rue Casimir Périer\n76600 Le Havre\nFrance",
+        "name" : "COTY",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 45.451286
+      },
+      "duration" : {
+        "startTimestampMs" : "1538828060603",
+        "endTimestampMs" : "1538828580000"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 494961536,
+      "centerLngE7" : 1123200,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494967346,
+        "longitudeE7" : 1121106,
+        "placeId" : "ChIJl3b0zRkv4EcRZVZEJUgMz9I",
+        "locationConfidence" : 21.778763
+      }, {
+        "latitudeE7" : 494970398,
+        "longitudeE7" : 1123950,
+        "placeId" : "ChIJiwvK1hkv4EcR0ff1E-ydnRY",
+        "locationConfidence" : 0.78308845
+      }, {
+        "latitudeE7" : 494972672,
+        "longitudeE7" : 1119591,
+        "placeId" : "ChIJC4zYUxcv4EcRkr9JYsDkjCI",
+        "locationConfidence" : 0.6634306
+      }, {
+        "latitudeE7" : 494974243,
+        "longitudeE7" : 1135043,
+        "placeId" : "ChIJ7TX6Xxcv4EcRLoYD4gBm24E",
+        "locationConfidence" : 0.5506927
+      }, {
+        "latitudeE7" : 494970191,
+        "longitudeE7" : 1122332,
+        "placeId" : "ChIJe9p30xkv4EcRqIQ31tqFZmM",
+        "locationConfidence" : 0.50345516
+      }, {
+        "latitudeE7" : 494974364,
+        "longitudeE7" : 1125470,
+        "placeId" : "ChIJle2wfRcv4EcRF-VhMYLCbUw",
+        "locationConfidence" : 0.49110594
+      }, {
+        "latitudeE7" : 494978569,
+        "longitudeE7" : 1143344,
+        "placeId" : "ChIJ4ZgOURcv4EcRqX2Dqi79nHw",
+        "locationConfidence" : 0.482214
+      }, {
+        "latitudeE7" : 494966770,
+        "longitudeE7" : 1102400,
+        "placeId" : "ChIJZXYYCRgv4EcR8X02Zebajmw",
+        "locationConfidence" : 0.48207676
+      }, {
+        "latitudeE7" : 494969762,
+        "longitudeE7" : 1107785,
+        "placeId" : "ChIJubTrIhgv4EcRSg8EgV4nHa0",
+        "locationConfidence" : 0.45358998
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494967516,
+          "lngE7" : 1121442,
+          "timestampMs" : "1538828222122",
+          "accuracyMeters" : 13
+        }, {
+          "latE7" : 494953783,
+          "lngE7" : 1125558,
+          "timestampMs" : "1538828565000",
+          "accuracyMeters" : 4
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494961536,
+        "longitudeE7" : 1123200
+      },
+      "endLocation" : {
+        "latitudeE7" : 494493697,
+        "longitudeE7" : 10487569,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1538828580000",
+        "endTimestampMs" : "1540805895835"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494941446,
+          "lngE7" : 1140048,
+          "timestampMs" : "1538828673000",
+          "accuracyMeters" : 5
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494493697,
+        "longitudeE7" : 10487569,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494531698,
+        "longitudeE7" : 10979828,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1540805895835",
+        "endTimestampMs" : "1540807076000"
+      },
+      "distance" : 5421,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 97.17055902379282
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.1869078206847266
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.9969424580286049
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494493484,
+          "lngE7" : 10487668
+        }, {
+          "latE7" : 494374389,
+          "lngE7" : 10814479
+        }, {
+          "latE7" : 494435424,
+          "lngE7" : 10824197
+        }, {
+          "latE7" : 494686203,
+          "lngE7" : 11187187
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494375229,
+          "lngE7" : 10819132,
+          "timestampMs" : "1540806266044",
+          "accuracyMeters" : 82
+        }, {
+          "latE7" : 494435081,
+          "lngE7" : 10825078,
+          "timestampMs" : "1540806426000",
+          "accuracyMeters" : 14
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494531698,
+        "longitudeE7" : 10979828,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494939091,
+        "longitudeE7" : 961496,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1540807076000",
+        "endTimestampMs" : "1541082002268"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494686024,
+          "lngE7" : 11187685,
+          "timestampMs" : "1540807076000",
+          "accuracyMeters" : 4
+        }, {
+          "latE7" : 494949348,
+          "lngE7" : 946242,
+          "timestampMs" : "1541081508000",
+          "accuracyMeters" : 3
+        } ]
+      }
+    }
+  } ]
+}

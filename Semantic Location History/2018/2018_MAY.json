@@ -1,0 +1,856 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494960970,
+        "longitudeE7" : 5818368,
+        "placeId" : "ChIJYx-hB_BQ4EcRBOaPtjHV4R4",
+        "address" : "11 Rue Roland Garros\n76330 Port-Jérôme-sur-Seine\nFrance",
+        "name" : "11 Rue Roland Garros",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 72.38754
+      },
+      "duration" : {
+        "startTimestampMs" : "1525542231894",
+        "endTimestampMs" : "1525546009207"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 494960161,
+      "centerLngE7" : 5818894,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494958513,
+        "longitudeE7" : 5816069,
+        "placeId" : "ChIJXReXp_pQ4EcRN-W9-4tXSxU",
+        "locationConfidence" : 8.355706
+      }, {
+        "latitudeE7" : 494957681,
+        "longitudeE7" : 5818934,
+        "placeId" : "ChIJ9cgXqfpQ4EcR_nkS1asHwRg",
+        "locationConfidence" : 6.6645317
+      }, {
+        "latitudeE7" : 494941162,
+        "longitudeE7" : 5774884,
+        "placeId" : "ChIJ754UfvpQ4EcRVvcSqJtN_ks",
+        "name" : "Parc du Télhuet",
+        "locationConfidence" : 5.213439
+      }, {
+        "latitudeE7" : 494987913,
+        "longitudeE7" : 5812998,
+        "placeId" : "ChIJa9FSyvFQ4EcRzlR8S9ZxMGU",
+        "name" : "Le Télhuet",
+        "locationConfidence" : 4.4792957
+      }, {
+        "latitudeE7" : 494930176,
+        "longitudeE7" : 5805040,
+        "placeId" : "ChIJ6eClqvtQ4EcRMAwJVcMWfvM",
+        "name" : "Gymnase Michel Comont",
+        "locationConfidence" : 1.3579335
+      }, {
+        "latitudeE7" : 494948368,
+        "longitudeE7" : 5797138,
+        "placeId" : "ChIJ80hq6vpQ4EcRYioyPIgQ85g",
+        "name" : "Paroisse Saint Denis des Marais de Seine",
+        "locationConfidence" : 1.0824633
+      }, {
+        "latitudeE7" : 494961135,
+        "longitudeE7" : 5858654,
+        "placeId" : "ChIJ16TMfO9Q4EcRaSi1ps7PEHw",
+        "name" : "Brubion Jean-François",
+        "locationConfidence" : 0.40144286
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494958180,
+        "longitudeE7" : 5818030,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494924110,
+        "longitudeE7" : 5777488,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1525546009207",
+        "endTimestampMs" : "1525546411548"
+      },
+      "distance" : 480,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 95.87153714632421
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.620291159827824
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.18864001730565608
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494958457,
+          "lngE7" : 5817825
+        }, {
+          "latE7" : 494936599,
+          "lngE7" : 5796586
+        }, {
+          "latE7" : 494922142,
+          "lngE7" : 5781437
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494930859,
+          "lngE7" : 5792105,
+          "timestampMs" : "1525546141964",
+          "accuracyMeters" : 92
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494923021,
+        "longitudeE7" : 5775130,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494958758,
+        "longitudeE7" : 5819096,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1525546666636",
+        "endTimestampMs" : "1525556481251"
+      },
+      "distance" : 1952,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 89.2071798956839
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 8.334945689016031
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.282088513938131
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494920463,
+          "lngE7" : 5778939
+        }, {
+          "latE7" : 494936599,
+          "lngE7" : 5796586
+        }, {
+          "latE7" : 494958763,
+          "lngE7" : 5819100
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494925857,
+          "lngE7" : 5787117,
+          "timestampMs" : "1525556402147",
+          "accuracyMeters" : 15
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494963755,
+        "longitudeE7" : 1145677,
+        "placeId" : "ChIJ5_0dmhkv4EcR0xm3OQ1IJDc",
+        "address" : "2 Rue Jean Paul Sartre\n76600 Le Havre\nFrance",
+        "name" : "School François-Ier",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 77.85888
+      },
+      "duration" : {
+        "startTimestampMs" : "1527233418375",
+        "endTimestampMs" : "1527246113208"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 494961491,
+      "centerLngE7" : 1139843,
+      "visitConfidence" : 87,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494959192,
+        "longitudeE7" : 1116195,
+        "placeId" : "ChIJJZ6KOBgv4EcRhNSXBdHBlHk",
+        "name" : "Espace Coty",
+        "locationConfidence" : 6.716317
+      }, {
+        "latitudeE7" : 494970398,
+        "longitudeE7" : 1123950,
+        "placeId" : "ChIJiwvK1hkv4EcR0ff1E-ydnRY",
+        "name" : "Les Fées d'Ongles",
+        "locationConfidence" : 0.5750002
+      }, {
+        "latitudeE7" : 494977329,
+        "longitudeE7" : 1147522,
+        "placeId" : "ChIJ17wxQBAv4EcR-Lfx9aRQIuM",
+        "name" : "E.M.L.A Music",
+        "locationConfidence" : 0.46580875
+      }, {
+        "latitudeE7" : 494976930,
+        "longitudeE7" : 1146350,
+        "placeId" : "ChIJBXaEVBcv4EcRAecyBrsoEUE",
+        "name" : "Mercerie Claude",
+        "locationConfidence" : 0.38723207
+      }, {
+        "latitudeE7" : 494940504,
+        "longitudeE7" : 1133653,
+        "placeId" : "ChIJgVDaFBkv4EcR7awGqYhtM6Y",
+        "name" : "Uhart Danielle",
+        "locationConfidence" : 0.3760779
+      }, {
+        "latitudeE7" : 494949820,
+        "longitudeE7" : 1126786,
+        "placeId" : "ChIJO5NzVhgv4EcRTKJkiJl1RTE",
+        "name" : "Mothe Elisabeth",
+        "locationConfidence" : 0.34672958
+      }, {
+        "latitudeE7" : 494974243,
+        "longitudeE7" : 1135043,
+        "placeId" : "ChIJ7TX6Xxcv4EcRLoYD4gBm24E",
+        "name" : "SHOPCLOP LE HAVRE",
+        "locationConfidence" : 0.31109574
+      }, {
+        "latitudeE7" : 494945840,
+        "longitudeE7" : 1131900,
+        "placeId" : "ChIJqZ-Cphkv4EcRk5f16UVqVnc",
+        "name" : "Domages Didier",
+        "locationConfidence" : 0.3060975
+      }, {
+        "latitudeE7" : 494957415,
+        "longitudeE7" : 1127589,
+        "placeId" : "ChIJYw8mqxkv4EcRn3BLA9pBtI0",
+        "name" : "Benoit Béchet Pédicure Podologue SELARL",
+        "locationConfidence" : 0.30542183
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494963755,
+        "longitudeE7" : 1145677,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494967147,
+        "longitudeE7" : 1121607,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1527246113208",
+        "endTimestampMs" : "1527247616248"
+      },
+      "distance" : 104,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 97.94514957740505
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 1.549569470514741
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.29388432940838083
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494964523,
+          "lngE7" : 1151179
+        }, {
+          "latE7" : 494971771,
+          "lngE7" : 1118974
+        }, {
+          "latE7" : 494966964,
+          "lngE7" : 1120780
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494962955,
+          "lngE7" : 1122533,
+          "timestampMs" : "1527246276971",
+          "accuracyMeters" : 40
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494967147,
+        "longitudeE7" : 1121607,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494959192,
+        "longitudeE7" : 1116195,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1527247616248",
+        "endTimestampMs" : "1527313859213"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494967090,
+          "lngE7" : 1121688,
+          "timestampMs" : "1527255443580",
+          "accuracyMeters" : 13
+        }, {
+          "latE7" : 494970961,
+          "lngE7" : 1113322,
+          "timestampMs" : "1527270207328",
+          "accuracyMeters" : 31
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494959192,
+        "longitudeE7" : 1116195,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494963755,
+        "longitudeE7" : 1145677,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1527313859213",
+        "endTimestampMs" : "1527313982297"
+      },
+      "distance" : 179,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 96.90743122251683
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 2.47014731142919
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.20269282439197028
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494960327,
+          "lngE7" : 1122737
+        }, {
+          "latE7" : 494952507,
+          "lngE7" : 1131561
+        }, {
+          "latE7" : 494964523,
+          "lngE7" : 1151179
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494967428,
+          "lngE7" : 1122942,
+          "timestampMs" : "1527313859213",
+          "accuracyMeters" : 14
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494963755,
+        "longitudeE7" : 1145677,
+        "placeId" : "ChIJ5_0dmhkv4EcR0xm3OQ1IJDc",
+        "address" : "2 Rue Jean Paul Sartre\n76600 Le Havre\nFrance",
+        "name" : "School François-Ier",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 91.29228
+      },
+      "duration" : {
+        "startTimestampMs" : "1527313982297",
+        "endTimestampMs" : "1527327003011"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 494958155,
+      "centerLngE7" : 1139173,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494940504,
+        "longitudeE7" : 1133653,
+        "placeId" : "ChIJgVDaFBkv4EcR7awGqYhtM6Y",
+        "name" : "Uhart Danielle",
+        "locationConfidence" : 0.24416782
+      }, {
+        "latitudeE7" : 494949820,
+        "longitudeE7" : 1126786,
+        "placeId" : "ChIJO5NzVhgv4EcRTKJkiJl1RTE",
+        "name" : "Mothe Elisabeth",
+        "locationConfidence" : 0.24248321
+      }, {
+        "latitudeE7" : 494977329,
+        "longitudeE7" : 1147522,
+        "placeId" : "ChIJ17wxQBAv4EcR-Lfx9aRQIuM",
+        "name" : "E.M.L.A Music",
+        "locationConfidence" : 0.2415165
+      }, {
+        "latitudeE7" : 494970398,
+        "longitudeE7" : 1123950,
+        "placeId" : "ChIJiwvK1hkv4EcR0ff1E-ydnRY",
+        "name" : "Les Fées d'Ongles",
+        "locationConfidence" : 0.23922426
+      }, {
+        "latitudeE7" : 494945840,
+        "longitudeE7" : 1131900,
+        "placeId" : "ChIJqZ-Cphkv4EcRk5f16UVqVnc",
+        "name" : "Domages Didier",
+        "locationConfidence" : 0.20161662
+      }, {
+        "latitudeE7" : 494976930,
+        "longitudeE7" : 1146350,
+        "placeId" : "ChIJBXaEVBcv4EcRAecyBrsoEUE",
+        "name" : "Mercerie Claude",
+        "locationConfidence" : 0.17272441
+      }, {
+        "latitudeE7" : 494970191,
+        "longitudeE7" : 1122332,
+        "placeId" : "ChIJe9p30xkv4EcRqIQ31tqFZmM",
+        "name" : "Espace Fruits - Geneviève Bellet Meilleur Ouvrier de France Primeur",
+        "locationConfidence" : 0.16138521
+      }, {
+        "latitudeE7" : 494957415,
+        "longitudeE7" : 1127589,
+        "placeId" : "ChIJYw8mqxkv4EcRn3BLA9pBtI0",
+        "name" : "Benoit Béchet Pédicure Podologue SELARL",
+        "locationConfidence" : 0.15374266
+      }, {
+        "latitudeE7" : 494945840,
+        "longitudeE7" : 1131900,
+        "placeId" : "ChIJqZ-Cphkv4EcR5EFXvm04TVE",
+        "name" : "Vahé Hubert",
+        "locationConfidence" : 0.15062739
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494952427,
+        "longitudeE7" : 1129314,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494959192,
+        "longitudeE7" : 1116195,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1527327003011",
+        "endTimestampMs" : "1527327248262"
+      },
+      "distance" : 150,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 97.19675127355684
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 2.4127616341193545
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.11179767955137922
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494952201,
+          "lngE7" : 1129195
+        }, {
+          "latE7" : 494953956,
+          "lngE7" : 1127235
+        }, {
+          "latE7" : 494960327,
+          "lngE7" : 1122737
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494952427,
+          "lngE7" : 1129314,
+          "timestampMs" : "1527327003011",
+          "accuracyMeters" : 14
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494959192,
+        "longitudeE7" : 1116195,
+        "placeId" : "ChIJJZ6KOBgv4EcRhNSXBdHBlHk",
+        "address" : "22 Rue Casimir Périer\n76600 Le Havre\nFrance",
+        "name" : "COTY",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 89.26818
+      },
+      "duration" : {
+        "startTimestampMs" : "1527327248262",
+        "endTimestampMs" : "1527331922111"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 494969459,
+          "longitudeE7" : 1115814,
+          "placeId" : "ChIJhzaW1SMv4EcR0cMd37lHPDg",
+          "address" : "Centre commercial Coty\nAv. René Coty\n76600 Le Havre\nFrance",
+          "name" : "McDonald's",
+          "sourceInfo" : {
+            "deviceTag" : 179057369
+          },
+          "locationConfidence" : 75.64301
+        },
+        "duration" : {
+          "startTimestampMs" : "1527327851319",
+          "endTimestampMs" : "1527329651857"
+        },
+        "placeConfidence" : "HIGH_CONFIDENCE",
+        "centerLatE7" : 494969743,
+        "centerLngE7" : 1114485,
+        "visitConfidence" : 93,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 494959192,
+          "longitudeE7" : 1116195,
+          "placeId" : "ChIJJZ6KOBgv4EcRhNSXBdHBlHk",
+          "name" : "Espace Coty",
+          "locationConfidence" : 4.7683735
+        }, {
+          "latitudeE7" : 494959760,
+          "longitudeE7" : 1113569,
+          "placeId" : "ChIJV64aWxgv4EcRGt47Ui9WNig",
+          "name" : "Kaporal",
+          "locationConfidence" : 2.8203354
+        }, {
+          "latitudeE7" : 494967323,
+          "longitudeE7" : 1114030,
+          "placeId" : "ChIJyyp3WBgv4EcRFXIS-nb6CeQ",
+          "name" : "Promod",
+          "locationConfidence" : 2.6427865
+        }, {
+          "latitudeE7" : 494956648,
+          "longitudeE7" : 1107826,
+          "placeId" : "ChIJSRz2qTou4EcRnFgIDN-N-Bk",
+          "name" : "Bonobo",
+          "locationConfidence" : 1.1263309
+        }, {
+          "latitudeE7" : 494960400,
+          "longitudeE7" : 1116500,
+          "placeId" : "ChIJqchoeiEv4EcReBoNOPumNos",
+          "locationConfidence" : 0.53104514
+        }, {
+          "latitudeE7" : 494959884,
+          "longitudeE7" : 1115692,
+          "placeId" : "ChIJNepVSBgv4EcRdkyTZW4lU2Y",
+          "name" : "Trois Par 3",
+          "locationConfidence" : 0.28108808
+        }, {
+          "latitudeE7" : 494965229,
+          "longitudeE7" : 1117921,
+          "placeId" : "ChIJw2KTMxgv4EcRCJ1BZyjGbwg",
+          "name" : "Jeff de Bruges",
+          "locationConfidence" : 0.24349563
+        }, {
+          "latitudeE7" : 494973638,
+          "longitudeE7" : 1120975,
+          "placeId" : "ChIJeczZ1Bkv4EcRE5Qvul1anx0",
+          "name" : "Camille Albane",
+          "locationConfidence" : 0.18174492
+        }, {
+          "latitudeE7" : 494965829,
+          "longitudeE7" : 1117551,
+          "placeId" : "ChIJZ9GHXBgv4EcR5mw9rPSOIBg",
+          "name" : "Bijou Brigitte",
+          "locationConfidence" : 0.1740878
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      }, {
+        "location" : {
+          "latitudeE7" : 494968170,
+          "longitudeE7" : 1118210,
+          "placeId" : "ChIJieG-K2ww4EcRkBKKF1Pq-08",
+          "address" : "67 Rue Maréchal Gallieni\n76600 Le Havre\nFrance",
+          "name" : "Vanessa DUMONT",
+          "sourceInfo" : {
+            "deviceTag" : 179057369
+          },
+          "locationConfidence" : 70.3674
+        },
+        "duration" : {
+          "startTimestampMs" : "1527329960306",
+          "endTimestampMs" : "1527330991055"
+        },
+        "placeConfidence" : "HIGH_CONFIDENCE",
+        "centerLatE7" : 494967221,
+        "centerLngE7" : 1121510,
+        "visitConfidence" : 93,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 494969011,
+          "longitudeE7" : 1120649,
+          "placeId" : "ChIJY9PT0hkv4EcRSNo0tXwlhjs",
+          "name" : "Pause Coiffure",
+          "locationConfidence" : 6.6487985
+        }, {
+          "latitudeE7" : 494965304,
+          "longitudeE7" : 1122577,
+          "placeId" : "ChIJWwuFLBgv4EcRrDdLYQxZLWc",
+          "name" : "Monsieur Doudou",
+          "locationConfidence" : 5.0474024
+        }, {
+          "latitudeE7" : 494964731,
+          "longitudeE7" : 1123211,
+          "placeId" : "ChIJKZ3hzBkv4EcR816TM5wvIyY",
+          "name" : "Any d'Avray",
+          "locationConfidence" : 3.4945045
+        }, {
+          "latitudeE7" : 494968165,
+          "longitudeE7" : 1118207,
+          "placeId" : "ChIJn3KKyxkv4EcRP0IadfLnwik",
+          "name" : "Au 'Coty llon'",
+          "locationConfidence" : 3.1549385
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      }, {
+        "location" : {
+          "latitudeE7" : 494966242,
+          "longitudeE7" : 1111778,
+          "placeId" : "ChIJC7cUIxgv4EcRrdUHI3ByBHw",
+          "address" : "38 Rue André Caplet, 76600 Le Havre, France",
+          "name" : "CIC",
+          "sourceInfo" : {
+            "deviceTag" : 179057369
+          },
+          "locationConfidence" : 89.266975
+        },
+        "duration" : {
+          "startTimestampMs" : "1527331122313",
+          "endTimestampMs" : "1527331922111"
+        },
+        "placeConfidence" : "HIGH_CONFIDENCE",
+        "centerLatE7" : 494971448,
+        "centerLngE7" : 1115093,
+        "visitConfidence" : 93,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 494970648,
+          "longitudeE7" : 1110971,
+          "placeId" : "ChIJhegYJBgv4EcRlKdaIEreGfE",
+          "name" : "Station Taxis Thiers",
+          "locationConfidence" : 3.290978E-6
+        }, {
+          "latitudeE7" : 494972613,
+          "longitudeE7" : 1108019,
+          "placeId" : "ChIJT5oCIRgv4EcRL7YkToAHpZo",
+          "name" : "Mauger Pascal",
+          "locationConfidence" : 3.2526173E-6
+        }, {
+          "latitudeE7" : 494980245,
+          "longitudeE7" : 1112156,
+          "placeId" : "ChIJtUDEjxcv4EcRKSAfl4dnoDI",
+          "name" : "Lebourg Alain",
+          "locationConfidence" : 3.0706676E-6
+        }, {
+          "latitudeE7" : 494967207,
+          "longitudeE7" : 1110474,
+          "placeId" : "ChIJdTGhPBgv4EcRYKoLPVyrb00",
+          "name" : "Album Coty",
+          "locationConfidence" : 2.7627495E-6
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 494968025,
+      "centerLngE7" : 1117010,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494970398,
+        "longitudeE7" : 1123950,
+        "placeId" : "ChIJiwvK1hkv4EcR0ff1E-ydnRY",
+        "name" : "Les Fées d'Ongles",
+        "locationConfidence" : 0.3129927
+      }, {
+        "latitudeE7" : 494966770,
+        "longitudeE7" : 1102400,
+        "placeId" : "ChIJZXYYCRgv4EcR8X02Zebajmw",
+        "name" : "PHOTOPIX",
+        "locationConfidence" : 0.27561703
+      }, {
+        "latitudeE7" : 494947293,
+        "longitudeE7" : 1097578,
+        "placeId" : "ChIJ1bTrgRgv4EcRn3lrhZNtpfI",
+        "name" : "Optic 2000",
+        "locationConfidence" : 0.2647106
+      }, {
+        "latitudeE7" : 494952267,
+        "longitudeE7" : 1098686,
+        "placeId" : "ChIJn2FFvRAv4EcRSfwTemvJZLI",
+        "name" : "Optical City",
+        "locationConfidence" : 0.24744827
+      }, {
+        "latitudeE7" : 494976930,
+        "longitudeE7" : 1146350,
+        "placeId" : "ChIJBXaEVBcv4EcRAecyBrsoEUE",
+        "name" : "Mercerie Claude",
+        "locationConfidence" : 0.23684213
+      }, {
+        "latitudeE7" : 494969762,
+        "longitudeE7" : 1107785,
+        "placeId" : "ChIJubTrIhgv4EcRSg8EgV4nHa0",
+        "name" : "Un monde de saveurs",
+        "locationConfidence" : 0.23123708
+      }, {
+        "latitudeE7" : 494977329,
+        "longitudeE7" : 1147522,
+        "placeId" : "ChIJ17wxQBAv4EcR-Lfx9aRQIuM",
+        "name" : "E.M.L.A Music",
+        "locationConfidence" : 0.2300901
+      }, {
+        "latitudeE7" : 494974243,
+        "longitudeE7" : 1135043,
+        "placeId" : "ChIJ7TX6Xxcv4EcRLoYD4gBm24E",
+        "name" : "SHOPCLOP LE HAVRE",
+        "locationConfidence" : 0.22548212
+      }, {
+        "latitudeE7" : 494974364,
+        "longitudeE7" : 1125470,
+        "placeId" : "ChIJle2wfRcv4EcRF-VhMYLCbUw",
+        "name" : "Mac Bab's",
+        "locationConfidence" : 0.21820207
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494961498,
+          "lngE7" : 1118392,
+          "timestampMs" : "1527327611226",
+          "accuracyMeters" : 52
+        }, {
+          "latE7" : 494968248,
+          "lngE7" : 1120397,
+          "timestampMs" : "1527327731215",
+          "accuracyMeters" : 14
+        }, {
+          "latE7" : 494971336,
+          "lngE7" : 1114053,
+          "timestampMs" : "1527327851319",
+          "accuracyMeters" : 31
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494957613,
+        "longitudeE7" : 1123819,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494935830,
+        "longitudeE7" : 1162649,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1527700399590",
+        "endTimestampMs" : "1527715195668"
+      },
+      "distance" : 1150,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 93.9420836174793
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 4.493365459078246
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.7783343888639638
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494957542,
+          "lngE7" : 1124024
+        }, {
+          "latE7" : 494948883,
+          "lngE7" : 1132825
+        }, {
+          "latE7" : 494935836,
+          "lngE7" : 1162715
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494944253,
+          "lngE7" : 1136822,
+          "timestampMs" : "1527700525381",
+          "accuracyMeters" : 14
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

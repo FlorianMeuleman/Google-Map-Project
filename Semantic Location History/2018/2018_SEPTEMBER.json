@@ -1,0 +1,58 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494942484,
+        "longitudeE7" : 1139879,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494925759,
+        "longitudeE7" : 1167465,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1537280208377",
+        "endTimestampMs" : "1537280451000"
+      },
+      "distance" : 329,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 97.21639047606475
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 1.3099297313789644
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 1.1442486257949338
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494942283,
+          "lngE7" : 1139459
+        }, {
+          "latE7" : 494930000,
+          "lngE7" : 1143838
+        }, {
+          "latE7" : 494925689,
+          "lngE7" : 1168038
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494930263,
+          "lngE7" : 1145326,
+          "timestampMs" : "1537280313000",
+          "accuracyMeters" : 10
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

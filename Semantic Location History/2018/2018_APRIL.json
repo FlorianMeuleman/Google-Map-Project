@@ -1,0 +1,217 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494152245,
+        "longitudeE7" : 10460593,
+        "placeId" : "ChIJxeVz5JHg4EcRVRMsMnCkeio",
+        "address" : "49 Av. Général Leclerc\n76120 Le Grand-Quevilly\nFrance",
+        "name" : "KFC",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 80.4114
+      },
+      "duration" : {
+        "startTimestampMs" : "1524833912141",
+        "endTimestampMs" : "1524834764205"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 494158350,
+      "centerLngE7" : 10455550,
+      "visitConfidence" : 86,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494141679,
+        "longitudeE7" : 10476624,
+        "placeId" : "ChIJ83b7jZvg4EcRnS3rpWrNGjA",
+        "name" : "Grand Frais",
+        "locationConfidence" : 7.548239
+      }, {
+        "latitudeE7" : 494173949,
+        "longitudeE7" : 10421992,
+        "placeId" : "ChIJYffNL5fg4EcRgByn_ixIn7M",
+        "name" : "Centre Sud 3",
+        "locationConfidence" : 4.6357837
+      }, {
+        "latitudeE7" : 494146536,
+        "longitudeE7" : 10452556,
+        "placeId" : "ChIJfYdxwZjg4EcRGl_yU5JHEck",
+        "name" : "McDonald's",
+        "locationConfidence" : 4.070693
+      }, {
+        "latitudeE7" : 494144287,
+        "longitudeE7" : 10469053,
+        "placeId" : "ChIJV8TQC5rg4EcRWI4HBkRpQkg",
+        "locationConfidence" : 2.323032
+      }, {
+        "latitudeE7" : 494155249,
+        "longitudeE7" : 10462616,
+        "placeId" : "ChIJQQe76vTg4EcRTkAVPBN6cl0",
+        "name" : "Ristorante Del Arte",
+        "locationConfidence" : 0.3490938
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494134804,
+        "longitudeE7" : 10466898,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494370065,
+        "longitudeE7" : 10865340,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1524839733519",
+        "endTimestampMs" : "1524841062196"
+      },
+      "distance" : 4148,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 94.47825341414203
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.924502261086055
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.6987145720231265
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494137306,
+          "lngE7" : 10467480
+        }, {
+          "latE7" : 494346351,
+          "lngE7" : 10720883
+        }, {
+          "latE7" : 494370422,
+          "lngE7" : 10865559
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494345132,
+          "lngE7" : 10747689,
+          "timestampMs" : "1524840573546",
+          "accuracyMeters" : 17
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494370065,
+        "longitudeE7" : 10865340,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494370374,
+        "longitudeE7" : 10868688,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1524841062196",
+        "endTimestampMs" : "1524841750193"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494388055,
+          "lngE7" : 10870134,
+          "timestampMs" : "1524841181345",
+          "accuracyMeters" : 300
+        }, {
+          "latE7" : 494379535,
+          "lngE7" : 10932550,
+          "timestampMs" : "1524841314653",
+          "accuracyMeters" : 104
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494370374,
+        "longitudeE7" : 10868688,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494891805,
+        "longitudeE7" : 5825042,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1524841750193",
+        "endTimestampMs" : "1524846154720"
+      },
+      "distance" : 40562,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 96.036251830742
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.392725565618429
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.9742258289300656
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494370422,
+          "lngE7" : 10868724
+        }, {
+          "latE7" : 494408340,
+          "lngE7" : 10814822
+        }, {
+          "latE7" : 494464569,
+          "lngE7" : 10707055
+        }, {
+          "latE7" : 494837799,
+          "lngE7" : 10148032
+        }, {
+          "latE7" : 494794654,
+          "lngE7" : 8103973
+        }, {
+          "latE7" : 494965515,
+          "lngE7" : 7952463
+        }, {
+          "latE7" : 494892082,
+          "lngE7" : 5824303
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494465205,
+          "lngE7" : 10707748,
+          "timestampMs" : "1524842257457",
+          "accuracyMeters" : 32
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

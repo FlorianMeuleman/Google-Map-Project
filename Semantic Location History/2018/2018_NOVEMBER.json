@@ -1,0 +1,635 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494939091,
+        "longitudeE7" : 961496,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 495089010,
+        "longitudeE7" : 1363235,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1541082002268",
+        "endTimestampMs" : "1541082852000"
+      },
+      "distance" : 3890,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 50.235122223798164
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 23.41288576614503
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 15.462754681806711
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494939041,
+          "lngE7" : 961443
+        }, {
+          "latE7" : 494925155,
+          "lngE7" : 1182517
+        }, {
+          "latE7" : 495088729,
+          "lngE7" : 1361982
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494926376,
+          "lngE7" : 1182774,
+          "timestampMs" : "1541082378000",
+          "accuracyMeters" : 4
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494967346,
+        "longitudeE7" : 1121106,
+        "placeId" : "ChIJl3b0zRkv4EcRZVZEJUgMz9I",
+        "address" : "74 Rue Maréchal Gallieni\n76600 Le Havre\nFrance",
+        "name" : "74 Rue Maréchal Gallieni",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 57.982433
+      },
+      "duration" : {
+        "startTimestampMs" : "1542391089028",
+        "endTimestampMs" : "1542391510294"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 494967059,
+      "centerLngE7" : 1121271,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494959764,
+        "longitudeE7" : 1114567,
+        "placeId" : "ChIJJZ6KOBgv4EcRhNSXBdHBlHk",
+        "locationConfidence" : 10.04087
+      }, {
+        "latitudeE7" : 494970398,
+        "longitudeE7" : 1123950,
+        "placeId" : "ChIJiwvK1hkv4EcR0ff1E-ydnRY",
+        "locationConfidence" : 0.8993554
+      }, {
+        "latitudeE7" : 494970191,
+        "longitudeE7" : 1122332,
+        "placeId" : "ChIJe9p30xkv4EcRqIQ31tqFZmM",
+        "locationConfidence" : 0.81862724
+      }, {
+        "latitudeE7" : 494969762,
+        "longitudeE7" : 1107785,
+        "placeId" : "ChIJubTrIhgv4EcRSg8EgV4nHa0",
+        "locationConfidence" : 0.5427413
+      }, {
+        "latitudeE7" : 494974830,
+        "longitudeE7" : 1128120,
+        "placeId" : "ChIJDQ6WYhcv4EcR4leMearhPXU",
+        "locationConfidence" : 0.53127927
+      }, {
+        "latitudeE7" : 494974364,
+        "longitudeE7" : 1125470,
+        "placeId" : "ChIJle2wfRcv4EcRF-VhMYLCbUw",
+        "locationConfidence" : 0.5222094
+      }, {
+        "latitudeE7" : 494972672,
+        "longitudeE7" : 1119591,
+        "placeId" : "ChIJC4zYUxcv4EcRkr9JYsDkjCI",
+        "locationConfidence" : 0.5172013
+      }, {
+        "latitudeE7" : 494974243,
+        "longitudeE7" : 1135043,
+        "placeId" : "ChIJ7TX6Xxcv4EcRLoYD4gBm24E",
+        "locationConfidence" : 0.5101243
+      }, {
+        "latitudeE7" : 494972613,
+        "longitudeE7" : 1108019,
+        "placeId" : "ChIJT5oCIRgv4EcRL7YkToAHpZo",
+        "locationConfidence" : 0.5064915
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494958576,
+        "longitudeE7" : 1124537,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494916502,
+        "longitudeE7" : 1057979,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1542391510294",
+        "endTimestampMs" : "1542392122729"
+      },
+      "distance" : 843,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 96.18928081624848
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 2.0279741501921418
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 1.1940357636253847
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494958457,
+          "lngE7" : 1125067
+        }, {
+          "latE7" : 494949188,
+          "lngE7" : 1114095
+        }, {
+          "latE7" : 494917640,
+          "lngE7" : 1058067
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494949355,
+          "lngE7" : 1114619,
+          "timestampMs" : "1542391631777",
+          "accuracyMeters" : 22
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494916502,
+        "longitudeE7" : 1057979,
+        "placeId" : "ChIJnfNLZSEv4EcRei-JSH0qRhI",
+        "address" : "98 Rue Victor Hugo\n76600 Le Havre\nFrance",
+        "name" : "Pizzeria Le Central",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 56.061783
+      },
+      "duration" : {
+        "startTimestampMs" : "1542392122729",
+        "endTimestampMs" : "1542396181925"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 494917544,
+      "centerLngE7" : 1056916,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494918524,
+        "longitudeE7" : 1054856,
+        "placeId" : "ChIJ18DWZSEv4EcRYHrVsWX-mn8",
+        "locationConfidence" : 5.696347
+      }, {
+        "latitudeE7" : 494919673,
+        "longitudeE7" : 1059986,
+        "placeId" : "ChIJd_Sx30ov4EcRw0_eQYDDr1Y",
+        "locationConfidence" : 4.1486154
+      }, {
+        "latitudeE7" : 494918319,
+        "longitudeE7" : 1053771,
+        "placeId" : "ChIJY2iWZyEv4EcRfc4L8ws-FIg",
+        "locationConfidence" : 3.123251
+      }, {
+        "latitudeE7" : 494916051,
+        "longitudeE7" : 1075793,
+        "placeId" : "ChIJGTRAQiAv4EcRP4UpmgYcM0w",
+        "locationConfidence" : 0.37050194
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494919487,
+        "longitudeE7" : 1052739,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494967346,
+        "longitudeE7" : 1121106,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1542396181925",
+        "endTimestampMs" : "1542396798094"
+      },
+      "distance" : 839,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 97.54398943818263
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 1.0032748038906933
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.9515688278594343
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494919471,
+          "lngE7" : 1052581
+        }, {
+          "latE7" : 494967575,
+          "lngE7" : 1105147
+        }, {
+          "latE7" : 494967231,
+          "lngE7" : 1120638
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494950586,
+          "lngE7" : 1118891,
+          "timestampMs" : "1542396678130",
+          "accuracyMeters" : 15
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494967346,
+        "longitudeE7" : 1121106,
+        "placeId" : "ChIJl3b0zRkv4EcRZVZEJUgMz9I",
+        "address" : "74 Rue Maréchal Gallieni\n76600 Le Havre\nFrance",
+        "name" : "74 Rue Maréchal Gallieni",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 66.12296
+      },
+      "duration" : {
+        "startTimestampMs" : "1542396798094",
+        "endTimestampMs" : "1542400803193"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 494967528,
+      "centerLngE7" : 1121489,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494959764,
+        "longitudeE7" : 1114567,
+        "placeId" : "ChIJJZ6KOBgv4EcRhNSXBdHBlHk",
+        "locationConfidence" : 6.617283
+      }, {
+        "latitudeE7" : 494970398,
+        "longitudeE7" : 1123950,
+        "placeId" : "ChIJiwvK1hkv4EcR0ff1E-ydnRY",
+        "locationConfidence" : 0.86528796
+      }, {
+        "latitudeE7" : 494974364,
+        "longitudeE7" : 1125470,
+        "placeId" : "ChIJle2wfRcv4EcRF-VhMYLCbUw",
+        "locationConfidence" : 0.6186436
+      }, {
+        "latitudeE7" : 494969762,
+        "longitudeE7" : 1107785,
+        "placeId" : "ChIJubTrIhgv4EcRSg8EgV4nHa0",
+        "locationConfidence" : 0.45058018
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494933370,
+        "longitudeE7" : 1144424,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 495115551,
+        "longitudeE7" : 1967214,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1542458816310",
+        "endTimestampMs" : "1542466023000"
+      },
+      "distance" : 9861,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 52.057416500416664
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 42.72839695744388
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 3.4856726398053435
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494933357,
+          "lngE7" : 1144208
+        }, {
+          "latE7" : 495124626,
+          "lngE7" : 1508712
+        }, {
+          "latE7" : 495201072,
+          "lngE7" : 1589848
+        }, {
+          "latE7" : 495238189,
+          "lngE7" : 1662980
+        }, {
+          "latE7" : 495115509,
+          "lngE7" : 1967193
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 495115023,
+          "lngE7" : 1448460,
+          "timestampMs" : "1542465571000",
+          "accuracyMeters" : 8
+        }, {
+          "latE7" : 495200964,
+          "lngE7" : 1590067,
+          "timestampMs" : "1542465742000",
+          "accuracyMeters" : 3
+        }, {
+          "latE7" : 495237183,
+          "lngE7" : 1671540,
+          "timestampMs" : "1542465821000",
+          "accuracyMeters" : 5
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1542466007000",
+        "location" : {
+          "latitudeE7" : 495116574,
+          "longitudeE7" : 1964078,
+          "accuracyMetres" : 63
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 495085966,
+        "longitudeE7" : 1977803,
+        "placeId" : "ChIJuRmRt2ow4EcRb6VQ73UFG54",
+        "address" : "Imp. de la Forge\n76700 Harfleur\nFrance",
+        "name" : "Recycling Center Harfleur",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 38.27677
+      },
+      "duration" : {
+        "startTimestampMs" : "1542466023000",
+        "endTimestampMs" : "1542468368998"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 495106608,
+      "centerLngE7" : 1975381,
+      "visitConfidence" : 75,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 495099474,
+        "longitudeE7" : 2002913,
+        "placeId" : "ChIJUyYnU2ow4EcR9Dkj1qjvtno",
+        "locationConfidence" : 20.416502
+      }, {
+        "latitudeE7" : 495109291,
+        "longitudeE7" : 1998133,
+        "placeId" : "ChIJtR6FdWsw4EcR-e_OqW9UFd8",
+        "locationConfidence" : 15.789541
+      }, {
+        "latitudeE7" : 495075383,
+        "longitudeE7" : 2003299,
+        "placeId" : "ChIJ603rdGow4EcRQpApIrgLjgo",
+        "locationConfidence" : 4.2584696
+      }, {
+        "latitudeE7" : 495202093,
+        "longitudeE7" : 1916035,
+        "placeId" : "ChIJdQcAi0Aw4EcRfubcrR7K5JQ",
+        "locationConfidence" : 3.4056127
+      }, {
+        "latitudeE7" : 495077163,
+        "longitudeE7" : 1988456,
+        "placeId" : "ChIJQ3Wvm2ow4EcR65n4rEpGpnY",
+        "locationConfidence" : 2.4314601
+      }, {
+        "latitudeE7" : 495227512,
+        "longitudeE7" : 1916035,
+        "placeId" : "ChIJueTanQ4w4EcR4tXe8rz0EeQ",
+        "locationConfidence" : 2.145553
+      }, {
+        "latitudeE7" : 495070577,
+        "longitudeE7" : 1996452,
+        "placeId" : "ChIJjWfhLUAw4EcRMF4csZaRbJY",
+        "locationConfidence" : 1.9425755
+      }, {
+        "latitudeE7" : 495071276,
+        "longitudeE7" : 1984902,
+        "placeId" : "ChIJh8YjIkAw4EcRf5WubnmutN0",
+        "locationConfidence" : 1.5981773
+      }, {
+        "latitudeE7" : 495201456,
+        "longitudeE7" : 2218504,
+        "placeId" : "ChIJ4xjhOIYw4EcRqxKM2DX-MrM",
+        "locationConfidence" : 1.1395574
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 495095321,
+        "longitudeE7" : 1975144,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 495068512,
+        "longitudeE7" : 1959474,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1542468368998",
+        "endTimestampMs" : "1542468618550"
+      },
+      "distance" : 318,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 64.49631687417401
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 33.429509097121354
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.0252052447062625
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 495095214,
+          "lngE7" : 1975578
+        }, {
+          "latE7" : 495036544,
+          "lngE7" : 1925936
+        }, {
+          "latE7" : 495070343,
+          "lngE7" : 1955170
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1542468761977",
+        "location" : {
+          "latitudeE7" : 495068512,
+          "longitudeE7" : 1959474,
+          "accuracyMetres" : 137
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 495058914,
+        "longitudeE7" : 1989044,
+        "placeId" : "ChIJwxyMRGsw4EcR1DjqlmgLWQQ",
+        "address" : "6 Rue Jehan de Grouchy\n76700 Harfleur\nFrance",
+        "name" : "Carrefour City",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 52.60492
+      },
+      "duration" : {
+        "startTimestampMs" : "1542468618550",
+        "endTimestampMs" : "1542472752640"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 495067163,
+      "centerLngE7" : 1957669,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 495064486,
+        "longitudeE7" : 1973437,
+        "placeId" : "ChIJ12PjC0Aw4EcRMyWQ_ZQiwMI",
+        "locationConfidence" : 3.8042197
+      }, {
+        "latitudeE7" : 495065240,
+        "longitudeE7" : 1991039,
+        "placeId" : "ChIJvwrLOUAw4EcRWoeIBqIMXck",
+        "locationConfidence" : 3.0175595
+      }, {
+        "latitudeE7" : 495064396,
+        "longitudeE7" : 1984526,
+        "placeId" : "ChIJMaJqPkAw4EcRr4p-b7ZLgOs",
+        "locationConfidence" : 2.9898922
+      }, {
+        "latitudeE7" : 495059455,
+        "longitudeE7" : 1983541,
+        "placeId" : "ChIJy5w_aUAw4EcRP4dUu8lzI9Q",
+        "locationConfidence" : 2.8662984
+      }, {
+        "latitudeE7" : 495060175,
+        "longitudeE7" : 1988754,
+        "placeId" : "ChIJ84HXR0Aw4EcR3tbWf5Jabsc",
+        "locationConfidence" : 2.777323
+      }, {
+        "latitudeE7" : 495060668,
+        "longitudeE7" : 1984803,
+        "placeId" : "ChIJmYizOEAw4EcRRqcEhenwzxg",
+        "locationConfidence" : 2.6652856
+      }, {
+        "latitudeE7" : 495071276,
+        "longitudeE7" : 1984902,
+        "placeId" : "ChIJh8YjIkAw4EcRf5WubnmutN0",
+        "locationConfidence" : 2.248955
+      }, {
+        "latitudeE7" : 495071179,
+        "longitudeE7" : 1983139,
+        "placeId" : "ChIJgz2oGEAw4EcRa35boLdZuo0",
+        "locationConfidence" : 2.1803606
+      }, {
+        "latitudeE7" : 495063346,
+        "longitudeE7" : 1991269,
+        "placeId" : "ChIJiwf0OEAw4EcRKN0Grn4LfK8",
+        "locationConfidence" : 1.2633494
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494967839,
+        "longitudeE7" : 1121309,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494997576,
+        "longitudeE7" : 1672663,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1543599880519",
+        "endTimestampMs" : "1543668860000"
+      },
+      "distance" : 3995,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 82.73101942307986
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 10.791101624447737
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 3.8452922134440173
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494967689,
+          "lngE7" : 1120397
+        }, {
+          "latE7" : 495103454,
+          "lngE7" : 5758097
+        } ]
+      }
+    }
+  } ]
+}

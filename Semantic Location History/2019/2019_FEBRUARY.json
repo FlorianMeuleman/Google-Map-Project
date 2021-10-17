@@ -1,0 +1,1388 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494967346,
+        "longitudeE7" : 1121106,
+        "placeId" : "ChIJl3b0zRkv4EcRZVZEJUgMz9I",
+        "address" : "74 Rue Maréchal Gallieni\n76600 Le Havre\nFrance",
+        "name" : "74 Rue Maréchal Gallieni",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 72.26485
+      },
+      "duration" : {
+        "startTimestampMs" : "1549642858403",
+        "endTimestampMs" : "1549648774509"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 494967485,
+      "centerLngE7" : 1121376,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494959764,
+        "longitudeE7" : 1114567,
+        "placeId" : "ChIJJZ6KOBgv4EcRhNSXBdHBlHk",
+        "locationConfidence" : 6.3380823
+      }, {
+        "latitudeE7" : 494974132,
+        "longitudeE7" : 1134370,
+        "placeId" : "ChIJD834Xxcv4EcR-mhy8F2y5Y4",
+        "locationConfidence" : 0.4707714
+      }, {
+        "latitudeE7" : 494970398,
+        "longitudeE7" : 1123950,
+        "placeId" : "ChIJiwvK1hkv4EcR0ff1E-ydnRY",
+        "locationConfidence" : 0.46323764
+      }, {
+        "latitudeE7" : 494974364,
+        "longitudeE7" : 1125470,
+        "placeId" : "ChIJle2wfRcv4EcRF-VhMYLCbUw",
+        "locationConfidence" : 0.4478292
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494967346,
+        "longitudeE7" : 1121106
+      },
+      "endLocation" : {
+        "latitudeE7" : 494916502,
+        "longitudeE7" : 1057979
+      },
+      "duration" : {
+        "startTimestampMs" : "1549648774509",
+        "endTimestampMs" : "1549649376074"
+      },
+      "distance" : 726,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 54.92259516321547
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 31.18697149293545
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 12.724471377169378
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494959106,
+          "lngE7" : 1124174
+        }, {
+          "latE7" : 494943542,
+          "lngE7" : 1093769
+        }, {
+          "latE7" : 494917640,
+          "lngE7" : 1058067
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494951266,
+          "lngE7" : 1111135,
+          "timestampMs" : "1549648894886",
+          "accuracyMeters" : 29
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494916502,
+        "longitudeE7" : 1057979,
+        "placeId" : "ChIJnfNLZSEv4EcRei-JSH0qRhI",
+        "address" : "98 Rue Victor Hugo\n76600 Le Havre\nFrance",
+        "name" : "Pizzeria Le Central",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 72.50017
+      },
+      "duration" : {
+        "startTimestampMs" : "1549649376074",
+        "endTimestampMs" : "1549655662052"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 494917447,
+      "centerLngE7" : 1057863,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494919673,
+        "longitudeE7" : 1059986,
+        "placeId" : "ChIJd_Sx30ov4EcRw0_eQYDDr1Y",
+        "locationConfidence" : 6.137012
+      }, {
+        "latitudeE7" : 494918524,
+        "longitudeE7" : 1054856,
+        "placeId" : "ChIJ18DWZSEv4EcRYHrVsWX-mn8",
+        "locationConfidence" : 2.1451871
+      }, {
+        "latitudeE7" : 494918881,
+        "longitudeE7" : 1057419,
+        "placeId" : "ChIJJSwVZSEv4EcRUkM7YExQOck",
+        "locationConfidence" : 1.03716
+      }, {
+        "latitudeE7" : 494914721,
+        "longitudeE7" : 1060124,
+        "placeId" : "ChIJRTVKZSEv4EcRnnxkTnZQiXE",
+        "locationConfidence" : 0.4325663
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494917447,
+        "longitudeE7" : 1057863
+      },
+      "endLocation" : {
+        "latitudeE7" : 494509890,
+        "longitudeE7" : 10579565,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1549655662052",
+        "endTimestampMs" : "1549976363515"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494922770,
+          "lngE7" : 1088594,
+          "timestampMs" : "1549655794987",
+          "accuracyMeters" : 15
+        }, {
+          "latE7" : 494944641,
+          "lngE7" : 1097941,
+          "timestampMs" : "1549656035075",
+          "accuracyMeters" : 35
+        }, {
+          "latE7" : 494951191,
+          "lngE7" : 1125245,
+          "timestampMs" : "1549656165082",
+          "accuracyMeters" : 16
+        }, {
+          "latE7" : 494965288,
+          "lngE7" : 1121589,
+          "timestampMs" : "1549656297397",
+          "accuracyMeters" : 14
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494509890,
+        "longitudeE7" : 10579565,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494681855,
+        "longitudeE7" : 11204318,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1549976363515",
+        "endTimestampMs" : "1549977715211"
+      },
+      "distance" : 6530,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 97.5360219774801
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.2003821329559603
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.6374944275619914
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494508285,
+          "lngE7" : 10578751
+        }, {
+          "latE7" : 494503898,
+          "lngE7" : 10580655
+        }, {
+          "latE7" : 494440307,
+          "lngE7" : 10718642
+        }, {
+          "latE7" : 494442405,
+          "lngE7" : 10855017
+        }, {
+          "latE7" : 494485893,
+          "lngE7" : 10996758
+        }, {
+          "latE7" : 494594917,
+          "lngE7" : 11091355
+        }, {
+          "latE7" : 494682464,
+          "lngE7" : 11203036
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494509890,
+          "lngE7" : 10579565,
+          "timestampMs" : "1549976363515",
+          "accuracyMeters" : 37
+        }, {
+          "latE7" : 494440793,
+          "lngE7" : 10716683,
+          "timestampMs" : "1549976584650",
+          "accuracyMeters" : 92
+        }, {
+          "latE7" : 494453662,
+          "lngE7" : 10861816,
+          "timestampMs" : "1549976855847",
+          "accuracyMeters" : 17
+        }, {
+          "latE7" : 494484752,
+          "lngE7" : 10995327,
+          "timestampMs" : "1549977226105",
+          "accuracyMeters" : 14
+        }, {
+          "latE7" : 494605550,
+          "lngE7" : 11103171,
+          "timestampMs" : "1549977481905",
+          "accuracyMeters" : 15
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1549977807390",
+        "location" : {
+          "latitudeE7" : 494681988,
+          "longitudeE7" : 11203947,
+          "accuracyMetres" : 75
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494692706,
+        "longitudeE7" : 11189813,
+        "placeId" : "ChIJmdJG9kTc4EcRJGjlBQ5tJKk",
+        "address" : "3181 Rte de Neufchâtel\n76230 Bois-Guillaume\nFrance",
+        "name" : "3181 Rte de Neufchâtel",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 48.048065
+      },
+      "duration" : {
+        "startTimestampMs" : "1549977715211",
+        "endTimestampMs" : "1549978878188"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 494682009,
+      "centerLngE7" : 11204727,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494682786,
+        "longitudeE7" : 11207385,
+        "placeId" : "ChIJNyIWdkTc4EcRTPqlzRAnLDI",
+        "locationConfidence" : 20.951471
+      }, {
+        "latitudeE7" : 494692487,
+        "longitudeE7" : 11189885,
+        "placeId" : "ChIJzcYUFkXc4EcRaBTcrQZ2oZQ",
+        "locationConfidence" : 12.6389
+      }, {
+        "latitudeE7" : 494680077,
+        "longitudeE7" : 11216022,
+        "placeId" : "ChIJqQOl8kPc4EcRpTnRWljAydc",
+        "locationConfidence" : 2.309843
+      }, {
+        "latitudeE7" : 494679936,
+        "longitudeE7" : 11203620,
+        "placeId" : "ChIJm45fYU3d4EcRpNL3330JGl8",
+        "locationConfidence" : 1.7307934
+      }, {
+        "latitudeE7" : 494698900,
+        "longitudeE7" : 11200200,
+        "placeId" : "ChIJERxJkETc4EcRv-a6LHLGnY4",
+        "locationConfidence" : 1.2613387
+      }, {
+        "latitudeE7" : 494697100,
+        "longitudeE7" : 11205690,
+        "placeId" : "ChIJb_ppg0Tc4EcRfco2OMso4QE",
+        "locationConfidence" : 1.1495469
+      }, {
+        "latitudeE7" : 494689427,
+        "longitudeE7" : 11191732,
+        "placeId" : "ChIJF_MbX0Tc4EcRdq68QTn_RFM",
+        "locationConfidence" : 0.6520954
+      }, {
+        "latitudeE7" : 494689074,
+        "longitudeE7" : 11191391,
+        "placeId" : "ChIJ0SKgWs7e4EcRSsSpQGK5COU",
+        "locationConfidence" : 0.5737105
+      }, {
+        "latitudeE7" : 494697152,
+        "longitudeE7" : 11199596,
+        "placeId" : "ChIJ8VImjkTc4EcRExnipdWjNBI",
+        "locationConfidence" : 0.4623363
+      }, {
+        "latitudeE7" : 494699200,
+        "longitudeE7" : 11199910,
+        "placeId" : "ChIJX7FSkETc4EcR6MXNBGUw8Z0",
+        "locationConfidence" : 0.45942882
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494679724,
+        "longitudeE7" : 11199836
+      },
+      "endLocation" : {
+        "latitudeE7" : 494489397,
+        "longitudeE7" : 9676155
+      },
+      "duration" : {
+        "startTimestampMs" : "1549978924541",
+        "endTimestampMs" : "1549987399698"
+      },
+      "distance" : 11214,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 91.72007829824818
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 4.84133418876735
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.5717870646288583
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494679679,
+          "lngE7" : 11199890
+        }, {
+          "latE7" : 494490280,
+          "lngE7" : 9676588
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494960970,
+        "longitudeE7" : 5818368,
+        "placeId" : "ChIJYx-hB_BQ4EcRBOaPtjHV4R4",
+        "address" : "11 Rue Roland Garros\n76330 Port-Jérôme-sur-Seine\nFrance",
+        "name" : "11 Rue Roland Garros",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 61.33496
+      },
+      "duration" : {
+        "startTimestampMs" : "1550313723000",
+        "endTimestampMs" : "1550328305312"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 494957445,
+      "centerLngE7" : 5816246,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494930176,
+        "longitudeE7" : 5805040,
+        "placeId" : "ChIJ6eClqvtQ4EcRMAwJVcMWfvM",
+        "locationConfidence" : 33.294853
+      }, {
+        "latitudeE7" : 494987913,
+        "longitudeE7" : 5812998,
+        "placeId" : "ChIJa9FSyvFQ4EcRzlR8S9ZxMGU",
+        "locationConfidence" : 3.2961545
+      }, {
+        "latitudeE7" : 494948368,
+        "longitudeE7" : 5797138,
+        "placeId" : "ChIJ80hq6vpQ4EcRYioyPIgQ85g",
+        "locationConfidence" : 0.6788947
+      }, {
+        "latitudeE7" : 494940000,
+        "longitudeE7" : 5786510,
+        "placeId" : "ChIJ-ysQT_pQ4EcR2xRsXmWX4z0",
+        "locationConfidence" : 0.47527295
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494959096,
+        "longitudeE7" : 5819344,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 495487190,
+        "longitudeE7" : 4943562,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1550328305312",
+        "endTimestampMs" : "1550329378557"
+      },
+      "distance" : 9980,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 92.7692089622751
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 6.667066619609496
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.43250450928754125
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494958801,
+          "lngE7" : 5819435
+        }, {
+          "latE7" : 495148162,
+          "lngE7" : 5330877
+        }, {
+          "latE7" : 495487327,
+          "lngE7" : 4943354
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1550329378557",
+        "location" : {
+          "latitudeE7" : 495487190,
+          "longitudeE7" : 4943562,
+          "accuracyMetres" : 34
+        }
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 495487190,
+        "longitudeE7" : 4943562
+      },
+      "endLocation" : {
+        "latitudeE7" : 495495445,
+        "longitudeE7" : 4934079
+      },
+      "duration" : {
+        "startTimestampMs" : "1550329378557",
+        "endTimestampMs" : "1550329481754"
+      },
+      "distance" : 114,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 92.7692089622751
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 6.667066619609496
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.43250450928754125
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 495487327,
+          "lngE7" : 4943354
+        }, {
+          "latE7" : 495492286,
+          "lngE7" : 4934572
+        }, {
+          "latE7" : 495494537,
+          "lngE7" : 4932101
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 495499133,
+        "longitudeE7" : 4928738,
+        "placeId" : "ChIJB-9um35F4EcRHiL9vsre6YA",
+        "address" : "Rue de l'Abbaye\n76210 Gruchet-le-Valasse\nFrance",
+        "name" : "Centre Commercial Carrefour Gruchet-le-Valasse",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 75.364494
+      },
+      "duration" : {
+        "startTimestampMs" : "1550329481754",
+        "endTimestampMs" : "1550331489804"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 495496067,
+          "longitudeE7" : 4936416,
+          "placeId" : "ChIJS3q486dF4EcR2lD2od1TZ_k",
+          "address" : "Centre Commercial Carrefour\nRte de Lillebonne\n76210 Gruchet-le-Valasse\nFrance",
+          "name" : "Krys",
+          "sourceInfo" : {
+            "deviceTag" : 179057369
+          },
+          "locationConfidence" : 38.969578
+        },
+        "duration" : {
+          "startTimestampMs" : "1550329481754",
+          "endTimestampMs" : "1550329767088"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : 495495445,
+        "centerLngE7" : 4934079,
+        "visitConfidence" : 95,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 495501319,
+          "longitudeE7" : 4934614,
+          "placeId" : "ChIJoQIPAGhF4EcR9kAeXwlJv3A",
+          "locationConfidence" : 12.785547
+        }, {
+          "latitudeE7" : 495495643,
+          "longitudeE7" : 4934485,
+          "placeId" : "ChIJIWleCw1F4EcRp4a9wkR2DZ4",
+          "locationConfidence" : 4.1990438
+        }, {
+          "latitudeE7" : 495492537,
+          "longitudeE7" : 4937680,
+          "placeId" : "ChIJ3WpAAAhF4EcRPI6A01oo3vQ",
+          "locationConfidence" : 3.7987764
+        }, {
+          "latitudeE7" : 495495250,
+          "longitudeE7" : 4937262,
+          "placeId" : "ChIJu1-Ecw1F4EcRVOni2cH_xno",
+          "locationConfidence" : 3.4318838
+        }, {
+          "latitudeE7" : 495494060,
+          "longitudeE7" : 4935942,
+          "placeId" : "ChIJU7uQ_79E4EcR9DqMUePH8YU",
+          "locationConfidence" : 3.1888168
+        }, {
+          "latitudeE7" : 495495276,
+          "longitudeE7" : 4933703,
+          "placeId" : "ChIJ95LoVQxF4EcRqPRQMgg2EZg",
+          "locationConfidence" : 2.8282707
+        }, {
+          "latitudeE7" : 495497750,
+          "longitudeE7" : 4931821,
+          "placeId" : "ChIJaWmlMAhF4EcRTTUAL_-DUJ8",
+          "locationConfidence" : 1.3429377
+        }, {
+          "latitudeE7" : 495496750,
+          "longitudeE7" : 4935452,
+          "placeId" : "ChIJyzbTdA1F4EcRxVqeYBi21RQ",
+          "locationConfidence" : 1.268002
+        }, {
+          "latitudeE7" : 495499133,
+          "longitudeE7" : 4928738,
+          "placeId" : "ChIJB-9um35F4EcRHiL9vsre6YA",
+          "locationConfidence" : 0.978301
+        }, {
+          "latitudeE7" : 495502029,
+          "longitudeE7" : 4927436,
+          "placeId" : "ChIJPeDwLAxF4EcRE7ATlZVrMEQ",
+          "locationConfidence" : 0.5837735
+        }, {
+          "latitudeE7" : 495500708,
+          "longitudeE7" : 4928334,
+          "placeId" : "ChIJZeBKQg1F4EcRW0xhxSmDqVw",
+          "locationConfidence" : 0.56573
+        }, {
+          "latitudeE7" : 495495960,
+          "longitudeE7" : 4934142,
+          "placeId" : "ChIJz29vCw1F4EcRLU9WUQj5YT8",
+          "locationConfidence" : 0.51518196
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      }, {
+        "location" : {
+          "latitudeE7" : 495501319,
+          "longitudeE7" : 4934614,
+          "placeId" : "ChIJoQIPAGhF4EcR9kAeXwlJv3A",
+          "address" : "Rue de l'Abbaye\n76210 Gruchet-le-Valasse\nFrance",
+          "name" : "Carrefour",
+          "sourceInfo" : {
+            "deviceTag" : 179057369
+          },
+          "locationConfidence" : 41.413555
+        },
+        "duration" : {
+          "startTimestampMs" : "1550329769437",
+          "endTimestampMs" : "1550330582136"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : 495497168,
+        "centerLngE7" : 4934789,
+        "visitConfidence" : 95,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 495499133,
+          "longitudeE7" : 4928738,
+          "placeId" : "ChIJB-9um35F4EcRHiL9vsre6YA",
+          "locationConfidence" : 14.766592
+        }, {
+          "latitudeE7" : 495502029,
+          "longitudeE7" : 4927436,
+          "placeId" : "ChIJPeDwLAxF4EcRE7ATlZVrMEQ",
+          "locationConfidence" : 12.424924
+        }, {
+          "latitudeE7" : 495497750,
+          "longitudeE7" : 4931821,
+          "placeId" : "ChIJaWmlMAhF4EcRTTUAL_-DUJ8",
+          "locationConfidence" : 3.240408
+        }, {
+          "latitudeE7" : 495500708,
+          "longitudeE7" : 4928334,
+          "placeId" : "ChIJZeBKQg1F4EcRW0xhxSmDqVw",
+          "locationConfidence" : 2.4915872
+        }, {
+          "latitudeE7" : 495498459,
+          "longitudeE7" : 4931270,
+          "placeId" : "ChIJ-b3hCQ1F4EcROvRRv3sF7_I",
+          "locationConfidence" : 0.842155
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      }, {
+        "location" : {
+          "latitudeE7" : 495492584,
+          "longitudeE7" : 4920481,
+          "placeId" : "ChIJ95LoVQxF4EcRsR7BFuCNJnU",
+          "address" : "Zone Commerciale Carrefour\nRoute de l'Abbaye\n76210 Gruchet-le-Valasse\nFrance",
+          "name" : "Intersport Gruchet-le-Valasse",
+          "sourceInfo" : {
+            "deviceTag" : 179057369
+          },
+          "locationConfidence" : 41.08543
+        },
+        "duration" : {
+          "startTimestampMs" : "1550330702939",
+          "endTimestampMs" : "1550331489804"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : 495492697,
+        "centerLngE7" : 4920655,
+        "visitConfidence" : 95,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 495491466,
+          "longitudeE7" : 4915984,
+          "placeId" : "ChIJ95LoVQxF4EcRSTMjK30yHfQ",
+          "locationConfidence" : 34.27901
+        }, {
+          "latitudeE7" : 495501319,
+          "longitudeE7" : 4934614,
+          "placeId" : "ChIJoQIPAGhF4EcR9kAeXwlJv3A",
+          "locationConfidence" : 1.1981526E-6
+        }, {
+          "latitudeE7" : 495495422,
+          "longitudeE7" : 4909658,
+          "placeId" : "ChIJ08PBXw5F4EcRY_pELd-0Krs",
+          "locationConfidence" : 5.990763E-7
+        }, {
+          "latitudeE7" : 495503754,
+          "longitudeE7" : 4906806,
+          "placeId" : "ChIJ95LoVQxF4EcRi3nsDCBV6YQ",
+          "locationConfidence" : 5.990763E-7
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 495495506,
+      "centerLngE7" : 4928225,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 495516335,
+        "longitudeE7" : 4904838,
+        "placeId" : "ChIJ95LoVQxF4EcRyRt9f7AqoNQ",
+        "locationConfidence" : 10.198914
+      }, {
+        "latitudeE7" : 495502307,
+        "longitudeE7" : 4907966,
+        "placeId" : "ChIJ95LoVQxF4EcR6QO-7pBztJQ",
+        "locationConfidence" : 3.5317996
+      }, {
+        "latitudeE7" : 495492584,
+        "longitudeE7" : 4920481,
+        "placeId" : "ChIJ95LoVQxF4EcRsR7BFuCNJnU",
+        "locationConfidence" : 1.876204
+      }, {
+        "latitudeE7" : 495519122,
+        "longitudeE7" : 4925165,
+        "placeId" : "ChIJ6_uGxw1F4EcRvLj_ClsphXI",
+        "locationConfidence" : 1.449911
+      }, {
+        "latitudeE7" : 495498748,
+        "longitudeE7" : 4918818,
+        "placeId" : "ChIJs5b1VQxF4EcRu_rQ40Q2rrY",
+        "locationConfidence" : 1.0604889
+      }, {
+        "latitudeE7" : 495499380,
+        "longitudeE7" : 4918590,
+        "placeId" : "ChIJ95LoVQxF4EcRzA8QSoCVNTQ",
+        "locationConfidence" : 0.74296254
+      }, {
+        "latitudeE7" : 495498748,
+        "longitudeE7" : 4918817,
+        "placeId" : "ChIJhS-456dF4EcR0y1rP2AVIU4",
+        "locationConfidence" : 0.47312587
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 495493330,
+          "lngE7" : 4938061,
+          "timestampMs" : "1550329481754",
+          "accuracyMeters" : 14
+        }, {
+          "latE7" : 495497339,
+          "lngE7" : 4933321,
+          "timestampMs" : "1550329912077",
+          "accuracyMeters" : 27
+        }, {
+          "latE7" : 495502296,
+          "lngE7" : 4934595,
+          "timestampMs" : "1550330335297",
+          "accuracyMeters" : 29
+        }, {
+          "latE7" : 495498949,
+          "lngE7" : 4912422,
+          "timestampMs" : "1550330702939",
+          "accuracyMeters" : 98
+        }, {
+          "latE7" : 495492697,
+          "lngE7" : 4920655,
+          "timestampMs" : "1550330824048",
+          "accuracyMeters" : 42
+        }, {
+          "latE7" : 495492697,
+          "lngE7" : 4920655,
+          "timestampMs" : "1550330944144",
+          "accuracyMeters" : 39
+        }, {
+          "latE7" : 495492697,
+          "lngE7" : 4920655,
+          "timestampMs" : "1550331067080",
+          "accuracyMeters" : 39
+        }, {
+          "latE7" : 495492697,
+          "lngE7" : 4920655,
+          "timestampMs" : "1550331306079",
+          "accuracyMeters" : 52
+        }, {
+          "latE7" : 495492697,
+          "lngE7" : 4920655,
+          "timestampMs" : "1550331369124",
+          "accuracyMeters" : 33
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 495492697,
+        "longitudeE7" : 4920655,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494959096,
+        "longitudeE7" : 5819344,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1550331489804",
+        "endTimestampMs" : "1550333283388"
+      },
+      "distance" : 14682,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 95.14144208237342
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.422032464965906
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.8773022709762992
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 495491828,
+          "lngE7" : 4918793
+        }, {
+          "latE7" : 495664596,
+          "lngE7" : 4728594
+        }, {
+          "latE7" : 495718040,
+          "lngE7" : 4705862
+        }, {
+          "latE7" : 495740890,
+          "lngE7" : 4568313
+        }, {
+          "latE7" : 494958801,
+          "lngE7" : 5819435
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1550333358468",
+        "location" : {
+          "latitudeE7" : 494959096,
+          "longitudeE7" : 5819344,
+          "accuracyMetres" : 137
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494960970,
+        "longitudeE7" : 5818368,
+        "placeId" : "ChIJYx-hB_BQ4EcRBOaPtjHV4R4",
+        "address" : "11 Rue Roland Garros\n76330 Port-Jérôme-sur-Seine\nFrance",
+        "name" : "11 Rue Roland Garros",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 66.14657
+      },
+      "duration" : {
+        "startTimestampMs" : "1550333283388",
+        "endTimestampMs" : "1550596609680"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 494958940,
+      "centerLngE7" : 5819291,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494930176,
+        "longitudeE7" : 5805040,
+        "placeId" : "ChIJ6eClqvtQ4EcRMAwJVcMWfvM",
+        "locationConfidence" : 30.700054
+      }, {
+        "latitudeE7" : 494987913,
+        "longitudeE7" : 5812998,
+        "placeId" : "ChIJa9FSyvFQ4EcRzlR8S9ZxMGU",
+        "locationConfidence" : 0.9929132
+      }, {
+        "latitudeE7" : 494948368,
+        "longitudeE7" : 5797138,
+        "placeId" : "ChIJ80hq6vpQ4EcRYioyPIgQ85g",
+        "locationConfidence" : 0.60307384
+      }, {
+        "latitudeE7" : 494940000,
+        "longitudeE7" : 5786510,
+        "placeId" : "ChIJ-ysQT_pQ4EcR2xRsXmWX4z0",
+        "locationConfidence" : 0.5557441
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494960970,
+        "longitudeE7" : 5818368,
+        "placeId" : "ChIJYx-hB_BQ4EcRBOaPtjHV4R4",
+        "address" : "11 Rue Roland Garros\n76330 Port-Jérôme-sur-Seine\nFrance",
+        "name" : "11 Rue Roland Garros",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 60.553314
+      },
+      "duration" : {
+        "startTimestampMs" : "1550686142987",
+        "endTimestampMs" : "1550697269410"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 494958954,
+      "centerLngE7" : 5819350,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494930176,
+        "longitudeE7" : 5805040,
+        "placeId" : "ChIJ6eClqvtQ4EcRMAwJVcMWfvM",
+        "locationConfidence" : 35.178566
+      }, {
+        "latitudeE7" : 494987913,
+        "longitudeE7" : 5812998,
+        "placeId" : "ChIJa9FSyvFQ4EcRzlR8S9ZxMGU",
+        "locationConfidence" : 2.437375
+      }, {
+        "latitudeE7" : 494948368,
+        "longitudeE7" : 5797138,
+        "placeId" : "ChIJ80hq6vpQ4EcRYioyPIgQ85g",
+        "locationConfidence" : 0.5487257
+      }, {
+        "latitudeE7" : 494940000,
+        "longitudeE7" : 5786510,
+        "placeId" : "ChIJ-ysQT_pQ4EcR2xRsXmWX4z0",
+        "locationConfidence" : 0.49359795
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494951260,
+        "longitudeE7" : 5800862,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 495010402,
+        "longitudeE7" : 5784546,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1550697269410",
+        "endTimestampMs" : "1550771251788"
+      },
+      "distance" : 884,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 41.20672046474077
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 33.42946495465505
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 22.778387916083194
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494951248,
+          "lngE7" : 5800842
+        }, {
+          "latE7" : 494974975,
+          "lngE7" : 5735750
+        }, {
+          "latE7" : 495009956,
+          "lngE7" : 5782331
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 495010402,
+        "longitudeE7" : 5784546,
+        "placeId" : "ChIJY3E3YPFQ4EcRYvhjQY44ySQ",
+        "address" : "17 All. des Fuchsias\n76330 Port-Jérôme-sur-Seine\nFrance",
+        "name" : "17 All. des Fuchsias",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 33.584164
+      },
+      "duration" : {
+        "startTimestampMs" : "1550771251788",
+        "endTimestampMs" : "1550772252247"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 495008656,
+      "centerLngE7" : 5785000,
+      "visitConfidence" : 69,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494949460,
+        "longitudeE7" : 5777900,
+        "placeId" : "ChIJTxGOFvpQ4EcRlbytJtBeYew",
+        "locationConfidence" : 16.992277
+      }, {
+        "latitudeE7" : 495009101,
+        "longitudeE7" : 5780885,
+        "placeId" : "ChIJQ2PvXvFQ4EcRD9EoGSGrRlo",
+        "locationConfidence" : 14.804959
+      }, {
+        "latitudeE7" : 495009101,
+        "longitudeE7" : 5780885,
+        "placeId" : "ChIJUUc6A_ba3UcRks728tGM3ns",
+        "locationConfidence" : 14.630786
+      }, {
+        "latitudeE7" : 495006098,
+        "longitudeE7" : 5785618,
+        "placeId" : "ChIJJdRdZvFQ4EcR864YuyB_vB8",
+        "locationConfidence" : 11.402438
+      }, {
+        "latitudeE7" : 495007746,
+        "longitudeE7" : 5768697,
+        "placeId" : "ChIJSzOTqfZQ4EcRVefr0kUXHRE",
+        "locationConfidence" : 2.4555306
+      }, {
+        "latitudeE7" : 494967960,
+        "longitudeE7" : 5784128,
+        "placeId" : "ChIJPcoAl_BQ4EcR6dMNhqQ6X0I",
+        "locationConfidence" : 1.9100995
+      }, {
+        "latitudeE7" : 494940000,
+        "longitudeE7" : 5786510,
+        "placeId" : "ChIJ-ysQT_pQ4EcR2xRsXmWX4z0",
+        "locationConfidence" : 1.8907006
+      }, {
+        "latitudeE7" : 495015170,
+        "longitudeE7" : 5771870,
+        "placeId" : "ChIJk-AV-fNQ4EcRs1VJ8uFXI1o",
+        "locationConfidence" : 1.1983781
+      }, {
+        "latitudeE7" : 495020180,
+        "longitudeE7" : 5772160,
+        "placeId" : "ChIJZyyW9vNQ4EcRcBfU9hitoGQ",
+        "locationConfidence" : 1.1306679
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 495010402,
+        "longitudeE7" : 5784546,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494960518,
+        "longitudeE7" : 5819054,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1550772252247",
+        "endTimestampMs" : "1550772376572"
+      },
+      "distance" : 724,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 87.4490578253884
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 8.708222938367253
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 2.2733281912446697
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 495008506,
+          "lngE7" : 5785207
+        }, {
+          "latE7" : 494962081,
+          "lngE7" : 5755953
+        }, {
+          "latE7" : 494958801,
+          "lngE7" : 5819544
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1550772502878",
+        "location" : {
+          "latitudeE7" : 494995613,
+          "longitudeE7" : 5824369,
+          "accuracyMetres" : 158
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494960970,
+        "longitudeE7" : 5818368,
+        "placeId" : "ChIJYx-hB_BQ4EcRBOaPtjHV4R4",
+        "address" : "11 Rue Roland Garros\n76330 Port-Jérôme-sur-Seine\nFrance",
+        "name" : "11 Rue Roland Garros",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 91.1779
+      },
+      "duration" : {
+        "startTimestampMs" : "1550772376572",
+        "endTimestampMs" : "1550774090967"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 494973123,
+      "centerLngE7" : 5825946,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494987913,
+        "longitudeE7" : 5812998,
+        "placeId" : "ChIJa9FSyvFQ4EcRzlR8S9ZxMGU",
+        "locationConfidence" : 5.188065
+      }, {
+        "latitudeE7" : 494949460,
+        "longitudeE7" : 5777900,
+        "placeId" : "ChIJTxGOFvpQ4EcRlbytJtBeYew",
+        "locationConfidence" : 1.3974541
+      }, {
+        "latitudeE7" : 494948368,
+        "longitudeE7" : 5797138,
+        "placeId" : "ChIJ80hq6vpQ4EcRYioyPIgQ85g",
+        "locationConfidence" : 0.82232016
+      }, {
+        "latitudeE7" : 494940000,
+        "longitudeE7" : 5786510,
+        "placeId" : "ChIJ-ysQT_pQ4EcR2xRsXmWX4z0",
+        "locationConfidence" : 0.7935927
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494959096,
+        "longitudeE7" : 5819344,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494954424,
+        "longitudeE7" : 5815716,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1550774090967",
+        "endTimestampMs" : "1550856773076"
+      },
+      "distance" : 18006,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 53.01928132654511
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 40.360828797818826
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 3.1030343391459696
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494958801,
+          "lngE7" : 5819435
+        }, {
+          "latE7" : 495148162,
+          "lngE7" : 5330877
+        }, {
+          "latE7" : 495509529,
+          "lngE7" : 4906787
+        }, {
+          "latE7" : 495146560,
+          "lngE7" : 5324723
+        }, {
+          "latE7" : 494954338,
+          "lngE7" : 5815247
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 495510832,
+          "lngE7" : 4909602,
+          "timestampMs" : "1550778754652",
+          "accuracyMeters" : 13
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1550856910895",
+        "location" : {
+          "latitudeE7" : 494987383,
+          "longitudeE7" : 5822640,
+          "accuracyMetres" : 132
+        }
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494954424,
+        "longitudeE7" : 5815716,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494959335,
+        "longitudeE7" : 5819290,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1550856773076",
+        "endTimestampMs" : "1550857384435"
+      },
+      "distance" : 1284,
+      "activityType" : "RUNNING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "RUNNING",
+        "probability" : 60.576246049476126
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 37.18283131022661
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 1.5459136314518218
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494954338,
+          "lngE7" : 5815247
+        }, {
+          "latE7" : 494957122,
+          "lngE7" : 5816195
+        }, {
+          "latE7" : 494958801,
+          "lngE7" : 5819544
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494948586,
+          "lngE7" : 5800874,
+          "timestampMs" : "1550857264168",
+          "accuracyMeters" : 14
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494960970,
+        "longitudeE7" : 5818368,
+        "placeId" : "ChIJYx-hB_BQ4EcRBOaPtjHV4R4",
+        "address" : "11 Rue Roland Garros\n76330 Port-Jérôme-sur-Seine\nFrance",
+        "name" : "11 Rue Roland Garros",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 86.17624
+      },
+      "duration" : {
+        "startTimestampMs" : "1550857384435",
+        "endTimestampMs" : "1550857908136"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 494954780,
+      "centerLngE7" : 5821460,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494987913,
+        "longitudeE7" : 5812998,
+        "placeId" : "ChIJa9FSyvFQ4EcRzlR8S9ZxMGU",
+        "locationConfidence" : 4.6342645
+      }, {
+        "latitudeE7" : 494930176,
+        "longitudeE7" : 5805040,
+        "placeId" : "ChIJ6eClqvtQ4EcRMAwJVcMWfvM",
+        "locationConfidence" : 2.5483425
+      }, {
+        "latitudeE7" : 494949460,
+        "longitudeE7" : 5777900,
+        "placeId" : "ChIJTxGOFvpQ4EcRlbytJtBeYew",
+        "locationConfidence" : 2.5426285
+      }, {
+        "latitudeE7" : 494948368,
+        "longitudeE7" : 5797138,
+        "placeId" : "ChIJ80hq6vpQ4EcRYioyPIgQ85g",
+        "locationConfidence" : 1.3601491
+      }, {
+        "latitudeE7" : 494967960,
+        "longitudeE7" : 5784128,
+        "placeId" : "ChIJPcoAl_BQ4EcR6dMNhqQ6X0I",
+        "locationConfidence" : 1.2019016
+      }, {
+        "latitudeE7" : 494940000,
+        "longitudeE7" : 5786510,
+        "placeId" : "ChIJ-ysQT_pQ4EcR2xRsXmWX4z0",
+        "locationConfidence" : 0.83967113
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494916352,
+        "longitudeE7" : 5768499,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494943115,
+        "longitudeE7" : 1199888,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1550858254726",
+        "endTimestampMs" : "1550934638073"
+      },
+      "distance" : 33951,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 53.244737339939206
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 37.553404819274604
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 2.823098492570472
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494916610,
+          "lngE7" : 5768268
+        }, {
+          "latE7" : 494943733,
+          "lngE7" : 1199261
+        } ]
+      }
+    }
+  } ]
+}

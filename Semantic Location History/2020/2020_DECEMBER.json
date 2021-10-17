@@ -1,0 +1,2596 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 489699576,
+        "longitudeE7" : 19054814,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 487916299,
+        "longitudeE7" : 23720657,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1606982008651",
+        "endTimestampMs" : "1606986704296"
+      },
+      "distance" : 976,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 59.76130962371826
+      }, {
+        "activityType" : "STILL",
+        "probability" : 18.4531107544899
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 7.02190175652504
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 4.22980859875679
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 3.425515443086624
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 2.6727117598056793
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.6159556806087494
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.241673156619072
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.9188171476125717
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.22368994541466236
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.13364204205572605
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.12124059721827507
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.09032663656398654
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.08943782304413617
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 8.581255315220915E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 489699134,
+          "lngE7" : 19114214
+        }, {
+          "latE7" : 489076309,
+          "lngE7" : 20520732
+        }, {
+          "latE7" : 488795814,
+          "lngE7" : 22766046
+        }, {
+          "latE7" : 488602027,
+          "lngE7" : 22632834
+        }, {
+          "latE7" : 487886352,
+          "lngE7" : 23683636
+        }, {
+          "latE7" : 487904930,
+          "lngE7" : 23722512
+        }, {
+          "latE7" : 487901954,
+          "lngE7" : 23735253
+        }, {
+          "latE7" : 487916297,
+          "lngE7" : 23720631
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 488795357,
+          "lngE7" : 22765718,
+          "timestampMs" : "1606984421029",
+          "accuracyMeters" : 20
+        }, {
+          "latE7" : 487885971,
+          "lngE7" : 23684967,
+          "timestampMs" : "1606986217072",
+          "accuracyMeters" : 18
+        }, {
+          "latE7" : 487896385,
+          "lngE7" : 23732233,
+          "timestampMs" : "1606986339596",
+          "accuracyMeters" : 87
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1606986826698",
+        "location" : {
+          "latitudeE7" : 487916272,
+          "longitudeE7" : 23720388,
+          "accuracyMetres" : 124
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 487900046,
+        "longitudeE7" : 23687230,
+        "placeId" : "ChIJ_6EGJORz5kcRmskkA6EA45I",
+        "address" : "136 Bd Maxime Gorki\n94800 Villejuif\nFrance",
+        "name" : "136 Bd Maxime Gorki",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        },
+        "locationConfidence" : 95.33524
+      },
+      "duration" : {
+        "startTimestampMs" : "1606986704296",
+        "endTimestampMs" : "1606994874199"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 487901071,
+      "centerLngE7" : 23685502,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 487917679,
+        "longitudeE7" : 23709552,
+        "placeId" : "ChIJhayWXuZz5kcRBPfIgS3ApQI",
+        "locationConfidence" : 1.5805913
+      }, {
+        "latitudeE7" : 487890082,
+        "longitudeE7" : 23670294,
+        "placeId" : "ChIJB7HAEuRz5kcRTFBugz50Dag",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.48874584
+      }, {
+        "latitudeE7" : 487908243,
+        "longitudeE7" : 23719504,
+        "placeId" : "ChIJeRhDDuZz5kcRsp4Rsg5cogg",
+        "locationConfidence" : 0.4857011
+      }, {
+        "latitudeE7" : 487908762,
+        "longitudeE7" : 23713844,
+        "placeId" : "ChIJGaFOzchz5kcRxluoq6CTKv4",
+        "locationConfidence" : 0.3599917
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 487905865,
+        "longitudeE7" : 23693787,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 487919771,
+        "longitudeE7" : 23700550,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1606994874199",
+        "endTimestampMs" : "1606994995960"
+      },
+      "distance" : 162,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 77.16289162635803
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 14.777189493179321
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 4.730924218893051
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.9690018147230148
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.6214831955730915
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.47021391801536083
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.15371766639873385
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.1014802255667746
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.007003256905591115
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0016157584468601272
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.001576955764903687
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.001495782271376811
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0013296013094077352
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 4.4425368628253636E-5
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.762246763017174E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 487906112,
+          "lngE7" : 23693947
+        }, {
+          "latE7" : 487913627,
+          "lngE7" : 23695890
+        }, {
+          "latE7" : 487917747,
+          "lngE7" : 23702287
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 487919785,
+        "longitudeE7" : 23699087,
+        "placeId" : "ChIJ7WtQYOdz5kcRvebg_lnhx_Q",
+        "address" : "123 Bd Maxime Gorki\n94800 Villejuif\nFrance",
+        "name" : "McDonald's",
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        },
+        "locationConfidence" : 97.35354
+      },
+      "duration" : {
+        "startTimestampMs" : "1606994995960",
+        "endTimestampMs" : "1606995478633"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 487919980,
+      "centerLngE7" : 23700940,
+      "visitConfidence" : 96,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 487917679,
+        "longitudeE7" : 23709552,
+        "placeId" : "ChIJhayWXuZz5kcRBPfIgS3ApQI",
+        "locationConfidence" : 1.0133812
+      }, {
+        "latitudeE7" : 487899802,
+        "longitudeE7" : 23688101,
+        "placeId" : "ChIJ_6EGJORz5kcRmskkA6EA45I",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.70342684
+      }, {
+        "latitudeE7" : 487923452,
+        "longitudeE7" : 23697476,
+        "placeId" : "ChIJPdr9-eZz5kcRtZKCYWC4nd8",
+        "locationConfidence" : 0.27937546
+      }, {
+        "latitudeE7" : 487914620,
+        "longitudeE7" : 23691720,
+        "placeId" : "ChIJdZrWjeZz5kcRfdS1kKa0z8w",
+        "locationConfidence" : 0.06934909
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 487921288,
+        "longitudeE7" : 23703157,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 487905863,
+        "longitudeE7" : 23693014,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1606995478633",
+        "endTimestampMs" : "1606995598235"
+      },
+      "distance" : 186,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 76.53220295906067
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 16.851739585399628
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 3.566805273294449
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.5511466190218925
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.9078231640160084
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.26582691352814436
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.14628737699240446
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.08305847295559943
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.03997981548309326
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.016279648116324097
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.014388197450898588
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.013451123959384859
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.005479930769070052
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.005451064862427302
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 9.646374792282586E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 487921600,
+          "lngE7" : 23703978
+        }, {
+          "latE7" : 487913627,
+          "lngE7" : 23695890
+        }, {
+          "latE7" : 487905883,
+          "lngE7" : 23692765
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 487900046,
+        "longitudeE7" : 23687230,
+        "placeId" : "ChIJ_6EGJORz5kcRmskkA6EA45I",
+        "address" : "136 Bd Maxime Gorki\n94800 Villejuif\nFrance",
+        "name" : "136 Bd Maxime Gorki",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        },
+        "locationConfidence" : 96.01704
+      },
+      "duration" : {
+        "startTimestampMs" : "1606995598235",
+        "endTimestampMs" : "1607035103406"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 487902070,
+      "centerLngE7" : 23685062,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 487890082,
+        "longitudeE7" : 23670294,
+        "placeId" : "ChIJB7HAEuRz5kcRTFBugz50Dag",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.3714856
+      }, {
+        "latitudeE7" : 487874853,
+        "longitudeE7" : 23672013,
+        "placeId" : "ChIJXVQ-feRz5kcRIhCMoQWUPO8",
+        "locationConfidence" : 0.36488956
+      }, {
+        "latitudeE7" : 487919785,
+        "longitudeE7" : 23699087,
+        "placeId" : "ChIJ7WtQYOdz5kcRvebg_lnhx_Q",
+        "locationConfidence" : 0.16785847
+      }, {
+        "latitudeE7" : 487901975,
+        "longitudeE7" : 23669603,
+        "placeId" : "ChIJnbgDpOZz5kcRJRxHEv7u3Lo",
+        "locationConfidence" : 0.048694436
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 487900046,
+        "longitudeE7" : 23687230,
+        "placeId" : "ChIJ_6EGJORz5kcRmskkA6EA45I",
+        "address" : "136 Bd Maxime Gorki\n94800 Villejuif\nFrance",
+        "name" : "136 Bd Maxime Gorki",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        },
+        "locationConfidence" : 91.86724
+      },
+      "duration" : {
+        "startTimestampMs" : "1607161663926",
+        "endTimestampMs" : "1607163855144"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 487901947,
+      "centerLngE7" : 23684600,
+      "visitConfidence" : 82,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 487890082,
+        "longitudeE7" : 23670294,
+        "placeId" : "ChIJB7HAEuRz5kcRTFBugz50Dag",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.7157746
+      }, {
+        "latitudeE7" : 487874853,
+        "longitudeE7" : 23672013,
+        "placeId" : "ChIJXVQ-feRz5kcRIhCMoQWUPO8",
+        "locationConfidence" : 0.6429868
+      }, {
+        "latitudeE7" : 487901975,
+        "longitudeE7" : 23669603,
+        "placeId" : "ChIJnbgDpOZz5kcRJRxHEv7u3Lo",
+        "locationConfidence" : 0.20967044
+      }, {
+        "latitudeE7" : 487896830,
+        "longitudeE7" : 23685407,
+        "placeId" : "ChIJgX47PeRz5kcRFyeg7k2TEHQ",
+        "locationConfidence" : 0.1990176
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 487900046,
+        "longitudeE7" : 23687230,
+        "placeId" : "ChIJ_6EGJORz5kcRmskkA6EA45I",
+        "address" : "136 Bd Maxime Gorki\n94800 Villejuif\nFrance",
+        "name" : "136 Bd Maxime Gorki",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        },
+        "locationConfidence" : 94.95763
+      },
+      "duration" : {
+        "startTimestampMs" : "1607773724002",
+        "endTimestampMs" : "1607781427461"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 487901960,
+      "centerLngE7" : 23683789,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 487874853,
+        "longitudeE7" : 23672013,
+        "placeId" : "ChIJXVQ-feRz5kcRIhCMoQWUPO8",
+        "locationConfidence" : 0.5504427
+      }, {
+        "latitudeE7" : 487890082,
+        "longitudeE7" : 23670294,
+        "placeId" : "ChIJB7HAEuRz5kcRTFBugz50Dag",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.47247168
+      }, {
+        "latitudeE7" : 487899725,
+        "longitudeE7" : 23683062,
+        "placeId" : "ChIJH0dxmbFz5kcRH3MRS7FTJZs",
+        "locationConfidence" : 0.11499427
+      }, {
+        "latitudeE7" : 487896830,
+        "longitudeE7" : 23685407,
+        "placeId" : "ChIJgX47PeRz5kcRFyeg7k2TEHQ",
+        "locationConfidence" : 0.0835955
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 487901791,
+        "longitudeE7" : 23690166,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 487900167,
+        "longitudeE7" : 23689696,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1607781427461",
+        "endTimestampMs" : "1607781606074"
+      },
+      "distance" : 18,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 45.40837109088898
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 28.692123293876648
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 10.189951211214066
+      }, {
+        "activityType" : "STILL",
+        "probability" : 7.77817890048027
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 2.5272563099861145
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 1.9752571359276772
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 1.3133165426552296
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.9347265586256981
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.7192161399871111
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.26656093541532755
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.12113708071410656
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.06014079554006457
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.012428533227648586
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 8.271362275991123E-4
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 5.098493147670524E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 487901687,
+          "lngE7" : 23690807
+        }, {
+          "latE7" : 487900848,
+          "lngE7" : 23690421
+        }, {
+          "latE7" : 487900009,
+          "lngE7" : 23690056
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 487866380,
+        "longitudeE7" : 23671110,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 488261590,
+        "longitudeE7" : 23570190,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1607781606074",
+        "endTimestampMs" : "1607783061136"
+      },
+      "distance" : 4587,
+      "activityType" : "IN_SUBWAY",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 53.85616421699524
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 17.97831803560257
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 15.005351603031158
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 5.255144461989403
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 2.9328301548957825
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 2.4952590465545654
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.0103450156748295
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.6297169718891382
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.40184748359024525
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.32376686576753855
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.057273637503385544
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0423665129346773
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.010153241601074114
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0011021063983207569
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 3.640419208750245E-4
+      } ],
+      "transitPath" : {
+        "transitStops" : [ {
+          "latitudeE7" : 487866380,
+          "longitudeE7" : 23671110,
+          "placeId" : "ChIJXVQ-feRz5kcRIhCMoQWUPO8",
+          "name" : "Villejuif - Louis Aragon"
+        }, {
+          "latitudeE7" : 487959940,
+          "longitudeE7" : 23682310,
+          "placeId" : "ChIJEav_791z5kcRfFjgg266hcE",
+          "name" : "Villejuif-Paul Vaillant Couturier (Hôpital Paul Brousse)"
+        }, {
+          "latitudeE7" : 488037700,
+          "longitudeE7" : 23639090,
+          "placeId" : "ChIJl5QyaNhz5kcRfYM-9T3HUVA",
+          "name" : "Villejuif Léo Lagrange"
+        }, {
+          "latitudeE7" : 488103850,
+          "longitudeE7" : 23618310,
+          "placeId" : "ChIJSWB4431x5kcRlu3d6pbNZN4",
+          "name" : "Le Kremlin-Bicêtre"
+        }, {
+          "latitudeE7" : 488228790,
+          "longitudeE7" : 23580800,
+          "placeId" : "ChIJhdMxnoZx5kcRqB9fiO3tSvQ",
+          "name" : "Maison Blanche"
+        }, {
+          "latitudeE7" : 488261590,
+          "longitudeE7" : 23570190,
+          "placeId" : "ChIJA5oYZI9x5kcRK9M9roOhOmM",
+          "name" : "Tolbiac"
+        } ],
+        "name" : "7",
+        "hexRgbColor" : "F2A4B6"
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 487900167,
+          "lngE7" : 23689696,
+          "timestampMs" : "1607781606074",
+          "accuracyMeters" : 150
+        }, {
+          "latE7" : 487885360,
+          "lngE7" : 23683591,
+          "timestampMs" : "1607781673222",
+          "accuracyMeters" : 150
+        }, {
+          "latE7" : 487886573,
+          "lngE7" : 23690959,
+          "timestampMs" : "1607781737516",
+          "accuracyMeters" : 150
+        }, {
+          "latE7" : 487886139,
+          "lngE7" : 23695696,
+          "timestampMs" : "1607781857749",
+          "accuracyMeters" : 150
+        }, {
+          "latE7" : 487886535,
+          "lngE7" : 23690165,
+          "timestampMs" : "1607781902293",
+          "accuracyMeters" : 150
+        }, {
+          "latE7" : 487879264,
+          "lngE7" : 23675898,
+          "timestampMs" : "1607782017388",
+          "accuracyMeters" : 150
+        }, {
+          "latE7" : 488267427,
+          "lngE7" : 23571040,
+          "timestampMs" : "1607782941020",
+          "accuracyMeters" : 150
+        }, {
+          "latE7" : 488261031,
+          "lngE7" : 23561323,
+          "timestampMs" : "1607783001037",
+          "accuracyMeters" : 150
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 488258720,
+        "longitudeE7" : 23540422,
+        "placeId" : "ChIJs_TF949x5kcRfbGldX4c6Ss",
+        "address" : "169 Rue de Tolbiac\n75013 Paris\nFrance",
+        "name" : "Italie Musique",
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        },
+        "locationConfidence" : 97.52886
+      },
+      "duration" : {
+        "startTimestampMs" : "1607783061136",
+        "endTimestampMs" : "1607783495403"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 488259960,
+      "centerLngE7" : 23542260,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 488262530,
+        "longitudeE7" : 23572417,
+        "placeId" : "ChIJA5oYZI9x5kcRK9M9roOhOmM",
+        "locationConfidence" : 0.70575446
+      }, {
+        "latitudeE7" : 488261796,
+        "longitudeE7" : 23543922,
+        "placeId" : "ChIJ39ysjI9x5kcRYdjHg0WMLsA",
+        "locationConfidence" : 0.274733
+      }, {
+        "latitudeE7" : 488259188,
+        "longitudeE7" : 23542209,
+        "placeId" : "ChIJMe7g9Y9x5kcR1fL6vL67rKA",
+        "locationConfidence" : 0.22505231
+      }, {
+        "latitudeE7" : 488262029,
+        "longitudeE7" : 23536327,
+        "placeId" : "ChIJX01e-Y9x5kcRo0Bvlaxcp0Q",
+        "locationConfidence" : 0.19279799
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 488315520,
+        "longitudeE7" : 23553330,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 487866380,
+        "longitudeE7" : 23671110,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1607783495403",
+        "endTimestampMs" : "1607784535421"
+      },
+      "distance" : 5193,
+      "activityType" : "IN_SUBWAY",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 77.93362736701965
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 13.033811748027802
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 5.528893321752548
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.219480112195015
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.9526285342872143
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.5197250284254551
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.38720443844795227
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.17554548103362322
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.11303267674520612
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.06227436242625117
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.03337863017804921
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.031494273571297526
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.00806582611403428
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 4.7698954404040705E-4
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.567129169823602E-4
+      } ],
+      "transitPath" : {
+        "transitStops" : [ {
+          "latitudeE7" : 488315520,
+          "longitudeE7" : 23553330,
+          "placeId" : "ChIJHbxOxY1x5kcRnpd3rjQUhos",
+          "name" : "Place d'Italie"
+        }, {
+          "latitudeE7" : 488261590,
+          "longitudeE7" : 23570190,
+          "placeId" : "ChIJA5oYZI9x5kcRK9M9roOhOmM",
+          "name" : "Tolbiac"
+        }, {
+          "latitudeE7" : 488228790,
+          "longitudeE7" : 23580800,
+          "placeId" : "ChIJhdMxnoZx5kcRqB9fiO3tSvQ",
+          "name" : "Maison Blanche"
+        }, {
+          "latitudeE7" : 488103850,
+          "longitudeE7" : 23618310,
+          "placeId" : "ChIJSWB4431x5kcRlu3d6pbNZN4",
+          "name" : "Le Kremlin-Bicêtre"
+        }, {
+          "latitudeE7" : 488037700,
+          "longitudeE7" : 23639090,
+          "placeId" : "ChIJl5QyaNhz5kcRfYM-9T3HUVA",
+          "name" : "Villejuif Léo Lagrange"
+        }, {
+          "latitudeE7" : 487959940,
+          "longitudeE7" : 23682310,
+          "placeId" : "ChIJEav_791z5kcRfFjgg266hcE",
+          "name" : "Villejuif-Paul Vaillant Couturier (Hôpital Paul Brousse)"
+        }, {
+          "latitudeE7" : 487866380,
+          "longitudeE7" : 23671110,
+          "placeId" : "ChIJXVQ-feRz5kcRIhCMoQWUPO8",
+          "name" : "Villejuif - Louis Aragon"
+        } ],
+        "name" : "7",
+        "hexRgbColor" : "F2A4B6"
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 488260393,
+          "lngE7" : 23540552,
+          "timestampMs" : "1607783495403",
+          "accuracyMeters" : 12
+        }, {
+          "latE7" : 488262379,
+          "lngE7" : 23572263,
+          "timestampMs" : "1607783619153",
+          "accuracyMeters" : 23
+        }, {
+          "latE7" : 487884394,
+          "lngE7" : 23683113,
+          "timestampMs" : "1607784415013",
+          "accuracyMeters" : 21
+        }, {
+          "latE7" : 487895098,
+          "lngE7" : 23687657,
+          "timestampMs" : "1607784535420",
+          "accuracyMeters" : 150
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 487900046,
+        "longitudeE7" : 23687230,
+        "placeId" : "ChIJ_6EGJORz5kcRmskkA6EA45I",
+        "address" : "136 Bd Maxime Gorki\n94800 Villejuif\nFrance",
+        "name" : "136 Bd Maxime Gorki",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        },
+        "locationConfidence" : 96.007904
+      },
+      "duration" : {
+        "startTimestampMs" : "1607784535421",
+        "endTimestampMs" : "1607784904755"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 487899250,
+      "centerLngE7" : 23687175,
+      "visitConfidence" : 83,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 487874853,
+        "longitudeE7" : 23672013,
+        "placeId" : "ChIJXVQ-feRz5kcRIhCMoQWUPO8",
+        "locationConfidence" : 0.6916258
+      }, {
+        "latitudeE7" : 487890082,
+        "longitudeE7" : 23670294,
+        "placeId" : "ChIJB7HAEuRz5kcRTFBugz50Dag",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.21870986
+      }, {
+        "latitudeE7" : 487908800,
+        "longitudeE7" : 23691260,
+        "placeId" : "ChIJMR68muZz5kcRPglYK1tfWBY",
+        "locationConfidence" : 0.15504047
+      }, {
+        "latitudeE7" : 487896830,
+        "longitudeE7" : 23685407,
+        "placeId" : "ChIJgX47PeRz5kcRFyeg7k2TEHQ",
+        "locationConfidence" : 0.10971162
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 487866380,
+        "longitudeE7" : 23671110,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 488261590,
+        "longitudeE7" : 23570190,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1607784904755",
+        "endTimestampMs" : "1607786149832"
+      },
+      "distance" : 4587,
+      "activityType" : "IN_SUBWAY",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 71.45967483520508
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 9.107951819896698
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 7.452079653739929
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 6.750322878360748
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 2.381705865263939
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.836988165974617
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.6846553180366755
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.6240500137209892
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.4834807477891445
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.11585695901885629
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0691637338604778
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.02752159198280424
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.005575507748289965
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 5.748826879425906E-4
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 4.022288067062618E-4
+      } ],
+      "transitPath" : {
+        "transitStops" : [ {
+          "latitudeE7" : 487866380,
+          "longitudeE7" : 23671110,
+          "placeId" : "ChIJXVQ-feRz5kcRIhCMoQWUPO8",
+          "name" : "Villejuif - Louis Aragon"
+        }, {
+          "latitudeE7" : 487959940,
+          "longitudeE7" : 23682310,
+          "placeId" : "ChIJEav_791z5kcRfFjgg266hcE",
+          "name" : "Villejuif-Paul Vaillant Couturier (Hôpital Paul Brousse)"
+        }, {
+          "latitudeE7" : 488037700,
+          "longitudeE7" : 23639090,
+          "placeId" : "ChIJl5QyaNhz5kcRfYM-9T3HUVA",
+          "name" : "Villejuif Léo Lagrange"
+        }, {
+          "latitudeE7" : 488103850,
+          "longitudeE7" : 23618310,
+          "placeId" : "ChIJSWB4431x5kcRlu3d6pbNZN4",
+          "name" : "Le Kremlin-Bicêtre"
+        }, {
+          "latitudeE7" : 488228790,
+          "longitudeE7" : 23580800,
+          "placeId" : "ChIJhdMxnoZx5kcRqB9fiO3tSvQ",
+          "name" : "Maison Blanche"
+        }, {
+          "latitudeE7" : 488261590,
+          "longitudeE7" : 23570190,
+          "placeId" : "ChIJA5oYZI9x5kcRK9M9roOhOmM",
+          "name" : "Tolbiac"
+        } ],
+        "name" : "7",
+        "hexRgbColor" : "F2A4B6"
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 487900143,
+          "lngE7" : 23687094,
+          "timestampMs" : "1607784904755",
+          "accuracyMeters" : 23
+        }, {
+          "latE7" : 487886634,
+          "lngE7" : 23683743,
+          "timestampMs" : "1607785026898",
+          "accuracyMeters" : 150
+        }, {
+          "latE7" : 488262068,
+          "lngE7" : 23566217,
+          "timestampMs" : "1607786027876",
+          "accuracyMeters" : 18
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 488258720,
+        "longitudeE7" : 23540422,
+        "placeId" : "ChIJs_TF949x5kcRfbGldX4c6Ss",
+        "address" : "169 Rue de Tolbiac\n75013 Paris\nFrance",
+        "name" : "Italie Musique",
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        },
+        "locationConfidence" : 97.598335
+      },
+      "duration" : {
+        "startTimestampMs" : "1607786149832",
+        "endTimestampMs" : "1607789021777"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 488259657,
+      "centerLngE7" : 23541376,
+      "visitConfidence" : 95,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 488259188,
+        "longitudeE7" : 23542209,
+        "placeId" : "ChIJMe7g9Y9x5kcR1fL6vL67rKA",
+        "locationConfidence" : 0.462276
+      }, {
+        "latitudeE7" : 488262530,
+        "longitudeE7" : 23572417,
+        "placeId" : "ChIJA5oYZI9x5kcRK9M9roOhOmM",
+        "locationConfidence" : 0.30765605
+      }, {
+        "latitudeE7" : 488261796,
+        "longitudeE7" : 23543922,
+        "placeId" : "ChIJ39ysjI9x5kcRYdjHg0WMLsA",
+        "locationConfidence" : 0.2076606
+      }, {
+        "latitudeE7" : 488259708,
+        "longitudeE7" : 23542899,
+        "placeId" : "ChIJhb2w9Y9x5kcR2KTTPrTrvSE",
+        "locationConfidence" : 0.1379759
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 488228790,
+        "longitudeE7" : 23580800,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 487866380,
+        "longitudeE7" : 23671110,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1607789021777",
+        "endTimestampMs" : "1607790612002"
+      },
+      "distance" : 4207,
+      "activityType" : "IN_SUBWAY",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 53.821974992752075
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 19.086921215057373
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 12.193932384252548
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 3.9515815675258636
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 3.3349499106407166
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 2.2456886246800423
+      }, {
+        "activityType" : "STILL",
+        "probability" : 2.0571889355778694
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 1.9291166216135025
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.6832519546151161
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.45617101714015007
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.18549634842202067
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0363806146197021
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.014325737720355392
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0024006962121347897
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 6.13063230048283E-4
+      } ],
+      "transitPath" : {
+        "transitStops" : [ {
+          "latitudeE7" : 488228790,
+          "longitudeE7" : 23580800,
+          "placeId" : "ChIJhdMxnoZx5kcRqB9fiO3tSvQ",
+          "name" : "Maison Blanche"
+        }, {
+          "latitudeE7" : 488103850,
+          "longitudeE7" : 23618310,
+          "placeId" : "ChIJSWB4431x5kcRlu3d6pbNZN4",
+          "name" : "Le Kremlin-Bicêtre"
+        }, {
+          "latitudeE7" : 488037700,
+          "longitudeE7" : 23639090,
+          "placeId" : "ChIJl5QyaNhz5kcRfYM-9T3HUVA",
+          "name" : "Villejuif Léo Lagrange"
+        }, {
+          "latitudeE7" : 487959940,
+          "longitudeE7" : 23682310,
+          "placeId" : "ChIJEav_791z5kcRfFjgg266hcE",
+          "name" : "Villejuif-Paul Vaillant Couturier (Hôpital Paul Brousse)"
+        }, {
+          "latitudeE7" : 487866380,
+          "longitudeE7" : 23671110,
+          "placeId" : "ChIJXVQ-feRz5kcRIhCMoQWUPO8",
+          "name" : "Villejuif - Louis Aragon"
+        } ],
+        "name" : "7",
+        "hexRgbColor" : "F2A4B6"
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 488260250,
+          "lngE7" : 23540572,
+          "timestampMs" : "1607789021777",
+          "accuracyMeters" : 11
+        }, {
+          "latE7" : 488256601,
+          "lngE7" : 23541884,
+          "timestampMs" : "1607789031835",
+          "accuracyMeters" : 150
+        }, {
+          "latE7" : 488260358,
+          "lngE7" : 23541224,
+          "timestampMs" : "1607789037480",
+          "accuracyMeters" : 12
+        }, {
+          "latE7" : 488260845,
+          "lngE7" : 23530886,
+          "timestampMs" : "1607789048938",
+          "accuracyMeters" : 150
+        }, {
+          "latE7" : 488261564,
+          "lngE7" : 23561947,
+          "timestampMs" : "1607789174903",
+          "accuracyMeters" : 150
+        }, {
+          "latE7" : 488264041,
+          "lngE7" : 23572065,
+          "timestampMs" : "1607789258924",
+          "accuracyMeters" : 18
+        }, {
+          "latE7" : 487891361,
+          "lngE7" : 23685517,
+          "timestampMs" : "1607790546239",
+          "accuracyMeters" : 150
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 487900046,
+        "longitudeE7" : 23687230,
+        "placeId" : "ChIJ_6EGJORz5kcRmskkA6EA45I",
+        "address" : "136 Bd Maxime Gorki\n94800 Villejuif\nFrance",
+        "name" : "136 Bd Maxime Gorki",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        },
+        "locationConfidence" : 95.58853
+      },
+      "duration" : {
+        "startTimestampMs" : "1607790612002",
+        "endTimestampMs" : "1607793749452"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 487900580,
+      "centerLngE7" : 23688380,
+      "visitConfidence" : 85,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 487874853,
+        "longitudeE7" : 23672013,
+        "placeId" : "ChIJXVQ-feRz5kcRIhCMoQWUPO8",
+        "locationConfidence" : 0.8081504
+      }, {
+        "latitudeE7" : 487908800,
+        "longitudeE7" : 23691260,
+        "placeId" : "ChIJMR68muZz5kcRPglYK1tfWBY",
+        "locationConfidence" : 0.33496475
+      }, {
+        "latitudeE7" : 487896830,
+        "longitudeE7" : 23685407,
+        "placeId" : "ChIJgX47PeRz5kcRFyeg7k2TEHQ",
+        "locationConfidence" : 0.26584128
+      }, {
+        "latitudeE7" : 487884710,
+        "longitudeE7" : 23698320,
+        "placeId" : "ChIJN-WNsuVz5kcR5VbmaqT-pp0",
+        "locationConfidence" : 0.24310632
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494957978,
+        "longitudeE7" : 5816324,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 495291343,
+        "longitudeE7" : 5726383,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1608624909000",
+        "endTimestampMs" : "1608625449404"
+      },
+      "distance" : 194,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 64.19104933738708
+      }, {
+        "activityType" : "STILL",
+        "probability" : 30.110177397727966
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.26811021566391
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.9097757749259472
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.8951871655881405
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.6988870445638895
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.37660670932382345
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.21601130720227957
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.16423859633505344
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.057587045012041926
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.057115027448162436
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.03865427279379219
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.009655406029196456
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.006872809899505228
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 7.21028015959746E-5
+      } ],
+      "parkingEvent" : {
+        "timestampMs" : "1608625449404",
+        "location" : {
+          "latitudeE7" : 495291343,
+          "longitudeE7" : 5726383,
+          "accuracyMetres" : 93
+        }
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494959572,
+        "longitudeE7" : 5819650,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494413001,
+        "longitudeE7" : 10891906,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1608634937899",
+        "endTimestampMs" : "1608641477857"
+      },
+      "distance" : 37334,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 57.556819915771484
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 33.4380179643631
+      }, {
+        "activityType" : "STILL",
+        "probability" : 3.9484817534685135
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.3919748365879059
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.13706411793828
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.8169901557266712
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.7862892001867294
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.37560819182544947
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.25406864006072283
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.10520440991967916
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.06109929527156055
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.04947077250108123
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.04936683690175414
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.02941634156741202
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.2307555152801797E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494958877,
+          "lngE7" : 5820040
+        }, {
+          "latE7" : 494708099,
+          "lngE7" : 10320492
+        }, {
+          "latE7" : 494431190,
+          "lngE7" : 10891399
+        }, {
+          "latE7" : 494426765,
+          "lngE7" : 10909316
+        }, {
+          "latE7" : 494412651,
+          "lngE7" : 10891560
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494431076,
+          "lngE7" : 10891118,
+          "timestampMs" : "1608641184000",
+          "accuracyMeters" : 5
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1608641531488",
+        "location" : {
+          "latitudeE7" : 494410215,
+          "longitudeE7" : 10900705,
+          "accuracyMetres" : 65
+        }
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494413001,
+        "longitudeE7" : 10891906,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494408863,
+        "longitudeE7" : 10904401,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1608641477857",
+        "endTimestampMs" : "1608641554000"
+      },
+      "distance" : 101,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 54.974544048309326
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 34.963881969451904
+      }, {
+        "activityType" : "STILL",
+        "probability" : 7.205666601657867
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.8256899192929268
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.6990585476160049
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.3298447234556079
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.27127915527671576
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.20797958131879568
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.14867628924548626
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.1337096095085144
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.1039446797221899
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.09334247442893684
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.023643410531803966
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.018588824605103582
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.5365133094746852E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494412651,
+          "lngE7" : 10891560
+        }, {
+          "latE7" : 494410362,
+          "lngE7" : 10897511
+        }, {
+          "latE7" : 494408416,
+          "lngE7" : 10904104
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494411329,
+        "longitudeE7" : 10901161,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494418233,
+        "longitudeE7" : 10904575,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1608643688870",
+        "endTimestampMs" : "1608643765846"
+      },
+      "distance" : 80,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 89.60521221160889
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 3.853604570031166
+      }, {
+        "activityType" : "STILL",
+        "probability" : 3.2779864966869354
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.5432566404342651
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.7692348212003708
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.28777080588042736
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.2107151784002781
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.18849706975743175
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.10841971961781383
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.06887499475851655
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.04279211862012744
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.01576199720147997
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.014281093899626285
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.013423513155430555
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.666172465775162E-4
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494411506,
+          "lngE7" : 10900404
+        }, {
+          "latE7" : 494414863,
+          "lngE7" : 10902500
+        }, {
+          "latE7" : 494418220,
+          "lngE7" : 10904593
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494426122,
+        "longitudeE7" : 10905656,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494427366,
+        "longitudeE7" : 10926492,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1608649211982",
+        "endTimestampMs" : "1608649466255"
+      },
+      "distance" : 152,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 88.48927021026611
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 5.944007635116577
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 2.59351022541523
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.7826375775039196
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.6813934072852135
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.48879310488700867
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.43017417192459106
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.20524433348327875
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.11108386097475886
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.09903619065880775
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.08359507191926241
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.05082878051325679
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.02260645997012034
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.01773010299075395
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 9.737862001202302E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494425163,
+          "lngE7" : 10904978
+        }, {
+          "latE7" : 494423294,
+          "lngE7" : 10911638
+        }, {
+          "latE7" : 494427146,
+          "lngE7" : 10914361
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494412859,
+        "longitudeE7" : 10930181,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494425429,
+        "longitudeE7" : 10889054,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1608655098234",
+        "endTimestampMs" : "1608655340283"
+      },
+      "distance" : 331,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 90.1065468788147
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 4.939889907836914
+      }, {
+        "activityType" : "STILL",
+        "probability" : 3.468773514032364
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.7028397638350725
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.32403506338596344
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.21243887022137642
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.11733705177903175
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.03276866627857089
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.030878331745043397
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.02851937897503376
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.011924216232728213
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.009599557233741507
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.007250319322338328
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.007180444663390517
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 8.632805759134499E-6
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494412918,
+          "lngE7" : 10929975
+        }, {
+          "latE7" : 494423904,
+          "lngE7" : 10892583
+        }, {
+          "latE7" : 494425544,
+          "lngE7" : 10889173
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494432616,
+        "longitudeE7" : 10890047,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494426502,
+        "longitudeE7" : 10933093,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1608655708165",
+        "endTimestampMs" : "1608655958191"
+      },
+      "distance" : 323,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 77.83438563346863
+      }, {
+        "activityType" : "STILL",
+        "probability" : 16.789384186267853
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 4.430084675550461
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.4423136357218027
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.23947288282215595
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.09809379698708653
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.06282651447691023
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.03132755809929222
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.019964906095992774
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.017254496924579144
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.012045628682244569
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.009604905790183693
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.006649734132224694
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.006535926513606682
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 5.1138681556039955E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494432983,
+          "lngE7" : 10890561
+        }, {
+          "latE7" : 494432067,
+          "lngE7" : 10899004
+        }, {
+          "latE7" : 494426956,
+          "lngE7" : 10931557
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494428756,
+        "longitudeE7" : 10930581,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494403301,
+        "longitudeE7" : 10923899,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1608656687197",
+        "endTimestampMs" : "1608657267421"
+      },
+      "distance" : 398,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 87.37271428108215
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 7.407698035240173
+      }, {
+        "activityType" : "STILL",
+        "probability" : 3.8706768304109573
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.40068491362035275
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.3192440839484334
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.28083298821002245
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.2049228409305215
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.05501590785570443
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.02846576680894941
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.017505437426734716
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.01738003920763731
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.012824760051444173
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.009140313341049477
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.002791638507915195
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 9.34721754219936E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494429054,
+          "lngE7" : 10931438
+        }, {
+          "latE7" : 494407920,
+          "lngE7" : 10939338
+        }, {
+          "latE7" : 494406776,
+          "lngE7" : 10938585
+        }, {
+          "latE7" : 494402008,
+          "lngE7" : 10928300
+        }, {
+          "latE7" : 494403228,
+          "lngE7" : 10923849
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494406509,
+          "lngE7" : 10939504,
+          "timestampMs" : "1608657174712",
+          "accuracyMeters" : 6
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494407545,
+        "longitudeE7" : 10907381,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494426670,
+        "longitudeE7" : 10887900,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1608657863209",
+        "endTimestampMs" : "1608658105181"
+      },
+      "distance" : 271,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 85.81708669662476
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 12.152506411075592
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.898318737745285
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.38457615301012993
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.3427742049098015
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.2366448286920786
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.09028775384649634
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.0289361021714285
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.014350266428664327
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.010938713967334479
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.009464382310397923
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.006969252717681229
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.0038242938899202272
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0032767740776762366
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 4.588804927152523E-5
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494407768,
+          "lngE7" : 10907210
+        }, {
+          "latE7" : 494424247,
+          "lngE7" : 10891873
+        }, {
+          "latE7" : 494426651,
+          "lngE7" : 10887969
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494440814,
+        "longitudeE7" : 10854244,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494961511,
+        "longitudeE7" : 5839232,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1608659191037",
+        "endTimestampMs" : "1608663950105"
+      },
+      "distance" : 38852,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 84.56425070762634
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 9.356193244457245
+      }, {
+        "activityType" : "STILL",
+        "probability" : 3.8726937025785446
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.8669321425259113
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.6123188883066177
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.38072685711085796
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.11622264282777905
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.1135275000706315
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.05240204627625644
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 0.026566980523057282
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.014248078514356166
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.012427441834006459
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.00821733265183866
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.003257377102272585
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 1.634525546023724E-5
+      } ]
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 487900098,
+        "longitudeE7" : 23688901,
+        "placeId" : "ChIJ_6EGJORz5kcRmskkA6EA45I",
+        "address" : "136 Bd Maxime Gorki\n94800 Villejuif\nFrance",
+        "name" : "136 Bd Maxime Gorki",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        },
+        "locationConfidence" : 90.8809
+      },
+      "duration" : {
+        "startTimestampMs" : "1608986532084",
+        "endTimestampMs" : "1609073133329"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 487905360,
+      "centerLngE7" : 23689500,
+      "visitConfidence" : 81,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 487874853,
+        "longitudeE7" : 23672013,
+        "placeId" : "ChIJXVQ-feRz5kcRIhCMoQWUPO8",
+        "locationConfidence" : 0.7967307
+      }, {
+        "latitudeE7" : 487890082,
+        "longitudeE7" : 23670294,
+        "placeId" : "ChIJB7HAEuRz5kcRTFBugz50Dag",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 0.76977754
+      }, {
+        "latitudeE7" : 487908800,
+        "longitudeE7" : 23691260,
+        "placeId" : "ChIJMR68muZz5kcRPglYK1tfWBY",
+        "locationConfidence" : 0.35640347
+      }, {
+        "latitudeE7" : 487872862,
+        "longitudeE7" : 23669005,
+        "placeId" : "ChIJB8QKfuNz5kcRFn7X0QmsQtU",
+        "locationConfidence" : 0.22938794
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 487901234,
+        "longitudeE7" : 23684286,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 487878304,
+        "longitudeE7" : 23680872,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1609073133329",
+        "endTimestampMs" : "1609073619328"
+      },
+      "distance" : 322,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 48.77927899360657
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 35.63563823699951
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 5.117272958159447
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 2.561037056148052
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 2.3138215765357018
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.686391793191433
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 1.6479521989822388
+      }, {
+        "activityType" : "STILL",
+        "probability" : 1.0398907586932182
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.38023677188903093
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.36057434044778347
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.241747684776783
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.1192373689264059
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.10713157244026661
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.008502287528244779
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0012840923773183022
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 487902005,
+          "lngE7" : 23690856,
+          "timestampMs" : "1609073376423",
+          "accuracyMeters" : 68
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 487878304,
+        "longitudeE7" : 23680872,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 488767765,
+        "longitudeE7" : 23263781,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1609073619328",
+        "endTimestampMs" : "1609075944316"
+      },
+      "distance" : 10523,
+      "activityType" : "IN_SUBWAY",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 74.46115612983704
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 10.836570709943771
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 9.89505797624588
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 1.245847437530756
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.8694512769579887
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.8636198937892914
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.7029008585959673
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.6441263947635889
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.20360152702778578
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.15360864344984293
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.05614717956632376
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.03400136483833194
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.030892292852513492
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.0024965253032860346
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 5.202056854614057E-4
+      } ],
+      "transitPath" : {
+        "transitStops" : [ {
+          "latitudeE7" : 487866380,
+          "longitudeE7" : 23671110,
+          "placeId" : "ChIJXVQ-feRz5kcRIhCMoQWUPO8",
+          "name" : "Villejuif - Louis Aragon"
+        }, {
+          "latitudeE7" : 487959940,
+          "longitudeE7" : 23682310,
+          "placeId" : "ChIJEav_791z5kcRfFjgg266hcE",
+          "name" : "Villejuif-Paul Vaillant Couturier (Hôpital Paul Brousse)"
+        }, {
+          "latitudeE7" : 488037700,
+          "longitudeE7" : 23639090,
+          "placeId" : "ChIJl5QyaNhz5kcRfYM-9T3HUVA",
+          "name" : "Villejuif Léo Lagrange"
+        }, {
+          "latitudeE7" : 488103850,
+          "longitudeE7" : 23618310,
+          "placeId" : "ChIJSWB4431x5kcRlu3d6pbNZN4",
+          "name" : "Le Kremlin-Bicêtre"
+        }, {
+          "latitudeE7" : 488228790,
+          "longitudeE7" : 23580800,
+          "placeId" : "ChIJhdMxnoZx5kcRqB9fiO3tSvQ",
+          "name" : "Maison Blanche"
+        }, {
+          "latitudeE7" : 488261590,
+          "longitudeE7" : 23570190,
+          "placeId" : "ChIJA5oYZI9x5kcRK9M9roOhOmM",
+          "name" : "Tolbiac"
+        }, {
+          "latitudeE7" : 488315520,
+          "longitudeE7" : 23553330,
+          "placeId" : "ChIJHbxOxY1x5kcRnpd3rjQUhos",
+          "name" : "Place d'Italie"
+        }, {
+          "latitudeE7" : 488361270,
+          "longitudeE7" : 23520810,
+          "placeId" : "ChIJS91bJO1x5kcRaIYQ3EsXfOo",
+          "name" : "Les Gobelins"
+        }, {
+          "latitudeE7" : 488405940,
+          "longitudeE7" : 23517560,
+          "placeId" : "ChIJbT6e0-1x5kcRXyuYd400Xhk",
+          "name" : "Censier-Daubenton"
+        }, {
+          "latitudeE7" : 488431650,
+          "longitudeE7" : 23521100,
+          "placeId" : "ChIJSyiTrO9x5kcRlJg1wJFSoyc",
+          "name" : "Place Monge"
+        }, {
+          "latitudeE7" : 488459680,
+          "longitudeE7" : 23548070,
+          "placeId" : "ChIJC5ICr_px5kcRBPcMtR0OUFM",
+          "name" : "Jussieu"
+        }, {
+          "latitudeE7" : 488507940,
+          "longitudeE7" : 23612370,
+          "placeId" : "ChIJvelru_5x5kcRMrVc_ncgtVg",
+          "name" : "Sully-Morland"
+        }, {
+          "latitudeE7" : 488534640,
+          "longitudeE7" : 23573840,
+          "placeId" : "ChIJN_CDHv1x5kcR3AHWMmSiI-E",
+          "name" : "Pont Marie"
+        }, {
+          "latitudeE7" : 488572040,
+          "longitudeE7" : 23472250,
+          "placeId" : "ChIJDewDAB9u5kcRCDCRWiMfz0M",
+          "name" : "Châtelet"
+        }, {
+          "latitudeE7" : 488585340,
+          "longitudeE7" : 23421170,
+          "placeId" : "ChIJYS0SVCBu5kcRgOQfQFW6EBY",
+          "name" : "Pont Neuf"
+        }, {
+          "latitudeE7" : 488633870,
+          "longitudeE7" : 23354840,
+          "placeId" : "ChIJ4akYtyVu5kcRWuXldM3ZDyY",
+          "name" : "Palais-Royal - Musée du Louvre"
+        }, {
+          "latitudeE7" : 488664970,
+          "longitudeE7" : 23340940,
+          "placeId" : "ChIJxWMdWiVu5kcRh1mfZKFIikk",
+          "name" : "Pyramides"
+        } ],
+        "name" : "7",
+        "hexRgbColor" : "F2A4B6"
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 487878304,
+          "lngE7" : 23680872,
+          "timestampMs" : "1609073619328",
+          "accuracyMeters" : 40
+        }, {
+          "latE7" : 487876699,
+          "lngE7" : 23677200,
+          "timestampMs" : "1609073741277",
+          "accuracyMeters" : 500
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 488763009,
+        "longitudeE7" : 23254025,
+        "placeId" : "ChIJgwCdnTVu5kcRADA9YHBZa1s",
+        "address" : "13 Rue d'Amsterdam\n75008 Paris\nFrance",
+        "name" : "Saint-Lazare",
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        },
+        "locationConfidence" : 95.052025
+      },
+      "duration" : {
+        "startTimestampMs" : "1609075944316",
+        "endTimestampMs" : "1609076796297"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 488767750,
+      "centerLngE7" : 23263500,
+      "visitConfidence" : 97,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 488769740,
+        "longitudeE7" : 23247370,
+        "placeId" : "ChIJF5e0nKtv5kcRV4Pp0zX9I58",
+        "locationConfidence" : 2.3940992
+      }, {
+        "latitudeE7" : 488762517,
+        "longitudeE7" : 23252828,
+        "placeId" : "ChIJPUBtQTVu5kcRnPMYVq9Mthg",
+        "locationConfidence" : 2.0134437
+      }, {
+        "latitudeE7" : 488759223,
+        "longitudeE7" : 23267309,
+        "placeId" : "ChIJ5WRnbDVu5kcRn7mNxwNoXo0",
+        "locationConfidence" : 0.25901598
+      }, {
+        "latitudeE7" : 488750158,
+        "longitudeE7" : 23266284,
+        "placeId" : "ChIJI0bnpjVu5kcRYGmF9I9Izl4",
+        "locationConfidence" : 0.056969985
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 488772224,
+        "longitudeE7" : 23260304,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 495557657,
+        "longitudeE7" : 9516580,
+        "sourceInfo" : {
+          "deviceTag" : 335299884
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1609076796297",
+        "endTimestampMs" : "1609082942022"
+      },
+      "distance" : 126949,
+      "activityType" : "IN_TRAIN",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_TRAIN",
+        "probability" : 89.42084908485413
+      }, {
+        "activityType" : "STILL",
+        "probability" : 7.0772819221019745
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.7312252894043922
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.7495057303458452
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 0.3593862056732178
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.25229607708752155
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.16684505390003324
+      }, {
+        "activityType" : "IN_FERRY",
+        "probability" : 0.13271360658109188
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.04477053298614919
+      }, {
+        "activityType" : "IN_TRAM",
+        "probability" : 0.04017942992504686
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.014522728451993316
+      }, {
+        "activityType" : "SAILING",
+        "probability" : 0.006972061964916065
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.0022251970221986994
+      }, {
+        "activityType" : "SKIING",
+        "probability" : 0.0011971941603405867
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 3.57820312046897E-5
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 488794831,
+          "lngE7" : 23226570,
+          "timestampMs" : "1609077037315",
+          "accuracyMeters" : 500
+        }, {
+          "latE7" : 488840165,
+          "lngE7" : 23187530,
+          "timestampMs" : "1609077158444",
+          "accuracyMeters" : 45
+        }, {
+          "latE7" : 493992692,
+          "lngE7" : 11029115,
+          "timestampMs" : "1609081834800",
+          "accuracyMeters" : 500
+        }, {
+          "latE7" : 494492204,
+          "lngE7" : 10941333,
+          "timestampMs" : "1609082197929",
+          "accuracyMeters" : 92
+        } ]
+      }
+    }
+  } ]
+}

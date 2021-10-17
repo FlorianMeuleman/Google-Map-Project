@@ -1,0 +1,524 @@
+{
+  "timelineObjects" : [ {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494908369,
+        "longitudeE7" : 5753294,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494799092,
+        "longitudeE7" : 4677914,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1528656113273",
+        "endTimestampMs" : "1528656732091"
+      },
+      "distance" : 7862,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 98.67544040042507
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.0923291573860783
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.11403049858312402
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494908256,
+          "lngE7" : 5753449
+        }, {
+          "latE7" : 495068130,
+          "lngE7" : 5142136
+        }, {
+          "latE7" : 494799728,
+          "lngE7" : 4679191
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494799092,
+        "longitudeE7" : 4677914,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494971297,
+        "longitudeE7" : 1110215,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1528656732091",
+        "endTimestampMs" : "1529086933000"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494977011,
+          "lngE7" : 1108227,
+          "timestampMs" : "1529086803000",
+          "accuracyMeters" : 64
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494971297,
+        "longitudeE7" : 1110215,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494918520,
+        "longitudeE7" : 938510,
+        "placeId" : "ChIJF2AjfSgv4EcRa8v_b2ox504",
+        "address" : "Digue N\n76600 Le Havre\nFrance",
+        "name" : "Nautical Center Paul Vatine",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 37.260868
+      },
+      "duration" : {
+        "startTimestampMs" : "1529086933000",
+        "endTimestampMs" : "1529087503000"
+      },
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 66.87124594212904
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 29.300508456021678
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.5364433134317024
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494971313,
+          "lngE7" : 1110170
+        }, {
+          "latE7" : 494951515,
+          "lngE7" : 1050949
+        }, {
+          "latE7" : 494951095,
+          "lngE7" : 945928
+        }, {
+          "latE7" : 494897003,
+          "lngE7" : 979176
+        }, {
+          "latE7" : 494897727,
+          "lngE7" : 980945
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494951829,
+          "lngE7" : 1051780,
+          "timestampMs" : "1529087009000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 494951999,
+          "lngE7" : 942909,
+          "timestampMs" : "1529087194000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 494900242,
+          "lngE7" : 975016,
+          "timestampMs" : "1529087624000",
+          "accuracyMeters" : 10
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1529087807482",
+        "location" : {
+          "latitudeE7" : 494897893,
+          "longitudeE7" : 980787,
+          "accuracyMetres" : 192
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494918520,
+        "longitudeE7" : 938510,
+        "placeId" : "ChIJF2AjfSgv4EcRa8v_b2ox504",
+        "address" : "Digue N\n76600 Le Havre\nFrance",
+        "name" : "Nautical Center Paul Vatine",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 37.260868
+      },
+      "duration" : {
+        "startTimestampMs" : "1529087503000",
+        "endTimestampMs" : "1529097069000"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 494906388,
+      "centerLngE7" : 973294,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494898915,
+        "longitudeE7" : 972321,
+        "placeId" : "ChIJF2AjfSgv4EcRB9wt5P95LhA",
+        "name" : "Capitainerie du Havre",
+        "locationConfidence" : 19.779264
+      }, {
+        "latitudeE7" : 494927161,
+        "longitudeE7" : 957459,
+        "placeId" : "ChIJF2AjfSgv4EcR89gSuALYXSM",
+        "name" : "Club Nautique Le Havre",
+        "locationConfidence" : 18.990211
+      }, {
+        "latitudeE7" : 494904739,
+        "longitudeE7" : 957630,
+        "placeId" : "ChIJB5nZ4igv4EcRgfUMt5zLAGg",
+        "name" : "Marina",
+        "locationConfidence" : 14.609048
+      }, {
+        "latitudeE7" : 494898185,
+        "longitudeE7" : 975675,
+        "placeId" : "ChIJ39NPA9gu4EcRNCjJ0JFPjJU",
+        "name" : "Le Havre Nautisme",
+        "locationConfidence" : 3.0324724
+      }, {
+        "latitudeE7" : 494915491,
+        "longitudeE7" : 958917,
+        "placeId" : "ChIJoyyc2Sgv4EcR2OfKzYblYbI",
+        "name" : "Regatta Society Havre",
+        "locationConfidence" : 1.5558207
+      }, {
+        "latitudeE7" : 494923323,
+        "longitudeE7" : 984879,
+        "placeId" : "ChIJYULkbCQv4EcRrcmIonDUGmI",
+        "name" : "Basille Wilfrid",
+        "locationConfidence" : 0.29744455
+      }, {
+        "latitudeE7" : 494896640,
+        "longitudeE7" : 977214,
+        "placeId" : "ChIJF2AjfSgv4EcRL2hjDGS5jhs",
+        "name" : "Syndicat d'initiative",
+        "locationConfidence" : 0.28327274
+      }, {
+        "latitudeE7" : 494904071,
+        "longitudeE7" : 999738,
+        "placeId" : "ChIJeZahSCYv4EcRUYlpTO0AjTc",
+        "name" : "Dr Julia Proust",
+        "locationConfidence" : 0.27308542
+      }, {
+        "latitudeE7" : 494903488,
+        "longitudeE7" : 999417,
+        "placeId" : "ChIJeZahSCYv4EcRl2Xz4mSPAfg",
+        "name" : "COSTA DROLON ROMAIN",
+        "locationConfidence" : 0.21741249
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494918520,
+        "longitudeE7" : 938510,
+        "placeId" : "ChIJF2AjfSgv4EcRa8v_b2ox504",
+        "address" : "Digue N\n76600 Le Havre\nFrance",
+        "name" : "Nautical Center Paul Vatine",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 37.260868
+      },
+      "endLocation" : {
+        "latitudeE7" : 494759097,
+        "longitudeE7" : 4636236,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1529097069000",
+        "endTimestampMs" : "1529098637641"
+      },
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 99.25998601558491
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.6631486277077849
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.022740853636636263
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494897766,
+          "lngE7" : 981054
+        }, {
+          "latE7" : 494868240,
+          "lngE7" : 989151
+        }, {
+          "latE7" : 494845695,
+          "lngE7" : 1037985
+        }, {
+          "latE7" : 494821395,
+          "lngE7" : 4423109
+        }, {
+          "latE7" : 494759941,
+          "lngE7" : 4634571
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494885039,
+          "lngE7" : 981566,
+          "timestampMs" : "1529097084000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 494845586,
+          "lngE7" : 1035673,
+          "timestampMs" : "1529097150000",
+          "accuracyMeters" : 10
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494759097,
+        "longitudeE7" : 4636236,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494939997,
+        "longitudeE7" : 1080897,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1529098637641",
+        "endTimestampMs" : "1530119236808"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494971096,
+          "lngE7" : 909504,
+          "timestampMs" : "1529695736000",
+          "accuracyMeters" : 11
+        }, {
+          "latE7" : 494945499,
+          "lngE7" : 1095310,
+          "timestampMs" : "1530119132000",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494939997,
+        "longitudeE7" : 1080897,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494960336,
+        "longitudeE7" : 1142129,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1530119236808",
+        "endTimestampMs" : "1530119668689"
+      },
+      "distance" : 496,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 95.04603183986649
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 3.8148478468272256
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.4986964669664217
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494938468,
+          "lngE7" : 1080785
+        }, {
+          "latE7" : 494936904,
+          "lngE7" : 1002127
+        }, {
+          "latE7" : 494938201,
+          "lngE7" : 994554
+        }, {
+          "latE7" : 494959564,
+          "lngE7" : 1137095
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494938305,
+          "lngE7" : 994357,
+          "timestampMs" : "1530119596992",
+          "accuracyMeters" : 15
+        }, {
+          "latE7" : 494937585,
+          "lngE7" : 976289,
+          "timestampMs" : "1530119660344",
+          "accuracyMeters" : 16
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494960337,
+        "longitudeE7" : 1142839
+      },
+      "endLocation" : {
+        "latitudeE7" : 494960058,
+        "longitudeE7" : 5819398
+      },
+      "duration" : {
+        "startTimestampMs" : "1530269484781",
+        "endTimestampMs" : "1530367113188"
+      },
+      "distance" : 33774,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 89.51875698694262
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 7.389116830349685
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.7578160884941046
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494959449,
+          "lngE7" : 1137133
+        }, {
+          "latE7" : 494821395,
+          "lngE7" : 4423109
+        }, {
+          "latE7" : 494958839,
+          "lngE7" : 5819749
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1530367128664",
+        "location" : {
+          "latitudeE7" : 494960181,
+          "longitudeE7" : 5819152,
+          "accuracyMetres" : 73
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494960518,
+        "longitudeE7" : 5819054,
+        "placeId" : "ChIJYx-hB_BQ4EcRBOaPtjHV4R4",
+        "address" : "11 Rue Roland Garros\n76330 Port-Jérôme-sur-Seine\nFrance",
+        "name" : "11 Rue Roland Garros",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 82.18807
+      },
+      "duration" : {
+        "startTimestampMs" : "1530367113188",
+        "endTimestampMs" : "1530379503574"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 494959656,
+      "centerLngE7" : 5812991,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494949460,
+        "longitudeE7" : 5777900,
+        "placeId" : "ChIJTxGOFvpQ4EcRlbytJtBeYew",
+        "name" : "Parc de la vallée du Télhuet",
+        "locationConfidence" : 7.835148
+      }, {
+        "latitudeE7" : 494987913,
+        "longitudeE7" : 5812998,
+        "placeId" : "ChIJa9FSyvFQ4EcRzlR8S9ZxMGU",
+        "name" : "Le Télhuet",
+        "locationConfidence" : 4.138915
+      }, {
+        "latitudeE7" : 494948368,
+        "longitudeE7" : 5797138,
+        "placeId" : "ChIJ80hq6vpQ4EcRYioyPIgQ85g",
+        "name" : "Paroisse Saint Denis des Marais de Seine",
+        "locationConfidence" : 1.7082657
+      }, {
+        "latitudeE7" : 494930176,
+        "longitudeE7" : 5805040,
+        "placeId" : "ChIJ6eClqvtQ4EcRMAwJVcMWfvM",
+        "name" : "Gymnase Michel Comont",
+        "locationConfidence" : 1.3546054
+      }, {
+        "latitudeE7" : 494967960,
+        "longitudeE7" : 5784128,
+        "placeId" : "ChIJPcoAl_BQ4EcR6dMNhqQ6X0I",
+        "name" : "Terrain d'arc CSG",
+        "locationConfidence" : 1.2617532
+      }, {
+        "latitudeE7" : 494940000,
+        "longitudeE7" : 5786510,
+        "placeId" : "ChIJ-ysQT_pQ4EcR2xRsXmWX4z0",
+        "name" : "CSG Pétanque",
+        "locationConfidence" : 0.72335106
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

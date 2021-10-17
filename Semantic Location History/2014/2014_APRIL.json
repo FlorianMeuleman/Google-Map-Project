@@ -1,0 +1,3056 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494975092,
+        "longitudeE7" : 5678002,
+        "placeId" : "ChIJmy4EuVlQ4EcRSyR7-kpxtyM",
+        "locationConfidence" : 99.99156
+      },
+      "duration" : {
+        "startTimestampMs" : "1397400205085",
+        "endTimestampMs" : "1397404166740"
+      },
+      "centerLatE7" : 494975033,
+      "centerLngE7" : 5678322,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcRxmpmbHobpMs",
+        "name" : "Transport 3 D",
+        "locationConfidence" : 0.0035867468
+      }, {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcReDiWaOs5wIQ",
+        "name" : "Transports 3D",
+        "locationConfidence" : 0.0014556191
+      }, {
+        "latitudeE7" : 494950807,
+        "longitudeE7" : 5688644,
+        "placeId" : "ChIJN097mVdQ4EcRgXtAGNblbPQ",
+        "name" : "Foyer des Sports",
+        "locationConfidence" : 0.0011015022
+      }, {
+        "latitudeE7" : 494965149,
+        "longitudeE7" : 5679164,
+        "placeId" : "ChIJD-1Q0FlQ4EcR5y_klTTeeXg",
+        "name" : "Exxon Mobil Sports et Loisirs",
+        "locationConfidence" : 7.55874E-4
+      }, {
+        "latitudeE7" : 494955669,
+        "longitudeE7" : 5688473,
+        "placeId" : "ChIJfWI-g1dQ4EcRYTkJZkyWyv8",
+        "name" : "Rosay Dumouchel Marie Francoise",
+        "locationConfidence" : 5.536624E-4
+      }, {
+        "latitudeE7" : 494954150,
+        "longitudeE7" : 5691560,
+        "placeId" : "ChIJbXO0mldQ4EcRFtDgxaNdBV4",
+        "name" : "Club Sportif De Gravenchon",
+        "locationConfidence" : 4.2765413E-4
+      }, {
+        "latitudeE7" : 494964869,
+        "longitudeE7" : 5642745,
+        "placeId" : "ChIJ1Q7kcVpQ4EcR6ORWBa5ewWI",
+        "name" : "Meslet Yolande",
+        "locationConfidence" : 2.819135E-4
+      }, {
+        "latitudeE7" : 494961967,
+        "longitudeE7" : 5685439,
+        "placeId" : "ChIJCUIjK1hQ4EcRxL0D_ErIfzA",
+        "name" : "Chauveau Grandin Jeanine",
+        "locationConfidence" : 2.7873096E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1397503666364",
+        "endTimestampMs" : "1397546724399"
+      },
+      "distance" : 2966,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1397547573578",
+        "endTimestampMs" : "1397556341740"
+      },
+      "distance" : 1040,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494844175,
+        "longitudeE7" : 5261574
+      },
+      "endLocation" : {
+        "latitudeE7" : 495473483,
+        "longitudeE7" : 4936636
+      },
+      "duration" : {
+        "startTimestampMs" : "1397559785621",
+        "endTimestampMs" : "1397579435264"
+      },
+      "distance" : 3369,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494844131,
+          "lngE7" : 5262506
+        }, {
+          "latE7" : 495476150,
+          "lngE7" : 4943149
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1397579438078",
+        "endTimestampMs" : "1397580789919"
+      },
+      "distance" : 7385,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1397580789919",
+        "endTimestampMs" : "1397580966686"
+      },
+      "distance" : 307,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494975092,
+        "longitudeE7" : 5678002,
+        "placeId" : "ChIJmy4EuVlQ4EcRSyR7-kpxtyM",
+        "locationConfidence" : 99.976524
+      },
+      "duration" : {
+        "startTimestampMs" : "1397580966686",
+        "endTimestampMs" : "1397582452517"
+      },
+      "centerLatE7" : 494975420,
+      "centerLngE7" : 5679820,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494950807,
+        "longitudeE7" : 5688644,
+        "placeId" : "ChIJN097mVdQ4EcRgXtAGNblbPQ",
+        "name" : "Foyer des Sports",
+        "locationConfidence" : 0.006497543
+      }, {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcRxmpmbHobpMs",
+        "name" : "Transport 3 D",
+        "locationConfidence" : 0.006413701
+      }, {
+        "latitudeE7" : 494965149,
+        "longitudeE7" : 5679164,
+        "placeId" : "ChIJD-1Q0FlQ4EcR5y_klTTeeXg",
+        "name" : "Exxon Mobil Sports et Loisirs",
+        "locationConfidence" : 0.004465301
+      }, {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcReDiWaOs5wIQ",
+        "name" : "Transports 3D",
+        "locationConfidence" : 0.0026028894
+      }, {
+        "latitudeE7" : 494961967,
+        "longitudeE7" : 5685439,
+        "placeId" : "ChIJCUIjK1hQ4EcRxL0D_ErIfzA",
+        "name" : "Chauveau Grandin Jeanine",
+        "locationConfidence" : 0.0012255061
+      }, {
+        "latitudeE7" : 494955669,
+        "longitudeE7" : 5688473,
+        "placeId" : "ChIJfWI-g1dQ4EcRYTkJZkyWyv8",
+        "name" : "Rosay Dumouchel Marie Francoise",
+        "locationConfidence" : 0.001058237
+      }, {
+        "latitudeE7" : 494954150,
+        "longitudeE7" : 5691560,
+        "placeId" : "ChIJbXO0mldQ4EcRFtDgxaNdBV4",
+        "name" : "Club Sportif De Gravenchon",
+        "locationConfidence" : 8.2420127E-4
+      }, {
+        "latitudeE7" : 494964869,
+        "longitudeE7" : 5642745,
+        "placeId" : "ChIJ1Q7kcVpQ4EcR6ORWBa5ewWI",
+        "name" : "Meslet Yolande",
+        "locationConfidence" : 3.854692E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1397846860859",
+        "endTimestampMs" : "1397896095478"
+      },
+      "distance" : 19193,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494926649,
+        "longitudeE7" : 5621754
+      },
+      "endLocation" : {
+        "latitudeE7" : 494926649,
+        "longitudeE7" : 5621754
+      },
+      "duration" : {
+        "startTimestampMs" : "1397896095478",
+        "endTimestampMs" : "1397897352476"
+      },
+      "distance" : 763,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494926649,
+        "longitudeE7" : 5621754
+      },
+      "endLocation" : {
+        "latitudeE7" : 494926649,
+        "longitudeE7" : 5621754
+      },
+      "duration" : {
+        "startTimestampMs" : "1397897680010",
+        "endTimestampMs" : "1397898815343"
+      },
+      "distance" : 388,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494926649,
+        "longitudeE7" : 5621754
+      },
+      "endLocation" : {
+        "latitudeE7" : 494926649,
+        "longitudeE7" : 5621754
+      },
+      "duration" : {
+        "startTimestampMs" : "1397901058237",
+        "endTimestampMs" : "1397902231197"
+      },
+      "distance" : 369,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494926649,
+        "longitudeE7" : 5621754
+      },
+      "endLocation" : {
+        "latitudeE7" : 494926649,
+        "longitudeE7" : 5621754
+      },
+      "duration" : {
+        "startTimestampMs" : "1397902591955",
+        "endTimestampMs" : "1397906901481"
+      },
+      "distance" : 1587,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1397908989040",
+        "endTimestampMs" : "1397910392310"
+      },
+      "distance" : 618,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494926649,
+        "longitudeE7" : 5621754
+      },
+      "endLocation" : {
+        "latitudeE7" : 494926649,
+        "longitudeE7" : 5621754
+      },
+      "duration" : {
+        "startTimestampMs" : "1397910507330",
+        "endTimestampMs" : "1397911769925"
+      },
+      "distance" : 495,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1397911769925",
+        "endTimestampMs" : "1397912781403"
+      },
+      "distance" : 659,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1397912869144",
+        "endTimestampMs" : "1397914272567"
+      },
+      "distance" : 481,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1397915025526",
+        "endTimestampMs" : "1397916477681"
+      },
+      "distance" : 1143,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494926649,
+        "longitudeE7" : 5621754
+      },
+      "endLocation" : {
+        "latitudeE7" : 494926649,
+        "longitudeE7" : 5621754
+      },
+      "duration" : {
+        "startTimestampMs" : "1397917771451",
+        "endTimestampMs" : "1397919702907"
+      },
+      "distance" : 1417,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1397919702907",
+        "endTimestampMs" : "1397923505601"
+      },
+      "distance" : 1327,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1397926996647",
+        "endTimestampMs" : "1397927982233"
+      },
+      "distance" : 313,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1397927982233",
+        "endTimestampMs" : "1397928625751"
+      },
+      "distance" : 136,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1397928722186",
+        "endTimestampMs" : "1397929908062"
+      },
+      "distance" : 689,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1397931213135",
+        "endTimestampMs" : "1397932564746"
+      },
+      "distance" : 494,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1397935022459",
+        "endTimestampMs" : "1397935919167"
+      },
+      "distance" : 225,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494901355,
+        "longitudeE7" : 1307367
+      },
+      "endLocation" : {
+        "latitudeE7" : 494776556,
+        "longitudeE7" : 4718360
+      },
+      "duration" : {
+        "startTimestampMs" : "1397937730355",
+        "endTimestampMs" : "1397939070359"
+      },
+      "distance" : 15055,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494910888,
+          "lngE7" : 1304253
+        }, {
+          "latE7" : 494792442,
+          "lngE7" : 4708026
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494776556,
+        "longitudeE7" : 4718360
+      },
+      "endLocation" : {
+        "latitudeE7" : 494974958,
+        "longitudeE7" : 5679625
+      },
+      "duration" : {
+        "startTimestampMs" : "1397939070359",
+        "endTimestampMs" : "1397976267750"
+      },
+      "distance" : 16529,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494792442,
+          "lngE7" : 4708026
+        }, {
+          "latE7" : 494975852,
+          "lngE7" : 5682154
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494975092,
+        "longitudeE7" : 5678002,
+        "placeId" : "ChIJmy4EuVlQ4EcRSyR7-kpxtyM",
+        "locationConfidence" : 99.99001
+      },
+      "duration" : {
+        "startTimestampMs" : "1397976306838",
+        "endTimestampMs" : "1398014428117"
+      },
+      "centerLatE7" : 494975279,
+      "centerLngE7" : 5678188,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcRxmpmbHobpMs",
+        "name" : "Transport 3 D",
+        "locationConfidence" : 0.0044212765
+      }, {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcReDiWaOs5wIQ",
+        "name" : "Transports 3D",
+        "locationConfidence" : 0.0017942986
+      }, {
+        "latitudeE7" : 494965149,
+        "longitudeE7" : 5679164,
+        "placeId" : "ChIJD-1Q0FlQ4EcR5y_klTTeeXg",
+        "name" : "Exxon Mobil Sports et Loisirs",
+        "locationConfidence" : 9.6658984E-4
+      }, {
+        "latitudeE7" : 494961967,
+        "longitudeE7" : 5685439,
+        "placeId" : "ChIJCUIjK1hQ4EcRxL0D_ErIfzA",
+        "name" : "Chauveau Grandin Jeanine",
+        "locationConfidence" : 7.9242425E-4
+      }, {
+        "latitudeE7" : 494955669,
+        "longitudeE7" : 5688473,
+        "placeId" : "ChIJfWI-g1dQ4EcRYTkJZkyWyv8",
+        "name" : "Rosay Dumouchel Marie Francoise",
+        "locationConfidence" : 6.223504E-4
+      }, {
+        "latitudeE7" : 494950807,
+        "longitudeE7" : 5688644,
+        "placeId" : "ChIJN097mVdQ4EcRgXtAGNblbPQ",
+        "name" : "Foyer des Sports",
+        "locationConfidence" : 6.178326E-4
+      }, {
+        "latitudeE7" : 494954150,
+        "longitudeE7" : 5691560,
+        "placeId" : "ChIJbXO0mldQ4EcRFtDgxaNdBV4",
+        "name" : "Club Sportif De Gravenchon",
+        "locationConfidence" : 4.6895855E-4
+      }, {
+        "latitudeE7" : 494964869,
+        "longitudeE7" : 5642745,
+        "placeId" : "ChIJ1Q7kcVpQ4EcR6ORWBa5ewWI",
+        "name" : "Meslet Yolande",
+        "locationConfidence" : 3.0164063E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494975092,
+        "longitudeE7" : 5678002,
+        "placeId" : "ChIJmy4EuVlQ4EcRSyR7-kpxtyM",
+        "locationConfidence" : 99.99015
+      },
+      "duration" : {
+        "startTimestampMs" : "1398017162105",
+        "endTimestampMs" : "1398074962263"
+      },
+      "centerLatE7" : 494974538,
+      "centerLngE7" : 5678205,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcRxmpmbHobpMs",
+        "name" : "Transport 3 D",
+        "locationConfidence" : 0.0034973796
+      }, {
+        "latitudeE7" : 494965149,
+        "longitudeE7" : 5679164,
+        "placeId" : "ChIJD-1Q0FlQ4EcR5y_klTTeeXg",
+        "name" : "Exxon Mobil Sports et Loisirs",
+        "locationConfidence" : 0.0023673677
+      }, {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcReDiWaOs5wIQ",
+        "name" : "Transports 3D",
+        "locationConfidence" : 0.001419351
+      }, {
+        "latitudeE7" : 494950807,
+        "longitudeE7" : 5688644,
+        "placeId" : "ChIJN097mVdQ4EcRgXtAGNblbPQ",
+        "name" : "Foyer des Sports",
+        "locationConfidence" : 0.0010666704
+      }, {
+        "latitudeE7" : 494955669,
+        "longitudeE7" : 5688473,
+        "placeId" : "ChIJfWI-g1dQ4EcRYTkJZkyWyv8",
+        "name" : "Rosay Dumouchel Marie Francoise",
+        "locationConfidence" : 5.3564156E-4
+      }, {
+        "latitudeE7" : 494954150,
+        "longitudeE7" : 5691560,
+        "placeId" : "ChIJbXO0mldQ4EcRFtDgxaNdBV4",
+        "name" : "Club Sportif De Gravenchon",
+        "locationConfidence" : 4.1338615E-4
+      }, {
+        "latitudeE7" : 494964869,
+        "longitudeE7" : 5642745,
+        "placeId" : "ChIJ1Q7kcVpQ4EcR6ORWBa5ewWI",
+        "name" : "Meslet Yolande",
+        "locationConfidence" : 2.772365E-4
+      }, {
+        "latitudeE7" : 494961967,
+        "longitudeE7" : 5685439,
+        "placeId" : "ChIJCUIjK1hQ4EcRxL0D_ErIfzA",
+        "name" : "Chauveau Grandin Jeanine",
+        "locationConfidence" : 2.6926186E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494975092,
+        "longitudeE7" : 5678002,
+        "placeId" : "ChIJmy4EuVlQ4EcRSyR7-kpxtyM",
+        "locationConfidence" : 99.94203
+      },
+      "duration" : {
+        "startTimestampMs" : "1398077841959",
+        "endTimestampMs" : "1398078840780"
+      },
+      "centerLatE7" : 494976265,
+      "centerLngE7" : 5674471,
+      "visitConfidence" : 76,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcRxmpmbHobpMs",
+        "name" : "Transport 3 D",
+        "locationConfidence" : 0.01941555
+      }, {
+        "latitudeE7" : 494965149,
+        "longitudeE7" : 5679164,
+        "placeId" : "ChIJD-1Q0FlQ4EcR5y_klTTeeXg",
+        "name" : "Exxon Mobil Sports et Loisirs",
+        "locationConfidence" : 0.0125174895
+      }, {
+        "latitudeE7" : 494950807,
+        "longitudeE7" : 5688644,
+        "placeId" : "ChIJN097mVdQ4EcRgXtAGNblbPQ",
+        "name" : "Foyer des Sports",
+        "locationConfidence" : 0.009346641
+      }, {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcReDiWaOs5wIQ",
+        "name" : "Transports 3D",
+        "locationConfidence" : 0.007879465
+      }, {
+        "latitudeE7" : 494961967,
+        "longitudeE7" : 5685439,
+        "placeId" : "ChIJCUIjK1hQ4EcRxL0D_ErIfzA",
+        "name" : "Chauveau Grandin Jeanine",
+        "locationConfidence" : 0.0026908678
+      }, {
+        "latitudeE7" : 494955669,
+        "longitudeE7" : 5688473,
+        "placeId" : "ChIJfWI-g1dQ4EcRYTkJZkyWyv8",
+        "name" : "Rosay Dumouchel Marie Francoise",
+        "locationConfidence" : 0.0024092416
+      }, {
+        "latitudeE7" : 494964869,
+        "longitudeE7" : 5642745,
+        "placeId" : "ChIJ1Q7kcVpQ4EcR6ORWBa5ewWI",
+        "name" : "Meslet Yolande",
+        "locationConfidence" : 0.0019101513
+      }, {
+        "latitudeE7" : 494954150,
+        "longitudeE7" : 5691560,
+        "placeId" : "ChIJbXO0mldQ4EcRFtDgxaNdBV4",
+        "name" : "Club Sportif De Gravenchon",
+        "locationConfidence" : 0.0018009384
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398078840780",
+        "endTimestampMs" : "1398080891295"
+      },
+      "distance" : 236546,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398080891295",
+        "endTimestampMs" : "1398084738043"
+      },
+      "distance" : 71145,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398084738043",
+        "endTimestampMs" : "1398090242745"
+      },
+      "distance" : 331943,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398090242745",
+        "endTimestampMs" : "1398095669085"
+      },
+      "distance" : 97483,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398095669085",
+        "endTimestampMs" : "1398096018960"
+      },
+      "distance" : 19549,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398096018960",
+        "endTimestampMs" : "1398096930280"
+      },
+      "distance" : 24378,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398096930280",
+        "endTimestampMs" : "1398097779260"
+      },
+      "distance" : 53942,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398097779260",
+        "endTimestampMs" : "1398234107652"
+      },
+      "distance" : 1689950,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 354158250,
+        "longitudeE7" : 250160820,
+        "placeId" : "ChIJCURscZFRmhQRIEuTVxemjZw",
+        "address" : "Agia Pelagia\nCrete\nΗράκλειο 715 00\nΕλλάδα",
+        "name" : "Blue Bay Resort Hotel",
+        "locationConfidence" : 46.23477
+      },
+      "duration" : {
+        "startTimestampMs" : "1398234107652",
+        "endTimestampMs" : "1398245390346"
+      },
+      "centerLatE7" : 354159000,
+      "centerLngE7" : 250167300,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 354158434,
+        "longitudeE7" : 250172997,
+        "placeId" : "ChIJWSsDqpZRmhQRriURAJCUyvg",
+        "name" : "Ξενοδοχείο Κατερίνας",
+        "locationConfidence" : 12.92246
+      }, {
+        "latitudeE7" : 354177200,
+        "longitudeE7" : 250184060,
+        "placeId" : "ChIJV5BStpZRmhQRqn1jp6OQyMQ",
+        "name" : "Sea Side Resort & Spa",
+        "locationConfidence" : 10.613663
+      }, {
+        "latitudeE7" : 354162503,
+        "longitudeE7" : 250169969,
+        "placeId" : "ChIJn4ixAJRRmhQRECTDlqjdP2w",
+        "name" : "Μοτέλ Δεσποινα",
+        "locationConfidence" : 5.414688
+      }, {
+        "latitudeE7" : 354138940,
+        "longitudeE7" : 250174610,
+        "placeId" : "ChIJp3b3555RmhQRVviOvF6lRtc",
+        "name" : "Eva Mare",
+        "locationConfidence" : 4.7537527
+      }, {
+        "latitudeE7" : 354143760,
+        "longitudeE7" : 250172853,
+        "placeId" : "ChIJVXNkqZ5RmhQR1DBpYjWmc3k",
+        "name" : "Evita Apartments",
+        "locationConfidence" : 3.526846
+      }, {
+        "latitudeE7" : 354146320,
+        "longitudeE7" : 250200100,
+        "placeId" : "ChIJyY_mmpZRmhQRxZo1n8QNpzc",
+        "name" : "Peninsula Resort & Spa",
+        "locationConfidence" : 2.9214883
+      }, {
+        "latitudeE7" : 354176300,
+        "longitudeE7" : 250167300,
+        "placeId" : "ChIJYz18iZNRmhQR1JevZJyha8E",
+        "name" : "Sofitel Capsis Palace",
+        "locationConfidence" : 2.523859
+      }, {
+        "latitudeE7" : 354147100,
+        "longitudeE7" : 250199020,
+        "placeId" : "ChIJVVVVVVUBmxQRTk0PFKdcBYw",
+        "name" : "Peninsula Hotel",
+        "locationConfidence" : 1.9785187
+      }, {
+        "latitudeE7" : 354161424,
+        "longitudeE7" : 250182680,
+        "placeId" : "ChIJgTgVGZRRmhQRGtlrwWczPjY",
+        "name" : "Στέλιος",
+        "locationConfidence" : 1.618922
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 354158250,
+        "longitudeE7" : 250160820,
+        "placeId" : "ChIJCURscZFRmhQRIEuTVxemjZw",
+        "address" : "Agia Pelagia\nCrete\nΗράκλειο 715 00\nΕλλάδα",
+        "name" : "Blue Bay Resort Hotel",
+        "locationConfidence" : 46.23477
+      },
+      "endLocation" : {
+        "latitudeE7" : 354177200,
+        "longitudeE7" : 250184060,
+        "placeId" : "ChIJV5BStpZRmhQRqn1jp6OQyMQ",
+        "address" : "Agia Pelagia Aghia Pelagia\nMononaftis 715 00\nGreece",
+        "name" : "Sea Side Resort & Spa",
+        "locationConfidence" : 94.86495
+      },
+      "duration" : {
+        "startTimestampMs" : "1398245390346",
+        "endTimestampMs" : "1398245466512"
+      },
+      "distance" : 333,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 354157867,
+          "lngE7" : 250165081
+        }, {
+          "latE7" : 354174194,
+          "lngE7" : 250178928
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 354177200,
+        "longitudeE7" : 250184060,
+        "placeId" : "ChIJV5BStpZRmhQRqn1jp6OQyMQ",
+        "address" : "Agia Pelagia Aghia Pelagia\nMononaftis 715 00\nGreece",
+        "name" : "Sea Side Resort & Spa",
+        "locationConfidence" : 94.86495
+      },
+      "duration" : {
+        "startTimestampMs" : "1398245466512",
+        "endTimestampMs" : "1398246909506"
+      },
+      "centerLatE7" : 354178750,
+      "centerLngE7" : 250195650,
+      "visitConfidence" : 76,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 354164299,
+        "longitudeE7" : 250185609,
+        "placeId" : "ChIJr-SlPZRRmhQRKCEzP6BMnGk",
+        "name" : "Βασίλης",
+        "locationConfidence" : 2.2506442
+      }, {
+        "latitudeE7" : 354176300,
+        "longitudeE7" : 250167300,
+        "placeId" : "ChIJYz18iZNRmhQR1JevZJyha8E",
+        "name" : "Sofitel Capsis Palace",
+        "locationConfidence" : 1.4428775
+      }, {
+        "latitudeE7" : 354161424,
+        "longitudeE7" : 250182680,
+        "placeId" : "ChIJgTgVGZRRmhQRGtlrwWczPjY",
+        "name" : "Στέλιος",
+        "locationConfidence" : 1.210741
+      }, {
+        "latitudeE7" : 354162503,
+        "longitudeE7" : 250169969,
+        "placeId" : "ChIJn4ixAJRRmhQRECTDlqjdP2w",
+        "name" : "Μοτέλ Δεσποινα",
+        "locationConfidence" : 0.2307825
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398246913824",
+        "endTimestampMs" : "1398246970519"
+      },
+      "distance" : 313,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 354168586,
+          "lngE7" : 250183544
+        }, {
+          "latE7" : 354146728,
+          "lngE7" : 250197334
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 354134667,
+        "longitudeE7" : 250185727,
+        "placeId" : "ChIJm_oa55ZRmhQRntWIkYrKNmk",
+        "address" : "Παραλία Γυμνιστών Ψαρομούρας\n715 00\nΕλλάδα",
+        "name" : "Παραλία Γυμνιστών Ψαρομούρας",
+        "locationConfidence" : 21.11306
+      },
+      "duration" : {
+        "startTimestampMs" : "1398247060742",
+        "endTimestampMs" : "1398248275912"
+      },
+      "centerLatE7" : 354118167,
+      "centerLngE7" : 250177475,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 354121526,
+        "longitudeE7" : 250167109,
+        "placeId" : "ChIJA9-HtZBRmhQRlHIq0zfgY_k",
+        "name" : "Ξενοδοχείο Βίλλα Άλεξ",
+        "locationConfidence" : 15.87915
+      }, {
+        "latitudeE7" : 354133039,
+        "longitudeE7" : 250168425,
+        "placeId" : "ChIJM0sW1ZBRmhQRjCu1xHV79rI",
+        "name" : "Πανοραμική Θέα",
+        "locationConfidence" : 14.773791
+      }, {
+        "latitudeE7" : 354138940,
+        "longitudeE7" : 250174610,
+        "placeId" : "ChIJp3b3555RmhQRVviOvF6lRtc",
+        "name" : "Eva Mare",
+        "locationConfidence" : 14.69633
+      }, {
+        "latitudeE7" : 354123391,
+        "longitudeE7" : 250166259,
+        "placeId" : "ChIJ8zHNy5BRmhQRNGD4Yi1UjUg",
+        "locationConfidence" : 13.27554
+      }, {
+        "latitudeE7" : 354137000,
+        "longitudeE7" : 250173960,
+        "placeId" : "ChIJzVIr1ZZRmhQRgEfWkpmyo1I",
+        "name" : "Dioskouroi",
+        "locationConfidence" : 6.573016
+      }, {
+        "latitudeE7" : 354137402,
+        "longitudeE7" : 250172804,
+        "placeId" : "ChIJR4bb05ZRmhQRFIFGAMIgwvI",
+        "name" : "Ξενοδοχείο Ιαμας",
+        "locationConfidence" : 3.5071378
+      }, {
+        "latitudeE7" : 354126290,
+        "longitudeE7" : 250162810,
+        "placeId" : "ChIJU-BGz5BRmhQRuPwwr0NdcHE",
+        "name" : "Psaromoura Residence",
+        "locationConfidence" : 2.244482
+      }, {
+        "latitudeE7" : 354092000,
+        "longitudeE7" : 250188000,
+        "placeId" : "ChIJDSxS1ki4XxMRmj7xJO65rRE",
+        "name" : "Blue Bay Hotel",
+        "locationConfidence" : 2.1428838
+      }, {
+        "latitudeE7" : 354143760,
+        "longitudeE7" : 250172853,
+        "placeId" : "ChIJVXNkqZ5RmhQR1DBpYjWmc3k",
+        "name" : "Evita Apartments",
+        "locationConfidence" : 1.6279356
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398248275912",
+        "endTimestampMs" : "1398248937217"
+      },
+      "distance" : 1494,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 354116630,
+          "lngE7" : 250177516
+        }, {
+          "latE7" : 354174194,
+          "lngE7" : 250178928
+        }, {
+          "latE7" : 354116630,
+          "lngE7" : 250177555
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 354181824,
+          "lngE7" : 250190945,
+          "timestampMs" : "1398248395895",
+          "accuracyMeters" : 25
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398447754980",
+        "endTimestampMs" : "1398447932386"
+      },
+      "distance" : 692,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 354146270,
+          "lngE7" : 250196800
+        }, {
+          "latE7" : 354120178,
+          "lngE7" : 250176162
+        }, {
+          "latE7" : 354147415,
+          "lngE7" : 250197715
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 354120026,
+          "lngE7" : 250177689,
+          "timestampMs" : "1398447814992",
+          "accuracyMeters" : 94
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398448295986",
+        "endTimestampMs" : "1398448586443"
+      },
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 354148101,
+          "lngE7" : 250186119
+        }, {
+          "latE7" : 354158439,
+          "lngE7" : 250179119
+        }, {
+          "latE7" : 354149360,
+          "lngE7" : 250185699
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 354160805,
+          "lngE7" : 250177212,
+          "timestampMs" : "1398448656087",
+          "accuracyMeters" : 70
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 354146320,
+        "longitudeE7" : 250200100,
+        "placeId" : "ChIJyY_mmpZRmhQRxZo1n8QNpzc",
+        "address" : "Agia Pelagia 71500, Peninsula Hotel\nIraklio 715 00\nGreece",
+        "name" : "Peninsula Resort & Spa",
+        "locationConfidence" : 21.137249
+      },
+      "duration" : {
+        "startTimestampMs" : "1398448586443",
+        "endTimestampMs" : "1398456320047"
+      },
+      "centerLatE7" : 354151345,
+      "centerLngE7" : 250184059,
+      "visitConfidence" : 63,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 354147100,
+        "longitudeE7" : 250199020,
+        "placeId" : "ChIJVVVVVVUBmxQRTk0PFKdcBYw",
+        "name" : "Peninsula Hotel",
+        "locationConfidence" : 17.74757
+      }, {
+        "latitudeE7" : 354138940,
+        "longitudeE7" : 250174610,
+        "placeId" : "ChIJp3b3555RmhQRVviOvF6lRtc",
+        "name" : "Eva Mare",
+        "locationConfidence" : 11.23092
+      }, {
+        "latitudeE7" : 354134667,
+        "longitudeE7" : 250185727,
+        "placeId" : "ChIJm_oa55ZRmhQRntWIkYrKNmk",
+        "name" : "Nudebeach Agia Pelagia",
+        "locationConfidence" : 7.8234935
+      }, {
+        "latitudeE7" : 354177200,
+        "longitudeE7" : 250184060,
+        "placeId" : "ChIJV5BStpZRmhQRqn1jp6OQyMQ",
+        "name" : "Sea Side Resort & Spa",
+        "locationConfidence" : 7.0262656
+      }, {
+        "latitudeE7" : 354158250,
+        "longitudeE7" : 250160820,
+        "placeId" : "ChIJCURscZFRmhQRIEuTVxemjZw",
+        "name" : "Blue Bay Resort & Spa",
+        "locationConfidence" : 5.8167524
+      }, {
+        "latitudeE7" : 354161424,
+        "longitudeE7" : 250182680,
+        "placeId" : "ChIJgTgVGZRRmhQRGtlrwWczPjY",
+        "name" : "Στέλιος",
+        "locationConfidence" : 5.800936
+      }, {
+        "latitudeE7" : 354158434,
+        "longitudeE7" : 250172997,
+        "placeId" : "ChIJWSsDqpZRmhQRriURAJCUyvg",
+        "name" : "Ξενοδοχείο Κατερίνας",
+        "locationConfidence" : 5.333592
+      }, {
+        "latitudeE7" : 354143760,
+        "longitudeE7" : 250172853,
+        "placeId" : "ChIJVXNkqZ5RmhQR1DBpYjWmc3k",
+        "name" : "Evita Apartments",
+        "locationConfidence" : 5.3035746
+      }, {
+        "latitudeE7" : 354164299,
+        "longitudeE7" : 250185609,
+        "placeId" : "ChIJr-SlPZRRmhQRKCEzP6BMnGk",
+        "name" : "Βασίλης",
+        "locationConfidence" : 3.6683955
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398494385593",
+        "endTimestampMs" : "1398494594132"
+      },
+      "distance" : 482,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 354149360,
+          "lngE7" : 250185680
+        }, {
+          "latE7" : 354106559,
+          "lngE7" : 250173263
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398495400091",
+        "endTimestampMs" : "1398498465903"
+      },
+      "distance" : 13337,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 354106559,
+          "lngE7" : 250173263
+        }, {
+          "latE7" : 353363151,
+          "lngE7" : 251335220
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 353376694,
+        "longitudeE7" : 251332426,
+        "placeId" : "ChIJ4RPAIilamhQRx6peq1GFH9g",
+        "address" : "1866 57\nΗράκλειο 712 01\nΕλλάδα",
+        "name" : "Haronitis Nuts-Blends Cafe (2nd Branch)",
+        "locationConfidence" : 10.037345
+      },
+      "duration" : {
+        "startTimestampMs" : "1398498465903",
+        "endTimestampMs" : "1398502003176"
+      },
+      "centerLatE7" : 353366100,
+      "centerLngE7" : 251335000,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 353368748,
+        "longitudeE7" : 251332711,
+        "placeId" : "ChIJJYuRDylamhQR0rTIlxNhSgU",
+        "name" : "Hot Stuff Cafe",
+        "locationConfidence" : 9.58471
+      }, {
+        "latitudeE7" : 353364438,
+        "longitudeE7" : 251334257,
+        "placeId" : "ChIJHU_zCClamhQRx9u7wcYQ7LI",
+        "locationConfidence" : 7.200924
+      }, {
+        "latitudeE7" : 353371828,
+        "longitudeE7" : 251332810,
+        "placeId" : "ChIJM5ASGilamhQRICZezNjPbSo",
+        "name" : "Στοά Ζουρίδη",
+        "locationConfidence" : 4.438796
+      }, {
+        "latitudeE7" : 353362104,
+        "longitudeE7" : 251334903,
+        "placeId" : "ChIJB5iEpylamhQRaakOx8rNokY",
+        "locationConfidence" : 3.443131
+      }, {
+        "latitudeE7" : 353363140,
+        "longitudeE7" : 251333660,
+        "placeId" : "ChIJL2l-DClamhQRV-5gm3Qtavo",
+        "name" : "OLYMPIC HOTEL SA",
+        "locationConfidence" : 2.928919
+      }, {
+        "latitudeE7" : 353364200,
+        "longitudeE7" : 251334711,
+        "placeId" : "ChIJYR1aCylamhQREYJ-t53_iDU",
+        "name" : "KRITIKI AGORA",
+        "locationConfidence" : 2.5625277
+      }, {
+        "latitudeE7" : 353361972,
+        "longitudeE7" : 251334749,
+        "placeId" : "ChIJ2WaapylamhQRbBdyaxZsutY",
+        "name" : "Άγαλμα Ερωτοκρίτου",
+        "locationConfidence" : 2.2748811
+      }, {
+        "latitudeE7" : 353366707,
+        "longitudeE7" : 251335137,
+        "placeId" : "ChIJmYQdDylamhQRlndckM-UGrs",
+        "name" : "Στέκι",
+        "locationConfidence" : 1.9358257
+      }, {
+        "latitudeE7" : 353358556,
+        "longitudeE7" : 251341707,
+        "placeId" : "ChIJky0-nylamhQRizfWtCP62eA",
+        "name" : "LAMPINI ΑΣΚΙΑΝΑΚΗΣ",
+        "locationConfidence" : 1.913352
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 353376694,
+        "longitudeE7" : 251332426,
+        "placeId" : "ChIJ4RPAIilamhQRx6peq1GFH9g",
+        "address" : "1866 57\nΗράκλειο 712 01\nΕλλάδα",
+        "name" : "Haronitis Nuts-Blends Cafe (2nd Branch)",
+        "locationConfidence" : 10.037345
+      },
+      "endLocation" : {
+        "latitudeE7" : 353397701,
+        "longitudeE7" : 251340047,
+        "placeId" : "ChIJV5BYG4ZZmhQRRy3q9vykIBM",
+        "address" : "August Str 25\nIraklio 712 02\nGreece",
+        "name" : "Venetian Loggia",
+        "locationConfidence" : 9.363503
+      },
+      "duration" : {
+        "startTimestampMs" : "1398502003176",
+        "endTimestampMs" : "1398502244298"
+      },
+      "distance" : 924,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 353366394,
+          "lngE7" : 251335144
+        }, {
+          "latE7" : 353396148,
+          "lngE7" : 251337928
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 353397701,
+        "longitudeE7" : 251340047,
+        "placeId" : "ChIJV5BYG4ZZmhQRRy3q9vykIBM",
+        "address" : "August Str 25\nIraklio 712 02\nGreece",
+        "name" : "Venetian Loggia",
+        "locationConfidence" : 9.363503
+      },
+      "duration" : {
+        "startTimestampMs" : "1398502244298",
+        "endTimestampMs" : "1398506644825"
+      },
+      "centerLatE7" : 353396000,
+      "centerLngE7" : 251337560,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 353394737,
+        "longitudeE7" : 251339082,
+        "placeId" : "ChIJOdqzxy5amhQRjF5tc7DAuHw",
+        "name" : "Ανδρόγεο",
+        "locationConfidence" : 6.9970765
+      }, {
+        "latitudeE7" : 353396100,
+        "longitudeE7" : 251337299,
+        "placeId" : "ChIJJUebxi5amhQRNA6SRY6cfJg",
+        "name" : "Πλατεία Καλλεργών",
+        "locationConfidence" : 6.729966
+      }, {
+        "latitudeE7" : 353396220,
+        "longitudeE7" : 251334670,
+        "placeId" : "ChIJ1Qou2y5amhQREWzoH-ABPbM",
+        "name" : "Corner cafe eat'aliano",
+        "locationConfidence" : 3.3275886
+      }, {
+        "latitudeE7" : 353398620,
+        "longitudeE7" : 251334990,
+        "placeId" : "ChIJeeAHwy5amhQR2Rjm-auf3R4",
+        "name" : "Central Park Cafe",
+        "locationConfidence" : 3.1685033
+      }, {
+        "latitudeE7" : 353393116,
+        "longitudeE7" : 251334753,
+        "placeId" : "ChIJw5-tzy5amhQReQma98LOvoE",
+        "name" : "Municipal Gallery",
+        "locationConfidence" : 3.0440943
+      }, {
+        "latitudeE7" : 353396128,
+        "longitudeE7" : 251337522,
+        "placeId" : "ChIJPxm3xi5amhQR9G1d8p_b6lI",
+        "name" : "IZMIR KEBAP",
+        "locationConfidence" : 3.002059
+      }, {
+        "latitudeE7" : 353391080,
+        "longitudeE7" : 251343500,
+        "placeId" : "ChIJ61JEti5amhQREl98QFsB4I8",
+        "name" : "ΗΡΙΔΑΝΟΣ cafe-bar-bistro",
+        "locationConfidence" : 2.3077192
+      }, {
+        "latitudeE7" : 353393170,
+        "longitudeE7" : 251343970,
+        "placeId" : "ChIJATLsuS5amhQR4eGmfeOtTOU",
+        "name" : "Starbucks",
+        "locationConfidence" : 2.0399446
+      }, {
+        "latitudeE7" : 353392530,
+        "longitudeE7" : 251342600,
+        "placeId" : "ChIJz9K0zqqkoRQRcxbCv5yPRos",
+        "name" : "ΕΣΠΡΕΣΟΠΩΛΕΙΟΝ",
+        "locationConfidence" : 2.034214
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398507224519",
+        "endTimestampMs" : "1398509380225"
+      },
+      "distance" : 189,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 353376694,
+        "longitudeE7" : 251332426,
+        "placeId" : "ChIJ4RPAIilamhQRx6peq1GFH9g",
+        "address" : "1866 57\nΗράκλειο 712 01\nΕλλάδα",
+        "name" : "Haronitis Nuts-Blends Cafe (2nd Branch)",
+        "locationConfidence" : 9.517103
+      },
+      "duration" : {
+        "startTimestampMs" : "1398509380225",
+        "endTimestampMs" : "1398528015150"
+      },
+      "centerLatE7" : 353376544,
+      "centerLngE7" : 251349933,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 353372870,
+        "longitudeE7" : 251349266,
+        "placeId" : "ChIJsWsIXSlamhQRPTITNTwxsXk",
+        "name" : "Consulate of Italy",
+        "locationConfidence" : 5.219002
+      }, {
+        "latitudeE7" : 353376813,
+        "longitudeE7" : 251349283,
+        "placeId" : "ChIJ_5weWylamhQRcQ05Tq9IXns",
+        "name" : "Green Day's",
+        "locationConfidence" : 3.8948379
+      }, {
+        "latitudeE7" : 353387723,
+        "longitudeE7" : 251370445,
+        "placeId" : "ChIJw1SLaixamhQRwoUu278STN8",
+        "name" : "Heraklion Archaeological Museum",
+        "locationConfidence" : 3.8074462
+      }, {
+        "latitudeE7" : 353372453,
+        "longitudeE7" : 251347501,
+        "placeId" : "ChIJr1CRQilamhQRO1yCt3Fzn7M",
+        "name" : "ΑΣΤΙΚΟ ΚΤΕΛ ΗΡΑΚΛΕΙΟΥ",
+        "locationConfidence" : 3.5794032
+      }, {
+        "latitudeE7" : 353370566,
+        "longitudeE7" : 251351087,
+        "placeId" : "ChIJp0AZZylamhQRJaEqzws1kIk",
+        "name" : "ΑΣΚΛΗΠΙΕΙΟΝ ΚΡΗΤΗΣ ΕΠΕΙΓΟΝΤΑ ΠΕΡΙΣΤΑΤΙΚΑ",
+        "locationConfidence" : 2.9972134
+      }, {
+        "latitudeE7" : 353370527,
+        "longitudeE7" : 251351089,
+        "placeId" : "ChIJWzVvZylamhQRoyRnPZVnE2w",
+        "name" : "Ασκληπιείον Κρήτης",
+        "locationConfidence" : 2.9586883
+      }, {
+        "latitudeE7" : 353386732,
+        "longitudeE7" : 251346569,
+        "placeId" : "ChIJVZXksi5amhQRBJY7MhMuVTk",
+        "name" : "Public Ηρακλείου",
+        "locationConfidence" : 2.747867
+      }, {
+        "latitudeE7" : 353385741,
+        "longitudeE7" : 251361464,
+        "placeId" : "ChIJc97QBSxamhQRiWXcTkSabaQ",
+        "name" : "Athens",
+        "locationConfidence" : 2.5538034
+      }, {
+        "latitudeE7" : 353371828,
+        "longitudeE7" : 251332810,
+        "placeId" : "ChIJM5ASGilamhQRICZezNjPbSo",
+        "name" : "Στοά Ζουρίδη",
+        "locationConfidence" : 1.4001628
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 353376431,
+        "longitudeE7" : 251349661
+      },
+      "endLocation" : {
+        "latitudeE7" : 353979135,
+        "longitudeE7" : 250238157
+      },
+      "duration" : {
+        "startTimestampMs" : "1398528015150",
+        "endTimestampMs" : "1398530230266"
+      },
+      "distance" : 1600,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 353375816,
+          "lngE7" : 251348552
+        }, {
+          "latE7" : 353980102,
+          "lngE7" : 250238037
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398532352934",
+        "endTimestampMs" : "1398533496331"
+      },
+      "distance" : 410,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 354019453,
+        "longitudeE7" : 250113223
+      },
+      "endLocation" : {
+        "latitudeE7" : 354019453,
+        "longitudeE7" : 250113223
+      },
+      "duration" : {
+        "startTimestampMs" : "1398533496331",
+        "endTimestampMs" : "1398534917165"
+      },
+      "distance" : 550,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398538715906",
+        "endTimestampMs" : "1398578431791"
+      },
+      "distance" : 10061,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398578431791",
+        "endTimestampMs" : "1398580012598"
+      },
+      "distance" : 559,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 354147100,
+        "longitudeE7" : 250199020,
+        "placeId" : "ChIJyY_mmpZRmhQRxZo1n8QNpzc",
+        "address" : "Agia Pelagia 71500, Peninsula Hotel\nIraklio 715 00\nGreece",
+        "name" : "Peninsula Resort & Spa",
+        "locationConfidence" : 22.566929
+      },
+      "duration" : {
+        "startTimestampMs" : "1398580556828",
+        "endTimestampMs" : "1398589524403"
+      },
+      "centerLatE7" : 354149317,
+      "centerLngE7" : 250185803,
+      "visitConfidence" : 69,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 354146320,
+        "longitudeE7" : 250200100,
+        "placeId" : "ChIJyY_mmpZRmhQRxZo1n8QNpzc",
+        "name" : "Peninsula Resort & Spa",
+        "locationConfidence" : 22.25592
+      }, {
+        "latitudeE7" : 354138940,
+        "longitudeE7" : 250174610,
+        "placeId" : "ChIJp3b3555RmhQRVviOvF6lRtc",
+        "name" : "Eva Mare",
+        "locationConfidence" : 12.076531
+      }, {
+        "latitudeE7" : 354134667,
+        "longitudeE7" : 250185727,
+        "placeId" : "ChIJm_oa55ZRmhQRntWIkYrKNmk",
+        "name" : "Nudebeach Agia Pelagia",
+        "locationConfidence" : 10.092294
+      }, {
+        "latitudeE7" : 354143760,
+        "longitudeE7" : 250172853,
+        "placeId" : "ChIJVXNkqZ5RmhQR1DBpYjWmc3k",
+        "name" : "Evita Apartments",
+        "locationConfidence" : 5.0573215
+      }, {
+        "latitudeE7" : 354158250,
+        "longitudeE7" : 250160820,
+        "placeId" : "ChIJCURscZFRmhQRIEuTVxemjZw",
+        "name" : "Blue Bay Resort & Spa",
+        "locationConfidence" : 4.2378597
+      }, {
+        "latitudeE7" : 354161424,
+        "longitudeE7" : 250182680,
+        "placeId" : "ChIJgTgVGZRRmhQRGtlrwWczPjY",
+        "name" : "Στέλιος",
+        "locationConfidence" : 3.9596918
+      }, {
+        "latitudeE7" : 354177200,
+        "longitudeE7" : 250184060,
+        "placeId" : "ChIJV5BStpZRmhQRqn1jp6OQyMQ",
+        "name" : "Sea Side Resort & Spa",
+        "locationConfidence" : 3.709431
+      }, {
+        "latitudeE7" : 354158434,
+        "longitudeE7" : 250172997,
+        "placeId" : "ChIJWSsDqpZRmhQRriURAJCUyvg",
+        "name" : "Ξενοδοχείο Κατερίνας",
+        "locationConfidence" : 3.6228235
+      }, {
+        "latitudeE7" : 354137000,
+        "longitudeE7" : 250173960,
+        "placeId" : "ChIJzVIr1ZZRmhQRgEfWkpmyo1I",
+        "name" : "Dioskouroi",
+        "locationConfidence" : 3.2489781
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398589524403",
+        "endTimestampMs" : "1398589584395"
+      },
+      "distance" : 343,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 354149360,
+          "lngE7" : 250185680
+        }, {
+          "latE7" : 354120407,
+          "lngE7" : 250176162
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398591332561",
+        "endTimestampMs" : "1398592397846"
+      },
+      "distance" : 333,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 354120407,
+          "lngE7" : 250176162
+        }, {
+          "latE7" : 354149360,
+          "lngE7" : 250185680
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 354147100,
+        "longitudeE7" : 250199020,
+        "placeId" : "ChIJyY_mmpZRmhQRxZo1n8QNpzc",
+        "address" : "Agia Pelagia 71500, Peninsula Hotel\nIraklio 715 00\nGreece",
+        "name" : "Peninsula Resort & Spa",
+        "locationConfidence" : 20.305857
+      },
+      "duration" : {
+        "startTimestampMs" : "1398592397846",
+        "endTimestampMs" : "1398593050045"
+      },
+      "centerLatE7" : 354149650,
+      "centerLngE7" : 250185867,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 354146320,
+        "longitudeE7" : 250200100,
+        "placeId" : "ChIJyY_mmpZRmhQRxZo1n8QNpzc",
+        "name" : "Peninsula Resort & Spa",
+        "locationConfidence" : 20.070242
+      }, {
+        "latitudeE7" : 354138940,
+        "longitudeE7" : 250174610,
+        "placeId" : "ChIJp3b3555RmhQRVviOvF6lRtc",
+        "name" : "Eva Mare",
+        "locationConfidence" : 15.644528
+      }, {
+        "latitudeE7" : 354134667,
+        "longitudeE7" : 250185727,
+        "placeId" : "ChIJm_oa55ZRmhQRntWIkYrKNmk",
+        "name" : "Nudebeach Agia Pelagia",
+        "locationConfidence" : 13.3613405
+      }, {
+        "latitudeE7" : 354177200,
+        "longitudeE7" : 250184060,
+        "placeId" : "ChIJV5BStpZRmhQRqn1jp6OQyMQ",
+        "name" : "Sea Side Resort & Spa",
+        "locationConfidence" : 5.0062838
+      }, {
+        "latitudeE7" : 354143760,
+        "longitudeE7" : 250172853,
+        "placeId" : "ChIJVXNkqZ5RmhQR1DBpYjWmc3k",
+        "name" : "Evita Apartments",
+        "locationConfidence" : 4.4307446
+      }, {
+        "latitudeE7" : 354137000,
+        "longitudeE7" : 250173960,
+        "placeId" : "ChIJzVIr1ZZRmhQRgEfWkpmyo1I",
+        "name" : "Dioskouroi",
+        "locationConfidence" : 4.2064056
+      }, {
+        "latitudeE7" : 354158250,
+        "longitudeE7" : 250160820,
+        "placeId" : "ChIJCURscZFRmhQRIEuTVxemjZw",
+        "name" : "Blue Bay Resort & Spa",
+        "locationConfidence" : 3.8677225
+      }, {
+        "latitudeE7" : 354158434,
+        "longitudeE7" : 250172997,
+        "placeId" : "ChIJWSsDqpZRmhQRriURAJCUyvg",
+        "name" : "Ξενοδοχείο Κατερίνας",
+        "locationConfidence" : 3.3542964
+      }, {
+        "latitudeE7" : 354133039,
+        "longitudeE7" : 250168425,
+        "placeId" : "ChIJM0sW1ZBRmhQRjCu1xHV79rI",
+        "name" : "Πανοραμική Θέα",
+        "locationConfidence" : 3.070336
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398593050045",
+        "endTimestampMs" : "1398593298224"
+      },
+      "distance" : 1186,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 354149398,
+          "lngE7" : 250185642
+        }, {
+          "latE7" : 354124717,
+          "lngE7" : 250176010
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 354124603,
+          "lngE7" : 250175114,
+          "timestampMs" : "1398593118191",
+          "accuracyMeters" : 40
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398593795544",
+        "endTimestampMs" : "1398593840816"
+      },
+      "distance" : 81,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 354149360,
+          "lngE7" : 250185680
+        }, {
+          "latE7" : 354159126,
+          "lngE7" : 250186290
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398593840816",
+        "endTimestampMs" : "1398593932270"
+      },
+      "distance" : 255,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 354161529,
+          "lngE7" : 250182456
+        }, {
+          "latE7" : 354168586,
+          "lngE7" : 250183544
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398597236032",
+        "endTimestampMs" : "1398597295019"
+      },
+      "distance" : 325,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 354168586,
+          "lngE7" : 250183544
+        }, {
+          "latE7" : 354149322,
+          "lngE7" : 250185756
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 354147100,
+        "longitudeE7" : 250199020,
+        "placeId" : "ChIJyY_mmpZRmhQRxZo1n8QNpzc",
+        "address" : "Agia Pelagia 71500, Peninsula Hotel\nIraklio 715 00\nGreece",
+        "name" : "Peninsula Resort & Spa",
+        "locationConfidence" : 22.797527
+      },
+      "duration" : {
+        "startTimestampMs" : "1398597295019",
+        "endTimestampMs" : "1398621840731"
+      },
+      "centerLatE7" : 354149540,
+      "centerLngE7" : 250185843,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 354146320,
+        "longitudeE7" : 250200100,
+        "placeId" : "ChIJyY_mmpZRmhQRxZo1n8QNpzc",
+        "name" : "Peninsula Resort & Spa",
+        "locationConfidence" : 22.363668
+      }, {
+        "latitudeE7" : 354138940,
+        "longitudeE7" : 250174610,
+        "placeId" : "ChIJp3b3555RmhQRVviOvF6lRtc",
+        "name" : "Eva Mare",
+        "locationConfidence" : 12.0470495
+      }, {
+        "latitudeE7" : 354134667,
+        "longitudeE7" : 250185727,
+        "placeId" : "ChIJm_oa55ZRmhQRntWIkYrKNmk",
+        "name" : "Nudebeach Agia Pelagia",
+        "locationConfidence" : 10.119857
+      }, {
+        "latitudeE7" : 354143760,
+        "longitudeE7" : 250172853,
+        "placeId" : "ChIJVXNkqZ5RmhQR1DBpYjWmc3k",
+        "name" : "Evita Apartments",
+        "locationConfidence" : 5.0349627
+      }, {
+        "latitudeE7" : 354158250,
+        "longitudeE7" : 250160820,
+        "placeId" : "ChIJCURscZFRmhQRIEuTVxemjZw",
+        "name" : "Blue Bay Resort & Spa",
+        "locationConfidence" : 4.2194314
+      }, {
+        "latitudeE7" : 354161424,
+        "longitudeE7" : 250182680,
+        "placeId" : "ChIJgTgVGZRRmhQRGtlrwWczPjY",
+        "name" : "Στέλιος",
+        "locationConfidence" : 3.9579964
+      }, {
+        "latitudeE7" : 354177200,
+        "longitudeE7" : 250184060,
+        "placeId" : "ChIJV5BStpZRmhQRqn1jp6OQyMQ",
+        "name" : "Sea Side Resort & Spa",
+        "locationConfidence" : 3.717969
+      }, {
+        "latitudeE7" : 354158434,
+        "longitudeE7" : 250172997,
+        "placeId" : "ChIJWSsDqpZRmhQRriURAJCUyvg",
+        "name" : "Ξενοδοχείο Κατερίνας",
+        "locationConfidence" : 3.60898
+      }, {
+        "latitudeE7" : 354137000,
+        "longitudeE7" : 250173960,
+        "placeId" : "ChIJzVIr1ZZRmhQRgEfWkpmyo1I",
+        "name" : "Dioskouroi",
+        "locationConfidence" : 3.2424452
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398621840731",
+        "endTimestampMs" : "1398621901186"
+      },
+      "distance" : 292,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 354149398,
+          "lngE7" : 250185642
+        }, {
+          "latE7" : 354124755,
+          "lngE7" : 250176010
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398621901186",
+        "endTimestampMs" : "1398669512697"
+      },
+      "distance" : 16462,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 354124755,
+          "lngE7" : 250176010
+        }, {
+          "latE7" : 353366088,
+          "lngE7" : 251739730
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398669760307",
+        "endTimestampMs" : "1398671444869"
+      },
+      "distance" : 146550,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398671444869",
+        "endTimestampMs" : "1398678685179"
+      },
+      "distance" : 201716,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398678685179",
+        "endTimestampMs" : "1398679299770"
+      },
+      "distance" : 46605,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398679299770",
+        "endTimestampMs" : "1398680733547"
+      },
+      "distance" : 28440,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398680733547",
+        "endTimestampMs" : "1398682674949"
+      },
+      "distance" : 174308,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398682674949",
+        "endTimestampMs" : "1398684624128"
+      },
+      "distance" : 30724,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398684624128",
+        "endTimestampMs" : "1398685342114"
+      },
+      "distance" : 59637,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398685342114",
+        "endTimestampMs" : "1398689950956"
+      },
+      "distance" : 153997,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398689950956",
+        "endTimestampMs" : "1398694976083"
+      },
+      "distance" : 982637,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398694976083",
+        "endTimestampMs" : "1398695795155"
+      },
+      "distance" : 12084,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398695795155",
+        "endTimestampMs" : "1398695975099"
+      },
+      "distance" : 8419,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398695975099",
+        "endTimestampMs" : "1398696984463"
+      },
+      "distance" : 12091,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398696984463",
+        "endTimestampMs" : "1398699925739"
+      },
+      "distance" : 299824,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398699925739",
+        "endTimestampMs" : "1398701005664"
+      },
+      "distance" : 9455,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398701005664",
+        "endTimestampMs" : "1398703430157"
+      },
+      "distance" : 190606,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398703430157",
+        "endTimestampMs" : "1398704915734"
+      },
+      "distance" : 41466,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1398704915734",
+        "endTimestampMs" : "1398706024468"
+      },
+      "distance" : 142578,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494975092,
+        "longitudeE7" : 5678002,
+        "placeId" : "ChIJmy4EuVlQ4EcRSyR7-kpxtyM",
+        "locationConfidence" : 99.991974
+      },
+      "duration" : {
+        "startTimestampMs" : "1398706024468",
+        "endTimestampMs" : "1398714878537"
+      },
+      "centerLatE7" : 494975208,
+      "centerLngE7" : 5678039,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcRxmpmbHobpMs",
+        "name" : "Transport 3 D",
+        "locationConfidence" : 0.0034146989
+      }, {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcReDiWaOs5wIQ",
+        "name" : "Transports 3D",
+        "locationConfidence" : 0.0013857965
+      }, {
+        "latitudeE7" : 494950807,
+        "longitudeE7" : 5688644,
+        "placeId" : "ChIJN097mVdQ4EcRgXtAGNblbPQ",
+        "name" : "Foyer des Sports",
+        "locationConfidence" : 0.0010433602
+      }, {
+        "latitudeE7" : 494965149,
+        "longitudeE7" : 5679164,
+        "placeId" : "ChIJD-1Q0FlQ4EcR5y_klTTeeXg",
+        "name" : "Exxon Mobil Sports et Loisirs",
+        "locationConfidence" : 7.156987E-4
+      }, {
+        "latitudeE7" : 494955669,
+        "longitudeE7" : 5688473,
+        "placeId" : "ChIJfWI-g1dQ4EcRYTkJZkyWyv8",
+        "name" : "Rosay Dumouchel Marie Francoise",
+        "locationConfidence" : 5.234442E-4
+      }, {
+        "latitudeE7" : 494954150,
+        "longitudeE7" : 5691560,
+        "placeId" : "ChIJbXO0mldQ4EcRFtDgxaNdBV4",
+        "name" : "Club Sportif De Gravenchon",
+        "locationConfidence" : 4.0428253E-4
+      }, {
+        "latitudeE7" : 494964869,
+        "longitudeE7" : 5642745,
+        "placeId" : "ChIJ1Q7kcVpQ4EcR6ORWBa5ewWI",
+        "name" : "Meslet Yolande",
+        "locationConfidence" : 2.7581395E-4
+      }, {
+        "latitudeE7" : 494961967,
+        "longitudeE7" : 5685439,
+        "placeId" : "ChIJCUIjK1hQ4EcRxL0D_ErIfzA",
+        "name" : "Chauveau Grandin Jeanine",
+        "locationConfidence" : 2.6021095E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494975092,
+        "longitudeE7" : 5678002,
+        "placeId" : "ChIJmy4EuVlQ4EcRSyR7-kpxtyM",
+        "locationConfidence" : 99.98775
+      },
+      "duration" : {
+        "startTimestampMs" : "1398873216709",
+        "endTimestampMs" : "1398890177027"
+      },
+      "centerLatE7" : 494975384,
+      "centerLngE7" : 5678088,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcRxmpmbHobpMs",
+        "name" : "Transport 3 D",
+        "locationConfidence" : 0.004476817
+      }, {
+        "latitudeE7" : 494965149,
+        "longitudeE7" : 5679164,
+        "placeId" : "ChIJD-1Q0FlQ4EcR5y_klTTeeXg",
+        "name" : "Exxon Mobil Sports et Loisirs",
+        "locationConfidence" : 0.003137675
+      }, {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcReDiWaOs5wIQ",
+        "name" : "Transports 3D",
+        "locationConfidence" : 0.0018168386
+      }, {
+        "latitudeE7" : 494961967,
+        "longitudeE7" : 5685439,
+        "placeId" : "ChIJCUIjK1hQ4EcRxL0D_ErIfzA",
+        "name" : "Chauveau Grandin Jeanine",
+        "locationConfidence" : 7.8722334E-4
+      }, {
+        "latitudeE7" : 494955669,
+        "longitudeE7" : 5688473,
+        "placeId" : "ChIJfWI-g1dQ4EcRYTkJZkyWyv8",
+        "name" : "Rosay Dumouchel Marie Francoise",
+        "locationConfidence" : 6.25495E-4
+      }, {
+        "latitudeE7" : 494950807,
+        "longitudeE7" : 5688644,
+        "placeId" : "ChIJN097mVdQ4EcRgXtAGNblbPQ",
+        "name" : "Foyer des Sports",
+        "locationConfidence" : 6.2212144E-4
+      }, {
+        "latitudeE7" : 494954150,
+        "longitudeE7" : 5691560,
+        "placeId" : "ChIJbXO0mldQ4EcRFtDgxaNdBV4",
+        "name" : "Club Sportif De Gravenchon",
+        "locationConfidence" : 4.712451E-4
+      }, {
+        "latitudeE7" : 494964869,
+        "longitudeE7" : 5642745,
+        "placeId" : "ChIJ1Q7kcVpQ4EcR6ORWBa5ewWI",
+        "name" : "Meslet Yolande",
+        "locationConfidence" : 3.1387986E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

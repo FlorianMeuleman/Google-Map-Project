@@ -1,0 +1,4042 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.99557
+      },
+      "duration" : {
+        "startTimestampMs" : "1372763662051",
+        "endTimestampMs" : "1372769823796"
+      },
+      "centerLatE7" : 494231727,
+      "centerLngE7" : 4519018,
+      "visitConfidence" : 79,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRVjozZzajs9E",
+        "name" : "Delacroix Hervé",
+        "locationConfidence" : 0.001352842
+      }, {
+        "latitudeE7" : 494228939,
+        "longitudeE7" : 4527023,
+        "placeId" : "ChIJO99u9WxM4EcRwVCfBuVVpOI",
+        "name" : "Meheu Eric",
+        "locationConfidence" : 0.0010163629
+      }, {
+        "latitudeE7" : 494250703,
+        "longitudeE7" : 4511840,
+        "placeId" : "ChIJ9T3TK21M4EcR9G1zEzSgme8",
+        "name" : "Elevage canin - Akita Inu - Des Gardiens du Temple Sacré",
+        "locationConfidence" : 0.0010100217
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRHzF-NPHw6-Y",
+        "name" : "Métot Louis",
+        "locationConfidence" : 4.559741E-4
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRb52eYx52Vf8",
+        "name" : "Roynard Mansois Mireille Helene",
+        "locationConfidence" : 3.5595836E-4
+      }, {
+        "latitudeE7" : 494246791,
+        "longitudeE7" : 4543221,
+        "placeId" : "ChIJI7g-WGtM4EcRd-oydD_ki8o",
+        "name" : "Exploitation Forestiere Maret - Bisson",
+        "locationConfidence" : 1.5234279E-4
+      }, {
+        "latitudeE7" : 494214391,
+        "longitudeE7" : 4528808,
+        "placeId" : "ChIJ3Xbg5WtM4EcRBcwQh8332J4",
+        "name" : "Samson Claude",
+        "locationConfidence" : 8.912333E-5
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.99557
+      },
+      "endLocation" : {
+        "latitudeE7" : 494951219,
+        "longitudeE7" : 5684683
+      },
+      "duration" : {
+        "startTimestampMs" : "1372769823796",
+        "endTimestampMs" : "1372773949251"
+      },
+      "distance" : 11612,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494232444,
+          "lngE7" : 4520978
+        }, {
+          "latE7" : 494950714,
+          "lngE7" : 5684725
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494951219,
+        "longitudeE7" : 5684683
+      },
+      "endLocation" : {
+        "latitudeE7" : 495338760,
+        "longitudeE7" : 1824706
+      },
+      "duration" : {
+        "startTimestampMs" : "1372773949251",
+        "endTimestampMs" : "1372779191099"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494952854,
+          "lngE7" : 5681546,
+          "timestampMs" : "1372774429920",
+          "accuracyMeters" : 24
+        }, {
+          "latE7" : 494955716,
+          "lngE7" : 5676101,
+          "timestampMs" : "1372775348679",
+          "accuracyMeters" : 24
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 495301060,
+        "longitudeE7" : 1872580,
+        "placeId" : "ChIJQ7c8_bs64EcRhLbe3Lug9p4",
+        "address" : "Centre Commercial La Lézarde\n76290 Montivilliers\nFrance",
+        "name" : "Decathlon Le Havre Montivilliers",
+        "locationConfidence" : 19.827362
+      },
+      "duration" : {
+        "startTimestampMs" : "1372779402247",
+        "endTimestampMs" : "1372780590338"
+      },
+      "centerLatE7" : 495307400,
+      "centerLngE7" : 1842900,
+      "visitConfidence" : 17,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 495262620,
+        "longitudeE7" : 1844621,
+        "placeId" : "ChIJB5_JsAcw4EcR6iAKxxiy6MM",
+        "name" : "Hospital Center General Du Havre",
+        "locationConfidence" : 17.522348
+      }, {
+        "latitudeE7" : 495302567,
+        "longitudeE7" : 1814078,
+        "placeId" : "ChIJoZQeg6k64EcRr1W5Qd1aX9Y",
+        "name" : "S.a.m.u (Service Aide Médicale Urgente)",
+        "locationConfidence" : 12.306319
+      }, {
+        "latitudeE7" : 495302567,
+        "longitudeE7" : 1814078,
+        "placeId" : "ChIJkeweg6k64EcRuhx8mH_RUGE",
+        "name" : "Center Havre Imaging Nucléaire C.h.i.n-Scm",
+        "locationConfidence" : 11.805726
+      }, {
+        "latitudeE7" : 495302567,
+        "longitudeE7" : 1814078,
+        "placeId" : "ChIJkeweg6k64EcR1d1RG61vhn0",
+        "name" : "Gcs",
+        "locationConfidence" : 11.074708
+      }, {
+        "latitudeE7" : 495309525,
+        "longitudeE7" : 1822819,
+        "placeId" : "ChIJdwaYDak64EcRRd2GxEcrQ14",
+        "name" : "Etalmag",
+        "locationConfidence" : 7.320513
+      }, {
+        "latitudeE7" : 495321630,
+        "longitudeE7" : 1811930,
+        "placeId" : "ChIJRaa7H6w64EcRZhpPQvNDQ2o",
+        "name" : "Relais Fasthôtel Le Havre Montivilliers",
+        "locationConfidence" : 4.77553
+      }, {
+        "latitudeE7" : 495292518,
+        "longitudeE7" : 1818098,
+        "placeId" : "ChIJkeweg6k64EcRG53f8Filefw",
+        "locationConfidence" : 2.921804
+      }, {
+        "latitudeE7" : 495297800,
+        "longitudeE7" : 1816200,
+        "placeId" : "ChIJu6D3mqk64EcR1VZklvxm-4o",
+        "name" : "Association Cartophile de Montivilliers",
+        "locationConfidence" : 1.9193591
+      }, {
+        "latitudeE7" : 495320419,
+        "longitudeE7" : 1821410,
+        "placeId" : "ChIJnSulOKk64EcRNTEyBfEKriI",
+        "name" : "unnamed",
+        "locationConfidence" : 1.7528646
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 495301060,
+        "longitudeE7" : 1872580,
+        "placeId" : "ChIJQ7c8_bs64EcRhLbe3Lug9p4",
+        "address" : "Centre Commercial La Lézarde\n76290 Montivilliers\nFrance",
+        "name" : "Decathlon Le Havre Montivilliers",
+        "locationConfidence" : 19.827362
+      },
+      "endLocation" : {
+        "latitudeE7" : 495224300,
+        "longitudeE7" : 1909180,
+        "placeId" : "ChIJ07SRUwkw4EcRxKuoxI3Vv2I",
+        "address" : "Zone Commerciale de la Lézarde\n76700 Montivilliers\nFrance",
+        "name" : "Buffalo Grill",
+        "locationConfidence" : 74.61477
+      },
+      "duration" : {
+        "startTimestampMs" : "1372780590338",
+        "endTimestampMs" : "1372788965364"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 495338668,
+          "lngE7" : 1824160
+        }, {
+          "latE7" : 495227775,
+          "lngE7" : 1911377
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 495224300,
+        "longitudeE7" : 1909180,
+        "placeId" : "ChIJ07SRUwkw4EcRxKuoxI3Vv2I",
+        "address" : "Zone Commerciale de la Lézarde\n76700 Montivilliers\nFrance",
+        "name" : "Buffalo Grill",
+        "locationConfidence" : 74.61477
+      },
+      "duration" : {
+        "startTimestampMs" : "1372788965364",
+        "endTimestampMs" : "1372790790150"
+      },
+      "centerLatE7" : 495227400,
+      "centerLngE7" : 1909400,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 495221850,
+        "longitudeE7" : 1918726,
+        "placeId" : "ChIJpRcnVQkw4EcRunAzdvfyylY",
+        "name" : "BOULANGER Le Havre",
+        "locationConfidence" : 8.968753
+      }, {
+        "latitudeE7" : 495225430,
+        "longitudeE7" : 1917680,
+        "placeId" : "ChIJEVojI7w64EcRp6QrG7Z-ero",
+        "name" : "Boulanger Electromenager et Multimedia",
+        "locationConfidence" : 5.290676
+      }, {
+        "latitudeE7" : 495233110,
+        "longitudeE7" : 1898710,
+        "placeId" : "ChIJF1ClzQkw4EcRA9Hh9jSWg4U",
+        "name" : "Magasin Kiabi MONTIVILLIERS",
+        "locationConfidence" : 4.1495576
+      }, {
+        "latitudeE7" : 495231700,
+        "longitudeE7" : 1927300,
+        "placeId" : "ChIJB2zE8wsw4EcRFIiMJncE33E",
+        "name" : "Outiror",
+        "locationConfidence" : 1.9456034
+      }, {
+        "latitudeE7" : 495310700,
+        "longitudeE7" : 1893150,
+        "placeId" : "ChIJ10PsCAkw4EcRrd1AgnId7aM",
+        "name" : "Auchan Montivilliers",
+        "locationConfidence" : 1.9046503
+      }, {
+        "latitudeE7" : 495235000,
+        "longitudeE7" : 1929460,
+        "placeId" : "ChIJl8M87Qsw4EcRiXF616Z2Azc",
+        "name" : "Autosur",
+        "locationConfidence" : 0.65596914
+      }, {
+        "latitudeE7" : 495233700,
+        "longitudeE7" : 1915180,
+        "placeId" : "ChIJo6WIVwkw4EcRCiSV6IMcs18",
+        "name" : "La Halle Mode et Accessoires",
+        "locationConfidence" : 0.59432626
+      }, {
+        "latitudeE7" : 495219020,
+        "longitudeE7" : 1919930,
+        "placeId" : "ChIJDReJGwww4EcRV-7WsASbPKI",
+        "name" : "EASY CASH LE HAVRE",
+        "locationConfidence" : 0.41796082
+      }, {
+        "latitudeE7" : 495235866,
+        "longitudeE7" : 1898066,
+        "placeId" : "ChIJFwOUjqY64EcRDH8J5_sXmxk",
+        "name" : "Chaussea",
+        "locationConfidence" : 0.33992878
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 495224300,
+        "longitudeE7" : 1909180,
+        "placeId" : "ChIJ07SRUwkw4EcRxKuoxI3Vv2I",
+        "address" : "Zone Commerciale de la Lézarde\n76700 Montivilliers\nFrance",
+        "name" : "Buffalo Grill",
+        "locationConfidence" : 75.667366
+      },
+      "duration" : {
+        "startTimestampMs" : "1372793597197",
+        "endTimestampMs" : "1372795144899"
+      },
+      "centerLatE7" : 495227400,
+      "centerLngE7" : 1909400,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 495221850,
+        "longitudeE7" : 1918726,
+        "placeId" : "ChIJpRcnVQkw4EcRunAzdvfyylY",
+        "name" : "BOULANGER Le Havre",
+        "locationConfidence" : 9.086379
+      }, {
+        "latitudeE7" : 495225430,
+        "longitudeE7" : 1917680,
+        "placeId" : "ChIJEVojI7w64EcRp6QrG7Z-ero",
+        "name" : "Boulanger Electromenager et Multimedia",
+        "locationConfidence" : 5.360064
+      }, {
+        "latitudeE7" : 495233110,
+        "longitudeE7" : 1898710,
+        "placeId" : "ChIJF1ClzQkw4EcRA9Hh9jSWg4U",
+        "name" : "Magasin Kiabi MONTIVILLIERS",
+        "locationConfidence" : 4.2080956
+      }, {
+        "latitudeE7" : 495231700,
+        "longitudeE7" : 1927300,
+        "placeId" : "ChIJB2zE8wsw4EcRFIiMJncE33E",
+        "name" : "Outiror",
+        "locationConfidence" : 1.97305
+      }, {
+        "latitudeE7" : 495235000,
+        "longitudeE7" : 1929460,
+        "placeId" : "ChIJl8M87Qsw4EcRiXF616Z2Azc",
+        "name" : "Autosur",
+        "locationConfidence" : 0.66522294
+      }, {
+        "latitudeE7" : 495233700,
+        "longitudeE7" : 1915180,
+        "placeId" : "ChIJo6WIVwkw4EcRCiSV6IMcs18",
+        "name" : "La Halle Mode et Accessoires",
+        "locationConfidence" : 0.6027105
+      }, {
+        "latitudeE7" : 495310700,
+        "longitudeE7" : 1893150,
+        "placeId" : "ChIJ10PsCAkw4EcRrd1AgnId7aM",
+        "name" : "Auchan Montivilliers",
+        "locationConfidence" : 0.59918046
+      }, {
+        "latitudeE7" : 495219020,
+        "longitudeE7" : 1919930,
+        "placeId" : "ChIJDReJGwww4EcRV-7WsASbPKI",
+        "name" : "EASY CASH LE HAVRE",
+        "locationConfidence" : 0.423857
+      }, {
+        "latitudeE7" : 495235866,
+        "longitudeE7" : 1898066,
+        "placeId" : "ChIJFwOUjqY64EcRDH8J5_sXmxk",
+        "name" : "Chaussea",
+        "locationConfidence" : 0.34472415
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 495224300,
+        "longitudeE7" : 1909180,
+        "placeId" : "ChIJ07SRUwkw4EcRxKuoxI3Vv2I",
+        "address" : "Zone Commerciale de la Lézarde\n76700 Montivilliers\nFrance",
+        "name" : "Buffalo Grill",
+        "locationConfidence" : 75.667366
+      },
+      "endLocation" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.99367
+      },
+      "duration" : {
+        "startTimestampMs" : "1372795144899",
+        "endTimestampMs" : "1372797024088"
+      },
+      "distance" : 21863,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 495227775,
+          "lngE7" : 1911374
+        }, {
+          "latE7" : 494232330,
+          "lngE7" : 4521039
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.99367
+      },
+      "duration" : {
+        "startTimestampMs" : "1372797024088",
+        "endTimestampMs" : "1372887916609"
+      },
+      "centerLatE7" : 494231286,
+      "centerLngE7" : 4518751,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRVjozZzajs9E",
+        "name" : "Delacroix Hervé",
+        "locationConfidence" : 0.002196326
+      }, {
+        "latitudeE7" : 494228939,
+        "longitudeE7" : 4527023,
+        "placeId" : "ChIJO99u9WxM4EcRwVCfBuVVpOI",
+        "name" : "Meheu Eric",
+        "locationConfidence" : 0.001282788
+      }, {
+        "latitudeE7" : 494250703,
+        "longitudeE7" : 4511840,
+        "placeId" : "ChIJ9T3TK21M4EcR9G1zEzSgme8",
+        "name" : "Elevage canin - Akita Inu - Des Gardiens du Temple Sacré",
+        "locationConfidence" : 0.001207283
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRHzF-NPHw6-Y",
+        "name" : "Métot Louis",
+        "locationConfidence" : 7.561743E-4
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRb52eYx52Vf8",
+        "name" : "Roynard Mansois Mireille Helene",
+        "locationConfidence" : 5.903111E-4
+      }, {
+        "latitudeE7" : 494246791,
+        "longitudeE7" : 4543221,
+        "placeId" : "ChIJI7g-WGtM4EcRd-oydD_ki8o",
+        "name" : "Exploitation Forestiere Maret - Bisson",
+        "locationConfidence" : 1.8202308E-4
+      }, {
+        "latitudeE7" : 494214391,
+        "longitudeE7" : 4528808,
+        "placeId" : "ChIJ3Xbg5WtM4EcRBcwQh8332J4",
+        "name" : "Samson Claude",
+        "locationConfidence" : 1.20352546E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.994705
+      },
+      "duration" : {
+        "startTimestampMs" : "1372932492238",
+        "endTimestampMs" : "1372958844556"
+      },
+      "centerLatE7" : 494276161,
+      "centerLngE7" : 4594220,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRVjozZzajs9E",
+        "name" : "Delacroix Hervé",
+        "locationConfidence" : 0.0017347367
+      }, {
+        "latitudeE7" : 494228939,
+        "longitudeE7" : 4527023,
+        "placeId" : "ChIJO99u9WxM4EcRwVCfBuVVpOI",
+        "name" : "Meheu Eric",
+        "locationConfidence" : 0.0011271173
+      }, {
+        "latitudeE7" : 494250703,
+        "longitudeE7" : 4511840,
+        "placeId" : "ChIJ9T3TK21M4EcR9G1zEzSgme8",
+        "name" : "Elevage canin - Akita Inu - Des Gardiens du Temple Sacré",
+        "locationConfidence" : 0.001101007
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRHzF-NPHw6-Y",
+        "name" : "Métot Louis",
+        "locationConfidence" : 5.972535E-4
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRb52eYx52Vf8",
+        "name" : "Roynard Mansois Mireille Helene",
+        "locationConfidence" : 4.6624878E-4
+      }, {
+        "latitudeE7" : 494246791,
+        "longitudeE7" : 4543221,
+        "placeId" : "ChIJI7g-WGtM4EcRd-oydD_ki8o",
+        "name" : "Exploitation Forestiere Maret - Bisson",
+        "locationConfidence" : 1.6163975E-4
+      }, {
+        "latitudeE7" : 494214391,
+        "longitudeE7" : 4528808,
+        "placeId" : "ChIJ3Xbg5WtM4EcRBcwQh8332J4",
+        "name" : "Samson Claude",
+        "locationConfidence" : 1.03222636E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494231520,
+          "lngE7" : 4518487,
+          "timestampMs" : "1372947724459",
+          "accuracyMeters" : 30
+        }, {
+          "latE7" : 494700981,
+          "lngE7" : 5321757,
+          "timestampMs" : "1372958607098",
+          "accuracyMeters" : 37
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494897437,
+        "longitudeE7" : 5707252,
+        "placeId" : "ChIJhWjJ8lVQ4EcR8Tw9dBcwmus",
+        "address" : "Avenue Victor Hugo, 76330 Notre Dame de Gravenchon, France",
+        "name" : "Communauté De Communescaux Vallée De Seine",
+        "locationConfidence" : 17.82513
+      },
+      "duration" : {
+        "startTimestampMs" : "1372959416973",
+        "endTimestampMs" : "1372966375676"
+      },
+      "centerLatE7" : 494883878,
+      "centerLngE7" : 5726822,
+      "visitConfidence" : 58,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494882771,
+        "longitudeE7" : 5717612,
+        "placeId" : "ChIJB8rggv9Q4EcRscrqES0zIGU",
+        "name" : "Les Confettis",
+        "locationConfidence" : 13.949835
+      }, {
+        "latitudeE7" : 494867101,
+        "longitudeE7" : 5744409,
+        "placeId" : "ChIJSRU6Mf5Q4EcRHfktqZ6F50Y",
+        "name" : "Centre nautique Alain Guilloit",
+        "locationConfidence" : 10.207346
+      }, {
+        "latitudeE7" : 494887823,
+        "longitudeE7" : 5691916,
+        "placeId" : "ChIJ8Qd_n1VQ4EcR2RGggA1nSiA",
+        "name" : "Les 3 Colombiers",
+        "locationConfidence" : 9.798976
+      }, {
+        "latitudeE7" : 494878306,
+        "longitudeE7" : 5708862,
+        "placeId" : "ChIJ_2LFfFVQ4EcRgsAedmT3zI4",
+        "locationConfidence" : 9.216187
+      }, {
+        "latitudeE7" : 494889032,
+        "longitudeE7" : 5714769,
+        "placeId" : "ChIJDbRjBFRQ4EcRaqcaNHOu2TA",
+        "name" : "Le Safran",
+        "locationConfidence" : 4.9357553
+      }, {
+        "latitudeE7" : 494874724,
+        "longitudeE7" : 5770065,
+        "placeId" : "ChIJc0coq_tQ4EcRVhVNqxTzvPY",
+        "name" : "Stade Marius Virmontois",
+        "locationConfidence" : 3.5150423
+      }, {
+        "latitudeE7" : 494887691,
+        "longitudeE7" : 5709939,
+        "placeId" : "ChIJYXRJClZQ4EcRmi28ADJ2qOg",
+        "name" : "Gendarmerie",
+        "locationConfidence" : 3.0816126
+      }, {
+        "latitudeE7" : 494888910,
+        "longitudeE7" : 5693470,
+        "placeId" : "ChIJLw9epFVQ4EcR71-X8B52UFU",
+        "name" : "unnamed",
+        "locationConfidence" : 2.4852645
+      }, {
+        "latitudeE7" : 494902816,
+        "longitudeE7" : 5729789,
+        "placeId" : "ChIJFfLRQP9Q4EcRA2MOuHidl9o",
+        "name" : "CLIC Gérontologique Maill'Age",
+        "locationConfidence" : 1.8605434
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1373118566767",
+        "endTimestampMs" : "1373119215343"
+      },
+      "distance" : 3536,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494232025,
+          "lngE7" : 4521155
+        }, {
+          "latE7" : 493975906,
+          "lngE7" : 4809437
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1373119215343",
+        "endTimestampMs" : "1373130823624"
+      },
+      "distance" : 5238,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1373130863533",
+        "endTimestampMs" : "1373131913417"
+      },
+      "distance" : 11610,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 493565368,
+          "lngE7" : 5169463
+        }, {
+          "latE7" : 494232025,
+          "lngE7" : 4521155
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.98865
+      },
+      "duration" : {
+        "startTimestampMs" : "1373131913417",
+        "endTimestampMs" : "1373231713213"
+      },
+      "centerLatE7" : 494231412,
+      "centerLngE7" : 4518627,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRVjozZzajs9E",
+        "name" : "Delacroix Hervé",
+        "locationConfidence" : 0.0030422593
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRHzF-NPHw6-Y",
+        "name" : "Métot Louis",
+        "locationConfidence" : 0.002384168
+      }, {
+        "latitudeE7" : 494228939,
+        "longitudeE7" : 4527023,
+        "placeId" : "ChIJO99u9WxM4EcRwVCfBuVVpOI",
+        "name" : "Meheu Eric",
+        "locationConfidence" : 0.0019203284
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRb52eYx52Vf8",
+        "name" : "Roynard Mansois Mireille Helene",
+        "locationConfidence" : 0.0018612121
+      }, {
+        "latitudeE7" : 494250703,
+        "longitudeE7" : 4511840,
+        "placeId" : "ChIJ9T3TK21M4EcR9G1zEzSgme8",
+        "name" : "Elevage canin - Akita Inu - Des Gardiens du Temple Sacré",
+        "locationConfidence" : 0.0015749694
+      }, {
+        "latitudeE7" : 494214391,
+        "longitudeE7" : 4528808,
+        "placeId" : "ChIJ3Xbg5WtM4EcRBcwQh8332J4",
+        "name" : "Samson Claude",
+        "locationConfidence" : 3.4147908E-4
+      }, {
+        "latitudeE7" : 494246791,
+        "longitudeE7" : 4543221,
+        "placeId" : "ChIJI7g-WGtM4EcRd-oydD_ki8o",
+        "name" : "Exploitation Forestiere Maret - Bisson",
+        "locationConfidence" : 2.2525842E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.99562
+      },
+      "duration" : {
+        "startTimestampMs" : "1373277943778",
+        "endTimestampMs" : "1373321139011"
+      },
+      "centerLatE7" : 494230389,
+      "centerLngE7" : 4519242,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRVjozZzajs9E",
+        "name" : "Delacroix Hervé",
+        "locationConfidence" : 0.0013484989
+      }, {
+        "latitudeE7" : 494250703,
+        "longitudeE7" : 4511840,
+        "placeId" : "ChIJ9T3TK21M4EcR9G1zEzSgme8",
+        "name" : "Elevage canin - Akita Inu - Des Gardiens du Temple Sacré",
+        "locationConfidence" : 0.0010060802
+      }, {
+        "latitudeE7" : 494228939,
+        "longitudeE7" : 4527023,
+        "placeId" : "ChIJO99u9WxM4EcRwVCfBuVVpOI",
+        "name" : "Meheu Eric",
+        "locationConfidence" : 9.858366E-4
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRHzF-NPHw6-Y",
+        "name" : "Métot Louis",
+        "locationConfidence" : 4.5451027E-4
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRb52eYx52Vf8",
+        "name" : "Roynard Mansois Mireille Helene",
+        "locationConfidence" : 3.548156E-4
+      }, {
+        "latitudeE7" : 494246791,
+        "longitudeE7" : 4543221,
+        "placeId" : "ChIJI7g-WGtM4EcRd-oydD_ki8o",
+        "name" : "Exploitation Forestiere Maret - Bisson",
+        "locationConfidence" : 1.4305885E-4
+      }, {
+        "latitudeE7" : 494214391,
+        "longitudeE7" : 4528808,
+        "placeId" : "ChIJ3Xbg5WtM4EcRBcwQh8332J4",
+        "name" : "Samson Claude",
+        "locationConfidence" : 8.591721E-5
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494231518,
+          "lngE7" : 4518502,
+          "timestampMs" : "1373284354272",
+          "accuracyMeters" : 36
+        }, {
+          "latE7" : 494226725,
+          "lngE7" : 4522150,
+          "timestampMs" : "1373316797042",
+          "accuracyMeters" : 25
+        }, {
+          "latE7" : 494226725,
+          "lngE7" : 4522150,
+          "timestampMs" : "1373317168778",
+          "accuracyMeters" : 25
+        }, {
+          "latE7" : 494226725,
+          "lngE7" : 4522150,
+          "timestampMs" : "1373317628004",
+          "accuracyMeters" : 25
+        }, {
+          "latE7" : 494226725,
+          "lngE7" : 4522150,
+          "timestampMs" : "1373320560003",
+          "accuracyMeters" : 25
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.99123
+      },
+      "duration" : {
+        "startTimestampMs" : "1373366089270",
+        "endTimestampMs" : "1373376166923"
+      },
+      "centerLatE7" : 494583251,
+      "centerLngE7" : 5115944,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRVjozZzajs9E",
+        "name" : "Delacroix Hervé",
+        "locationConfidence" : 0.0023619386
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRHzF-NPHw6-Y",
+        "name" : "Métot Louis",
+        "locationConfidence" : 0.0018418857
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRb52eYx52Vf8",
+        "name" : "Roynard Mansois Mireille Helene",
+        "locationConfidence" : 0.0014378768
+      }, {
+        "latitudeE7" : 494228939,
+        "longitudeE7" : 4527023,
+        "placeId" : "ChIJO99u9WxM4EcRwVCfBuVVpOI",
+        "name" : "Meheu Eric",
+        "locationConfidence" : 0.0013598697
+      }, {
+        "latitudeE7" : 494250703,
+        "longitudeE7" : 4511840,
+        "placeId" : "ChIJ9T3TK21M4EcR9G1zEzSgme8",
+        "name" : "Elevage canin - Akita Inu - Des Gardiens du Temple Sacré",
+        "locationConfidence" : 0.0013011381
+      }, {
+        "latitudeE7" : 494214391,
+        "longitudeE7" : 4528808,
+        "placeId" : "ChIJ3Xbg5WtM4EcRBcwQh8332J4",
+        "name" : "Samson Claude",
+        "locationConfidence" : 2.89481E-4
+      }, {
+        "latitudeE7" : 494246791,
+        "longitudeE7" : 4543221,
+        "placeId" : "ChIJI7g-WGtM4EcRd-oydD_ki8o",
+        "name" : "Exploitation Forestiere Maret - Bisson",
+        "locationConfidence" : 1.8532817E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494233019,
+          "lngE7" : 4518588,
+          "timestampMs" : "1373366089270",
+          "accuracyMeters" : 41
+        }, {
+          "latE7" : 494699888,
+          "lngE7" : 5303289,
+          "timestampMs" : "1373375626803",
+          "accuracyMeters" : 39
+        }, {
+          "latE7" : 494700978,
+          "lngE7" : 5321753,
+          "timestampMs" : "1373375806829",
+          "accuracyMeters" : 43
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494941162,
+        "longitudeE7" : 5774884,
+        "placeId" : "ChIJ754UfvpQ4EcRVvcSqJtN_ks",
+        "address" : "76330 Notre-Dame-de-Gravenchon, France",
+        "name" : "Parc du Télhuet",
+        "locationConfidence" : 59.210957
+      },
+      "duration" : {
+        "startTimestampMs" : "1373376707355",
+        "endTimestampMs" : "1373378292775"
+      },
+      "centerLatE7" : 494910333,
+      "centerLngE7" : 5820333,
+      "visitConfidence" : 73,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494931340,
+        "longitudeE7" : 5796900,
+        "placeId" : "ChIJX4P9CftQ4EcRXFHFCTO10MY",
+        "name" : "Public Primary School Maurice Ravel",
+        "locationConfidence" : 18.714907
+      }, {
+        "latitudeE7" : 494934376,
+        "longitudeE7" : 5793698,
+        "placeId" : "ChIJc0coq_tQ4EcR1SyDMZki-4g",
+        "name" : "Restaurant municipal",
+        "locationConfidence" : 4.1608176
+      }, {
+        "latitudeE7" : 494901806,
+        "longitudeE7" : 5832299,
+        "placeId" : "ChIJHbOzRONQ4EcRM0cntzeTnp0",
+        "name" : "Chegraoui - Invest",
+        "locationConfidence" : 2.4647295
+      }, {
+        "latitudeE7" : 494911200,
+        "longitudeE7" : 5799801,
+        "placeId" : "ChIJqZ05e_tQ4EcR4OtGvpwn7WA",
+        "name" : "Leguen",
+        "locationConfidence" : 2.3506808
+      }, {
+        "latitudeE7" : 494898842,
+        "longitudeE7" : 5808120,
+        "placeId" : "ChIJEdFQX_xQ4EcRcB5RbLHSJdQ",
+        "name" : "Livia Onglerie",
+        "locationConfidence" : 2.0734181
+      }, {
+        "latitudeE7" : 494902630,
+        "longitudeE7" : 5821073,
+        "placeId" : "ChIJ1y9srfxQ4EcR6zM6Uuvnr0w",
+        "name" : "Safili Mouha",
+        "locationConfidence" : 1.8754127
+      }, {
+        "latitudeE7" : 494901908,
+        "longitudeE7" : 5844873,
+        "placeId" : "ChIJ4z1gcONQ4EcRwQJRsOHVzJc",
+        "name" : "Comme 9",
+        "locationConfidence" : 1.4813529
+      }, {
+        "latitudeE7" : 494913089,
+        "longitudeE7" : 5791510,
+        "placeId" : "ChIJd-LVgPtQ4EcRlrpGmrBg9oA",
+        "name" : "Martin Christophe Henri Raymond",
+        "locationConfidence" : 1.4166932
+      }, {
+        "latitudeE7" : 494925490,
+        "longitudeE7" : 5836440,
+        "placeId" : "ChIJ6fUOwuRQ4EcRPt83jsh5Qg4",
+        "name" : "Liants Routiers de Baie de Seine",
+        "locationConfidence" : 1.3748746
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1373378292775",
+        "endTimestampMs" : "1373490432220"
+      },
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.99687
+      },
+      "duration" : {
+        "startTimestampMs" : "1373631824350",
+        "endTimestampMs" : "1373636651912"
+      },
+      "centerLatE7" : 494233233,
+      "centerLngE7" : 4518239,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRVjozZzajs9E",
+        "name" : "Delacroix Hervé",
+        "locationConfidence" : 0.0013235334
+      }, {
+        "latitudeE7" : 494250703,
+        "longitudeE7" : 4511840,
+        "placeId" : "ChIJ9T3TK21M4EcR9G1zEzSgme8",
+        "name" : "Elevage canin - Akita Inu - Des Gardiens du Temple Sacré",
+        "locationConfidence" : 4.8224855E-4
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRHzF-NPHw6-Y",
+        "name" : "Métot Louis",
+        "locationConfidence" : 4.460957E-4
+      }, {
+        "latitudeE7" : 494228939,
+        "longitudeE7" : 4527023,
+        "placeId" : "ChIJO99u9WxM4EcRwVCfBuVVpOI",
+        "name" : "Meheu Eric",
+        "locationConfidence" : 4.401221E-4
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRb52eYx52Vf8",
+        "name" : "Roynard Mansois Mireille Helene",
+        "locationConfidence" : 3.4824671E-4
+      }, {
+        "latitudeE7" : 494246791,
+        "longitudeE7" : 4543221,
+        "placeId" : "ChIJI7g-WGtM4EcRd-oydD_ki8o",
+        "name" : "Exploitation Forestiere Maret - Bisson",
+        "locationConfidence" : 6.19341E-5
+      }, {
+        "latitudeE7" : 494214391,
+        "longitudeE7" : 4528808,
+        "placeId" : "ChIJ3Xbg5WtM4EcRBcwQh8332J4",
+        "name" : "Samson Claude",
+        "locationConfidence" : 2.7975459E-5
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1373636651912",
+        "endTimestampMs" : "1373659575392"
+      },
+      "distance" : 68953,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494234352,
+          "lngE7" : 4518347
+        }, {
+          "latE7" : 494626121,
+          "lngE7" : 9555379
+        }, {
+          "latE7" : 494051551,
+          "lngE7" : 6306023
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494625931,
+          "lngE7" : 9554805,
+          "timestampMs" : "1373642407648",
+          "accuracyMeters" : 14
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1373659575392",
+        "endTimestampMs" : "1373742051245"
+      },
+      "distance" : 13082,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.99157
+      },
+      "duration" : {
+        "startTimestampMs" : "1373742051245",
+        "endTimestampMs" : "1373742840085"
+      },
+      "centerLatE7" : 494232067,
+      "centerLngE7" : 4519067,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494250703,
+        "longitudeE7" : 4511840,
+        "placeId" : "ChIJ9T3TK21M4EcR9G1zEzSgme8",
+        "name" : "Elevage canin - Akita Inu - Des Gardiens du Temple Sacré",
+        "locationConfidence" : 0.0025475
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRVjozZzajs9E",
+        "name" : "Delacroix Hervé",
+        "locationConfidence" : 0.0015133029
+      }, {
+        "latitudeE7" : 494228939,
+        "longitudeE7" : 4527023,
+        "placeId" : "ChIJO99u9WxM4EcRwVCfBuVVpOI",
+        "name" : "Meheu Eric",
+        "locationConfidence" : 0.0013673935
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRHzF-NPHw6-Y",
+        "name" : "Métot Louis",
+        "locationConfidence" : 0.0011859504
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRb52eYx52Vf8",
+        "name" : "Roynard Mansois Mireille Helene",
+        "locationConfidence" : 9.2581776E-4
+      }, {
+        "latitudeE7" : 494214391,
+        "longitudeE7" : 4528808,
+        "placeId" : "ChIJ3Xbg5WtM4EcRBcwQh8332J4",
+        "name" : "Samson Claude",
+        "locationConfidence" : 4.748233E-4
+      }, {
+        "latitudeE7" : 494246791,
+        "longitudeE7" : 4543221,
+        "placeId" : "ChIJI7g-WGtM4EcRd-oydD_ki8o",
+        "name" : "Exploitation Forestiere Maret - Bisson",
+        "locationConfidence" : 4.1734087E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.98023
+      },
+      "duration" : {
+        "startTimestampMs" : "1373743748585",
+        "endTimestampMs" : "1373753529115"
+      },
+      "centerLatE7" : 494233278,
+      "centerLngE7" : 4518500,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRVjozZzajs9E",
+        "name" : "Delacroix Hervé",
+        "locationConfidence" : 0.008002897
+      }, {
+        "latitudeE7" : 494250703,
+        "longitudeE7" : 4511840,
+        "placeId" : "ChIJ9T3TK21M4EcR9G1zEzSgme8",
+        "name" : "Elevage canin - Akita Inu - Des Gardiens du Temple Sacré",
+        "locationConfidence" : 0.0034923274
+      }, {
+        "latitudeE7" : 494228939,
+        "longitudeE7" : 4527023,
+        "placeId" : "ChIJO99u9WxM4EcRwVCfBuVVpOI",
+        "name" : "Meheu Eric",
+        "locationConfidence" : 0.0027830147
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRHzF-NPHw6-Y",
+        "name" : "Métot Louis",
+        "locationConfidence" : 0.0026973689
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRb52eYx52Vf8",
+        "name" : "Roynard Mansois Mireille Helene",
+        "locationConfidence" : 0.0021057138
+      }, {
+        "latitudeE7" : 494246791,
+        "longitudeE7" : 4543221,
+        "placeId" : "ChIJI7g-WGtM4EcRd-oydD_ki8o",
+        "name" : "Exploitation Forestiere Maret - Bisson",
+        "locationConfidence" : 4.7546023E-4
+      }, {
+        "latitudeE7" : 494214391,
+        "longitudeE7" : 4528808,
+        "placeId" : "ChIJ3Xbg5WtM4EcRBcwQh8332J4",
+        "name" : "Samson Claude",
+        "locationConfidence" : 2.0823666E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.98023
+      },
+      "endLocation" : {
+        "latitudeE7" : 498526700,
+        "longitudeE7" : 5975300,
+        "placeId" : "ChIJrx7GL8tk4EcRAMUPlSC2mVI",
+        "address" : "Chemin St Vigor d'omonville\n76450 Veulettes-sur-Mer\nFrance",
+        "name" : "Association Amis Du Pont Rouge",
+        "locationConfidence" : 27.076488
+      },
+      "duration" : {
+        "startTimestampMs" : "1373753529115",
+        "endTimestampMs" : "1373825547593"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494233512,
+          "lngE7" : 4520517
+        }, {
+          "latE7" : 498525505,
+          "lngE7" : 5981696
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 498526700,
+        "longitudeE7" : 5975300,
+        "placeId" : "ChIJrx7GL8tk4EcRAMUPlSC2mVI",
+        "address" : "Chemin St Vigor d'omonville\n76450 Veulettes-sur-Mer\nFrance",
+        "name" : "Association Amis Du Pont Rouge",
+        "locationConfidence" : 27.076488
+      },
+      "duration" : {
+        "startTimestampMs" : "1373825547593",
+        "endTimestampMs" : "1373829324012"
+      },
+      "centerLatE7" : 498525841,
+      "centerLngE7" : 5981218,
+      "visitConfidence" : 76,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 498526559,
+        "longitudeE7" : 5978082,
+        "placeId" : "ChIJp2UE8mRl4EcR3soZVoTF_F8",
+        "name" : "Les Fregates",
+        "locationConfidence" : 20.283863
+      }, {
+        "latitudeE7" : 498527863,
+        "longitudeE7" : 5961214,
+        "placeId" : "ChIJrx7GL8tk4EcRFrSUExj_e9w",
+        "name" : "Casino de Veulettes-sur-Mer",
+        "locationConfidence" : 16.144836
+      }, {
+        "latitudeE7" : 498526762,
+        "longitudeE7" : 5976931,
+        "placeId" : "ChIJi4IQL8tk4EcRJahoJcgrJ0U",
+        "name" : "hotel restaurant LES FREGATES",
+        "locationConfidence" : 12.016369
+      }, {
+        "latitudeE7" : 498527660,
+        "longitudeE7" : 5986120,
+        "placeId" : "ChIJrysU0cpk4EcRGPuWYzEiSp0",
+        "name" : "Restaurant de la Mer",
+        "locationConfidence" : 4.4728336
+      }, {
+        "latitudeE7" : 498508141,
+        "longitudeE7" : 5965067,
+        "placeId" : "ChIJt3hWT8tk4EcRbc_LDT1BEdw",
+        "name" : "Hotel Des Bains",
+        "locationConfidence" : 3.5193818
+      }, {
+        "latitudeE7" : 498532580,
+        "longitudeE7" : 6008150,
+        "placeId" : "ChIJx5ozzEp74EcRpKReNxk84sI",
+        "name" : "Restaurant de la Mer",
+        "locationConfidence" : 3.415903
+      }, {
+        "latitudeE7" : 498520652,
+        "longitudeE7" : 5962497,
+        "placeId" : "ChIJv9VVT8tk4EcROmw8XUt0luM",
+        "name" : "Hôtel de3 Bains",
+        "locationConfidence" : 2.9331634
+      }, {
+        "latitudeE7" : 498528693,
+        "longitudeE7" : 6009852,
+        "placeId" : "ChIJ61ZAVbVk4EcRxn3CNCQ-JEM",
+        "name" : "Syndicat d'Initiative",
+        "locationConfidence" : 2.8254645
+      }, {
+        "latitudeE7" : 498533099,
+        "longitudeE7" : 6023500,
+        "placeId" : "ChIJA0Z5tUp74EcR6zS3oZpF6gA",
+        "name" : "Le Parme Zen",
+        "locationConfidence" : 1.7160153
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 498526700,
+        "longitudeE7" : 5975300,
+        "placeId" : "ChIJrx7GL8tk4EcRAMUPlSC2mVI",
+        "address" : "Chemin St Vigor d'omonville\n76450 Veulettes-sur-Mer\nFrance",
+        "name" : "Association Amis Du Pont Rouge",
+        "locationConfidence" : 27.076488
+      },
+      "endLocation" : {
+        "latitudeE7" : 498525857,
+        "longitudeE7" : 5975659
+      },
+      "duration" : {
+        "startTimestampMs" : "1373829324012",
+        "endTimestampMs" : "1373835410774"
+      },
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 498525857,
+        "longitudeE7" : 5975659
+      },
+      "endLocation" : {
+        "latitudeE7" : 494835611,
+        "longitudeE7" : 4357079
+      },
+      "duration" : {
+        "startTimestampMs" : "1373835410774",
+        "endTimestampMs" : "1373838888728"
+      },
+      "distance" : 11977,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1373838888728",
+        "endTimestampMs" : "1373881292106"
+      },
+      "distance" : 25707,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.99798
+      },
+      "duration" : {
+        "startTimestampMs" : "1373968832283",
+        "endTimestampMs" : "1374000419650"
+      },
+      "centerLatE7" : 494232940,
+      "centerLngE7" : 4518657,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRVjozZzajs9E",
+        "name" : "Delacroix Hervé",
+        "locationConfidence" : 7.7609834E-4
+      }, {
+        "latitudeE7" : 494228939,
+        "longitudeE7" : 4527023,
+        "placeId" : "ChIJO99u9WxM4EcRwVCfBuVVpOI",
+        "name" : "Meheu Eric",
+        "locationConfidence" : 3.5068515E-4
+      }, {
+        "latitudeE7" : 494250703,
+        "longitudeE7" : 4511840,
+        "placeId" : "ChIJ9T3TK21M4EcR9G1zEzSgme8",
+        "name" : "Elevage canin - Akita Inu - Des Gardiens du Temple Sacré",
+        "locationConfidence" : 3.4495242E-4
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRHzF-NPHw6-Y",
+        "name" : "Métot Louis",
+        "locationConfidence" : 2.6720334E-4
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRb52eYx52Vf8",
+        "name" : "Roynard Mansois Mireille Helene",
+        "locationConfidence" : 2.0859357E-4
+      }, {
+        "latitudeE7" : 494246791,
+        "longitudeE7" : 4543221,
+        "placeId" : "ChIJI7g-WGtM4EcRd-oydD_ki8o",
+        "name" : "Exploitation Forestiere Maret - Bisson",
+        "locationConfidence" : 4.760686E-5
+      }, {
+        "latitudeE7" : 494214391,
+        "longitudeE7" : 4528808,
+        "placeId" : "ChIJ3Xbg5WtM4EcRBcwQh8332J4",
+        "name" : "Samson Claude",
+        "locationConfidence" : 2.4091525E-5
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494231488,
+          "lngE7" : 4519019,
+          "timestampMs" : "1373969022260",
+          "accuracyMeters" : 25
+        }, {
+          "latE7" : 494233655,
+          "lngE7" : 4510022,
+          "timestampMs" : "1374000301454",
+          "accuracyMeters" : 49
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494982070,
+        "longitudeE7" : 7568970,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 100.0
+      },
+      "duration" : {
+        "startTimestampMs" : "1374000610635",
+        "endTimestampMs" : "1374086032361"
+      },
+      "centerLatE7" : 494145806,
+      "centerLngE7" : 4699577,
+      "visitConfidence" : 64,
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.997665
+      },
+      "duration" : {
+        "startTimestampMs" : "1374151051815",
+        "endTimestampMs" : "1374152692617"
+      },
+      "centerLatE7" : 494232557,
+      "centerLngE7" : 4518587,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRVjozZzajs9E",
+        "name" : "Delacroix Hervé",
+        "locationConfidence" : 6.627452E-4
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRHzF-NPHw6-Y",
+        "name" : "Métot Louis",
+        "locationConfidence" : 5.1682163E-4
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRb52eYx52Vf8",
+        "name" : "Roynard Mansois Mireille Helene",
+        "locationConfidence" : 4.0345924E-4
+      }, {
+        "latitudeE7" : 494228939,
+        "longitudeE7" : 4527023,
+        "placeId" : "ChIJO99u9WxM4EcRwVCfBuVVpOI",
+        "name" : "Meheu Eric",
+        "locationConfidence" : 3.320371E-4
+      }, {
+        "latitudeE7" : 494250703,
+        "longitudeE7" : 4511840,
+        "placeId" : "ChIJ9T3TK21M4EcR9G1zEzSgme8",
+        "name" : "Elevage canin - Akita Inu - Des Gardiens du Temple Sacré",
+        "locationConfidence" : 3.2162614E-4
+      }, {
+        "latitudeE7" : 494214391,
+        "longitudeE7" : 4528808,
+        "placeId" : "ChIJ3Xbg5WtM4EcRBcwQh8332J4",
+        "name" : "Samson Claude",
+        "locationConfidence" : 5.2427862E-5
+      }, {
+        "latitudeE7" : 494246791,
+        "longitudeE7" : 4543221,
+        "placeId" : "ChIJI7g-WGtM4EcRd-oydD_ki8o",
+        "name" : "Exploitation Forestiere Maret - Bisson",
+        "locationConfidence" : 4.393577E-5
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.99807
+      },
+      "duration" : {
+        "startTimestampMs" : "1374236059272",
+        "endTimestampMs" : "1374313571679"
+      },
+      "centerLatE7" : 494232710,
+      "centerLngE7" : 4518121,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRVjozZzajs9E",
+        "name" : "Delacroix Hervé",
+        "locationConfidence" : 7.1518956E-4
+      }, {
+        "latitudeE7" : 494228939,
+        "longitudeE7" : 4527023,
+        "placeId" : "ChIJO99u9WxM4EcRwVCfBuVVpOI",
+        "name" : "Meheu Eric",
+        "locationConfidence" : 3.5248022E-4
+      }, {
+        "latitudeE7" : 494250703,
+        "longitudeE7" : 4511840,
+        "placeId" : "ChIJ9T3TK21M4EcR9G1zEzSgme8",
+        "name" : "Elevage canin - Akita Inu - Des Gardiens du Temple Sacré",
+        "locationConfidence" : 3.5125072E-4
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRHzF-NPHw6-Y",
+        "name" : "Métot Louis",
+        "locationConfidence" : 2.4623304E-4
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRb52eYx52Vf8",
+        "name" : "Roynard Mansois Mireille Helene",
+        "locationConfidence" : 1.9222299E-4
+      }, {
+        "latitudeE7" : 494246791,
+        "longitudeE7" : 4543221,
+        "placeId" : "ChIJI7g-WGtM4EcRd-oydD_ki8o",
+        "name" : "Exploitation Forestiere Maret - Bisson",
+        "locationConfidence" : 4.5892713E-5
+      }, {
+        "latitudeE7" : 494214391,
+        "longitudeE7" : 4528808,
+        "placeId" : "ChIJ3Xbg5WtM4EcRBcwQh8332J4",
+        "name" : "Samson Claude",
+        "locationConfidence" : 2.4396213E-5
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1374313571679",
+        "endTimestampMs" : "1374315105879"
+      },
+      "distance" : 12704,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494234313,
+          "lngE7" : 4518162
+        }, {
+          "latE7" : 493897705,
+          "lngE7" : 6202937
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1374315105879",
+        "endTimestampMs" : "1374319065012"
+      },
+      "distance" : 1280,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494982070,
+        "longitudeE7" : 7568970,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 100.0
+      },
+      "duration" : {
+        "startTimestampMs" : "1374319065012",
+        "endTimestampMs" : "1374325807211"
+      },
+      "centerLatE7" : 494879501,
+      "centerLngE7" : 6204808,
+      "visitConfidence" : 64,
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494477491,
+          "lngE7" : 6896573,
+          "timestampMs" : "1374320975757",
+          "accuracyMeters" : 434
+        }, {
+          "latE7" : 494239893,
+          "lngE7" : 6693316,
+          "timestampMs" : "1374322423331",
+          "accuracyMeters" : 22
+        }, {
+          "latE7" : 494256239,
+          "lngE7" : 6582645,
+          "timestampMs" : "1374322657935",
+          "accuracyMeters" : 6
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494982070,
+        "longitudeE7" : 7568970,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 100.0
+      },
+      "endLocation" : {
+        "latitudeE7" : 494673127,
+        "longitudeE7" : 6837316
+      },
+      "duration" : {
+        "startTimestampMs" : "1374325807211",
+        "endTimestampMs" : "1374328240713"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494477844,
+          "lngE7" : 6890655
+        }, {
+          "latE7" : 494673194,
+          "lngE7" : 6837159
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494393710,
+        "longitudeE7" : 7162191,
+        "placeId" : "ChIJ9R2_sbP44EcRjqU9ZeLZX5Q",
+        "locationConfidence" : 77.6816
+      },
+      "duration" : {
+        "startTimestampMs" : "1374328754055",
+        "endTimestampMs" : "1374329480140"
+      },
+      "centerLatE7" : 494668200,
+      "centerLngE7" : 6834029,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494982070,
+        "longitudeE7" : 7568970,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "name" : "Boucles de la Seine Normande Natural Regional Park",
+        "locationConfidence" : 22.3184
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494393710,
+        "longitudeE7" : 7162191,
+        "placeId" : "ChIJ9R2_sbP44EcRjqU9ZeLZX5Q",
+        "locationConfidence" : 77.6816
+      },
+      "endLocation" : {
+        "latitudeE7" : 495284397,
+        "longitudeE7" : 6810341
+      },
+      "duration" : {
+        "startTimestampMs" : "1374329480140",
+        "endTimestampMs" : "1374329779300"
+      },
+      "distance" : 670,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494670410,
+          "lngE7" : 6834356
+        }, {
+          "latE7" : 494718132,
+          "lngE7" : 6881526
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 495284397,
+        "longitudeE7" : 6810341
+      },
+      "endLocation" : {
+        "latitudeE7" : 495284397,
+        "longitudeE7" : 6810341
+      },
+      "duration" : {
+        "startTimestampMs" : "1374329779300",
+        "endTimestampMs" : "1374330019343"
+      },
+      "distance" : 182,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 495284397,
+        "longitudeE7" : 6810341
+      },
+      "endLocation" : {
+        "latitudeE7" : 494393710,
+        "longitudeE7" : 7162191,
+        "placeId" : "ChIJ9R2_sbP44EcRjqU9ZeLZX5Q",
+        "locationConfidence" : 77.58538
+      },
+      "duration" : {
+        "startTimestampMs" : "1374330019343",
+        "endTimestampMs" : "1374330760931"
+      },
+      "distance" : 283,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494393710,
+        "longitudeE7" : 7162191,
+        "placeId" : "ChIJ9R2_sbP44EcRjqU9ZeLZX5Q",
+        "locationConfidence" : 77.58538
+      },
+      "duration" : {
+        "startTimestampMs" : "1374330760931",
+        "endTimestampMs" : "1374333587201"
+      },
+      "centerLatE7" : 494744489,
+      "centerLngE7" : 6938806,
+      "visitConfidence" : 80,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494982070,
+        "longitudeE7" : 7568970,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "name" : "Boucles de la Seine Normande Natural Regional Park",
+        "locationConfidence" : 21.945919
+      }, {
+        "latitudeE7" : 494756330,
+        "longitudeE7" : 6946790,
+        "placeId" : "ChIJI8W1O2f84EcRbr-VE_IZx60",
+        "name" : "Chambres d'Hôtes Entre Seine et Jardin",
+        "locationConfidence" : 0.40584522
+      }, {
+        "latitudeE7" : 494616162,
+        "longitudeE7" : 6914427,
+        "placeId" : "ChIJqYeuijpW4EcR-oXmgdXD2uE",
+        "name" : "Office National Forêts",
+        "locationConfidence" : 0.06285509
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1374333686031",
+        "endTimestampMs" : "1374339226729"
+      },
+      "distance" : 4114,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494745674,
+          "lngE7" : 6938096
+        }, {
+          "latE7" : 494372253,
+          "lngE7" : 6878201
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1374339589830",
+        "endTimestampMs" : "1374339635765"
+      },
+      "distance" : 57,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494372482,
+          "lngE7" : 6876419
+        }, {
+          "latE7" : 494377670,
+          "lngE7" : 6876958
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1374339635765",
+        "endTimestampMs" : "1374340044404"
+      },
+      "distance" : 1284,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494377670,
+          "lngE7" : 6876958
+        }, {
+          "latE7" : 494492835,
+          "lngE7" : 6892697
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 495254233,
+        "longitudeE7" : 6754566
+      },
+      "endLocation" : {
+        "latitudeE7" : 495254233,
+        "longitudeE7" : 6754566
+      },
+      "duration" : {
+        "startTimestampMs" : "1374340044404",
+        "endTimestampMs" : "1374340137419"
+      },
+      "distance" : 20,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1374340137419",
+        "endTimestampMs" : "1374348870930"
+      },
+      "distance" : 6892,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.99357
+      },
+      "duration" : {
+        "startTimestampMs" : "1374349351222",
+        "endTimestampMs" : "1374357016207"
+      },
+      "centerLatE7" : 494195993,
+      "centerLngE7" : 4675756,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRVjozZzajs9E",
+        "name" : "Delacroix Hervé",
+        "locationConfidence" : 0.002397686
+      }, {
+        "latitudeE7" : 494250703,
+        "longitudeE7" : 4511840,
+        "placeId" : "ChIJ9T3TK21M4EcR9G1zEzSgme8",
+        "name" : "Elevage canin - Akita Inu - Des Gardiens du Temple Sacré",
+        "locationConfidence" : 0.0011823517
+      }, {
+        "latitudeE7" : 494228939,
+        "longitudeE7" : 4527023,
+        "placeId" : "ChIJO99u9WxM4EcRwVCfBuVVpOI",
+        "name" : "Meheu Eric",
+        "locationConfidence" : 0.0011786395
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRHzF-NPHw6-Y",
+        "name" : "Métot Louis",
+        "locationConfidence" : 8.081378E-4
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRb52eYx52Vf8",
+        "name" : "Roynard Mansois Mireille Helene",
+        "locationConfidence" : 6.3087663E-4
+      }, {
+        "latitudeE7" : 494246791,
+        "longitudeE7" : 4543221,
+        "placeId" : "ChIJI7g-WGtM4EcRd-oydD_ki8o",
+        "name" : "Exploitation Forestiere Maret - Bisson",
+        "locationConfidence" : 1.53032E-4
+      }, {
+        "latitudeE7" : 494214391,
+        "longitudeE7" : 4528808,
+        "placeId" : "ChIJ3Xbg5WtM4EcRBcwQh8332J4",
+        "name" : "Samson Claude",
+        "locationConfidence" : 7.969254E-5
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.99357
+      },
+      "endLocation" : {
+        "latitudeE7" : 493220223,
+        "longitudeE7" : 3129372
+      },
+      "duration" : {
+        "startTimestampMs" : "1374357016207",
+        "endTimestampMs" : "1374394903554"
+      },
+      "distance" : 15075,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494234123,
+          "lngE7" : 4517197
+        }, {
+          "latE7" : 493213653,
+          "lngE7" : 3127225
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 493220223,
+        "longitudeE7" : 3129372
+      },
+      "endLocation" : {
+        "latitudeE7" : 493019721,
+        "longitudeE7" : 2696825
+      },
+      "duration" : {
+        "startTimestampMs" : "1374394949235",
+        "endTimestampMs" : "1374417415131"
+      },
+      "distance" : 28454,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 493213768,
+          "lngE7" : 3126474
+        }, {
+          "latE7" : 493004875,
+          "lngE7" : 2688308
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 493019721,
+        "longitudeE7" : 2696825
+      },
+      "endLocation" : {
+        "latitudeE7" : 493908264,
+        "longitudeE7" : 5194664
+      },
+      "duration" : {
+        "startTimestampMs" : "1374417415131",
+        "endTimestampMs" : "1374418936755"
+      },
+      "distance" : 1603,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.98694
+      },
+      "duration" : {
+        "startTimestampMs" : "1374422512883",
+        "endTimestampMs" : "1374424040390"
+      },
+      "centerLatE7" : 494233193,
+      "centerLngE7" : 4518220,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRVjozZzajs9E",
+        "name" : "Delacroix Hervé",
+        "locationConfidence" : 0.0040843086
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRHzF-NPHw6-Y",
+        "name" : "Métot Louis",
+        "locationConfidence" : 0.0031850236
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRb52eYx52Vf8",
+        "name" : "Roynard Mansois Mireille Helene",
+        "locationConfidence" : 0.0024864038
+      }, {
+        "latitudeE7" : 494250703,
+        "longitudeE7" : 4511840,
+        "placeId" : "ChIJ9T3TK21M4EcR9G1zEzSgme8",
+        "name" : "Elevage canin - Akita Inu - Des Gardiens du Temple Sacré",
+        "locationConfidence" : 0.001515316
+      }, {
+        "latitudeE7" : 494228939,
+        "longitudeE7" : 4527023,
+        "placeId" : "ChIJO99u9WxM4EcRwVCfBuVVpOI",
+        "name" : "Meheu Eric",
+        "locationConfidence" : 0.0013907077
+      }, {
+        "latitudeE7" : 494214391,
+        "longitudeE7" : 4528808,
+        "placeId" : "ChIJ3Xbg5WtM4EcRBcwQh8332J4",
+        "name" : "Samson Claude",
+        "locationConfidence" : 2.0531756E-4
+      }, {
+        "latitudeE7" : 494246791,
+        "longitudeE7" : 4543221,
+        "placeId" : "ChIJI7g-WGtM4EcRd-oydD_ki8o",
+        "name" : "Exploitation Forestiere Maret - Bisson",
+        "locationConfidence" : 1.9466646E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1374424040390",
+        "endTimestampMs" : "1374425909410"
+      },
+      "distance" : 11699,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494234313,
+          "lngE7" : 4518159
+        }, {
+          "latE7" : 494898033,
+          "lngE7" : 5674567
+        }, {
+          "latE7" : 494940795,
+          "lngE7" : 5635660
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494897804,
+          "lngE7" : 5676805,
+          "timestampMs" : "1374425662302",
+          "accuracyMeters" : 23
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1374425909410",
+        "endTimestampMs" : "1374426390965"
+      },
+      "distance" : 518,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494975323,
+        "longitudeE7" : 5676868,
+        "placeId" : "ChIJmy4EuVlQ4EcRSyR7-kpxtyM",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 99.33385
+      },
+      "duration" : {
+        "startTimestampMs" : "1374426390965",
+        "endTimestampMs" : "1374427880301"
+      },
+      "centerLatE7" : 494978475,
+      "centerLngE7" : 5674050,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcRxmpmbHobpMs",
+        "name" : "Transport 3 D",
+        "locationConfidence" : 0.31281677
+      }, {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcReDiWaOs5wIQ",
+        "name" : "Transports 3D",
+        "locationConfidence" : 0.127003
+      }, {
+        "latitudeE7" : 494965149,
+        "longitudeE7" : 5679164,
+        "placeId" : "ChIJD-1Q0FlQ4EcR5y_klTTeeXg",
+        "name" : "Exxon Mobil Sports et Loisirs",
+        "locationConfidence" : 0.063532926
+      }, {
+        "latitudeE7" : 494955669,
+        "longitudeE7" : 5688473,
+        "placeId" : "ChIJfWI-g1dQ4EcRYTkJZkyWyv8",
+        "name" : "Rosay Dumouchel Marie Francoise",
+        "locationConfidence" : 0.044708725
+      }, {
+        "latitudeE7" : 494964869,
+        "longitudeE7" : 5642745,
+        "placeId" : "ChIJ1Q7kcVpQ4EcR6ORWBa5ewWI",
+        "name" : "Meslet Yolande",
+        "locationConfidence" : 0.04268403
+      }, {
+        "latitudeE7" : 494961967,
+        "longitudeE7" : 5685439,
+        "placeId" : "ChIJCUIjK1hQ4EcRxL0D_ErIfzA",
+        "name" : "Chauveau Grandin Jeanine",
+        "locationConfidence" : 0.04075464
+      }, {
+        "latitudeE7" : 494954150,
+        "longitudeE7" : 5691560,
+        "placeId" : "ChIJbXO0mldQ4EcRFtDgxaNdBV4",
+        "name" : "Club Sportif De Gravenchon",
+        "locationConfidence" : 0.034655593
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1374429013508",
+        "endTimestampMs" : "1374431440559"
+      },
+      "distance" : 15630,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494978713,
+          "lngE7" : 5677481
+        }, {
+          "latE7" : 494234237,
+          "lngE7" : 4517711
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.99227
+      },
+      "duration" : {
+        "startTimestampMs" : "1374431440559",
+        "endTimestampMs" : "1374440775120"
+      },
+      "centerLatE7" : 494232948,
+      "centerLngE7" : 4518286,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRVjozZzajs9E",
+        "name" : "Delacroix Hervé",
+        "locationConfidence" : 0.0031238606
+      }, {
+        "latitudeE7" : 494250703,
+        "longitudeE7" : 4511840,
+        "placeId" : "ChIJ9T3TK21M4EcR9G1zEzSgme8",
+        "name" : "Elevage canin - Akita Inu - Des Gardiens du Temple Sacré",
+        "locationConfidence" : 0.001269225
+      }, {
+        "latitudeE7" : 494228939,
+        "longitudeE7" : 4527023,
+        "placeId" : "ChIJO99u9WxM4EcRwVCfBuVVpOI",
+        "name" : "Meheu Eric",
+        "locationConfidence" : 0.0012150353
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRHzF-NPHw6-Y",
+        "name" : "Métot Louis",
+        "locationConfidence" : 0.0010528943
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRb52eYx52Vf8",
+        "name" : "Roynard Mansois Mireille Helene",
+        "locationConfidence" : 8.2194695E-4
+      }, {
+        "latitudeE7" : 494246791,
+        "longitudeE7" : 4543221,
+        "placeId" : "ChIJI7g-WGtM4EcRd-oydD_ki8o",
+        "name" : "Exploitation Forestiere Maret - Bisson",
+        "locationConfidence" : 1.659307E-4
+      }, {
+        "latitudeE7" : 494214391,
+        "longitudeE7" : 4528808,
+        "placeId" : "ChIJ3Xbg5WtM4EcRBcwQh8332J4",
+        "name" : "Samson Claude",
+        "locationConfidence" : 7.951598E-5
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.997925
+      },
+      "duration" : {
+        "startTimestampMs" : "1374485783793",
+        "endTimestampMs" : "1374529345250"
+      },
+      "centerLatE7" : 494232820,
+      "centerLngE7" : 4518143,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRVjozZzajs9E",
+        "name" : "Delacroix Hervé",
+        "locationConfidence" : 8.096772E-4
+      }, {
+        "latitudeE7" : 494250703,
+        "longitudeE7" : 4511840,
+        "placeId" : "ChIJ9T3TK21M4EcR9G1zEzSgme8",
+        "name" : "Elevage canin - Akita Inu - Des Gardiens du Temple Sacré",
+        "locationConfidence" : 3.5393026E-4
+      }, {
+        "latitudeE7" : 494228939,
+        "longitudeE7" : 4527023,
+        "placeId" : "ChIJO99u9WxM4EcRwVCfBuVVpOI",
+        "name" : "Meheu Eric",
+        "locationConfidence" : 3.478087E-4
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRHzF-NPHw6-Y",
+        "name" : "Métot Louis",
+        "locationConfidence" : 2.7876423E-4
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRb52eYx52Vf8",
+        "name" : "Roynard Mansois Mireille Helene",
+        "locationConfidence" : 2.1761861E-4
+      }, {
+        "latitudeE7" : 494246791,
+        "longitudeE7" : 4543221,
+        "placeId" : "ChIJI7g-WGtM4EcRd-oydD_ki8o",
+        "name" : "Exploitation Forestiere Maret - Bisson",
+        "locationConfidence" : 4.6575406E-5
+      }, {
+        "latitudeE7" : 494214391,
+        "longitudeE7" : 4528808,
+        "placeId" : "ChIJ3Xbg5WtM4EcRBcwQh8332J4",
+        "name" : "Samson Claude",
+        "locationConfidence" : 2.3652337E-5
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.99738
+      },
+      "duration" : {
+        "startTimestampMs" : "1374831260066",
+        "endTimestampMs" : "1374845510978"
+      },
+      "centerLatE7" : 494232595,
+      "centerLngE7" : 4517961,
+      "visitConfidence" : 85,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRVjozZzajs9E",
+        "name" : "Delacroix Hervé",
+        "locationConfidence" : 7.4143754E-4
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRHzF-NPHw6-Y",
+        "name" : "Métot Louis",
+        "locationConfidence" : 5.8105227E-4
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRb52eYx52Vf8",
+        "name" : "Roynard Mansois Mireille Helene",
+        "locationConfidence" : 4.5360124E-4
+      }, {
+        "latitudeE7" : 494250703,
+        "longitudeE7" : 4511840,
+        "placeId" : "ChIJ9T3TK21M4EcR9G1zEzSgme8",
+        "name" : "Elevage canin - Akita Inu - Des Gardiens du Temple Sacré",
+        "locationConfidence" : 3.6880226E-4
+      }, {
+        "latitudeE7" : 494228939,
+        "longitudeE7" : 4527023,
+        "placeId" : "ChIJO99u9WxM4EcRwVCfBuVVpOI",
+        "name" : "Meheu Eric",
+        "locationConfidence" : 3.6804736E-4
+      }, {
+        "latitudeE7" : 494214391,
+        "longitudeE7" : 4528808,
+        "placeId" : "ChIJ3Xbg5WtM4EcRBcwQh8332J4",
+        "name" : "Samson Claude",
+        "locationConfidence" : 5.7925976E-5
+      }, {
+        "latitudeE7" : 494246791,
+        "longitudeE7" : 4543221,
+        "placeId" : "ChIJI7g-WGtM4EcRd-oydD_ki8o",
+        "name" : "Exploitation Forestiere Maret - Bisson",
+        "locationConfidence" : 4.7685833E-5
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.99738
+      },
+      "endLocation" : {
+        "latitudeE7" : 496105472,
+        "longitudeE7" : 7466122,
+        "placeId" : "ChIJLVY-IdT14EcRvSxqehqZt0M",
+        "address" : "91 Rue Ferdinand Lechevallier\n76190 Yvetot\nFrance",
+        "name" : "CARS HANGARD",
+        "locationConfidence" : 57.28451
+      },
+      "duration" : {
+        "startTimestampMs" : "1374845510978",
+        "endTimestampMs" : "1374848607561"
+      },
+      "distance" : 51684,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494233856,
+          "lngE7" : 4515948
+        }, {
+          "latE7" : 494607276,
+          "lngE7" : 5395594
+        }, {
+          "latE7" : 494326057,
+          "lngE7" : 5662649
+        }, {
+          "latE7" : 494612350,
+          "lngE7" : 7193151
+        }, {
+          "latE7" : 496167640,
+          "lngE7" : 7502825
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494606323,
+          "lngE7" : 5396396,
+          "timestampMs" : "1374846062021",
+          "accuracyMeters" : 6
+        }, {
+          "latE7" : 494326744,
+          "lngE7" : 5660414,
+          "timestampMs" : "1374846254047",
+          "accuracyMeters" : 8
+        }, {
+          "latE7" : 494611855,
+          "lngE7" : 7193994,
+          "timestampMs" : "1374847163155",
+          "accuracyMeters" : 18
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 496105472,
+        "longitudeE7" : 7466122,
+        "placeId" : "ChIJLVY-IdT14EcRvSxqehqZt0M",
+        "address" : "91 Rue Ferdinand Lechevallier\n76190 Yvetot\nFrance",
+        "name" : "CARS HANGARD",
+        "locationConfidence" : 57.28451
+      },
+      "duration" : {
+        "startTimestampMs" : "1374848607561",
+        "endTimestampMs" : "1374852159301"
+      },
+      "centerLatE7" : 496100133,
+      "centerLngE7" : 7453133,
+      "visitConfidence" : 72,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 496106248,
+        "longitudeE7" : 7463319,
+        "placeId" : "ChIJLVY-IdT14EcRhZl-mG8v--4",
+        "name" : "Relais Du Poids Lourd",
+        "locationConfidence" : 29.077528
+      }, {
+        "latitudeE7" : 496105472,
+        "longitudeE7" : 7466122,
+        "placeId" : "ChIJLVY-IdT14EcRIjRvqr_A5lI",
+        "name" : "Mazars Jean Louis",
+        "locationConfidence" : 5.443291
+      }, {
+        "latitudeE7" : 496096636,
+        "longitudeE7" : 7489630,
+        "placeId" : "ChIJt8qCVNT14EcRlq8PUjpRyWQ",
+        "name" : "Bravard Marielle",
+        "locationConfidence" : 3.7653325
+      }, {
+        "latitudeE7" : 496090516,
+        "longitudeE7" : 7478681,
+        "placeId" : "ChIJd-i3sNX14EcRLys_F0TyPpM",
+        "name" : "Recher Larcher Nadine",
+        "locationConfidence" : 2.2588065
+      }, {
+        "latitudeE7" : 496125172,
+        "longitudeE7" : 7477248,
+        "placeId" : "ChIJB3M-jNP14EcRR3xp_mNV5bg",
+        "name" : "Beuzelin Marie-Madeleine",
+        "locationConfidence" : 1.0874342
+      }, {
+        "latitudeE7" : 496125172,
+        "longitudeE7" : 7477248,
+        "placeId" : "ChIJB3M-jNP14EcReyvMvsDZdcA",
+        "name" : "Leger Teddy Christian Marcel",
+        "locationConfidence" : 1.0830939
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 496105472,
+        "longitudeE7" : 7466122,
+        "placeId" : "ChIJLVY-IdT14EcRvSxqehqZt0M",
+        "address" : "91 Rue Ferdinand Lechevallier\n76190 Yvetot\nFrance",
+        "name" : "CARS HANGARD",
+        "locationConfidence" : 57.28451
+      },
+      "endLocation" : {
+        "latitudeE7" : 496112776,
+        "longitudeE7" : 7753551
+      },
+      "duration" : {
+        "startTimestampMs" : "1374852159301",
+        "endTimestampMs" : "1374856471768"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 496101188,
+          "lngE7" : 7448459
+        }, {
+          "latE7" : 496110801,
+          "lngE7" : 7754151
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 496112776,
+        "longitudeE7" : 7753551
+      },
+      "endLocation" : {
+        "latitudeE7" : 494982070,
+        "longitudeE7" : 7568970,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 100.0
+      },
+      "duration" : {
+        "startTimestampMs" : "1374857072101",
+        "endTimestampMs" : "1374859974981"
+      },
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 496110801,
+          "lngE7" : 7754151
+        }, {
+          "latE7" : 496051864,
+          "lngE7" : 7405148
+        }, {
+          "latE7" : 494234313,
+          "lngE7" : 4518164
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 496051941,
+          "lngE7" : 7404700,
+          "timestampMs" : "1374857569527",
+          "accuracyMeters" : 4
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494982070,
+        "longitudeE7" : 7568970,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 100.0
+      },
+      "duration" : {
+        "startTimestampMs" : "1374859974981",
+        "endTimestampMs" : "1374865340988"
+      },
+      "centerLatE7" : 494165098,
+      "centerLngE7" : 4660203,
+      "visitConfidence" : 64,
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.995674
+      },
+      "duration" : {
+        "startTimestampMs" : "1375077309875",
+        "endTimestampMs" : "1375087248436"
+      },
+      "centerLatE7" : 494233570,
+      "centerLngE7" : 4518385,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRVjozZzajs9E",
+        "name" : "Delacroix Hervé",
+        "locationConfidence" : 0.001930293
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRHzF-NPHw6-Y",
+        "name" : "Métot Louis",
+        "locationConfidence" : 6.506035E-4
+      }, {
+        "latitudeE7" : 494250703,
+        "longitudeE7" : 4511840,
+        "placeId" : "ChIJ9T3TK21M4EcR9G1zEzSgme8",
+        "name" : "Elevage canin - Akita Inu - Des Gardiens du Temple Sacré",
+        "locationConfidence" : 6.0484884E-4
+      }, {
+        "latitudeE7" : 494228939,
+        "longitudeE7" : 4527023,
+        "placeId" : "ChIJO99u9WxM4EcRwVCfBuVVpOI",
+        "name" : "Meheu Eric",
+        "locationConfidence" : 5.261652E-4
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRb52eYx52Vf8",
+        "name" : "Roynard Mansois Mireille Helene",
+        "locationConfidence" : 5.078967E-4
+      }, {
+        "latitudeE7" : 494246791,
+        "longitudeE7" : 4543221,
+        "placeId" : "ChIJI7g-WGtM4EcRd-oydD_ki8o",
+        "name" : "Exploitation Forestiere Maret - Bisson",
+        "locationConfidence" : 7.73969E-5
+      }, {
+        "latitudeE7" : 494214391,
+        "longitudeE7" : 4528808,
+        "placeId" : "ChIJ3Xbg5WtM4EcRBcwQh8332J4",
+        "name" : "Samson Claude",
+        "locationConfidence" : 3.237517E-5
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.99737
+      },
+      "duration" : {
+        "startTimestampMs" : "1375089037953",
+        "endTimestampMs" : "1375095074473"
+      },
+      "centerLatE7" : 494522747,
+      "centerLngE7" : 4632115,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRVjozZzajs9E",
+        "name" : "Delacroix Hervé",
+        "locationConfidence" : 7.710022E-4
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRHzF-NPHw6-Y",
+        "name" : "Métot Louis",
+        "locationConfidence" : 6.042216E-4
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRb52eYx52Vf8",
+        "name" : "Roynard Mansois Mireille Helene",
+        "locationConfidence" : 4.7168846E-4
+      }, {
+        "latitudeE7" : 494250703,
+        "longitudeE7" : 4511840,
+        "placeId" : "ChIJ9T3TK21M4EcR9G1zEzSgme8",
+        "name" : "Elevage canin - Akita Inu - Des Gardiens du Temple Sacré",
+        "locationConfidence" : 3.4332962E-4
+      }, {
+        "latitudeE7" : 494228939,
+        "longitudeE7" : 4527023,
+        "placeId" : "ChIJO99u9WxM4EcRwVCfBuVVpOI",
+        "name" : "Meheu Eric",
+        "locationConfidence" : 3.3990905E-4
+      }, {
+        "latitudeE7" : 494214391,
+        "longitudeE7" : 4528808,
+        "placeId" : "ChIJ3Xbg5WtM4EcRBcwQh8332J4",
+        "name" : "Samson Claude",
+        "locationConfidence" : 5.283307E-5
+      }, {
+        "latitudeE7" : 494246791,
+        "longitudeE7" : 4543221,
+        "placeId" : "ChIJI7g-WGtM4EcRd-oydD_ki8o",
+        "name" : "Exploitation Forestiere Maret - Bisson",
+        "locationConfidence" : 4.538023E-5
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.99732
+      },
+      "duration" : {
+        "startTimestampMs" : "1375095641568",
+        "endTimestampMs" : "1375096776592"
+      },
+      "centerLatE7" : 494232760,
+      "centerLngE7" : 4518300,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRVjozZzajs9E",
+        "name" : "Delacroix Hervé",
+        "locationConfidence" : 7.888328E-4
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRHzF-NPHw6-Y",
+        "name" : "Métot Louis",
+        "locationConfidence" : 6.1819516E-4
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRb52eYx52Vf8",
+        "name" : "Roynard Mansois Mireille Helene",
+        "locationConfidence" : 4.8259698E-4
+      }, {
+        "latitudeE7" : 494250703,
+        "longitudeE7" : 4511840,
+        "placeId" : "ChIJ9T3TK21M4EcR9G1zEzSgme8",
+        "name" : "Elevage canin - Akita Inu - Des Gardiens du Temple Sacré",
+        "locationConfidence" : 3.4746004E-4
+      }, {
+        "latitudeE7" : 494228939,
+        "longitudeE7" : 4527023,
+        "placeId" : "ChIJO99u9WxM4EcRwVCfBuVVpOI",
+        "name" : "Meheu Eric",
+        "locationConfidence" : 3.4291006E-4
+      }, {
+        "latitudeE7" : 494214391,
+        "longitudeE7" : 4528808,
+        "placeId" : "ChIJ3Xbg5WtM4EcRBcwQh8332J4",
+        "name" : "Samson Claude",
+        "locationConfidence" : 5.319058E-5
+      }, {
+        "latitudeE7" : 494246791,
+        "longitudeE7" : 4543221,
+        "placeId" : "ChIJI7g-WGtM4EcRd-oydD_ki8o",
+        "name" : "Exploitation Forestiere Maret - Bisson",
+        "locationConfidence" : 4.588344E-5
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.99741
+      },
+      "duration" : {
+        "startTimestampMs" : "1375102449572",
+        "endTimestampMs" : "1375103803645"
+      },
+      "centerLatE7" : 494232725,
+      "centerLngE7" : 4518300,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRVjozZzajs9E",
+        "name" : "Delacroix Hervé",
+        "locationConfidence" : 7.5811485E-4
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRHzF-NPHw6-Y",
+        "name" : "Métot Louis",
+        "locationConfidence" : 5.9119274E-4
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRb52eYx52Vf8",
+        "name" : "Roynard Mansois Mireille Helene",
+        "locationConfidence" : 4.615174E-4
+      }, {
+        "latitudeE7" : 494250703,
+        "longitudeE7" : 4511840,
+        "placeId" : "ChIJ9T3TK21M4EcR9G1zEzSgme8",
+        "name" : "Elevage canin - Akita Inu - Des Gardiens du Temple Sacré",
+        "locationConfidence" : 3.4036348E-4
+      }, {
+        "latitudeE7" : 494228939,
+        "longitudeE7" : 4527023,
+        "placeId" : "ChIJO99u9WxM4EcRwVCfBuVVpOI",
+        "name" : "Meheu Eric",
+        "locationConfidence" : 3.3777382E-4
+      }, {
+        "latitudeE7" : 494214391,
+        "longitudeE7" : 4528808,
+        "placeId" : "ChIJ3Xbg5WtM4EcRBcwQh8332J4",
+        "name" : "Samson Claude",
+        "locationConfidence" : 5.2322615E-5
+      }, {
+        "latitudeE7" : 494246791,
+        "longitudeE7" : 4543221,
+        "placeId" : "ChIJI7g-WGtM4EcRd-oydD_ki8o",
+        "name" : "Exploitation Forestiere Maret - Bisson",
+        "locationConfidence" : 4.5019555E-5
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.997795
+      },
+      "duration" : {
+        "startTimestampMs" : "1375105494511",
+        "endTimestampMs" : "1375112460573"
+      },
+      "centerLatE7" : 494232850,
+      "centerLngE7" : 4518300,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRVjozZzajs9E",
+        "name" : "Delacroix Hervé",
+        "locationConfidence" : 8.774017E-4
+      }, {
+        "latitudeE7" : 494250703,
+        "longitudeE7" : 4511840,
+        "placeId" : "ChIJ9T3TK21M4EcR9G1zEzSgme8",
+        "name" : "Elevage canin - Akita Inu - Des Gardiens du Temple Sacré",
+        "locationConfidence" : 3.6797588E-4
+      }, {
+        "latitudeE7" : 494228939,
+        "longitudeE7" : 4527023,
+        "placeId" : "ChIJO99u9WxM4EcRwVCfBuVVpOI",
+        "name" : "Meheu Eric",
+        "locationConfidence" : 3.580067E-4
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRHzF-NPHw6-Y",
+        "name" : "Métot Louis",
+        "locationConfidence" : 2.9572743E-4
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRb52eYx52Vf8",
+        "name" : "Roynard Mansois Mireille Helene",
+        "locationConfidence" : 2.3086101E-4
+      }, {
+        "latitudeE7" : 494246791,
+        "longitudeE7" : 4543221,
+        "placeId" : "ChIJI7g-WGtM4EcRd-oydD_ki8o",
+        "name" : "Exploitation Forestiere Maret - Bisson",
+        "locationConfidence" : 4.8388516E-5
+      }, {
+        "latitudeE7" : 494214391,
+        "longitudeE7" : 4528808,
+        "placeId" : "ChIJ3Xbg5WtM4EcRBcwQh8332J4",
+        "name" : "Samson Claude",
+        "locationConfidence" : 2.3665141E-5
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.98462
+      },
+      "duration" : {
+        "startTimestampMs" : "1375113896433",
+        "endTimestampMs" : "1375124181513"
+      },
+      "centerLatE7" : 494305379,
+      "centerLngE7" : 4546556,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRVjozZzajs9E",
+        "name" : "Delacroix Hervé",
+        "locationConfidence" : 0.006951644
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRHzF-NPHw6-Y",
+        "name" : "Métot Louis",
+        "locationConfidence" : 0.002343045
+      }, {
+        "latitudeE7" : 494250703,
+        "longitudeE7" : 4511840,
+        "placeId" : "ChIJ9T3TK21M4EcR9G1zEzSgme8",
+        "name" : "Elevage canin - Akita Inu - Des Gardiens du Temple Sacré",
+        "locationConfidence" : 0.0020900294
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRb52eYx52Vf8",
+        "name" : "Roynard Mansois Mireille Helene",
+        "locationConfidence" : 0.0018291093
+      }, {
+        "latitudeE7" : 494228939,
+        "longitudeE7" : 4527023,
+        "placeId" : "ChIJO99u9WxM4EcRwVCfBuVVpOI",
+        "name" : "Meheu Eric",
+        "locationConfidence" : 0.0017900809
+      }, {
+        "latitudeE7" : 494246791,
+        "longitudeE7" : 4543221,
+        "placeId" : "ChIJI7g-WGtM4EcRd-oydD_ki8o",
+        "name" : "Exploitation Forestiere Maret - Bisson",
+        "locationConfidence" : 2.6636783E-4
+      }, {
+        "latitudeE7" : 494214391,
+        "longitudeE7" : 4528808,
+        "placeId" : "ChIJ3Xbg5WtM4EcRBcwQh8332J4",
+        "name" : "Samson Claude",
+        "locationConfidence" : 1.0908621E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494305379,
+        "longitudeE7" : 4546556
+      },
+      "endLocation" : {
+        "latitudeE7" : 494270490,
+        "longitudeE7" : 4532811
+      },
+      "duration" : {
+        "startTimestampMs" : "1375124181513",
+        "endTimestampMs" : "1375125939990"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494233030,
+          "lngE7" : 4518316,
+          "timestampMs" : "1375124308466",
+          "accuracyMeters" : 25
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.9831
+      },
+      "duration" : {
+        "startTimestampMs" : "1375125939990",
+        "endTimestampMs" : "1375167572123"
+      },
+      "centerLatE7" : 494270490,
+      "centerLngE7" : 4532811,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRVjozZzajs9E",
+        "name" : "Delacroix Hervé",
+        "locationConfidence" : 0.0077363546
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRHzF-NPHw6-Y",
+        "name" : "Métot Louis",
+        "locationConfidence" : 0.0026075311
+      }, {
+        "latitudeE7" : 494250703,
+        "longitudeE7" : 4511840,
+        "placeId" : "ChIJ9T3TK21M4EcR9G1zEzSgme8",
+        "name" : "Elevage canin - Akita Inu - Des Gardiens du Temple Sacré",
+        "locationConfidence" : 0.0022379523
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRb52eYx52Vf8",
+        "name" : "Roynard Mansois Mireille Helene",
+        "locationConfidence" : 0.0020355815
+      }, {
+        "latitudeE7" : 494228939,
+        "longitudeE7" : 4527023,
+        "placeId" : "ChIJO99u9WxM4EcRwVCfBuVVpOI",
+        "name" : "Meheu Eric",
+        "locationConfidence" : 0.0018865411
+      }, {
+        "latitudeE7" : 494246791,
+        "longitudeE7" : 4543221,
+        "placeId" : "ChIJI7g-WGtM4EcRd-oydD_ki8o",
+        "name" : "Exploitation Forestiere Maret - Bisson",
+        "locationConfidence" : 2.836636E-4
+      }, {
+        "latitudeE7" : 494214391,
+        "longitudeE7" : 4528808,
+        "placeId" : "ChIJ3Xbg5WtM4EcRBcwQh8332J4",
+        "name" : "Samson Claude",
+        "locationConfidence" : 1.1388012E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 495074082,
+        "longitudeE7" : 4787499
+      },
+      "endLocation" : {
+        "latitudeE7" : 494926680,
+        "longitudeE7" : 1247650,
+        "placeId" : "ChIJZZN0HQQv4EcRlIQt1tST-YM",
+        "address" : "12 Rue Magellan\n76600 Le Havre\nFrance",
+        "name" : "Le Havre",
+        "locationConfidence" : 36.389412
+      },
+      "duration" : {
+        "startTimestampMs" : "1375168050121",
+        "endTimestampMs" : "1375173232540"
+      },
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494234352,
+          "lngE7" : 4518223
+        }, {
+          "latE7" : 494930419,
+          "lngE7" : 1253208
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494926680,
+        "longitudeE7" : 1247650,
+        "placeId" : "ChIJZZN0HQQv4EcRlIQt1tST-YM",
+        "address" : "12 Rue Magellan\n76600 Le Havre\nFrance",
+        "name" : "Le Havre",
+        "locationConfidence" : 36.389412
+      },
+      "duration" : {
+        "startTimestampMs" : "1375173232540",
+        "endTimestampMs" : "1375175152003"
+      },
+      "centerLatE7" : 494926496,
+      "centerLngE7" : 1249724,
+      "visitConfidence" : 75,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494965313,
+        "longitudeE7" : 1293454,
+        "placeId" : "ChIJRR0dlAcv4EcRM7tTG1M_vwU",
+        "name" : "University of Le Havre",
+        "locationConfidence" : 6.0808907
+      }, {
+        "latitudeE7" : 494924943,
+        "longitudeE7" : 1238001,
+        "placeId" : "ChIJTSuMdgQv4EcRXFNlJps2ii0",
+        "name" : "Au Fournil de la Gare",
+        "locationConfidence" : 5.3680367
+      }, {
+        "latitudeE7" : 494931254,
+        "longitudeE7" : 1243106,
+        "placeId" : "ChIJh7XQbAQv4EcRl2_w7DqveUs",
+        "name" : "France Bourgogne",
+        "locationConfidence" : 5.201214
+      }, {
+        "latitudeE7" : 494933850,
+        "longitudeE7" : 1253550,
+        "placeId" : "ChIJgYiiPeAu4EcRasGM9-7u6dw",
+        "name" : "Avis Location Voiture Le Havre",
+        "locationConfidence" : 4.9127502
+      }, {
+        "latitudeE7" : 494922409,
+        "longitudeE7" : 1230147,
+        "placeId" : "ChIJSdUOgAMv4EcRj3DSxAaTULI",
+        "name" : "Hôtel La Baraka",
+        "locationConfidence" : 2.81178
+      }, {
+        "latitudeE7" : 494927121,
+        "longitudeE7" : 1246103,
+        "placeId" : "ChIJHRrhDAQv4EcRoQdx1xsVaSI",
+        "name" : "Exploitation en Gare",
+        "locationConfidence" : 2.655991
+      }, {
+        "latitudeE7" : 494905601,
+        "longitudeE7" : 1298300,
+        "placeId" : "ChIJrWTfcAEv4EcRUNsr5CYjG9U",
+        "name" : "Docks Vauban",
+        "locationConfidence" : 2.3043115
+      }, {
+        "latitudeE7" : 494929777,
+        "longitudeE7" : 1254212,
+        "placeId" : "ChIJY2GwHAQv4EcRelThFO_atxs",
+        "name" : "Monop' Station",
+        "locationConfidence" : 2.2339942
+      }, {
+        "latitudeE7" : 494931955,
+        "longitudeE7" : 1241246,
+        "placeId" : "ChIJTeYtFAQv4EcRfx3tX5tyNVQ",
+        "name" : "Residence Hôtelière du Havre",
+        "locationConfidence" : 1.4994129
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494926680,
+        "longitudeE7" : 1247650,
+        "placeId" : "ChIJZZN0HQQv4EcRlIQt1tST-YM",
+        "address" : "12 Rue Magellan\n76600 Le Havre\nFrance",
+        "name" : "Le Havre",
+        "locationConfidence" : 36.389412
+      },
+      "endLocation" : {
+        "latitudeE7" : 495155859,
+        "longitudeE7" : 2341861
+      },
+      "duration" : {
+        "startTimestampMs" : "1375175152003",
+        "endTimestampMs" : "1375198222278"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494924545,
+          "lngE7" : 1253262
+        }, {
+          "latE7" : 495156326,
+          "lngE7" : 2347065
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 495155859,
+        "longitudeE7" : 2341861
+      },
+      "endLocation" : {
+        "latitudeE7" : 495078804,
+        "longitudeE7" : 2227374
+      },
+      "duration" : {
+        "startTimestampMs" : "1375198222278",
+        "endTimestampMs" : "1375206451550"
+      },
+      "distance" : 5089,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 495078804,
+        "longitudeE7" : 2227374
+      },
+      "endLocation" : {
+        "latitudeE7" : 495074082,
+        "longitudeE7" : 4787499
+      },
+      "duration" : {
+        "startTimestampMs" : "1375206451550",
+        "endTimestampMs" : "1375208585082"
+      },
+      "distance" : 13115,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 495079116,
+          "lngE7" : 2226587
+        }, {
+          "latE7" : 495073356,
+          "lngE7" : 4786339
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 495074082,
+        "longitudeE7" : 4787499
+      },
+      "endLocation" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.99662
+      },
+      "duration" : {
+        "startTimestampMs" : "1375208585082",
+        "endTimestampMs" : "1375209258444"
+      },
+      "distance" : 167,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494232585,
+        "longitudeE7" : 4518489,
+        "placeId" : "ChIJv3GKgudW4EcRMh10s10nu74",
+        "address" : "692 Rue du Petit pont\n76940 Notre-Dame-de-Bliquetuit\nFrance",
+        "name" : "Parc naturel régional des Boucles de la Seine Normande",
+        "locationConfidence" : 99.99662
+      },
+      "duration" : {
+        "startTimestampMs" : "1375209258444",
+        "endTimestampMs" : "1375259477714"
+      },
+      "centerLatE7" : 494233044,
+      "centerLngE7" : 4517968,
+      "visitConfidence" : 64,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRVjozZzajs9E",
+        "name" : "Delacroix Hervé",
+        "locationConfidence" : 9.5948926E-4
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRHzF-NPHw6-Y",
+        "name" : "Métot Louis",
+        "locationConfidence" : 7.482284E-4
+      }, {
+        "latitudeE7" : 494234582,
+        "longitudeE7" : 4518645,
+        "placeId" : "ChIJ_13S-mxM4EcRb52eYx52Vf8",
+        "name" : "Roynard Mansois Mireille Helene",
+        "locationConfidence" : 5.8410806E-4
+      }, {
+        "latitudeE7" : 494250703,
+        "longitudeE7" : 4511840,
+        "placeId" : "ChIJ9T3TK21M4EcR9G1zEzSgme8",
+        "name" : "Elevage canin - Akita Inu - Des Gardiens du Temple Sacré",
+        "locationConfidence" : 4.908935E-4
+      }, {
+        "latitudeE7" : 494228939,
+        "longitudeE7" : 4527023,
+        "placeId" : "ChIJO99u9WxM4EcRwVCfBuVVpOI",
+        "name" : "Meheu Eric",
+        "locationConfidence" : 4.6532185E-4
+      }, {
+        "latitudeE7" : 494214391,
+        "longitudeE7" : 4528808,
+        "placeId" : "ChIJ3Xbg5WtM4EcRBcwQh8332J4",
+        "name" : "Samson Claude",
+        "locationConfidence" : 7.137384E-5
+      }, {
+        "latitudeE7" : 494246791,
+        "longitudeE7" : 4543221,
+        "placeId" : "ChIJI7g-WGtM4EcRd-oydD_ki8o",
+        "name" : "Exploitation Forestiere Maret - Bisson",
+        "locationConfidence" : 5.96673E-5
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1375259477714",
+        "endTimestampMs" : "1375266148740"
+      },
+      "distance" : 139534,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494234580,
+          "lngE7" : 4519451
+        }, {
+          "latE7" : 487389030,
+          "lngE7" : 9295397
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 487388603,
+        "longitudeE7" : 9294711
+      },
+      "endLocation" : {
+        "latitudeE7" : 487352277,
+        "longitudeE7" : 8816268
+      },
+      "duration" : {
+        "startTimestampMs" : "1375266453077",
+        "endTimestampMs" : "1375272997331"
+      },
+      "distance" : 6183,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 487389068,
+          "lngE7" : 9295319
+        }, {
+          "latE7" : 487330818,
+          "lngE7" : 9280323
+        }, {
+          "latE7" : 487349014,
+          "lngE7" : 9298875
+        }, {
+          "latE7" : 487345886,
+          "lngE7" : 9088072
+        }, {
+          "latE7" : 487355918,
+          "lngE7" : 8816819
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 487330818,
+          "lngE7" : 9279941,
+          "timestampMs" : "1375266678104",
+          "accuracyMeters" : 2
+        }, {
+          "latE7" : 487349014,
+          "lngE7" : 9297951,
+          "timestampMs" : "1375266995705",
+          "accuracyMeters" : 2
+        }, {
+          "latE7" : 487346382,
+          "lngE7" : 9087956,
+          "timestampMs" : "1375267719789",
+          "accuracyMeters" : 6
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 487352277,
+        "longitudeE7" : 8816268
+      },
+      "endLocation" : {
+        "latitudeE7" : 487342541,
+        "longitudeE7" : 9202409
+      },
+      "duration" : {
+        "startTimestampMs" : "1375274180553",
+        "endTimestampMs" : "1375275989850"
+      },
+      "distance" : 2391,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 487355918,
+          "lngE7" : 8816819
+        }, {
+          "latE7" : 487342453,
+          "lngE7" : 9202557
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 487342541,
+        "longitudeE7" : 9202409
+      },
+      "endLocation" : {
+        "latitudeE7" : 487220985,
+        "longitudeE7" : 8385943
+      },
+      "duration" : {
+        "startTimestampMs" : "1375275989850",
+        "endTimestampMs" : "1375280690230"
+      },
+      "distance" : 697,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 487342453,
+          "lngE7" : 9202557
+        }, {
+          "latE7" : 487221450,
+          "lngE7" : 8385046
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1375281259320",
+        "endTimestampMs" : "1375281397455"
+      },
+      "distance" : 136,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1375281397455",
+        "endTimestampMs" : "1375283077730"
+      },
+      "distance" : 1654,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 487321179,
+        "longitudeE7" : 8193662
+      },
+      "endLocation" : {
+        "latitudeE7" : 487504009,
+        "longitudeE7" : 10133319
+      },
+      "duration" : {
+        "startTimestampMs" : "1375285543517",
+        "endTimestampMs" : "1375295490452"
+      },
+      "distance" : 5473,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 487321319,
+          "lngE7" : 8192272
+        }, {
+          "latE7" : 486816825,
+          "lngE7" : 8052700
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 487504009,
+        "longitudeE7" : 10133319
+      },
+      "endLocation" : {
+        "latitudeE7" : 493907860,
+        "longitudeE7" : 5193091
+      },
+      "duration" : {
+        "startTimestampMs" : "1375295490452",
+        "endTimestampMs" : "1375303383275"
+      },
+      "distance" : 107322,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 487501907,
+          "lngE7" : 10115580
+        }, {
+          "latE7" : 488639411,
+          "lngE7" : 10692304
+        }, {
+          "latE7" : 488689689,
+          "lngE7" : 10732154
+        }, {
+          "latE7" : 493911361,
+          "lngE7" : 5184013
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 488639336,
+          "lngE7" : 10692474,
+          "timestampMs" : "1375298469922",
+          "accuracyMeters" : 6
+        }, {
+          "latE7" : 488689423,
+          "lngE7" : 10732911,
+          "timestampMs" : "1375298565980",
+          "accuracyMeters" : 6
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1375303383275",
+        "endTimestampMs" : "1375359044130"
+      },
+      "distance" : 22487,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

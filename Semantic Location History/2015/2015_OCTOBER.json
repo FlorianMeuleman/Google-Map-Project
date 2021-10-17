@@ -1,0 +1,1150 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494930113,
+        "longitudeE7" : 1173521,
+        "placeId" : "ChIJ-adYjxsv4EcRxg5IlqHnB9A",
+        "address" : "133 Bd de Strasbourg\n76600 Le Havre\nFrance",
+        "name" : "Tribunal Judiciaire",
+        "locationConfidence" : 33.39647
+      },
+      "duration" : {
+        "startTimestampMs" : "1445864848997",
+        "endTimestampMs" : "1445865565162"
+      },
+      "centerLatE7" : 494925950,
+      "centerLngE7" : 1168033,
+      "visitConfidence" : 72,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494925430,
+        "longitudeE7" : 1173988,
+        "placeId" : "ChIJkfa5gRsv4EcR9LTIXDzgGl4",
+        "name" : "Cafe de la Paix",
+        "locationConfidence" : 12.136301
+      }, {
+        "latitudeE7" : 494924645,
+        "longitudeE7" : 1177655,
+        "placeId" : "ChIJv8OKfhsv4EcR1YM9cnZmd_4",
+        "name" : "Post Office",
+        "locationConfidence" : 7.584804
+      }, {
+        "latitudeE7" : 494925719,
+        "longitudeE7" : 1162224,
+        "placeId" : "ChIJ5Xb9yfnAwkcRAXLs0mUapdw",
+        "name" : "Carrefour Express",
+        "locationConfidence" : 6.8265376
+      }, {
+        "latitudeE7" : 494925314,
+        "longitudeE7" : 1175525,
+        "placeId" : "ChIJp4pwfxsv4EcRQb22PcpORuI",
+        "name" : "Pharmacie Philippe Lambert",
+        "locationConfidence" : 4.53019
+      }, {
+        "latitudeE7" : 494925061,
+        "longitudeE7" : 1165415,
+        "placeId" : "ChIJjeYQjBsv4EcRE3Iy_VzR0Ps",
+        "name" : "SPEEDY Le Havre",
+        "locationConfidence" : 3.0487857
+      }, {
+        "latitudeE7" : 494905410,
+        "longitudeE7" : 1173344,
+        "placeId" : "ChIJ1SH_Px8v4EcRGVPF-Eyn4k0",
+        "name" : "Institution Saint Joseph",
+        "locationConfidence" : 1.9428202
+      }, {
+        "latitudeE7" : 494921420,
+        "longitudeE7" : 1172940,
+        "placeId" : "ChIJg_PFfhwv4EcRqU9Z0YkcOgk",
+        "name" : "L'Ami du Pain",
+        "locationConfidence" : 1.9359134
+      }, {
+        "latitudeE7" : 494931859,
+        "longitudeE7" : 1160061,
+        "placeId" : "ChIJTdQF8xsv4EcRein0RbJ_OkM",
+        "name" : "Bouygues Immobilier",
+        "locationConfidence" : 1.053685
+      }, {
+        "latitudeE7" : 494934779,
+        "longitudeE7" : 1166705,
+        "placeId" : "ChIJC3-xlxsv4EcRXpdKCZrIwbI",
+        "name" : "Centre Médico Social C.M.S",
+        "locationConfidence" : 1.0003781
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494928640,
+        "longitudeE7" : 1094510,
+        "placeId" : "ChIJAQOJqBgv4EcRc2H4PQ62EYM",
+        "address" : "50 Pl. de l'Hôtel de ville\n76600 Le Havre\nFrance",
+        "name" : "Quick du Havre",
+        "locationConfidence" : 4.082665
+      },
+      "duration" : {
+        "startTimestampMs" : "1445865805488",
+        "endTimestampMs" : "1445867741062"
+      },
+      "centerLatE7" : 494930450,
+      "centerLngE7" : 1095417,
+      "visitConfidence" : 68,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494920223,
+        "longitudeE7" : 1111390,
+        "placeId" : "ChIJqwtcMh8v4EcR5XFVoVgg9Cs",
+        "name" : "L'Essentiel",
+        "locationConfidence" : 2.5637598
+      }, {
+        "latitudeE7" : 494960196,
+        "longitudeE7" : 1113862,
+        "placeId" : "ChIJJZ6KOBgv4EcRhNSXBdHBlHk",
+        "name" : "Centre Commercial Espace Coty",
+        "locationConfidence" : 2.5027635
+      }, {
+        "latitudeE7" : 494945596,
+        "longitudeE7" : 1099474,
+        "placeId" : "ChIJrWVqhhgv4EcRTqYsM8L-0uY",
+        "name" : "Place Des Tasses",
+        "locationConfidence" : 1.8918067
+      }, {
+        "latitudeE7" : 494923741,
+        "longitudeE7" : 1096817,
+        "placeId" : "ChIJ52WwrBgv4EcRFaPy5gqa0CI",
+        "name" : "Gérard Darel",
+        "locationConfidence" : 1.824327
+      }, {
+        "latitudeE7" : 494922356,
+        "longitudeE7" : 1103884,
+        "placeId" : "ChIJb-mXTB8v4EcRbxlpWoiPBcg",
+        "name" : "Le Louisiane",
+        "locationConfidence" : 1.8057085
+      }, {
+        "latitudeE7" : 494926791,
+        "longitudeE7" : 1093950,
+        "placeId" : "ChIJ46tZByIv4EcR4L4qjM34TcU",
+        "name" : "Adam et Eve - Le Havre",
+        "locationConfidence" : 1.7378292
+      }, {
+        "latitudeE7" : 494931299,
+        "longitudeE7" : 1102706,
+        "placeId" : "ChIJR1TNuxgv4EcRMH7VawGS32E",
+        "name" : "LCL - Le Crédit Lyonnais",
+        "locationConfidence" : 1.6865243
+      }, {
+        "latitudeE7" : 494936491,
+        "longitudeE7" : 1093351,
+        "placeId" : "ChIJe10gnxgv4EcR1wsPYIRnrtE",
+        "name" : "Sushi Shop",
+        "locationConfidence" : 1.6156844
+      }, {
+        "latitudeE7" : 494939881,
+        "longitudeE7" : 1098661,
+        "placeId" : "ChIJCTVfmhgv4EcRjIa8ME--K-4",
+        "name" : "Tribunal Affaires Sécurité Sociale",
+        "locationConfidence" : 1.4806216
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494922708,
+        "longitudeE7" : 1098069
+      },
+      "endLocation" : {
+        "latitudeE7" : 494959019,
+        "longitudeE7" : 5819137
+      },
+      "duration" : {
+        "startTimestampMs" : "1445867741062",
+        "endTimestampMs" : "1445870993998"
+      },
+      "distance" : 35605,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494922752,
+          "lngE7" : 1098074
+        }, {
+          "latE7" : 494929656,
+          "lngE7" : 1143812
+        }, {
+          "latE7" : 494952316,
+          "lngE7" : 1129973
+        }, {
+          "latE7" : 495021209,
+          "lngE7" : 1626199
+        }, {
+          "latE7" : 495048370,
+          "lngE7" : 1982930
+        }, {
+          "latE7" : 494839706,
+          "lngE7" : 5569189
+        }, {
+          "latE7" : 494958763,
+          "lngE7" : 5819213
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494929008,
+          "lngE7" : 1146794,
+          "timestampMs" : "1445867897204",
+          "accuracyMeters" : 30
+        }, {
+          "latE7" : 494953308,
+          "lngE7" : 1129676,
+          "timestampMs" : "1445868018671",
+          "accuracyMeters" : 30
+        }, {
+          "latE7" : 495020294,
+          "lngE7" : 1628173,
+          "timestampMs" : "1445868678007",
+          "accuracyMeters" : 30
+        }, {
+          "latE7" : 495049706,
+          "lngE7" : 1982595,
+          "timestampMs" : "1445868965271",
+          "accuracyMeters" : 58
+        }, {
+          "latE7" : 494842339,
+          "lngE7" : 5566478,
+          "timestampMs" : "1445870607620",
+          "accuracyMeters" : 36
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494949460,
+        "longitudeE7" : 5777900,
+        "placeId" : "ChIJTxGOFvpQ4EcRlbytJtBeYew",
+        "address" : "6 Allée Notre Dame\n76330 Port-Jérôme-sur-Seine\nFrance",
+        "name" : "Parc de la vallée du Télhuet",
+        "locationConfidence" : 38.401047
+      },
+      "duration" : {
+        "startTimestampMs" : "1445870993998",
+        "endTimestampMs" : "1445872442553"
+      },
+      "centerLatE7" : 494958115,
+      "centerLngE7" : 5818485,
+      "visitConfidence" : 76,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494941162,
+        "longitudeE7" : 5774884,
+        "placeId" : "ChIJ754UfvpQ4EcRVvcSqJtN_ks",
+        "name" : "Parc du Télhuet",
+        "locationConfidence" : 37.789425
+      }, {
+        "latitudeE7" : 494948710,
+        "longitudeE7" : 5844490,
+        "placeId" : "ChIJJ6KHcuVQ4EcRc--5LKq3gHw",
+        "name" : "Allee Beauregard Notre Dame De Gravenchon",
+        "locationConfidence" : 11.087874
+      }, {
+        "latitudeE7" : 494945737,
+        "longitudeE7" : 5808103,
+        "placeId" : "ChIJ80hq6vpQ4EcRYioyPIgQ85g",
+        "name" : "Paroisse Saint Denis des Marais de Seine",
+        "locationConfidence" : 6.485797
+      }, {
+        "latitudeE7" : 494946785,
+        "longitudeE7" : 5850508,
+        "placeId" : "ChIJV1X8n-VQ4EcR2_E2dPokrg0",
+        "name" : "Delente Sylvain",
+        "locationConfidence" : 2.4651983
+      }, {
+        "latitudeE7" : 494938994,
+        "longitudeE7" : 5834984,
+        "placeId" : "ChIJ7QKvI-VQ4EcRzNCRIo2N0aw",
+        "name" : "C'est Tout Toit Couverture",
+        "locationConfidence" : 2.0732088
+      }, {
+        "latitudeE7" : 494961135,
+        "longitudeE7" : 5858654,
+        "placeId" : "ChIJ16TMfO9Q4EcRaSi1ps7PEHw",
+        "name" : "Brubion Jean-François",
+        "locationConfidence" : 1.6974502
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494949460,
+        "longitudeE7" : 5777900,
+        "placeId" : "ChIJTxGOFvpQ4EcRlbytJtBeYew",
+        "address" : "6 Allée Notre Dame\n76330 Port-Jérôme-sur-Seine\nFrance",
+        "name" : "Parc de la vallée du Télhuet",
+        "locationConfidence" : 38.401047
+      },
+      "endLocation" : {
+        "latitudeE7" : 494958707,
+        "longitudeE7" : 5818929
+      },
+      "duration" : {
+        "startTimestampMs" : "1445872442553",
+        "endTimestampMs" : "1445874836592"
+      },
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494957466,
+          "lngE7" : 5816481
+        }, {
+          "latE7" : 494885025,
+          "lngE7" : 5870320
+        }, {
+          "latE7" : 494898490,
+          "lngE7" : 5644149
+        }, {
+          "latE7" : 494920616,
+          "lngE7" : 5779191
+        }, {
+          "latE7" : 494958724,
+          "lngE7" : 5818929
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494888496,
+          "lngE7" : 5869451,
+          "timestampMs" : "1445872686236",
+          "accuracyMeters" : 83
+        }, {
+          "latE7" : 494897575,
+          "lngE7" : 5643176,
+          "timestampMs" : "1445873849599",
+          "accuracyMeters" : 36
+        }, {
+          "latE7" : 494919357,
+          "lngE7" : 5781051,
+          "timestampMs" : "1445874456678",
+          "accuracyMeters" : 57
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494941162,
+        "longitudeE7" : 5774884,
+        "placeId" : "ChIJ754UfvpQ4EcRVvcSqJtN_ks",
+        "address" : "76330 Notre-Dame-de-Gravenchon, France",
+        "name" : "Parc du Télhuet",
+        "locationConfidence" : 46.91026
+      },
+      "duration" : {
+        "startTimestampMs" : "1445874836592",
+        "endTimestampMs" : "1445897174180"
+      },
+      "centerLatE7" : 494959134,
+      "centerLngE7" : 5819086,
+      "visitConfidence" : 81,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494949460,
+        "longitudeE7" : 5777900,
+        "placeId" : "ChIJTxGOFvpQ4EcRlbytJtBeYew",
+        "name" : "Parc de la vallée du Télhuet",
+        "locationConfidence" : 27.821323
+      }, {
+        "latitudeE7" : 494945737,
+        "longitudeE7" : 5808103,
+        "placeId" : "ChIJ80hq6vpQ4EcRYioyPIgQ85g",
+        "name" : "Paroisse Saint Denis des Marais de Seine",
+        "locationConfidence" : 11.947307
+      }, {
+        "latitudeE7" : 494948710,
+        "longitudeE7" : 5844490,
+        "placeId" : "ChIJJ6KHcuVQ4EcRc--5LKq3gHw",
+        "name" : "Allee Beauregard Notre Dame De Gravenchon",
+        "locationConfidence" : 6.2210774
+      }, {
+        "latitudeE7" : 494946785,
+        "longitudeE7" : 5850508,
+        "placeId" : "ChIJV1X8n-VQ4EcR2_E2dPokrg0",
+        "name" : "Delente Sylvain",
+        "locationConfidence" : 2.9150798
+      }, {
+        "latitudeE7" : 494938994,
+        "longitudeE7" : 5834984,
+        "placeId" : "ChIJ7QKvI-VQ4EcRzNCRIo2N0aw",
+        "name" : "C'est Tout Toit Couverture",
+        "locationConfidence" : 2.1117167
+      }, {
+        "latitudeE7" : 494961135,
+        "longitudeE7" : 5858654,
+        "placeId" : "ChIJ16TMfO9Q4EcRaSi1ps7PEHw",
+        "name" : "Brubion Jean-François",
+        "locationConfidence" : 2.0732388
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494941162,
+        "longitudeE7" : 5774884,
+        "placeId" : "ChIJ754UfvpQ4EcRVvcSqJtN_ks",
+        "address" : "76330 Notre-Dame-de-Gravenchon, France",
+        "name" : "Parc du Télhuet",
+        "locationConfidence" : 51.335846
+      },
+      "duration" : {
+        "startTimestampMs" : "1445961144724",
+        "endTimestampMs" : "1445964150772"
+      },
+      "centerLatE7" : 494958778,
+      "centerLngE7" : 5818828,
+      "visitConfidence" : 76,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494949460,
+        "longitudeE7" : 5777900,
+        "placeId" : "ChIJTxGOFvpQ4EcRlbytJtBeYew",
+        "name" : "Parc de la vallée du Télhuet",
+        "locationConfidence" : 28.954765
+      }, {
+        "latitudeE7" : 494945737,
+        "longitudeE7" : 5808103,
+        "placeId" : "ChIJ80hq6vpQ4EcRYioyPIgQ85g",
+        "name" : "Paroisse Saint Denis des Marais de Seine",
+        "locationConfidence" : 7.7009535
+      }, {
+        "latitudeE7" : 494948710,
+        "longitudeE7" : 5844490,
+        "placeId" : "ChIJJ6KHcuVQ4EcRc--5LKq3gHw",
+        "name" : "Allee Beauregard Notre Dame De Gravenchon",
+        "locationConfidence" : 7.5932546
+      }, {
+        "latitudeE7" : 494946785,
+        "longitudeE7" : 5850508,
+        "placeId" : "ChIJV1X8n-VQ4EcR2_E2dPokrg0",
+        "name" : "Delente Sylvain",
+        "locationConfidence" : 1.8220007
+      }, {
+        "latitudeE7" : 494938994,
+        "longitudeE7" : 5834984,
+        "placeId" : "ChIJ7QKvI-VQ4EcRzNCRIo2N0aw",
+        "name" : "C'est Tout Toit Couverture",
+        "locationConfidence" : 1.3691518
+      }, {
+        "latitudeE7" : 494961135,
+        "longitudeE7" : 5858654,
+        "placeId" : "ChIJ16TMfO9Q4EcRaSi1ps7PEHw",
+        "name" : "Brubion Jean-François",
+        "locationConfidence" : 1.2240269
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494953720,
+        "longitudeE7" : 5815017
+      },
+      "endLocation" : {
+        "latitudeE7" : 494949460,
+        "longitudeE7" : 5777900
+      },
+      "duration" : {
+        "startTimestampMs" : "1445964150772",
+        "endTimestampMs" : "1445964958858"
+      },
+      "distance" : 5506616,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494953880,
+          "lngE7" : 5815513
+        }, {
+          "latE7" : 494897994,
+          "lngE7" : 5716150
+        }, {
+          "latE7" : 494890785,
+          "lngE7" : 5660549
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494898415,
+          "lngE7" : 5717209,
+          "timestampMs" : "1445964272075",
+          "accuracyMeters" : 37
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494949460,
+        "longitudeE7" : 5777900,
+        "placeId" : "ChIJTxGOFvpQ4EcRlbytJtBeYew",
+        "address" : "6 Allée Notre Dame\n76330 Port-Jérôme-sur-Seine\nFrance",
+        "name" : "Parc de la vallée du Télhuet",
+        "locationConfidence" : 36.419804
+      },
+      "duration" : {
+        "startTimestampMs" : "1445980388138",
+        "endTimestampMs" : "1446030919005"
+      },
+      "centerLatE7" : 494959360,
+      "centerLngE7" : 5819100,
+      "visitConfidence" : 84,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494941162,
+        "longitudeE7" : 5774884,
+        "placeId" : "ChIJ754UfvpQ4EcRVvcSqJtN_ks",
+        "name" : "Parc du Télhuet",
+        "locationConfidence" : 35.213573
+      }, {
+        "latitudeE7" : 494945737,
+        "longitudeE7" : 5808103,
+        "placeId" : "ChIJ80hq6vpQ4EcRYioyPIgQ85g",
+        "name" : "Paroisse Saint Denis des Marais de Seine",
+        "locationConfidence" : 13.96611
+      }, {
+        "latitudeE7" : 494948710,
+        "longitudeE7" : 5844490,
+        "placeId" : "ChIJJ6KHcuVQ4EcRc--5LKq3gHw",
+        "name" : "Allee Beauregard Notre Dame De Gravenchon",
+        "locationConfidence" : 6.5514865
+      }, {
+        "latitudeE7" : 494946785,
+        "longitudeE7" : 5850508,
+        "placeId" : "ChIJV1X8n-VQ4EcR2_E2dPokrg0",
+        "name" : "Delente Sylvain",
+        "locationConfidence" : 3.4269636
+      }, {
+        "latitudeE7" : 494961135,
+        "longitudeE7" : 5858654,
+        "placeId" : "ChIJ16TMfO9Q4EcRaSi1ps7PEHw",
+        "name" : "Brubion Jean-François",
+        "locationConfidence" : 2.4435358
+      }, {
+        "latitudeE7" : 494938994,
+        "longitudeE7" : 5834984,
+        "placeId" : "ChIJ7QKvI-VQ4EcRzNCRIo2N0aw",
+        "name" : "C'est Tout Toit Couverture",
+        "locationConfidence" : 1.9785272
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494959435,
+        "longitudeE7" : 5819132
+      },
+      "endLocation" : {
+        "latitudeE7" : 493508595,
+        "longitudeE7" : 5095196,
+        "placeId" : "ChIJIa8fv7uy4UcRWeMNys-tAvc",
+        "address" : "58 Rue Jules Ferry\n27500 Pont-Audemer\nFrance",
+        "name" : "Le Gall Estel",
+        "locationConfidence" : 45.12754
+      },
+      "duration" : {
+        "startTimestampMs" : "1446106374275",
+        "endTimestampMs" : "1446111830054"
+      },
+      "distance" : 19278,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494849662,
+          "lngE7" : 5274434
+        }, {
+          "latE7" : 493507537,
+          "lngE7" : 5097724
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 493508595,
+        "longitudeE7" : 5095196,
+        "placeId" : "ChIJIa8fv7uy4UcRWeMNys-tAvc",
+        "address" : "58 Rue Jules Ferry\n27500 Pont-Audemer\nFrance",
+        "name" : "Le Gall Estel",
+        "locationConfidence" : 45.12754
+      },
+      "duration" : {
+        "startTimestampMs" : "1446111830054",
+        "endTimestampMs" : "1446112716679"
+      },
+      "centerLatE7" : 493504850,
+      "centerLngE7" : 5092000,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 493503011,
+        "longitudeE7" : 5091286,
+        "placeId" : "ChIJV6ZcS7iy4UcRK9JOdeUKFVg",
+        "name" : "Centre Medico-Psychologique Infanto Juvenile",
+        "locationConfidence" : 16.39501
+      }, {
+        "latitudeE7" : 493495069,
+        "longitudeE7" : 5076087,
+        "placeId" : "ChIJ9_aO_ruy4UcRQ_9Vxo3OWdc",
+        "name" : "Chambres d'hôtes Saint-Germain-Village",
+        "locationConfidence" : 4.67492
+      }, {
+        "latitudeE7" : 493490898,
+        "longitudeE7" : 5083482,
+        "placeId" : "ChIJBZvxW7qy4UcReA4acRFTcYE",
+        "name" : "Emmaüs Pont Audemer",
+        "locationConfidence" : 4.078572
+      }, {
+        "latitudeE7" : 493515599,
+        "longitudeE7" : 5108105,
+        "placeId" : "ChIJVfWO_7qy4UcRUTNYPRDPpaQ",
+        "name" : "Texti",
+        "locationConfidence" : 3.693441
+      }, {
+        "latitudeE7" : 493512660,
+        "longitudeE7" : 5101405,
+        "placeId" : "ChIJ0-pysLuy4UcRiNglFJIo4Rc",
+        "name" : "Etude Legras Fabienne",
+        "locationConfidence" : 2.4728646
+      }, {
+        "latitudeE7" : 493510331,
+        "longitudeE7" : 5118684,
+        "placeId" : "ChIJhWq3Pbiy4UcResxl66RIpOY",
+        "name" : "Salle Municipale des Sports",
+        "locationConfidence" : 2.2168016
+      }, {
+        "latitudeE7" : 493497629,
+        "longitudeE7" : 5089582,
+        "placeId" : "ChIJn1Ur7Luy4UcRvfcCSH96wOY",
+        "name" : "Louis Louis-douzenel Jose",
+        "locationConfidence" : 2.2037637
+      }, {
+        "latitudeE7" : 493519405,
+        "longitudeE7" : 5095818,
+        "placeId" : "ChIJLbUiSbqy4UcRDe8Y9EoYw9I",
+        "name" : "Mairie",
+        "locationConfidence" : 1.9089254
+      }, {
+        "latitudeE7" : 493498225,
+        "longitudeE7" : 5093426,
+        "placeId" : "ChIJ9Qkwk7uy4UcREIcTkqzNOoQ",
+        "name" : "Auzoux Liliane",
+        "locationConfidence" : 1.8027999
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 493508595,
+        "longitudeE7" : 5095196,
+        "placeId" : "ChIJIa8fv7uy4UcRWeMNys-tAvc",
+        "address" : "58 Rue Jules Ferry\n27500 Pont-Audemer\nFrance",
+        "name" : "Le Gall Estel",
+        "locationConfidence" : 45.12754
+      },
+      "endLocation" : {
+        "latitudeE7" : 494941162,
+        "longitudeE7" : 5774884,
+        "placeId" : "ChIJ754UfvpQ4EcRVvcSqJtN_ks",
+        "address" : "76330 Notre-Dame-de-Gravenchon, France",
+        "name" : "Parc du Télhuet",
+        "locationConfidence" : 53.81096
+      },
+      "duration" : {
+        "startTimestampMs" : "1446112716679",
+        "endTimestampMs" : "1446116809168"
+      },
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 493507537,
+          "lngE7" : 5097724
+        }, {
+          "latE7" : 493498497,
+          "lngE7" : 5145326
+        }, {
+          "latE7" : 493540496,
+          "lngE7" : 5160722
+        }, {
+          "latE7" : 494958801,
+          "lngE7" : 5819664
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 493498039,
+          "lngE7" : 5145366,
+          "timestampMs" : "1446114152545",
+          "accuracyMeters" : 37
+        }, {
+          "latE7" : 493540497,
+          "lngE7" : 5160711,
+          "timestampMs" : "1446114516277",
+          "accuracyMeters" : 40
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494941162,
+        "longitudeE7" : 5774884,
+        "placeId" : "ChIJ754UfvpQ4EcRVvcSqJtN_ks",
+        "address" : "76330 Notre-Dame-de-Gravenchon, France",
+        "name" : "Parc du Télhuet",
+        "locationConfidence" : 53.81096
+      },
+      "duration" : {
+        "startTimestampMs" : "1446116809168",
+        "endTimestampMs" : "1446120127249"
+      },
+      "centerLatE7" : 494959330,
+      "centerLngE7" : 5819135,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494949460,
+        "longitudeE7" : 5777900,
+        "placeId" : "ChIJTxGOFvpQ4EcRlbytJtBeYew",
+        "name" : "Parc de la vallée du Télhuet",
+        "locationConfidence" : 28.004135
+      }, {
+        "latitudeE7" : 494948710,
+        "longitudeE7" : 5844490,
+        "placeId" : "ChIJJ6KHcuVQ4EcRc--5LKq3gHw",
+        "name" : "Allee Beauregard Notre Dame De Gravenchon",
+        "locationConfidence" : 7.106126
+      }, {
+        "latitudeE7" : 494945737,
+        "longitudeE7" : 5808103,
+        "placeId" : "ChIJ80hq6vpQ4EcRYioyPIgQ85g",
+        "name" : "Paroisse Saint Denis des Marais de Seine",
+        "locationConfidence" : 6.9398746
+      }, {
+        "latitudeE7" : 494946785,
+        "longitudeE7" : 5850508,
+        "placeId" : "ChIJV1X8n-VQ4EcR2_E2dPokrg0",
+        "name" : "Delente Sylvain",
+        "locationConfidence" : 1.7073207
+      }, {
+        "latitudeE7" : 494938994,
+        "longitudeE7" : 5834984,
+        "placeId" : "ChIJ7QKvI-VQ4EcRzNCRIo2N0aw",
+        "name" : "C'est Tout Toit Couverture",
+        "locationConfidence" : 1.2431283
+      }, {
+        "latitudeE7" : 494961135,
+        "longitudeE7" : 5858654,
+        "placeId" : "ChIJ16TMfO9Q4EcRaSi1ps7PEHw",
+        "name" : "Brubion Jean-François",
+        "locationConfidence" : 1.1884538
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494941162,
+        "longitudeE7" : 5774884,
+        "placeId" : "ChIJ754UfvpQ4EcRVvcSqJtN_ks",
+        "locationConfidence" : 53.81096
+      },
+      "endLocation" : {
+        "latitudeE7" : 496166818,
+        "longitudeE7" : 7506516,
+        "placeId" : "ChIJVyrdrdL14EcRda3_bcVkuBU",
+        "address" : "4 Rue du Couvent\n76190 Yvetot\nFrance",
+        "name" : "Lebas Immobilier",
+        "locationConfidence" : 17.852566
+      },
+      "duration" : {
+        "startTimestampMs" : "1446120127249",
+        "endTimestampMs" : "1446125323966"
+      },
+      "distance" : 18084,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494958724,
+          "lngE7" : 5818775
+        }, {
+          "latE7" : 496165962,
+          "lngE7" : 7506862
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 496166818,
+        "longitudeE7" : 7506516,
+        "placeId" : "ChIJVyrdrdL14EcRda3_bcVkuBU",
+        "address" : "4 Rue du Couvent\n76190 Yvetot\nFrance",
+        "name" : "Lebas Immobilier",
+        "locationConfidence" : 17.852566
+      },
+      "duration" : {
+        "startTimestampMs" : "1446125323966",
+        "endTimestampMs" : "1446126183421"
+      },
+      "centerLatE7" : 496168562,
+      "centerLngE7" : 7503013,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 496169194,
+        "longitudeE7" : 7502852,
+        "placeId" : "ChIJ03WoptL14EcRQ9_qfBNRfqM",
+        "name" : "Birembaut Jean-Claude",
+        "locationConfidence" : 14.844111
+      }, {
+        "latitudeE7" : 496169194,
+        "longitudeE7" : 7502852,
+        "placeId" : "ChIJh1VpkNL14EcRAIuF71dYbcY",
+        "name" : "Le Guellec Yves",
+        "locationConfidence" : 6.204189
+      }, {
+        "latitudeE7" : 496167907,
+        "longitudeE7" : 7500845,
+        "placeId" : "ChIJpU1OmNL14EcR5kIgwKOHjWo",
+        "name" : "Cycle Malandain",
+        "locationConfidence" : 5.158074
+      }, {
+        "latitudeE7" : 496159310,
+        "longitudeE7" : 7503560,
+        "placeId" : "ChIJHXo9x9L14EcRnTWZ5yUmVXQ",
+        "name" : "Clinique Chirurgicale et Dialyse D'Yvetot",
+        "locationConfidence" : 4.9831896
+      }, {
+        "latitudeE7" : 496165535,
+        "longitudeE7" : 7497396,
+        "placeId" : "ChIJ5YxHijL04EcRYouVMfHLioI",
+        "name" : "Le Manoir aux Vaches",
+        "locationConfidence" : 2.205182
+      }, {
+        "latitudeE7" : 496175195,
+        "longitudeE7" : 7520836,
+        "placeId" : "ChIJ4W7TqzL04EcROmZv2VSLKS4",
+        "name" : "Numis'or",
+        "locationConfidence" : 1.8742571
+      }, {
+        "latitudeE7" : 496173600,
+        "longitudeE7" : 7525870,
+        "placeId" : "ChIJS_H-pjL04EcRF3zkg9U8MZQ",
+        "name" : "Chocolats Hautot Yvetot",
+        "locationConfidence" : 1.4435606
+      }, {
+        "latitudeE7" : 496169194,
+        "longitudeE7" : 7502852,
+        "placeId" : "ChIJh1VpkNL14EcR_4cVt3nJTEE",
+        "name" : "Fournier Jean-François",
+        "locationConfidence" : 1.179836
+      }, {
+        "latitudeE7" : 496167730,
+        "longitudeE7" : 7525600,
+        "placeId" : "ChIJpQb0Wi304EcRlbIOTKuxvIc",
+        "name" : "Caisse d'Epargne Yvetot Le Mail",
+        "locationConfidence" : 1.1628872
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 496166818,
+        "longitudeE7" : 7506516,
+        "placeId" : "ChIJVyrdrdL14EcRda3_bcVkuBU",
+        "address" : "4 Rue du Couvent\n76190 Yvetot\nFrance",
+        "name" : "Lebas Immobilier",
+        "locationConfidence" : 17.852566
+      },
+      "endLocation" : {
+        "latitudeE7" : 494959050,
+        "longitudeE7" : 5819050
+      },
+      "duration" : {
+        "startTimestampMs" : "1446126183421",
+        "endTimestampMs" : "1446127293175"
+      },
+      "distance" : 18110,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 496165962,
+          "lngE7" : 7506862
+        }, {
+          "latE7" : 494958763,
+          "lngE7" : 5819140
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494949460,
+        "longitudeE7" : 5777900,
+        "placeId" : "ChIJTxGOFvpQ4EcRlbytJtBeYew",
+        "address" : "6 Allée Notre Dame\n76330 Port-Jérôme-sur-Seine\nFrance",
+        "name" : "Parc de la vallée du Télhuet",
+        "locationConfidence" : 36.53591
+      },
+      "duration" : {
+        "startTimestampMs" : "1446143857288",
+        "endTimestampMs" : "1446191003323"
+      },
+      "centerLatE7" : 494959499,
+      "centerLngE7" : 5819103,
+      "visitConfidence" : 84,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494941162,
+        "longitudeE7" : 5774884,
+        "placeId" : "ChIJ754UfvpQ4EcRVvcSqJtN_ks",
+        "name" : "Parc du Télhuet",
+        "locationConfidence" : 35.325832
+      }, {
+        "latitudeE7" : 494945737,
+        "longitudeE7" : 5808103,
+        "placeId" : "ChIJ80hq6vpQ4EcRYioyPIgQ85g",
+        "name" : "Paroisse Saint Denis des Marais de Seine",
+        "locationConfidence" : 13.827483
+      }, {
+        "latitudeE7" : 494948710,
+        "longitudeE7" : 5844490,
+        "placeId" : "ChIJJ6KHcuVQ4EcRc--5LKq3gHw",
+        "name" : "Allee Beauregard Notre Dame De Gravenchon",
+        "locationConfidence" : 6.503718
+      }, {
+        "latitudeE7" : 494946785,
+        "longitudeE7" : 5850508,
+        "placeId" : "ChIJV1X8n-VQ4EcR2_E2dPokrg0",
+        "name" : "Delente Sylvain",
+        "locationConfidence" : 3.4031408
+      }, {
+        "latitudeE7" : 494961135,
+        "longitudeE7" : 5858654,
+        "placeId" : "ChIJ16TMfO9Q4EcRaSi1ps7PEHw",
+        "name" : "Brubion Jean-François",
+        "locationConfidence" : 2.4501157
+      }, {
+        "latitudeE7" : 494938994,
+        "longitudeE7" : 5834984,
+        "placeId" : "ChIJ7QKvI-VQ4EcRzNCRIo2N0aw",
+        "name" : "C'est Tout Toit Couverture",
+        "locationConfidence" : 1.9537969
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494959984,
+        "longitudeE7" : 5819368
+      },
+      "endLocation" : {
+        "latitudeE7" : 497062813,
+        "longitudeE7" : 2070327,
+        "placeId" : "ChIJm6BP0cUX4EcRV6Ar4SnZeEM",
+        "locationConfidence" : 16.688766
+      },
+      "duration" : {
+        "startTimestampMs" : "1446191003323",
+        "endTimestampMs" : "1446201127195"
+      },
+      "distance" : 32502,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494958801,
+          "lngE7" : 5819700
+        }, {
+          "latE7" : 494889602,
+          "lngE7" : 5713148
+        }, {
+          "latE7" : 497014427,
+          "lngE7" : 2833546
+        }, {
+          "latE7" : 497063789,
+          "lngE7" : 2069988
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494889603,
+          "lngE7" : 5713160,
+          "timestampMs" : "1446191248038",
+          "accuracyMeters" : 34
+        }, {
+          "latE7" : 497014313,
+          "lngE7" : 2838716,
+          "timestampMs" : "1446195400815",
+          "accuracyMeters" : 37
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 497062813,
+        "longitudeE7" : 2070327,
+        "placeId" : "ChIJm6BP0cUX4EcRV6Ar4SnZeEM",
+        "address" : "15 Rue Guy de Maupassant, 76790 Étretat, France",
+        "name" : "Le Clos Lupin",
+        "locationConfidence" : 16.688766
+      },
+      "duration" : {
+        "startTimestampMs" : "1446201127195",
+        "endTimestampMs" : "1446202158392"
+      },
+      "centerLatE7" : 497062738,
+      "centerLngE7" : 2066475,
+      "visitConfidence" : 71,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 497076000,
+        "longitudeE7" : 2058300,
+        "placeId" : "ChIJyV-ev8YX4EcR7thqpOYc7TQ",
+        "name" : "Office de Tourisme d'Étretat",
+        "locationConfidence" : 10.624155
+      }, {
+        "latitudeE7" : 497064000,
+        "longitudeE7" : 2059080,
+        "placeId" : "ChIJd6UZncYX4EcR5J8HFgjRoPg",
+        "name" : "Château des Aygues",
+        "locationConfidence" : 6.0199733
+      }, {
+        "latitudeE7" : 497065738,
+        "longitudeE7" : 2048430,
+        "placeId" : "ChIJNfPnpcYX4EcRun3P6Pq2FA8",
+        "name" : "Au George V",
+        "locationConfidence" : 3.9261613
+      }, {
+        "latitudeE7" : 497072377,
+        "longitudeE7" : 2036422,
+        "placeId" : "ChIJlUvJTsEX4EcRWJMnbSzdlyg",
+        "name" : "Chocolats Hautot Etretat",
+        "locationConfidence" : 3.444751
+      }, {
+        "latitudeE7" : 497067950,
+        "longitudeE7" : 2053640,
+        "placeId" : "ChIJ4_wWl8YX4EcR2nOy-pClTR4",
+        "name" : "Pharmacie d'Etretat",
+        "locationConfidence" : 3.3153892
+      }, {
+        "latitudeE7" : 497061736,
+        "longitudeE7" : 2065827,
+        "placeId" : "ChIJBSePC8YX4EcRkhpcB01-Smo",
+        "name" : "Monsieur Jean Beaudet L Aiguille Creuse",
+        "locationConfidence" : 3.0495737
+      }, {
+        "latitudeE7" : 497075578,
+        "longitudeE7" : 2061521,
+        "placeId" : "ChIJRXut8sYX4EcR4KIEaeAAhY8",
+        "name" : "Etretat Bien-Être",
+        "locationConfidence" : 2.3785148
+      }, {
+        "latitudeE7" : 497059169,
+        "longitudeE7" : 2070862,
+        "placeId" : "ChIJM8NP0cUX4EcR6_uYw37PR14",
+        "name" : "Mairie",
+        "locationConfidence" : 2.3637629
+      }, {
+        "latitudeE7" : 497066854,
+        "longitudeE7" : 2046551,
+        "placeId" : "ChIJHQuMpcYX4EcRvb-z-mxsISw",
+        "name" : "Epicerie Fine Cressant",
+        "locationConfidence" : 2.2200491
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

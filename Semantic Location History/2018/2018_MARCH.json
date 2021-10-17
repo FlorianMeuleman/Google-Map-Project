@@ -1,0 +1,747 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494958513,
+        "longitudeE7" : 5816069,
+        "placeId" : "ChIJy4ysp_pQ4EcRGfRniRkkOwI",
+        "address" : "9 Rue Roland Garros\n76330 Port-Jérôme-sur-Seine\nFrance",
+        "name" : "9 Rue Roland Garros",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 53.171642
+      },
+      "duration" : {
+        "startTimestampMs" : "1521316477319",
+        "endTimestampMs" : "1521401766997"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 494960477,
+      "centerLngE7" : 5818982,
+      "visitConfidence" : 86,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494960970,
+        "longitudeE7" : 5818368,
+        "placeId" : "ChIJYx-hB_BQ4EcRBOaPtjHV4R4",
+        "locationConfidence" : 35.386017
+      }, {
+        "latitudeE7" : 494941162,
+        "longitudeE7" : 5774884,
+        "placeId" : "ChIJ754UfvpQ4EcRVvcSqJtN_ks",
+        "name" : "Parc du Télhuet",
+        "locationConfidence" : 4.5168476
+      }, {
+        "latitudeE7" : 494957681,
+        "longitudeE7" : 5818934,
+        "placeId" : "ChIJ9cgXqfpQ4EcR_nkS1asHwRg",
+        "locationConfidence" : 2.766276
+      }, {
+        "latitudeE7" : 494987913,
+        "longitudeE7" : 5812998,
+        "placeId" : "ChIJa9FSyvFQ4EcRzlR8S9ZxMGU",
+        "name" : "Le Télhuet",
+        "locationConfidence" : 2.569177
+      }, {
+        "latitudeE7" : 494948600,
+        "longitudeE7" : 5797929,
+        "placeId" : "ChIJo87kivpQ4EcRZOOq4x1T3Ao",
+        "locationConfidence" : 0.83054686
+      }, {
+        "latitudeE7" : 494948368,
+        "longitudeE7" : 5797138,
+        "placeId" : "ChIJ80hq6vpQ4EcRYioyPIgQ85g",
+        "name" : "Paroisse Saint Denis des Marais de Seine",
+        "locationConfidence" : 0.43285868
+      }, {
+        "latitudeE7" : 494947570,
+        "longitudeE7" : 5802580,
+        "placeId" : "ChIJjUThaFRQ4EcRQu3NvVW0MaY",
+        "name" : "A",
+        "locationConfidence" : 0.25346494
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494960557,
+        "longitudeE7" : 5819084
+      },
+      "endLocation" : {
+        "latitudeE7" : 495007000,
+        "longitudeE7" : 1731459
+      },
+      "duration" : {
+        "startTimestampMs" : "1521401766997",
+        "endTimestampMs" : "1521403343834"
+      },
+      "distance" : 29871,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 99.04465717323946
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.729183079360415
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.0925807825144356
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494958801,
+          "lngE7" : 5819584
+        }, {
+          "latE7" : 494760208,
+          "lngE7" : 4634909
+        }, {
+          "latE7" : 495007095,
+          "lngE7" : 1731452
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 495007000,
+        "longitudeE7" : 1731459
+      },
+      "endLocation" : {
+        "latitudeE7" : 495017735,
+        "longitudeE7" : 1163746
+      },
+      "duration" : {
+        "startTimestampMs" : "1521403343834",
+        "endTimestampMs" : "1521892309000"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494975726,
+          "lngE7" : 1110626,
+          "timestampMs" : "1521892128614",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 494976748,
+          "lngE7" : 1101243,
+          "timestampMs" : "1521892162000",
+          "accuracyMeters" : 13
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 495017735,
+        "longitudeE7" : 1163746
+      },
+      "endLocation" : {
+        "latitudeE7" : 495025482,
+        "longitudeE7" : 1044792
+      },
+      "duration" : {
+        "startTimestampMs" : "1521892309000",
+        "endTimestampMs" : "1521892499000"
+      },
+      "distance" : 1139,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 97.95542490177492
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 1.7108771545200039
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.2184590940952472
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 495017776,
+          "lngE7" : 1163899
+        }, {
+          "latE7" : 495001754,
+          "lngE7" : 1042672
+        }, {
+          "latE7" : 495025138,
+          "lngE7" : 1045183
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 495027408,
+          "lngE7" : 1048232,
+          "timestampMs" : "1521892492000",
+          "accuracyMeters" : 10
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 495239522,
+        "longitudeE7" : 1897013
+      },
+      "endLocation" : {
+        "latitudeE7" : 494901491,
+        "longitudeE7" : 1313752
+      },
+      "duration" : {
+        "startTimestampMs" : "1522502254000",
+        "endTimestampMs" : "1522517475556"
+      },
+      "distance" : 5644,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 77.52788278303714
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 14.497856840939697
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 5.5299048089190705
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 495241661,
+          "lngE7" : 1899610
+        }, {
+          "latE7" : 495036621,
+          "lngE7" : 1936559
+        }, {
+          "latE7" : 494911804,
+          "lngE7" : 1308801
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494903120,
+        "longitudeE7" : 1294260,
+        "placeId" : "ChIJrWTfcAEv4EcRUNsr5CYjG9U",
+        "address" : "70 Quai Frissard\n76600 Le Havre\nFrance",
+        "name" : "Docks Vauban",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 99.44871
+      },
+      "duration" : {
+        "startTimestampMs" : "1522517475556",
+        "endTimestampMs" : "1522534628350"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 494902702,
+          "longitudeE7" : 1314283,
+          "placeId" : "ChIJx7VSaaov4EcRBfVc0Ya7GPQ",
+          "address" : "centre commercial Docks Vauban\n76600 Le Havre\nFrance",
+          "name" : "Gaumont Docks Vauban",
+          "sourceInfo" : {
+            "deviceTag" : 179057369
+          },
+          "locationConfidence" : 80.45262
+        },
+        "duration" : {
+          "startTimestampMs" : "1522517475556",
+          "endTimestampMs" : "1522518122224"
+        },
+        "placeConfidence" : "HIGH_CONFIDENCE",
+        "centerLatE7" : 494901726,
+        "centerLngE7" : 1315377,
+        "visitConfidence" : 88,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 494901859,
+          "longitudeE7" : 1316964,
+          "placeId" : "ChIJKf0YWwAv4EcRYK6oVXFA67k",
+          "name" : "Memphis Le Havre",
+          "locationConfidence" : 6.9343143
+        }, {
+          "latitudeE7" : 494907210,
+          "longitudeE7" : 1324137,
+          "placeId" : "ChIJKf0YWwAv4EcRhKEz1XtMvNU",
+          "name" : "Wok Grill",
+          "locationConfidence" : 3.3785558
+        }, {
+          "latitudeE7" : 494903120,
+          "longitudeE7" : 1294260,
+          "placeId" : "ChIJrWTfcAEv4EcRUNsr5CYjG9U",
+          "name" : "Docks Vauban",
+          "locationConfidence" : 3.0898821
+        }, {
+          "latitudeE7" : 494911385,
+          "longitudeE7" : 1319418,
+          "placeId" : "ChIJrWTfcAEv4EcRERkomo2HBqk",
+          "name" : "Docks Océane",
+          "locationConfidence" : 2.695387
+        }, {
+          "latitudeE7" : 494901279,
+          "longitudeE7" : 1311970,
+          "placeId" : "ChIJ1bMhgKov4EcRy-yxCr8UsN8",
+          "name" : "El Rancho",
+          "locationConfidence" : 2.0955064
+        }, {
+          "latitudeE7" : 494899828,
+          "longitudeE7" : 1308234,
+          "placeId" : "ChIJsUBdUAAv4EcRsgokoeIMOVw",
+          "name" : "Courtepaille",
+          "locationConfidence" : 0.802083
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      }, {
+        "location" : {
+          "latitudeE7" : 494897628,
+          "longitudeE7" : 1309988,
+          "placeId" : "ChIJteTFcwEv4EcRMynnathSs8A",
+          "address" : "docks vauban\n70 Quai Frissard\n76600 Le Havre\nFrance",
+          "name" : "Del Arte",
+          "sourceInfo" : {
+            "deviceTag" : 179057369
+          },
+          "locationConfidence" : 27.464718
+        },
+        "duration" : {
+          "startTimestampMs" : "1522518335963",
+          "endTimestampMs" : "1522522377164"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 494900015,
+        "centerLngE7" : 1308315,
+        "visitConfidence" : 88,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 494903120,
+          "longitudeE7" : 1294260,
+          "placeId" : "ChIJrWTfcAEv4EcRUNsr5CYjG9U",
+          "name" : "Docks Vauban",
+          "locationConfidence" : 22.110739
+        }, {
+          "latitudeE7" : 494901279,
+          "longitudeE7" : 1311970,
+          "placeId" : "ChIJ1bMhgKov4EcRy-yxCr8UsN8",
+          "name" : "El Rancho",
+          "locationConfidence" : 16.024744
+        }, {
+          "latitudeE7" : 494899828,
+          "longitudeE7" : 1308234,
+          "placeId" : "ChIJsUBdUAAv4EcRsgokoeIMOVw",
+          "name" : "Courtepaille",
+          "locationConfidence" : 11.051942
+        }, {
+          "latitudeE7" : 494900194,
+          "longitudeE7" : 1293684,
+          "placeId" : "ChIJD9cznQAv4EcRaNrsm3z4e6Y",
+          "name" : "Micromania",
+          "locationConfidence" : 5.329067
+        }, {
+          "latitudeE7" : 494901859,
+          "longitudeE7" : 1316964,
+          "placeId" : "ChIJKf0YWwAv4EcRYK6oVXFA67k",
+          "name" : "Memphis Le Havre",
+          "locationConfidence" : 4.805653
+        }, {
+          "latitudeE7" : 494907210,
+          "longitudeE7" : 1324137,
+          "placeId" : "ChIJKf0YWwAv4EcRhKEz1XtMvNU",
+          "name" : "Wok Grill",
+          "locationConfidence" : 4.024406
+        }, {
+          "latitudeE7" : 494903555,
+          "longitudeE7" : 1302695,
+          "placeId" : "ChIJC3_ekQAv4EcRaonx6rWR56w",
+          "name" : "Carnet de Vol Le Havre",
+          "locationConfidence" : 2.5168107
+        }, {
+          "latitudeE7" : 494906270,
+          "longitudeE7" : 1308690,
+          "placeId" : "ChIJrWTfcAEv4EcRnl_HFFY3Nas",
+          "name" : "Acuitis, Maison d'Optique et d'Audition",
+          "locationConfidence" : 1.8658298
+        }, {
+          "latitudeE7" : 494901199,
+          "longitudeE7" : 1303767,
+          "placeId" : "ChIJOyP4HAEv4EcRZhyOufCIRXU",
+          "name" : "Mango",
+          "locationConfidence" : 1.6469785
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      }, {
+        "location" : {
+          "latitudeE7" : 494899828,
+          "longitudeE7" : 1308234,
+          "placeId" : "ChIJsUBdUAAv4EcRsgokoeIMOVw",
+          "address" : "70 Quai Frissard\n76600 Le Havre\nFrance",
+          "name" : "Courtepaille",
+          "sourceInfo" : {
+            "deviceTag" : 179057369
+          },
+          "locationConfidence" : 32.595325
+        },
+        "duration" : {
+          "startTimestampMs" : "1522522445388",
+          "endTimestampMs" : "1522523025097"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : 494900292,
+        "centerLngE7" : 1309559,
+        "visitConfidence" : 88,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 494897628,
+          "longitudeE7" : 1309988,
+          "placeId" : "ChIJteTFcwEv4EcRMynnathSs8A",
+          "name" : "Ristorante Del Arte",
+          "locationConfidence" : 22.324554
+        }, {
+          "latitudeE7" : 494901279,
+          "longitudeE7" : 1311970,
+          "placeId" : "ChIJ1bMhgKov4EcRy-yxCr8UsN8",
+          "name" : "El Rancho",
+          "locationConfidence" : 11.073105
+        }, {
+          "latitudeE7" : 494903120,
+          "longitudeE7" : 1294260,
+          "placeId" : "ChIJrWTfcAEv4EcRUNsr5CYjG9U",
+          "name" : "Docks Vauban",
+          "locationConfidence" : 9.756529
+        }, {
+          "latitudeE7" : 494900194,
+          "longitudeE7" : 1293684,
+          "placeId" : "ChIJD9cznQAv4EcRaNrsm3z4e6Y",
+          "name" : "Micromania",
+          "locationConfidence" : 3.2925491
+        }, {
+          "latitudeE7" : 494903555,
+          "longitudeE7" : 1302695,
+          "placeId" : "ChIJC3_ekQAv4EcRaonx6rWR56w",
+          "name" : "Carnet de Vol Le Havre",
+          "locationConfidence" : 2.5213823
+        }, {
+          "latitudeE7" : 494901859,
+          "longitudeE7" : 1316964,
+          "placeId" : "ChIJKf0YWwAv4EcRYK6oVXFA67k",
+          "name" : "Memphis Le Havre",
+          "locationConfidence" : 2.5067718
+        }, {
+          "latitudeE7" : 494901199,
+          "longitudeE7" : 1303767,
+          "placeId" : "ChIJOyP4HAEv4EcRZhyOufCIRXU",
+          "name" : "Mango",
+          "locationConfidence" : 2.3426516
+        }, {
+          "latitudeE7" : 494901602,
+          "longitudeE7" : 1305155,
+          "placeId" : "ChIJI8DlhQAv4EcRcuq-7lZY-Qw",
+          "name" : "Formul",
+          "locationConfidence" : 2.0898776
+        }, {
+          "latitudeE7" : 494907210,
+          "longitudeE7" : 1324137,
+          "placeId" : "ChIJKf0YWwAv4EcRhKEz1XtMvNU",
+          "name" : "Wok Grill",
+          "locationConfidence" : 2.0059733
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      }, {
+        "location" : {
+          "latitudeE7" : 494897628,
+          "longitudeE7" : 1309988,
+          "placeId" : "ChIJteTFcwEv4EcRMynnathSs8A",
+          "address" : "docks vauban\n70 Quai Frissard\n76600 Le Havre\nFrance",
+          "name" : "Del Arte",
+          "sourceInfo" : {
+            "deviceTag" : 179057369
+          },
+          "locationConfidence" : 23.749033
+        },
+        "duration" : {
+          "startTimestampMs" : "1522523041870",
+          "endTimestampMs" : "1522523611082"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : 494899394,
+        "centerLngE7" : 1308491,
+        "visitConfidence" : 88,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 494903120,
+          "longitudeE7" : 1294260,
+          "placeId" : "ChIJrWTfcAEv4EcRUNsr5CYjG9U",
+          "name" : "Docks Vauban",
+          "locationConfidence" : 17.436739
+        }, {
+          "latitudeE7" : 494901279,
+          "longitudeE7" : 1311970,
+          "placeId" : "ChIJ1bMhgKov4EcRy-yxCr8UsN8",
+          "name" : "El Rancho",
+          "locationConfidence" : 13.219302
+        }, {
+          "latitudeE7" : 494899828,
+          "longitudeE7" : 1308234,
+          "placeId" : "ChIJsUBdUAAv4EcRsgokoeIMOVw",
+          "name" : "Courtepaille",
+          "locationConfidence" : 9.241895
+        }, {
+          "latitudeE7" : 494903555,
+          "longitudeE7" : 1302695,
+          "placeId" : "ChIJC3_ekQAv4EcRaonx6rWR56w",
+          "name" : "Carnet de Vol Le Havre",
+          "locationConfidence" : 8.661431
+        }, {
+          "latitudeE7" : 494900194,
+          "longitudeE7" : 1293684,
+          "placeId" : "ChIJD9cznQAv4EcRaNrsm3z4e6Y",
+          "name" : "Micromania",
+          "locationConfidence" : 6.1051893
+        }, {
+          "latitudeE7" : 494901859,
+          "longitudeE7" : 1316964,
+          "placeId" : "ChIJKf0YWwAv4EcRYK6oVXFA67k",
+          "name" : "Memphis Le Havre",
+          "locationConfidence" : 4.0862494
+        }, {
+          "latitudeE7" : 494907210,
+          "longitudeE7" : 1324137,
+          "placeId" : "ChIJKf0YWwAv4EcRhKEz1XtMvNU",
+          "name" : "Wok Grill",
+          "locationConfidence" : 3.9624305
+        }, {
+          "latitudeE7" : 494906270,
+          "longitudeE7" : 1308690,
+          "placeId" : "ChIJrWTfcAEv4EcRnl_HFFY3Nas",
+          "name" : "Acuitis, Maison d'Optique et d'Audition",
+          "locationConfidence" : 2.4444578
+        }, {
+          "latitudeE7" : 494901199,
+          "longitudeE7" : 1303767,
+          "placeId" : "ChIJOyP4HAEv4EcRZhyOufCIRXU",
+          "name" : "Mango",
+          "locationConfidence" : 1.6874907
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      }, {
+        "location" : {
+          "latitudeE7" : 494899828,
+          "longitudeE7" : 1308234,
+          "placeId" : "ChIJsUBdUAAv4EcRsgokoeIMOVw",
+          "address" : "70 Quai Frissard\n76600 Le Havre\nFrance",
+          "name" : "Courtepaille",
+          "sourceInfo" : {
+            "deviceTag" : 179057369
+          },
+          "locationConfidence" : 24.709578
+        },
+        "duration" : {
+          "startTimestampMs" : "1522523702725",
+          "endTimestampMs" : "1522523852080"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : 494900545,
+        "centerLngE7" : 1309910,
+        "visitConfidence" : 88,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 494897628,
+          "longitudeE7" : 1309988,
+          "placeId" : "ChIJteTFcwEv4EcRMynnathSs8A",
+          "name" : "Ristorante Del Arte",
+          "locationConfidence" : 18.104504
+        }, {
+          "latitudeE7" : 494901279,
+          "longitudeE7" : 1311970,
+          "placeId" : "ChIJ1bMhgKov4EcRy-yxCr8UsN8",
+          "name" : "El Rancho",
+          "locationConfidence" : 14.184648
+        }, {
+          "latitudeE7" : 494903120,
+          "longitudeE7" : 1294260,
+          "placeId" : "ChIJrWTfcAEv4EcRUNsr5CYjG9U",
+          "name" : "Docks Vauban",
+          "locationConfidence" : 12.649717
+        }, {
+          "latitudeE7" : 494901199,
+          "longitudeE7" : 1303767,
+          "placeId" : "ChIJOyP4HAEv4EcRZhyOufCIRXU",
+          "name" : "Mango",
+          "locationConfidence" : 5.4793587
+        }, {
+          "latitudeE7" : 494903120,
+          "longitudeE7" : 1294260,
+          "placeId" : "ChIJrWTfcAEv4EcRObMilK_FwnE",
+          "name" : "Plein Ciel",
+          "locationConfidence" : 5.302145
+        }, {
+          "latitudeE7" : 494900194,
+          "longitudeE7" : 1293684,
+          "placeId" : "ChIJD9cznQAv4EcRaNrsm3z4e6Y",
+          "name" : "Micromania",
+          "locationConfidence" : 4.530835
+        }, {
+          "latitudeE7" : 494903555,
+          "longitudeE7" : 1302695,
+          "placeId" : "ChIJC3_ekQAv4EcRaonx6rWR56w",
+          "name" : "Carnet de Vol Le Havre",
+          "locationConfidence" : 3.5513518
+        }, {
+          "latitudeE7" : 494901148,
+          "longitudeE7" : 1297600,
+          "placeId" : "ChIJyTywjAAv4EcRAtqQ2FbPurQ",
+          "name" : "De Neuville",
+          "locationConfidence" : 3.0069892
+        }, {
+          "latitudeE7" : 494898833,
+          "longitudeE7" : 1303004,
+          "placeId" : "ChIJK_sR6wAv4EcR1HfjN1k8vKg",
+          "name" : "Plein Ciel",
+          "locationConfidence" : 2.7148068
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 494902482,
+      "centerLngE7" : 1307815,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494887469,
+        "longitudeE7" : 1293340,
+        "placeId" : "ChIJcZCRRgAv4EcRf_6OBWIOh9o",
+        "name" : "Bassin Paul Vatine",
+        "locationConfidence" : 0.08215776
+      }, {
+        "latitudeE7" : 494887010,
+        "longitudeE7" : 1311750,
+        "placeId" : "ChIJHSonnqov4EcRMwvwuju8_yo",
+        "name" : "Parc de stationnement des Docks Café - P1",
+        "locationConfidence" : 0.05473032
+      }, {
+        "latitudeE7" : 494889030,
+        "longitudeE7" : 1331119,
+        "placeId" : "ChIJB4D376ov4EcRJKdFSgNXfBw",
+        "name" : "Decathlon LE HAVRE DOCKS",
+        "locationConfidence" : 0.052276038
+      }, {
+        "latitudeE7" : 494885064,
+        "longitudeE7" : 1311037,
+        "placeId" : "ChIJO_uIFAAv4EcRvQML7-fZJ_0",
+        "name" : "Carre Des Docks Le Havre Normandy",
+        "locationConfidence" : 0.049630936
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494902347,
+          "lngE7" : 1315780,
+          "timestampMs" : "1522517575561",
+          "accuracyMeters" : 15
+        }, {
+          "latE7" : 494902347,
+          "lngE7" : 1315780,
+          "timestampMs" : "1522517616300",
+          "accuracyMeters" : 15
+        }, {
+          "latE7" : 494904525,
+          "lngE7" : 1305745,
+          "timestampMs" : "1522533922690",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494903120,
+        "longitudeE7" : 1294260,
+        "placeId" : "ChIJrWTfcAEv4EcRUNsr5CYjG9U",
+        "address" : "70 Quai Frissard\n76600 Le Havre\nFrance",
+        "name" : "Docks Vauban",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 99.44871
+      },
+      "endLocation" : {
+        "latitudeE7" : 494908881,
+        "longitudeE7" : 1378585
+      },
+      "duration" : {
+        "startTimestampMs" : "1522534628350",
+        "endTimestampMs" : "1522534926549"
+      },
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 53.919643238980754
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 44.160242481663666
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.5496789851013144
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494909133,
+          "lngE7" : 1313664
+        }, {
+          "latE7" : 494901008,
+          "lngE7" : 1407961
+        }, {
+          "latE7" : 494913787,
+          "lngE7" : 1385135
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494908387,
+        "longitudeE7" : 1342320
+      },
+      "endLocation" : {
+        "latitudeE7" : 494960802,
+        "longitudeE7" : 5818770
+      },
+      "duration" : {
+        "startTimestampMs" : "1522534926549",
+        "endTimestampMs" : "1522580668000"
+      },
+      "distance" : 32336,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 88.8078750590018
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 9.299554557354053
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.6232859675341226
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494905052,
+          "lngE7" : 1344486
+        }, {
+          "latE7" : 494821395,
+          "lngE7" : 4423109
+        }, {
+          "latE7" : 494958763,
+          "lngE7" : 5819342
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

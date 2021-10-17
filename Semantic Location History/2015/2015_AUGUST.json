@@ -1,0 +1,91 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494941162,
+        "longitudeE7" : 5774884,
+        "placeId" : "ChIJ754UfvpQ4EcRVvcSqJtN_ks",
+        "address" : "76330 Notre-Dame-de-Gravenchon, France",
+        "name" : "Parc du Télhuet",
+        "locationConfidence" : 91.33419
+      },
+      "duration" : {
+        "startTimestampMs" : "1440110383617",
+        "endTimestampMs" : "1440110878391"
+      },
+      "centerLatE7" : 494959211,
+      "centerLngE7" : 5819100,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494945737,
+        "longitudeE7" : 5808103,
+        "placeId" : "ChIJ80hq6vpQ4EcRYioyPIgQ85g",
+        "name" : "Paroisse Saint Denis des Marais de Seine",
+        "locationConfidence" : 5.399735
+      }, {
+        "latitudeE7" : 494938994,
+        "longitudeE7" : 5834984,
+        "placeId" : "ChIJ7QKvI-VQ4EcRzNCRIo2N0aw",
+        "name" : "C'est Tout Toit Couverture",
+        "locationConfidence" : 1.2237839
+      }, {
+        "latitudeE7" : 494946785,
+        "longitudeE7" : 5850508,
+        "placeId" : "ChIJV1X8n-VQ4EcR2_E2dPokrg0",
+        "name" : "Delente Sylvain",
+        "locationConfidence" : 1.0655495
+      }, {
+        "latitudeE7" : 494961135,
+        "longitudeE7" : 5858654,
+        "placeId" : "ChIJ16TMfO9Q4EcRaSi1ps7PEHw",
+        "name" : "Brubion Jean-François",
+        "locationConfidence" : 0.97674465
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494941162,
+        "longitudeE7" : 5774884,
+        "placeId" : "ChIJ754UfvpQ4EcRVvcSqJtN_ks",
+        "address" : "76330 Notre-Dame-de-Gravenchon, France",
+        "name" : "Parc du Télhuet",
+        "locationConfidence" : 91.79262
+      },
+      "duration" : {
+        "startTimestampMs" : "1440457498032",
+        "endTimestampMs" : "1440458171091"
+      },
+      "centerLatE7" : 494959308,
+      "centerLngE7" : 5819133,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494945737,
+        "longitudeE7" : 5808103,
+        "placeId" : "ChIJ80hq6vpQ4EcRYioyPIgQ85g",
+        "name" : "Paroisse Saint Denis des Marais de Seine",
+        "locationConfidence" : 5.1012893
+      }, {
+        "latitudeE7" : 494938994,
+        "longitudeE7" : 5834984,
+        "placeId" : "ChIJ7QKvI-VQ4EcRzNCRIo2N0aw",
+        "name" : "C'est Tout Toit Couverture",
+        "locationConfidence" : 1.1602589
+      }, {
+        "latitudeE7" : 494946785,
+        "longitudeE7" : 5850508,
+        "placeId" : "ChIJV1X8n-VQ4EcR2_E2dPokrg0",
+        "name" : "Delente Sylvain",
+        "locationConfidence" : 1.0156103
+      }, {
+        "latitudeE7" : 494961135,
+        "longitudeE7" : 5858654,
+        "placeId" : "ChIJ16TMfO9Q4EcRaSi1ps7PEHw",
+        "name" : "Brubion Jean-François",
+        "locationConfidence" : 0.9302226
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

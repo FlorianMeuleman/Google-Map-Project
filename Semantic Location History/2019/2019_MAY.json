@@ -1,0 +1,2164 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494967346,
+        "longitudeE7" : 1121106,
+        "placeId" : "ChIJl3b0zRkv4EcRZVZEJUgMz9I",
+        "address" : "74 Rue Maréchal Gallieni\n76600 Le Havre\nFrance",
+        "name" : "74 Rue Maréchal Gallieni",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 75.22123
+      },
+      "duration" : {
+        "startTimestampMs" : "1556716454604",
+        "endTimestampMs" : "1556827705181"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 494967486,
+      "centerLngE7" : 1121091,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494959764,
+        "longitudeE7" : 1114567,
+        "placeId" : "ChIJJZ6KOBgv4EcRhNSXBdHBlHk",
+        "locationConfidence" : 4.270573
+      }, {
+        "latitudeE7" : 494966458,
+        "longitudeE7" : 1122438,
+        "placeId" : "ChIJofk5LRgv4EcReCZqltkLG-M",
+        "locationConfidence" : 0.6636113
+      }, {
+        "latitudeE7" : 494974364,
+        "longitudeE7" : 1125470,
+        "placeId" : "ChIJle2wfRcv4EcRF-VhMYLCbUw",
+        "locationConfidence" : 0.48603246
+      }, {
+        "latitudeE7" : 494969762,
+        "longitudeE7" : 1107785,
+        "placeId" : "ChIJubTrIhgv4EcRSg8EgV4nHa0",
+        "locationConfidence" : 0.35004783
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494967471,
+        "longitudeE7" : 1121177,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494967346,
+        "longitudeE7" : 1121106,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1556827705181",
+        "endTimestampMs" : "1556883798017"
+      },
+      "distance" : 932,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 88.9496092780905
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 6.996785246990384
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.3056210402446808
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494967346,
+          "lngE7" : 1120591
+        }, {
+          "latE7" : 494967269,
+          "lngE7" : 1120615
+        }, {
+          "latE7" : 494967231,
+          "lngE7" : 1120638
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494967471,
+          "lngE7" : 1121177,
+          "timestampMs" : "1556827705181",
+          "accuracyMeters" : 13
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494967346,
+        "longitudeE7" : 1121106,
+        "placeId" : "ChIJl3b0zRkv4EcRZVZEJUgMz9I",
+        "address" : "74 Rue Maréchal Gallieni\n76600 Le Havre\nFrance",
+        "name" : "74 Rue Maréchal Gallieni",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 63.22439
+      },
+      "duration" : {
+        "startTimestampMs" : "1556883798017",
+        "endTimestampMs" : "1556887513099"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 494967738,
+      "centerLngE7" : 1120555,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494959764,
+        "longitudeE7" : 1114567,
+        "placeId" : "ChIJJZ6KOBgv4EcRhNSXBdHBlHk",
+        "locationConfidence" : 8.907146
+      }, {
+        "latitudeE7" : 494972672,
+        "longitudeE7" : 1119591,
+        "placeId" : "ChIJC4zYUxcv4EcRkr9JYsDkjCI",
+        "locationConfidence" : 0.5764756
+      }, {
+        "latitudeE7" : 494970398,
+        "longitudeE7" : 1123950,
+        "placeId" : "ChIJiwvK1hkv4EcR0ff1E-ydnRY",
+        "locationConfidence" : 0.5296136
+      }, {
+        "latitudeE7" : 494966770,
+        "longitudeE7" : 1102400,
+        "placeId" : "ChIJZXYYCRgv4EcR8X02Zebajmw",
+        "locationConfidence" : 0.42904535
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494971729,
+        "longitudeE7" : 1110999,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494929783,
+        "longitudeE7" : 1142485,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1556887541548",
+        "endTimestampMs" : "1556887996060"
+      },
+      "distance" : 559,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 75.8599365062809
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 20.97886970815738
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.3527954865643184
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494971542,
+          "lngE7" : 1110057
+        }, {
+          "latE7" : 494929771,
+          "lngE7" : 1142489
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494805061,
+        "longitudeE7" : 5831578,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494128296,
+        "longitudeE7" : 10731439,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1557079298000",
+        "endTimestampMs" : "1557134637615"
+      },
+      "distance" : 37673,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 90.72059068662696
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 5.805152545990985
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 2.154328697479219
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494805107,
+          "lngE7" : 5831558
+        }, {
+          "latE7" : 493408889,
+          "lngE7" : 9363096
+        }, {
+          "latE7" : 494127998,
+          "lngE7" : 10731489
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1557134702000",
+        "location" : {
+          "latitudeE7" : 494130932,
+          "longitudeE7" : 10734472,
+          "accuracyMetres" : 65
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494129099,
+        "longitudeE7" : 10730308,
+        "placeId" : "ChIJZ31zOzre4EcR9glWP__eM_M",
+        "address" : "42 Av. des Canadiens\n76140 Le Petit-Quevilly\nFrance",
+        "name" : "Ottoman Palace",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 58.35318
+      },
+      "duration" : {
+        "startTimestampMs" : "1557134637615",
+        "endTimestampMs" : "1557135122000"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 494130166,
+      "centerLngE7" : 10731200,
+      "visitConfidence" : 72,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494129100,
+        "longitudeE7" : 10730310,
+        "placeId" : "ChIJjVJ1Ozre4EcRizt3IIhHgGQ",
+        "locationConfidence" : 22.186268
+      }, {
+        "latitudeE7" : 494127100,
+        "longitudeE7" : 10719020,
+        "placeId" : "ChIJVxECQzre4EcRXTfeSCd8uBs",
+        "locationConfidence" : 5.024544
+      }, {
+        "latitudeE7" : 494123776,
+        "longitudeE7" : 10746418,
+        "placeId" : "ChIJuTqyJDre4EcRhEIjtRyVyzA",
+        "locationConfidence" : 2.8343604
+      }, {
+        "latitudeE7" : 494134161,
+        "longitudeE7" : 10730444,
+        "placeId" : "ChIJ63fqMTre4EcRZI6zi6XRC6U",
+        "locationConfidence" : 1.3578817
+      }, {
+        "latitudeE7" : 494134161,
+        "longitudeE7" : 10730444,
+        "placeId" : "ChIJ3eUrMDre4EcRZ6yBs2EkmbM",
+        "locationConfidence" : 0.7608114
+      }, {
+        "latitudeE7" : 494134025,
+        "longitudeE7" : 10731050,
+        "placeId" : "ChIJ3eUrMDre4EcR7W6GgpkQMxc",
+        "locationConfidence" : 0.68685186
+      }, {
+        "latitudeE7" : 494129824,
+        "longitudeE7" : 10724653,
+        "placeId" : "ChIJh7QtRjre4EcRm8mpMi3QWx4",
+        "locationConfidence" : 0.6394376
+      }, {
+        "latitudeE7" : 494134025,
+        "longitudeE7" : 10731050,
+        "placeId" : "ChIJ3eUrMDre4EcRZYVGsuECMlE",
+        "locationConfidence" : 0.6314163
+      }, {
+        "latitudeE7" : 494134025,
+        "longitudeE7" : 10731050,
+        "placeId" : "ChIJ3eUrMDre4EcRuP-p_W3hrCQ",
+        "locationConfidence" : 0.56943315
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494129099,
+        "longitudeE7" : 10730308
+      },
+      "endLocation" : {
+        "latitudeE7" : 494123776,
+        "longitudeE7" : 10746418
+      },
+      "duration" : {
+        "startTimestampMs" : "1557135122000",
+        "endTimestampMs" : "1557136317541"
+      },
+      "distance" : 281,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 85.60641005112842
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 11.63736422760073
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.7565419352054232
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494136390,
+          "lngE7" : 10718729
+        }, {
+          "latE7" : 494142189,
+          "lngE7" : 10709148
+        }, {
+          "latE7" : 494155616,
+          "lngE7" : 10649491
+        }, {
+          "latE7" : 494124298,
+          "lngE7" : 10744626
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494141979,
+          "lngE7" : 10707779,
+          "timestampMs" : "1557135185000",
+          "accuracyMeters" : 3
+        }, {
+          "latE7" : 494153966,
+          "lngE7" : 10646531,
+          "timestampMs" : "1557135572197",
+          "accuracyMeters" : 16
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494123776,
+        "longitudeE7" : 10746418,
+        "placeId" : "ChIJuTqyJDre4EcRhEIjtRyVyzA",
+        "address" : "67 Av. des Canadiens\n76300 Sotteville-lès-Rouen\nFrance",
+        "name" : "School Technology Education Les Bruyères",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 46.77446
+      },
+      "duration" : {
+        "startTimestampMs" : "1557136317541",
+        "endTimestampMs" : "1557159245310"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 494125850,
+      "centerLngE7" : 10752100,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494127606,
+        "longitudeE7" : 10751727,
+        "placeId" : "ChIJfyWOljne4EcRBvgdsLBhSZw",
+        "locationConfidence" : 21.78029
+      }, {
+        "latitudeE7" : 494114237,
+        "longitudeE7" : 10751132,
+        "placeId" : "ChIJ_____8rf4EcRZ_E7SndW-QY",
+        "locationConfidence" : 12.055533
+      }, {
+        "latitudeE7" : 494116850,
+        "longitudeE7" : 10735900,
+        "placeId" : "ChIJ1Y5WfXfe4EcRW57Pl-CWyfY",
+        "locationConfidence" : 3.5337002
+      }, {
+        "latitudeE7" : 494134619,
+        "longitudeE7" : 10759278,
+        "placeId" : "ChIJz4Hgpjne4EcRnIrKp76U8ho",
+        "locationConfidence" : 1.4779459
+      }, {
+        "latitudeE7" : 494129099,
+        "longitudeE7" : 10730308,
+        "placeId" : "ChIJZ31zOzre4EcR9glWP__eM_M",
+        "locationConfidence" : 0.9938843
+      }, {
+        "latitudeE7" : 494119119,
+        "longitudeE7" : 10732469,
+        "placeId" : "ChIJi1J5EDre4EcRiAJzKxE_VCg",
+        "locationConfidence" : 0.8338991
+      }, {
+        "latitudeE7" : 494134025,
+        "longitudeE7" : 10731050,
+        "placeId" : "ChIJ3eUrMDre4EcRZYVGsuECMlE",
+        "locationConfidence" : 0.63964504
+      }, {
+        "latitudeE7" : 494134161,
+        "longitudeE7" : 10730444,
+        "placeId" : "ChIJ3eUrMDre4EcRZ6yBs2EkmbM",
+        "locationConfidence" : 0.50115824
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494116159,
+        "longitudeE7" : 10748556,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494152516,
+        "longitudeE7" : 10666890,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1557159245310",
+        "endTimestampMs" : "1557159682028"
+      },
+      "distance" : 2213,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 80.39773260094854
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 19.19029244964902
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.1738480717439645
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494115982,
+          "lngE7" : 10748432
+        }, {
+          "latE7" : 494123039,
+          "lngE7" : 10732077
+        }, {
+          "latE7" : 494152183,
+          "lngE7" : 10666590
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494123770,
+          "lngE7" : 10731633,
+          "timestampMs" : "1557159379000",
+          "accuracyMeters" : 3
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1557159682028",
+        "location" : {
+          "latitudeE7" : 494152516,
+          "longitudeE7" : 10666890,
+          "accuracyMetres" : 24
+        }
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494152516,
+        "longitudeE7" : 10666890,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494138937,
+        "longitudeE7" : 10657317,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1557159682028",
+        "endTimestampMs" : "1557159814000"
+      },
+      "distance" : 166,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 80.39773260094854
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 19.19029244964902
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.1738480717439645
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494152183,
+          "lngE7" : 10666590
+        }, {
+          "latE7" : 494136657,
+          "lngE7" : 10660710
+        }, {
+          "latE7" : 494137649,
+          "lngE7" : 10656590
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494151362,
+          "lngE7" : 10650405,
+          "timestampMs" : "1557159773000",
+          "accuracyMeters" : 5
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494148008,
+        "longitudeE7" : 10649457,
+        "placeId" : "ChIJnTCNNiTe4EcRlvlRNXjW0ZE",
+        "address" : "2 Rue d'Alembert\n76140 Le Petit-Quevilly\nFrance",
+        "name" : "Profession Sport et Loisirs 76 - PSL 76",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 19.118563
+      },
+      "duration" : {
+        "startTimestampMs" : "1557159814000",
+        "endTimestampMs" : "1557310776908"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 494146300,
+      "centerLngE7" : 10651600,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494142770,
+        "longitudeE7" : 10643990,
+        "placeId" : "ChIJwe39HCXe4EcRh9VAQkgT0t4",
+        "locationConfidence" : 10.522993
+      }, {
+        "latitudeE7" : 494148009,
+        "longitudeE7" : 10647464,
+        "placeId" : "ChIJnTCNNiTe4EcRE7iPkaZ8r3o",
+        "locationConfidence" : 7.4745803
+      }, {
+        "latitudeE7" : 494141880,
+        "longitudeE7" : 10647471,
+        "placeId" : "ChIJwe39HCXe4EcRSmQmT9rx9kg",
+        "locationConfidence" : 7.2219024
+      }, {
+        "latitudeE7" : 494148008,
+        "longitudeE7" : 10649457,
+        "placeId" : "ChIJfzOfNyTe4EcRRD4AFrT9tmc",
+        "locationConfidence" : 4.4114013
+      }, {
+        "latitudeE7" : 494140462,
+        "longitudeE7" : 10658732,
+        "placeId" : "ChIJa9Yr_yTe4EcRkCCzq7cqmgA",
+        "locationConfidence" : 4.094494
+      }, {
+        "latitudeE7" : 494147396,
+        "longitudeE7" : 10648259,
+        "placeId" : "ChIJOQiDQyTe4EcRb5ySzROvE98",
+        "locationConfidence" : 3.9618685
+      }, {
+        "latitudeE7" : 494140248,
+        "longitudeE7" : 10659014,
+        "placeId" : "ChIJwe39HCXe4EcRuxty_Z9r8SE",
+        "locationConfidence" : 3.678678
+      }, {
+        "latitudeE7" : 494140248,
+        "longitudeE7" : 10659014,
+        "placeId" : "ChIJXQ5ytXne4EcR66SD2GM0UPI",
+        "locationConfidence" : 2.9451592
+      }, {
+        "latitudeE7" : 494142260,
+        "longitudeE7" : 10649173,
+        "placeId" : "ChIJBxw1TiTe4EcRPsJOX9iTj7w",
+        "locationConfidence" : 1.9434588
+      }, {
+        "latitudeE7" : 494143876,
+        "longitudeE7" : 10643275,
+        "placeId" : "ChIJnTCNNiTe4EcRtOZEKKUqVnI",
+        "locationConfidence" : 1.9100188
+      }, {
+        "latitudeE7" : 494140977,
+        "longitudeE7" : 10666007,
+        "placeId" : "ChIJTxL20jre4EcRb2cfgaWsnHU",
+        "locationConfidence" : 1.1409019
+      }, {
+        "latitudeE7" : 494142069,
+        "longitudeE7" : 10642503,
+        "placeId" : "ChIJW80WMSTe4EcRl4PgZo8UD0o",
+        "locationConfidence" : 1.0661259
+      }, {
+        "latitudeE7" : 494145061,
+        "longitudeE7" : 10660533,
+        "placeId" : "ChIJTUhuV6Tg4EcR0HeUEGS69D8",
+        "locationConfidence" : 1.0125299
+      }, {
+        "latitudeE7" : 494149980,
+        "longitudeE7" : 10651057,
+        "placeId" : "ChIJgXTLZiTe4EcRndzgzStav_A",
+        "locationConfidence" : 0.9626725
+      }, {
+        "latitudeE7" : 494140248,
+        "longitudeE7" : 10659014,
+        "placeId" : "ChIJW6QI_yTe4EcRxopH_CsZfZ4",
+        "locationConfidence" : 0.91879743
+      }, {
+        "latitudeE7" : 494142530,
+        "longitudeE7" : 10661510,
+        "placeId" : "ChIJicASQSTe4EcRNAfsfDPSeNU",
+        "locationConfidence" : 0.90391725
+      }, {
+        "latitudeE7" : 494140248,
+        "longitudeE7" : 10659014,
+        "placeId" : "ChIJX3ED_yTe4EcRCaOC9aHrQDE",
+        "locationConfidence" : 0.88577116
+      }, {
+        "latitudeE7" : 494140248,
+        "longitudeE7" : 10659015,
+        "placeId" : "ChIJ-f_P_iTe4EcReVGt8zbZna0",
+        "locationConfidence" : 0.8766114
+      }, {
+        "latitudeE7" : 494140455,
+        "longitudeE7" : 10658461,
+        "placeId" : "ChIJa9Yr_yTe4EcRid-U5RFdeGc",
+        "locationConfidence" : 0.85498947
+      }, {
+        "latitudeE7" : 494149980,
+        "longitudeE7" : 10651057,
+        "placeId" : "ChIJgXTLZiTe4EcRmramttw0f7M",
+        "locationConfidence" : 0.8486071
+      }, {
+        "latitudeE7" : 494141140,
+        "longitudeE7" : 10672010,
+        "placeId" : "ChIJB8ONTgbf4EcRRaimpZksQRM",
+        "locationConfidence" : 0.8345989
+      }, {
+        "latitudeE7" : 494142583,
+        "longitudeE7" : 10663178,
+        "placeId" : "ChIJE-cdHSXe4EcRJ2yrSiO5Y-w",
+        "locationConfidence" : 0.81671345
+      }, {
+        "latitudeE7" : 494137042,
+        "longitudeE7" : 10678748,
+        "placeId" : "ChIJX6UGMSTe4EcRzT5zwdhFr-w",
+        "locationConfidence" : 0.81668943
+      }, {
+        "latitudeE7" : 494151932,
+        "longitudeE7" : 10658673,
+        "placeId" : "ChIJE16LYCTe4EcRIKwiR0faTlA",
+        "locationConfidence" : 0.8150679
+      }, {
+        "latitudeE7" : 494151932,
+        "longitudeE7" : 10658673,
+        "placeId" : "ChIJUbhdJXne4EcRHI_zeTseN1E",
+        "locationConfidence" : 0.78962004
+      }, {
+        "latitudeE7" : 494147396,
+        "longitudeE7" : 10648259,
+        "placeId" : "ChIJOQiDQyTe4EcRjKHw-95u07g",
+        "locationConfidence" : 0.73513347
+      }, {
+        "latitudeE7" : 494140248,
+        "longitudeE7" : 10659015,
+        "placeId" : "ChIJ-f_P_iTe4EcRQUrZrkJ9r4o",
+        "locationConfidence" : 0.7145434
+      }, {
+        "latitudeE7" : 494140248,
+        "longitudeE7" : 10659014,
+        "placeId" : "ChIJUQoD_yTe4EcRexmVBnCw_AM",
+        "locationConfidence" : 0.706549
+      }, {
+        "latitudeE7" : 494161413,
+        "longitudeE7" : 10626219,
+        "placeId" : "ChIJt6TOBCTe4EcR15ChYW0Xm-A",
+        "locationConfidence" : 0.6854014
+      }, {
+        "latitudeE7" : 494161460,
+        "longitudeE7" : 10633660,
+        "placeId" : "ChIJ8Zf5HCXe4EcRxFGvhmqfNbw",
+        "locationConfidence" : 0.65159607
+      }, {
+        "latitudeE7" : 494133102,
+        "longitudeE7" : 10655151,
+        "placeId" : "ChIJu2YaACXe4EcR1Kk9DAaiO84",
+        "locationConfidence" : 0.62841004
+      }, {
+        "latitudeE7" : 494158778,
+        "longitudeE7" : 10647822,
+        "placeId" : "ChIJXTDilU_f4EcRDqguSG2usdc",
+        "locationConfidence" : 0.57877976
+      }, {
+        "latitudeE7" : 494142583,
+        "longitudeE7" : 10663178,
+        "placeId" : "ChIJmymtZCLe4EcRpNoqUdpixNU",
+        "locationConfidence" : 0.571835
+      }, {
+        "latitudeE7" : 494150164,
+        "longitudeE7" : 10616725,
+        "placeId" : "ChIJu5LrNiTe4EcRFt0R_cvelI4",
+        "locationConfidence" : 0.5472992
+      }, {
+        "latitudeE7" : 494148008,
+        "longitudeE7" : 10649457,
+        "placeId" : "ChIJnTCNNiTe4EcRInoAinNx5KA",
+        "locationConfidence" : 0.5365303
+      }, {
+        "latitudeE7" : 494156631,
+        "longitudeE7" : 10652147,
+        "placeId" : "ChIJ9VxTYYbf4EcRE748DACP7xQ",
+        "locationConfidence" : 0.52899516
+      }, {
+        "latitudeE7" : 494105677,
+        "longitudeE7" : 10662501,
+        "placeId" : "ChIJ_UpBki_e4EcRSiqaGy1Fd6Q",
+        "locationConfidence" : 0.50927407
+      }, {
+        "latitudeE7" : 494148008,
+        "longitudeE7" : 10649457,
+        "placeId" : "ChIJgcI-QyTe4EcRzYn1wV5x7f8",
+        "locationConfidence" : 0.5071604
+      }, {
+        "latitudeE7" : 494135786,
+        "longitudeE7" : 10624104,
+        "placeId" : "ChIJKXtFfCbe4EcRygjFOCR0Lh8",
+        "locationConfidence" : 0.49347064
+      }, {
+        "latitudeE7" : 494141356,
+        "longitudeE7" : 10637480,
+        "placeId" : "ChIJX6UGMSTe4EcR6acFsinnZOU",
+        "locationConfidence" : 0.45905
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494148008,
+        "longitudeE7" : 10649457
+      },
+      "endLocation" : {
+        "latitudeE7" : 494153984,
+        "longitudeE7" : 10646759
+      },
+      "duration" : {
+        "startTimestampMs" : "1557310776908",
+        "endTimestampMs" : "1557310921775"
+      },
+      "distance" : 69,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 80.11628864105353
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 18.02821087010856
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.2620755621329336
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494149360,
+          "lngE7" : 10647751
+        }, {
+          "latE7" : 494154052,
+          "lngE7" : 10651582
+        }, {
+          "latE7" : 494155540,
+          "lngE7" : 10649588
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494138937,
+          "lngE7" : 10657317,
+          "timestampMs" : "1557310776908",
+          "accuracyMeters" : 28
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494153984,
+        "longitudeE7" : 10646759,
+        "placeId" : "ChIJCWoPOyTe4EcR2UHeYnRnwDU",
+        "address" : "Bd Stanislas Girardin\n76140 Le Petit-Quevilly\nFrance",
+        "name" : "Lidl",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 74.51972
+      },
+      "duration" : {
+        "startTimestampMs" : "1557310921775",
+        "endTimestampMs" : "1557311731690"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 494151222,
+      "centerLngE7" : 10646811,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494153681,
+        "longitudeE7" : 10645483,
+        "placeId" : "ChIJX6UGMSTe4EcRTNHVuiusC7Q",
+        "locationConfidence" : 14.651513
+      }, {
+        "latitudeE7" : 494156563,
+        "longitudeE7" : 10642660,
+        "placeId" : "ChIJK1JdFSTe4EcRGbRD33ZScIA",
+        "locationConfidence" : 2.6031628
+      }, {
+        "latitudeE7" : 494148008,
+        "longitudeE7" : 10649457,
+        "placeId" : "ChIJnTCNNiTe4EcRlvlRNXjW0ZE",
+        "locationConfidence" : 0.91569537
+      }, {
+        "latitudeE7" : 494142583,
+        "longitudeE7" : 10663178,
+        "placeId" : "ChIJE-cdHSXe4EcRJ2yrSiO5Y-w",
+        "locationConfidence" : 0.9011103
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494151222,
+        "longitudeE7" : 10646811
+      },
+      "endLocation" : {
+        "latitudeE7" : 494960127,
+        "longitudeE7" : 5819673
+      },
+      "duration" : {
+        "startTimestampMs" : "1557311731690",
+        "endTimestampMs" : "1557594505492"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494138747,
+          "lngE7" : 10646166,
+          "timestampMs" : "1557311857084",
+          "accuracyMeters" : 30
+        }, {
+          "latE7" : 494136413,
+          "lngE7" : 10662858,
+          "timestampMs" : "1557311976961",
+          "accuracyMeters" : 14
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494960970,
+        "longitudeE7" : 5818368,
+        "placeId" : "ChIJYx-hB_BQ4EcRBOaPtjHV4R4",
+        "address" : "11 Rue Roland Garros\n76330 Port-Jérôme-sur-Seine\nFrance",
+        "name" : "11 Rue Roland Garros",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 96.25484
+      },
+      "duration" : {
+        "startTimestampMs" : "1557594505492",
+        "endTimestampMs" : "1557695266355"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 494960127,
+      "centerLngE7" : 5819673,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494987913,
+        "longitudeE7" : 5812998,
+        "placeId" : "ChIJa9FSyvFQ4EcRzlR8S9ZxMGU",
+        "locationConfidence" : 1.2119905
+      }, {
+        "latitudeE7" : 494948368,
+        "longitudeE7" : 5797138,
+        "placeId" : "ChIJ80hq6vpQ4EcRYioyPIgQ85g",
+        "locationConfidence" : 0.6814269
+      }, {
+        "latitudeE7" : 494967960,
+        "longitudeE7" : 5784128,
+        "placeId" : "ChIJPcoAl_BQ4EcR6dMNhqQ6X0I",
+        "locationConfidence" : 0.5834485
+      }, {
+        "latitudeE7" : 494940000,
+        "longitudeE7" : 5786510,
+        "placeId" : "ChIJ-ysQT_pQ4EcR2xRsXmWX4z0",
+        "locationConfidence" : 0.5739361
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494930176,
+        "longitudeE7" : 5805040,
+        "placeId" : "ChIJ6eClqvtQ4EcRMAwJVcMWfvM",
+        "address" : "76 Rue René Helouis 330\n76330 Port-Jérôme-sur-Seine\nFrance",
+        "name" : "Gymnase Michel Comont",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 79.9995
+      },
+      "duration" : {
+        "startTimestampMs" : "1557943473029",
+        "endTimestampMs" : "1558012296411"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 494956929,
+      "centerLngE7" : 5818164,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494967960,
+        "longitudeE7" : 5784128,
+        "placeId" : "ChIJPcoAl_BQ4EcR6dMNhqQ6X0I",
+        "locationConfidence" : 7.4012666
+      }, {
+        "latitudeE7" : 494949460,
+        "longitudeE7" : 5777900,
+        "placeId" : "ChIJTxGOFvpQ4EcRlbytJtBeYew",
+        "locationConfidence" : 5.807262
+      }, {
+        "latitudeE7" : 494924124,
+        "longitudeE7" : 5810296,
+        "placeId" : "ChIJD3FDPvtQ4EcRIFoen_7LcnA",
+        "locationConfidence" : 1.9066738
+      }, {
+        "latitudeE7" : 494940000,
+        "longitudeE7" : 5786510,
+        "placeId" : "ChIJ-ysQT_pQ4EcR2xRsXmWX4z0",
+        "locationConfidence" : 1.1332415
+      }, {
+        "latitudeE7" : 494935743,
+        "longitudeE7" : 5794297,
+        "placeId" : "ChIJc0coq_tQ4EcR1SyDMZki-4g",
+        "locationConfidence" : 0.7591939
+      }, {
+        "latitudeE7" : 494919310,
+        "longitudeE7" : 5831950,
+        "placeId" : "ChIJTadtueRQ4EcRBE7g9hg00Oc",
+        "locationConfidence" : 0.7395059
+      }, {
+        "latitudeE7" : 494874724,
+        "longitudeE7" : 5770065,
+        "placeId" : "ChIJc0coq_tQ4EcRVhVNqxTzvPY",
+        "locationConfidence" : 0.72298276
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 495267721,
+        "longitudeE7" : 1909205,
+        "placeId" : "ChIJgR-BuQkw4EcRW0Zrd6-_VD8",
+        "address" : "Av. Maréchal Foch\n76290 Montivilliers\nFrance",
+        "name" : "Centre Commercial La Lézarde",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 98.66801
+      },
+      "duration" : {
+        "startTimestampMs" : "1558188512839",
+        "endTimestampMs" : "1558190128099"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 495289532,
+          "longitudeE7" : 1877842,
+          "placeId" : "ChIJye4YXqc64EcR9fHzROfQGhY",
+          "address" : "Zone Commerciale La Lézarde\n76290 Montivilliers\nFrance",
+          "name" : "McDonald's",
+          "sourceInfo" : {
+            "deviceTag" : 179057369
+          },
+          "locationConfidence" : 98.56867
+        },
+        "duration" : {
+          "startTimestampMs" : "1558188912166",
+          "endTimestampMs" : "1558190009278"
+        },
+        "placeConfidence" : "HIGH_CONFIDENCE",
+        "centerLatE7" : 495276951,
+        "centerLngE7" : 1901384,
+        "visitConfidence" : 84,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 495283672,
+          "longitudeE7" : 1875027,
+          "placeId" : "ChIJI8ZH-6c64EcROyW_3BlqpTc",
+          "locationConfidence" : 0.09928845
+        }, {
+          "latitudeE7" : 495274625,
+          "longitudeE7" : 1912157,
+          "placeId" : "ChIJ10PsCAkw4EcRrd1AgnId7aM",
+          "locationConfidence" : 1.236217E-6
+        }, {
+          "latitudeE7" : 495266490,
+          "longitudeE7" : 1908706,
+          "placeId" : "ChIJJVEjI7w64EcRZjKiLE9kxZ4",
+          "locationConfidence" : 4.1207232E-7
+        }, {
+          "latitudeE7" : 495267630,
+          "longitudeE7" : 1881030,
+          "placeId" : "ChIJr0v9Nggw4EcRUaBfU3lji2Y",
+          "locationConfidence" : 4.1207232E-7
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 495268255,
+      "centerLngE7" : 1902088,
+      "visitConfidence" : 84,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 495261775,
+        "longitudeE7" : 1883401,
+        "placeId" : "ChIJux51Nwgw4EcR6Vb8chdFd1c",
+        "locationConfidence" : 0.2087758
+      }, {
+        "latitudeE7" : 495227512,
+        "longitudeE7" : 1916035,
+        "placeId" : "ChIJueTanQ4w4EcR4tXe8rz0EeQ",
+        "locationConfidence" : 0.14782266
+      }, {
+        "latitudeE7" : 495202093,
+        "longitudeE7" : 1916035,
+        "placeId" : "ChIJdQcAi0Aw4EcRfubcrR7K5JQ",
+        "locationConfidence" : 0.13613197
+      }, {
+        "latitudeE7" : 495265793,
+        "longitudeE7" : 1881429,
+        "placeId" : "ChIJQ7c8_bs64EcRDFvhYH3ASUc",
+        "locationConfidence" : 0.13000551
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 495266596,
+          "lngE7" : 1911910,
+          "timestampMs" : "1558188664856",
+          "accuracyMeters" : 17
+        }, {
+          "latE7" : 495272430,
+          "lngE7" : 1905780,
+          "timestampMs" : "1558188912166",
+          "accuracyMeters" : 30
+        }, {
+          "latE7" : 495266907,
+          "lngE7" : 1904115,
+          "timestampMs" : "1558189032518",
+          "accuracyMeters" : 27
+        }, {
+          "latE7" : 495276951,
+          "lngE7" : 1901384,
+          "timestampMs" : "1558189152476",
+          "accuracyMeters" : 14
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 495268255,
+        "longitudeE7" : 1902088
+      },
+      "endLocation" : {
+        "latitudeE7" : 495303060,
+        "longitudeE7" : 1873940
+      },
+      "duration" : {
+        "startTimestampMs" : "1558190128099",
+        "endTimestampMs" : "1558193816207"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 495225917,
+          "lngE7" : 1914679,
+          "timestampMs" : "1558191904225",
+          "accuracyMeters" : 200
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 495267721,
+        "longitudeE7" : 1909205,
+        "placeId" : "ChIJgR-BuQkw4EcRW0Zrd6-_VD8",
+        "address" : "Av. Maréchal Foch\n76290 Montivilliers\nFrance",
+        "name" : "Centre Commercial La Lézarde",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 94.42011
+      },
+      "duration" : {
+        "startTimestampMs" : "1558193816207",
+        "endTimestampMs" : "1558194314181"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 495301369,
+          "longitudeE7" : 1872199,
+          "placeId" : "ChIJQ7c8_bs64EcRhLbe3Lug9p4",
+          "address" : "Centre Commercial La Lézarde\n76290 Montivilliers\nFrance",
+          "name" : "Decathlon Le Havre Montivilliers",
+          "sourceInfo" : {
+            "deviceTag" : 179057369
+          },
+          "locationConfidence" : 57.48944
+        },
+        "duration" : {
+          "startTimestampMs" : "1558193816207",
+          "endTimestampMs" : "1558194187516"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 495300693,
+        "centerLngE7" : 1876974,
+        "visitConfidence" : 94,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 495267721,
+          "longitudeE7" : 1909205,
+          "placeId" : "ChIJgR-BuQkw4EcRW0Zrd6-_VD8",
+          "locationConfidence" : 36.930546
+        }, {
+          "latitudeE7" : 495274625,
+          "longitudeE7" : 1912157,
+          "placeId" : "ChIJ10PsCAkw4EcRrd1AgnId7aM",
+          "locationConfidence" : 3.7837679E-6
+        }, {
+          "latitudeE7" : 495278050,
+          "longitudeE7" : 1839450,
+          "placeId" : "ChIJkeweg6k64EcRNoihusSukp8",
+          "locationConfidence" : 2.522512E-6
+        }, {
+          "latitudeE7" : 495280887,
+          "longitudeE7" : 1903329,
+          "placeId" : "ChIJye4YXqc64EcR9NOhrC822Ls",
+          "locationConfidence" : 1.261256E-6
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 495303060,
+      "centerLngE7" : 1873940,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 495278050,
+        "longitudeE7" : 1839450,
+        "placeId" : "ChIJkeweg6k64EcRNoihusSukp8",
+        "locationConfidence" : 2.378004
+      }, {
+        "latitudeE7" : 495289532,
+        "longitudeE7" : 1877842,
+        "placeId" : "ChIJye4YXqc64EcR9fHzROfQGhY",
+        "locationConfidence" : 1.8977739
+      }, {
+        "latitudeE7" : 495227512,
+        "longitudeE7" : 1916035,
+        "placeId" : "ChIJueTanQ4w4EcR4tXe8rz0EeQ",
+        "locationConfidence" : 0.26243365
+      }, {
+        "latitudeE7" : 495202093,
+        "longitudeE7" : 1916035,
+        "placeId" : "ChIJdQcAi0Aw4EcRfubcrR7K5JQ",
+        "locationConfidence" : 0.24778777
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 495300268,
+        "longitudeE7" : 1876841,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494959335,
+        "longitudeE7" : 5819290,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558194314181",
+        "endTimestampMs" : "1558197554000"
+      },
+      "distance" : 28744,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 92.02680445365137
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 4.055729014721185
+      }, {
+        "activityType" : "IN_TRAIN",
+        "probability" : 1.7936917097349978
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 495298767,
+          "lngE7" : 1877232
+        }, {
+          "latE7" : 494789733,
+          "lngE7" : 4675748
+        }, {
+          "latE7" : 494958801,
+          "lngE7" : 5819445
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1558197689362",
+        "location" : {
+          "latitudeE7" : 494960065,
+          "longitudeE7" : 5819097,
+          "accuracyMetres" : 110
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494960970,
+        "longitudeE7" : 5818368,
+        "placeId" : "ChIJYx-hB_BQ4EcRBOaPtjHV4R4",
+        "address" : "11 Rue Roland Garros\n76330 Port-Jérôme-sur-Seine\nFrance",
+        "name" : "11 Rue Roland Garros",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 72.67516
+      },
+      "duration" : {
+        "startTimestampMs" : "1558197554000",
+        "endTimestampMs" : "1558198808034"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 494959327,
+      "centerLngE7" : 5818555,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494930176,
+        "longitudeE7" : 5805040,
+        "placeId" : "ChIJ6eClqvtQ4EcRMAwJVcMWfvM",
+        "locationConfidence" : 20.55888
+      }, {
+        "latitudeE7" : 494987913,
+        "longitudeE7" : 5812998,
+        "placeId" : "ChIJa9FSyvFQ4EcRzlR8S9ZxMGU",
+        "locationConfidence" : 2.377303
+      }, {
+        "latitudeE7" : 494949460,
+        "longitudeE7" : 5777900,
+        "placeId" : "ChIJTxGOFvpQ4EcRlbytJtBeYew",
+        "locationConfidence" : 1.5185277
+      }, {
+        "latitudeE7" : 494948368,
+        "longitudeE7" : 5797138,
+        "placeId" : "ChIJ80hq6vpQ4EcRYioyPIgQ85g",
+        "locationConfidence" : 1.1139086
+      }, {
+        "latitudeE7" : 494940000,
+        "longitudeE7" : 5786510,
+        "placeId" : "ChIJ-ysQT_pQ4EcR2xRsXmWX4z0",
+        "locationConfidence" : 0.8845778
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494958600,
+        "longitudeE7" : 5819159,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494905195,
+        "longitudeE7" : 5747687,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558198808034",
+        "endTimestampMs" : "1558199435000"
+      },
+      "distance" : 1958,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 93.48341952532428
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.979152809255097
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 2.133869893448774
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494958763,
+          "lngE7" : 5819119
+        }, {
+          "latE7" : 494913330,
+          "lngE7" : 5762243
+        }, {
+          "latE7" : 494905204,
+          "lngE7" : 5747687
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494911050,
+          "lngE7" : 5746659,
+          "timestampMs" : "1558198929163",
+          "accuracyMeters" : 71
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1558199507698",
+        "location" : {
+          "latitudeE7" : 494900769,
+          "longitudeE7" : 5745120,
+          "accuracyMetres" : 91
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494905195,
+        "longitudeE7" : 5747687,
+        "placeId" : "ChIJcaZFzv5Q4EcRkWMF3Jl_s-0",
+        "address" : "Rue du Président Rene Coty\n76330 Port-Jérôme-sur-Seine\nFrance",
+        "name" : "Mairie",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 32.798748
+      },
+      "duration" : {
+        "startTimestampMs" : "1558199435000",
+        "endTimestampMs" : "1558201114026"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 494901208,
+      "centerLngE7" : 5747723,
+      "visitConfidence" : 72,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494903205,
+        "longitudeE7" : 5751236,
+        "placeId" : "ChIJUdGCyP5Q4EcRjMhGhpQ7EKY",
+        "locationConfidence" : 15.476524
+      }, {
+        "latitudeE7" : 494899976,
+        "longitudeE7" : 5753487,
+        "placeId" : "ChIJ6UGruP5Q4EcRDUhd7ljVl6w",
+        "locationConfidence" : 13.533248
+      }, {
+        "latitudeE7" : 494905470,
+        "longitudeE7" : 5746130,
+        "placeId" : "ChIJkz7d0f5Q4EcRcxwQAD9z3bE",
+        "locationConfidence" : 5.957287
+      }, {
+        "latitudeE7" : 494949460,
+        "longitudeE7" : 5777900,
+        "placeId" : "ChIJTxGOFvpQ4EcRlbytJtBeYew",
+        "locationConfidence" : 5.945853
+      }, {
+        "latitudeE7" : 494900495,
+        "longitudeE7" : 5729286,
+        "placeId" : "ChIJFfLRQP9Q4EcRXt9hltdfEmM",
+        "locationConfidence" : 3.2930884
+      }, {
+        "latitudeE7" : 494874724,
+        "longitudeE7" : 5770065,
+        "placeId" : "ChIJc0coq_tQ4EcRVhVNqxTzvPY",
+        "locationConfidence" : 2.8849156
+      }, {
+        "latitudeE7" : 494885634,
+        "longitudeE7" : 5783172,
+        "placeId" : "ChIJc0coq_tQ4EcRSd1229rgpPY",
+        "locationConfidence" : 2.6604123
+      }, {
+        "latitudeE7" : 494889032,
+        "longitudeE7" : 5714769,
+        "placeId" : "ChIJDbRjBFRQ4EcRaqcaNHOu2TA",
+        "locationConfidence" : 1.9636477
+      }, {
+        "latitudeE7" : 494922534,
+        "longitudeE7" : 5715932,
+        "placeId" : "ChIJc0coq_tQ4EcRAbTCY5VzcPM",
+        "locationConfidence" : 1.7918756
+      }, {
+        "latitudeE7" : 494883180,
+        "longitudeE7" : 5731128,
+        "placeId" : "ChIJ47rXX1RQ4EcR7_Ewy1IQvpA",
+        "locationConfidence" : 0.9774773
+      }, {
+        "latitudeE7" : 494900211,
+        "longitudeE7" : 5721769,
+        "placeId" : "ChIJEaDUQP9Q4EcRziotvPLQASk",
+        "locationConfidence" : 0.9731046
+      }, {
+        "latitudeE7" : 494905195,
+        "longitudeE7" : 5747687,
+        "placeId" : "ChIJcaZFzv5Q4EcR54eZW5FpRbQ",
+        "locationConfidence" : 0.96097016
+      }, {
+        "latitudeE7" : 494905800,
+        "longitudeE7" : 5732850,
+        "placeId" : "ChIJHyccLv9Q4EcRsDczfXL91DQ",
+        "locationConfidence" : 0.9202636
+      }, {
+        "latitudeE7" : 494915854,
+        "longitudeE7" : 5758022,
+        "placeId" : "ChIJcaZFzv5Q4EcRnJmtmvkLcaE",
+        "locationConfidence" : 0.8339757
+      }, {
+        "latitudeE7" : 494940000,
+        "longitudeE7" : 5786510,
+        "placeId" : "ChIJ-ysQT_pQ4EcR2xRsXmWX4z0",
+        "locationConfidence" : 0.79072833
+      }, {
+        "latitudeE7" : 494923130,
+        "longitudeE7" : 5759649,
+        "placeId" : "ChIJc0coq_tQ4EcRxNYndieheds",
+        "locationConfidence" : 0.7114404
+      }, {
+        "latitudeE7" : 494882805,
+        "longitudeE7" : 5717504,
+        "placeId" : "ChIJB8rggv9Q4EcRscrqES0zIGU",
+        "locationConfidence" : 0.7005595
+      }, {
+        "latitudeE7" : 494902816,
+        "longitudeE7" : 5729789,
+        "placeId" : "ChIJFfLRQP9Q4EcRA2MOuHidl9o",
+        "locationConfidence" : 0.68631756
+      }, {
+        "latitudeE7" : 494899852,
+        "longitudeE7" : 5724337,
+        "placeId" : "ChIJFfLRQP9Q4EcRHf29S8C0Z08",
+        "locationConfidence" : 0.6584927
+      }, {
+        "latitudeE7" : 494905100,
+        "longitudeE7" : 5732210,
+        "placeId" : "ChIJy-wSLv9Q4EcRZJ6mpTnTlc8",
+        "locationConfidence" : 0.55016893
+      }, {
+        "latitudeE7" : 494869751,
+        "longitudeE7" : 5760573,
+        "placeId" : "ChIJSRU6Mf5Q4EcRHfktqZ6F50Y",
+        "locationConfidence" : 0.49143463
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494905195,
+        "longitudeE7" : 5747687,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494905195,
+        "longitudeE7" : 5747687,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558201114026",
+        "endTimestampMs" : "1558207347642"
+      },
+      "distance" : 1173,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 84.35935869281302
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 12.18161658074205
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.7574363098104242
+      } ],
+      "parkingEvent" : {
+        "timestampMs" : "1558207423289",
+        "location" : {
+          "latitudeE7" : 494900835,
+          "longitudeE7" : 5747361,
+          "accuracyMetres" : 107
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494905195,
+        "longitudeE7" : 5747687,
+        "placeId" : "ChIJcaZFzv5Q4EcRkWMF3Jl_s-0",
+        "address" : "Rue du Président Rene Coty\n76330 Port-Jérôme-sur-Seine\nFrance",
+        "name" : "Mairie",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 36.675873
+      },
+      "duration" : {
+        "startTimestampMs" : "1558207347642",
+        "endTimestampMs" : "1558208372106"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 494900720,
+      "centerLngE7" : 5747400,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494899976,
+        "longitudeE7" : 5753487,
+        "placeId" : "ChIJ6UGruP5Q4EcRDUhd7ljVl6w",
+        "locationConfidence" : 10.609212
+      }, {
+        "latitudeE7" : 494903205,
+        "longitudeE7" : 5751236,
+        "placeId" : "ChIJUdGCyP5Q4EcRjMhGhpQ7EKY",
+        "locationConfidence" : 8.730777
+      }, {
+        "latitudeE7" : 494949460,
+        "longitudeE7" : 5777900,
+        "placeId" : "ChIJTxGOFvpQ4EcRlbytJtBeYew",
+        "locationConfidence" : 7.9587445
+      }, {
+        "latitudeE7" : 494874724,
+        "longitudeE7" : 5770065,
+        "placeId" : "ChIJc0coq_tQ4EcRVhVNqxTzvPY",
+        "locationConfidence" : 4.1357217
+      }, {
+        "latitudeE7" : 494905470,
+        "longitudeE7" : 5746130,
+        "placeId" : "ChIJkz7d0f5Q4EcRcxwQAD9z3bE",
+        "locationConfidence" : 3.776849
+      }, {
+        "latitudeE7" : 494900495,
+        "longitudeE7" : 5729286,
+        "placeId" : "ChIJFfLRQP9Q4EcRXt9hltdfEmM",
+        "locationConfidence" : 3.4289894
+      }, {
+        "latitudeE7" : 494885634,
+        "longitudeE7" : 5783172,
+        "placeId" : "ChIJc0coq_tQ4EcRSd1229rgpPY",
+        "locationConfidence" : 3.1559217
+      }, {
+        "latitudeE7" : 494889032,
+        "longitudeE7" : 5714769,
+        "placeId" : "ChIJDbRjBFRQ4EcRaqcaNHOu2TA",
+        "locationConfidence" : 2.7376454
+      }, {
+        "latitudeE7" : 494922534,
+        "longitudeE7" : 5715932,
+        "placeId" : "ChIJc0coq_tQ4EcRAbTCY5VzcPM",
+        "locationConfidence" : 2.095907
+      }, {
+        "latitudeE7" : 494905195,
+        "longitudeE7" : 5747687,
+        "placeId" : "ChIJcaZFzv5Q4EcR54eZW5FpRbQ",
+        "locationConfidence" : 1.9314262
+      }, {
+        "latitudeE7" : 494883180,
+        "longitudeE7" : 5731128,
+        "placeId" : "ChIJ47rXX1RQ4EcR7_Ewy1IQvpA",
+        "locationConfidence" : 1.1875464
+      }, {
+        "latitudeE7" : 494900211,
+        "longitudeE7" : 5721769,
+        "placeId" : "ChIJEaDUQP9Q4EcRziotvPLQASk",
+        "locationConfidence" : 1.0897658
+      }, {
+        "latitudeE7" : 494905800,
+        "longitudeE7" : 5732850,
+        "placeId" : "ChIJHyccLv9Q4EcRsDczfXL91DQ",
+        "locationConfidence" : 1.0586356
+      }, {
+        "latitudeE7" : 494940000,
+        "longitudeE7" : 5786510,
+        "placeId" : "ChIJ-ysQT_pQ4EcR2xRsXmWX4z0",
+        "locationConfidence" : 1.0141361
+      }, {
+        "latitudeE7" : 494882805,
+        "longitudeE7" : 5717504,
+        "placeId" : "ChIJB8rggv9Q4EcRscrqES0zIGU",
+        "locationConfidence" : 0.996203
+      }, {
+        "latitudeE7" : 494902816,
+        "longitudeE7" : 5729789,
+        "placeId" : "ChIJFfLRQP9Q4EcRA2MOuHidl9o",
+        "locationConfidence" : 0.800837
+      }, {
+        "latitudeE7" : 494923130,
+        "longitudeE7" : 5759649,
+        "placeId" : "ChIJc0coq_tQ4EcRxNYndieheds",
+        "locationConfidence" : 0.7704263
+      }, {
+        "latitudeE7" : 494915854,
+        "longitudeE7" : 5758022,
+        "placeId" : "ChIJcaZFzv5Q4EcRnJmtmvkLcaE",
+        "locationConfidence" : 0.7009809
+      }, {
+        "latitudeE7" : 494899852,
+        "longitudeE7" : 5724337,
+        "placeId" : "ChIJFfLRQP9Q4EcRHf29S8C0Z08",
+        "locationConfidence" : 0.7006113
+      }, {
+        "latitudeE7" : 494869751,
+        "longitudeE7" : 5760573,
+        "placeId" : "ChIJSRU6Mf5Q4EcRHfktqZ6F50Y",
+        "locationConfidence" : 0.6277772
+      }, {
+        "latitudeE7" : 494905100,
+        "longitudeE7" : 5732210,
+        "placeId" : "ChIJy-wSLv9Q4EcRZJ6mpTnTlc8",
+        "locationConfidence" : 0.61574614
+      }, {
+        "latitudeE7" : 494890636,
+        "longitudeE7" : 5706739,
+        "placeId" : "ChIJf5SHhVVQ4EcRtWV_TBwbfMI",
+        "locationConfidence" : 0.6100508
+      }, {
+        "latitudeE7" : 494888581,
+        "longitudeE7" : 5717236,
+        "placeId" : "ChIJb1Y0FFVQ4EcRQFE_sc3CXQE",
+        "locationConfidence" : 0.48179018
+      }, {
+        "latitudeE7" : 494902816,
+        "longitudeE7" : 5729789,
+        "placeId" : "ChIJ0-AROv9Q4EcRCnGj8fEndlA",
+        "locationConfidence" : 0.4514277
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494958965,
+        "longitudeE7" : 5815420,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 495262607,
+        "longitudeE7" : 5162957,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558882055011",
+        "endTimestampMs" : "1558884152475"
+      },
+      "distance" : 6780,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 88.1213832519818
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 5.441941780589101
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 5.221310291827842
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494958000,
+          "lngE7" : 5816966
+        }, {
+          "latE7" : 495148162,
+          "lngE7" : 5330877
+        }, {
+          "latE7" : 495265464,
+          "lngE7" : 5153238
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 495107646,
+          "lngE7" : 5352086,
+          "timestampMs" : "1558882465000",
+          "accuracyMeters" : 5
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 495262640,
+        "longitudeE7" : 5162917,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 495277133,
+        "longitudeE7" : 5145220,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558884979126",
+        "endTimestampMs" : "1558885485623"
+      },
+      "distance" : 205,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 83.0021193166808
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 7.681286993632136
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 5.1531546591199815
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 495265502,
+          "lngE7" : 5153253
+        }, {
+          "latE7" : 495244674,
+          "lngE7" : 5112025
+        }, {
+          "latE7" : 495277252,
+          "lngE7" : 5147489
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 495279789,
+        "longitudeE7" : 5141977,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494960532,
+        "longitudeE7" : 5819084,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1558886485443",
+        "endTimestampMs" : "1558893006539"
+      },
+      "distance" : 9766,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 84.425616821267
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 7.5494058464741025
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 4.459022352905124
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 495279197,
+          "lngE7" : 5147594
+        }, {
+          "latE7" : 495294494,
+          "lngE7" : 5003656
+        }, {
+          "latE7" : 495412826,
+          "lngE7" : 4978165
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1558893063580",
+        "location" : {
+          "latitudeE7" : 494960532,
+          "longitudeE7" : 5819084,
+          "accuracyMetres" : 113
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494960970,
+        "longitudeE7" : 5818368,
+        "placeId" : "ChIJYx-hB_BQ4EcRBOaPtjHV4R4",
+        "address" : "11 Rue Roland Garros\n76330 Port-Jérôme-sur-Seine\nFrance",
+        "name" : "11 Rue Roland Garros",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 93.04713
+      },
+      "duration" : {
+        "startTimestampMs" : "1558893232764",
+        "endTimestampMs" : "1558894324053"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 494960325,
+      "centerLngE7" : 5819067,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494987913,
+        "longitudeE7" : 5812998,
+        "placeId" : "ChIJa9FSyvFQ4EcRzlR8S9ZxMGU",
+        "locationConfidence" : 2.9227808
+      }, {
+        "latitudeE7" : 494948368,
+        "longitudeE7" : 5797138,
+        "placeId" : "ChIJ80hq6vpQ4EcRYioyPIgQ85g",
+        "locationConfidence" : 1.1492302
+      }, {
+        "latitudeE7" : 494949460,
+        "longitudeE7" : 5777900,
+        "placeId" : "ChIJTxGOFvpQ4EcRlbytJtBeYew",
+        "locationConfidence" : 1.0353768
+      }, {
+        "latitudeE7" : 494940000,
+        "longitudeE7" : 5786510,
+        "placeId" : "ChIJ-ysQT_pQ4EcR2xRsXmWX4z0",
+        "locationConfidence" : 0.8574815
+      }, {
+        "latitudeE7" : 494967960,
+        "longitudeE7" : 5784128,
+        "placeId" : "ChIJPcoAl_BQ4EcR6dMNhqQ6X0I",
+        "locationConfidence" : 0.47814664
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494959335,
+        "longitudeE7" : 5819290
+      },
+      "endLocation" : {
+        "latitudeE7" : 494967346,
+        "longitudeE7" : 1121106
+      },
+      "duration" : {
+        "startTimestampMs" : "1558894324053",
+        "endTimestampMs" : "1558896812393"
+      },
+      "distance" : 33942,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 92.9089559883263
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.168591579481143
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 2.193055430051927
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494958801,
+          "lngE7" : 5819445
+        }, {
+          "latE7" : 494749679,
+          "lngE7" : 4596495
+        }, {
+          "latE7" : 494967231,
+          "lngE7" : 1120638
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1558896812393",
+        "location" : {
+          "latitudeE7" : 494967346,
+          "longitudeE7" : 1121106,
+          "accuracyMetres" : 76
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494967346,
+        "longitudeE7" : 1121106,
+        "placeId" : "ChIJl3b0zRkv4EcRZVZEJUgMz9I",
+        "address" : "74 Rue Maréchal Gallieni\n76600 Le Havre\nFrance",
+        "name" : "74 Rue Maréchal Gallieni",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 31.987795
+      },
+      "duration" : {
+        "startTimestampMs" : "1558896812393",
+        "endTimestampMs" : "1558897190916"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 494969275,
+      "centerLngE7" : 1120125,
+      "visitConfidence" : 87,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494969406,
+        "longitudeE7" : 1117235,
+        "placeId" : "ChIJR5Y3LBgv4EcROdbvX9gCbJk",
+        "locationConfidence" : 23.588041
+      }, {
+        "latitudeE7" : 494959764,
+        "longitudeE7" : 1114567,
+        "placeId" : "ChIJJZ6KOBgv4EcRhNSXBdHBlHk",
+        "locationConfidence" : 10.708976
+      }, {
+        "latitudeE7" : 494974364,
+        "longitudeE7" : 1125470,
+        "placeId" : "ChIJle2wfRcv4EcRF-VhMYLCbUw",
+        "locationConfidence" : 0.8636592
+      }, {
+        "latitudeE7" : 494963147,
+        "longitudeE7" : 1125176,
+        "placeId" : "ChIJcxAJBrov4EcRbH8JrTiye3s",
+        "locationConfidence" : 0.73546684
+      }, {
+        "latitudeE7" : 494970191,
+        "longitudeE7" : 1122332,
+        "placeId" : "ChIJe9p30xkv4EcRqIQ31tqFZmM",
+        "locationConfidence" : 0.7023599
+      }, {
+        "latitudeE7" : 494966458,
+        "longitudeE7" : 1122438,
+        "placeId" : "ChIJofk5LRgv4EcReCZqltkLG-M",
+        "locationConfidence" : 0.6162534
+      }, {
+        "latitudeE7" : 494969762,
+        "longitudeE7" : 1107785,
+        "placeId" : "ChIJubTrIhgv4EcRSg8EgV4nHa0",
+        "locationConfidence" : 0.52256054
+      }, {
+        "latitudeE7" : 494975854,
+        "longitudeE7" : 1130951,
+        "placeId" : "ChIJAQB8YRcv4EcRVKw3bXQKX8Y",
+        "locationConfidence" : 0.5220563
+      }, {
+        "latitudeE7" : 494972672,
+        "longitudeE7" : 1119591,
+        "placeId" : "ChIJC4zYUxcv4EcRkr9JYsDkjCI",
+        "locationConfidence" : 0.50992507
+      }, {
+        "latitudeE7" : 494974476,
+        "longitudeE7" : 1097268,
+        "placeId" : "ChIJ4Sij-Bcv4EcRQAzZdbcuEmk",
+        "locationConfidence" : 0.4989673
+      }, {
+        "latitudeE7" : 494970398,
+        "longitudeE7" : 1123950,
+        "placeId" : "ChIJiwvK1hkv4EcR0ff1E-ydnRY",
+        "locationConfidence" : 0.4733411
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494964477,
+        "longitudeE7" : 1282725,
+        "placeId" : "ChIJRR0dlAcv4EcRM7tTG1M_vwU",
+        "address" : "25 Rue Philippe Lebon\n76600 Le Havre\nFrance",
+        "name" : "University of Le Havre",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 96.67603
+      },
+      "duration" : {
+        "startTimestampMs" : "1558961887967",
+        "endTimestampMs" : "1558968745667"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 494956698,
+          "longitudeE7" : 1281261,
+          "placeId" : "ChIJU64pTAYv4EcRcQj4wkX0qa0",
+          "address" : "25 Rue Philippe Lebon\n76600 Le Havre\nFrance",
+          "name" : "Bibliothèque Universitaire",
+          "sourceInfo" : {
+            "deviceTag" : 179057369
+          },
+          "locationConfidence" : 85.71532
+        },
+        "duration" : {
+          "startTimestampMs" : "1558961887967",
+          "endTimestampMs" : "1558968745667"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 494955450,
+        "centerLngE7" : 1280918,
+        "visitConfidence" : 91,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 494974901,
+          "longitudeE7" : 1282755,
+          "placeId" : "ChIJz46CgQgv4EcRCx46FC8l250",
+          "locationConfidence" : 0.54771954
+        }, {
+          "latitudeE7" : 494966885,
+          "longitudeE7" : 1270162,
+          "placeId" : "ChIJ_____y8u4EcR8k79zZ58CyE",
+          "locationConfidence" : 0.52471167
+        }, {
+          "latitudeE7" : 494966171,
+          "longitudeE7" : 1268602,
+          "placeId" : "ChIJO0rLsQUv4EcRjnxkMCkrcjc",
+          "locationConfidence" : 0.50624704
+        }, {
+          "latitudeE7" : 494975121,
+          "longitudeE7" : 1282635,
+          "placeId" : "ChIJz46CgQgv4EcRRqYM0WzjIfc",
+          "locationConfidence" : 0.4303066
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 494955450,
+      "centerLngE7" : 1280918,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494974901,
+        "longitudeE7" : 1282755,
+        "placeId" : "ChIJz46CgQgv4EcRCx46FC8l250",
+        "locationConfidence" : 0.18945266
+      }, {
+        "latitudeE7" : 494966885,
+        "longitudeE7" : 1270162,
+        "placeId" : "ChIJ_____y8u4EcR8k79zZ58CyE",
+        "locationConfidence" : 0.1814944
+      }, {
+        "latitudeE7" : 494966171,
+        "longitudeE7" : 1268602,
+        "placeId" : "ChIJO0rLsQUv4EcRjnxkMCkrcjc",
+        "locationConfidence" : 0.1751076
+      }, {
+        "latitudeE7" : 494975121,
+        "longitudeE7" : 1282635,
+        "placeId" : "ChIJz46CgQgv4EcRRqYM0WzjIfc",
+        "locationConfidence" : 0.1488403
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494958582,
+        "longitudeE7" : 5819792,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 495350614,
+        "longitudeE7" : 5142533,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1559145444786",
+        "endTimestampMs" : "1559146214301"
+      },
+      "distance" : 7822,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 98.81825077074802
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.9017793976099135
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.14593814981178066
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494958839,
+          "lngE7" : 5819721
+        }, {
+          "latE7" : 495351066,
+          "lngE7" : 5142955
+        } ]
+      }
+    }
+  } ]
+}

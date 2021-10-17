@@ -1,0 +1,2529 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494960518,
+        "longitudeE7" : 5819054,
+        "placeId" : "ChIJYx-hB_BQ4EcRBOaPtjHV4R4",
+        "address" : "11 Rue Roland Garros\n76330 Port-Jérôme-sur-Seine\nFrance",
+        "name" : "11 Rue Roland Garros",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 87.50207
+      },
+      "duration" : {
+        "startTimestampMs" : "1530530947332",
+        "endTimestampMs" : "1530551854003"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 494960020,
+      "centerLngE7" : 5819295,
+      "visitConfidence" : 87,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494949460,
+        "longitudeE7" : 5777900,
+        "placeId" : "ChIJTxGOFvpQ4EcRlbytJtBeYew",
+        "name" : "Parc de la vallée du Télhuet",
+        "locationConfidence" : 4.3842854
+      }, {
+        "latitudeE7" : 494987913,
+        "longitudeE7" : 5812998,
+        "placeId" : "ChIJa9FSyvFQ4EcRzlR8S9ZxMGU",
+        "name" : "Le Télhuet",
+        "locationConfidence" : 3.9281754
+      }, {
+        "latitudeE7" : 494930176,
+        "longitudeE7" : 5805040,
+        "placeId" : "ChIJ6eClqvtQ4EcRMAwJVcMWfvM",
+        "name" : "Gymnase Michel Comont",
+        "locationConfidence" : 1.0338576
+      }, {
+        "latitudeE7" : 494948368,
+        "longitudeE7" : 5797138,
+        "placeId" : "ChIJ80hq6vpQ4EcRYioyPIgQ85g",
+        "name" : "Paroisse Saint Denis des Marais de Seine",
+        "locationConfidence" : 1.0247489
+      }, {
+        "latitudeE7" : 494967960,
+        "longitudeE7" : 5784128,
+        "placeId" : "ChIJPcoAl_BQ4EcR6dMNhqQ6X0I",
+        "name" : "Terrain d'arc CSG",
+        "locationConfidence" : 0.7972957
+      }, {
+        "latitudeE7" : 494935743,
+        "longitudeE7" : 5794297,
+        "placeId" : "ChIJc0coq_tQ4EcR1SyDMZki-4g",
+        "name" : "Restaurant municipal",
+        "locationConfidence" : 0.59514767
+      }, {
+        "latitudeE7" : 494940000,
+        "longitudeE7" : 5786510,
+        "placeId" : "ChIJ-ysQT_pQ4EcR2xRsXmWX4z0",
+        "name" : "CSG Pétanque",
+        "locationConfidence" : 0.4769052
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494960058,
+        "longitudeE7" : 5819398,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494971415,
+        "longitudeE7" : 1123968,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1530551854003",
+        "endTimestampMs" : "1530631689854"
+      },
+      "distance" : 33910,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 89.16727185738681
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 7.201742419980517
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.8321218343215229
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494958839,
+          "lngE7" : 5819749
+        }, {
+          "latE7" : 495067977,
+          "lngE7" : 5140793
+        }, {
+          "latE7" : 494971084,
+          "lngE7" : 1124052
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494965341,
+        "longitudeE7" : 1103519,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494926526,
+        "longitudeE7" : 1379370,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1530632004000",
+        "endTimestampMs" : "1530632945000"
+      },
+      "distance" : 2589,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 95.82555033873457
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.290202886526756
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.361920936680029
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494965286,
+          "lngE7" : 1103335
+        }, {
+          "latE7" : 494915771,
+          "lngE7" : 1267578
+        }, {
+          "latE7" : 494926872,
+          "lngE7" : 1379158
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494916259,
+          "lngE7" : 1268806,
+          "timestampMs" : "1530632322000",
+          "accuracyMeters" : 10
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494959221,
+        "longitudeE7" : 5818888,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494674078,
+        "longitudeE7" : 11175304,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1531199982000",
+        "endTimestampMs" : "1531205838000"
+      },
+      "distance" : 44733,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 92.82605617393386
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 6.357422046008657
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 0.2186972891896142
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494958724,
+          "lngE7" : 5819026
+        }, {
+          "latE7" : 495304107,
+          "lngE7" : 5911427
+        }, {
+          "latE7" : 494414176,
+          "lngE7" : 10327490
+        }, {
+          "latE7" : 494424972,
+          "lngE7" : 10770212
+        }, {
+          "latE7" : 494321136,
+          "lngE7" : 11084034
+        }, {
+          "latE7" : 494335594,
+          "lngE7" : 11073046
+        }, {
+          "latE7" : 494505767,
+          "lngE7" : 11024883
+        }, {
+          "latE7" : 494611358,
+          "lngE7" : 11107834
+        }, {
+          "latE7" : 494674148,
+          "lngE7" : 11175086
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494421917,
+          "lngE7" : 10772247,
+          "timestampMs" : "1531204615000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 494320818,
+          "lngE7" : 11082868,
+          "timestampMs" : "1531204900000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 494333120,
+          "lngE7" : 11075859,
+          "timestampMs" : "1531205097000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 494498182,
+          "lngE7" : 11017702,
+          "timestampMs" : "1531205597000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 494587596,
+          "lngE7" : 11086806,
+          "timestampMs" : "1531205712000",
+          "accuracyMeters" : 10
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1531205859000",
+        "location" : {
+          "latitudeE7" : 494674278,
+          "longitudeE7" : 11175751,
+          "accuracyMetres" : 70
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494692487,
+        "longitudeE7" : 11189885,
+        "placeId" : "ChIJzcYUFkXc4EcRaBTcrQZ2oZQ",
+        "address" : "3181 Rte de Neufchâtel\n76230 Bois-Guillaume\nFrance",
+        "name" : "VétoOphtalmo - Dr Augsburger",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 50.545956
+      },
+      "duration" : {
+        "startTimestampMs" : "1531205838000",
+        "endTimestampMs" : "1531207253000"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 494674329,
+      "centerLngE7" : 11176419,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494692706,
+        "longitudeE7" : 11189813,
+        "placeId" : "ChIJmdJG9kTc4EcRJGjlBQ5tJKk",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence" : 20.068996
+      }, {
+        "latitudeE7" : 494681067,
+        "longitudeE7" : 11187441,
+        "placeId" : "ChIJU1y3TkTc4EcRyQDX-MDyG7U",
+        "name" : "Picard",
+        "locationConfidence" : 18.163311
+      }, {
+        "latitudeE7" : 494668268,
+        "longitudeE7" : 11159780,
+        "placeId" : "ChIJvdkc40Xc4EcRLaaE_aOjHko",
+        "name" : "Parc Andersen",
+        "locationConfidence" : 5.0365763
+      }, {
+        "latitudeE7" : 494686122,
+        "longitudeE7" : 11167293,
+        "placeId" : "ChIJV18wokXc4EcRLTbDz2hkSpw",
+        "name" : "Bois-Guillaume Accueil",
+        "locationConfidence" : 1.2931219
+      }, {
+        "latitudeE7" : 494647668,
+        "longitudeE7" : 11170013,
+        "placeId" : "ChIJm35BS0bc4EcRJefn6A44RPU",
+        "name" : "CHU Bois Guillaume",
+        "locationConfidence" : 0.6488732
+      }, {
+        "latitudeE7" : 494686122,
+        "longitudeE7" : 11167293,
+        "placeId" : "ChIJEx_EokXc4EcRuaLvKsTfUEM",
+        "name" : "Espace Guillaume le Conquérant",
+        "locationConfidence" : 0.6358208
+      }, {
+        "latitudeE7" : 494663267,
+        "longitudeE7" : 11173909,
+        "placeId" : "ChIJNXqXE0bc4EcRtu45cCkCzDo",
+        "name" : "Anider",
+        "locationConfidence" : 0.50345147
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494681107,
+        "longitudeE7" : 11182130,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494434612,
+        "longitudeE7" : 10884292,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1531207253000",
+        "endTimestampMs" : "1531208377000"
+      },
+      "distance" : 5494,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 94.8922269459048
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.0131193582409677
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.0286604259364331
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494681129,
+          "lngE7" : 11182068
+        }, {
+          "latE7" : 494530563,
+          "lngE7" : 10985667
+        }, {
+          "latE7" : 494432601,
+          "lngE7" : 10878412
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494529413,
+          "lngE7" : 10988895,
+          "timestampMs" : "1531207759000",
+          "accuracyMeters" : 10
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1531208928347",
+        "location" : {
+          "latitudeE7" : 494434612,
+          "longitudeE7" : 10884292,
+          "accuracyMetres" : 44
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494433370,
+        "longitudeE7" : 10877687,
+        "placeId" : "ChIJ1a_i5djd4EcRIRVLiMjxsSw",
+        "address" : "53 Pl. du Vieux Marché\n76000 Rouen\nFrance",
+        "name" : "Parking Centre Ville Rouen",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 39.15385
+      },
+      "duration" : {
+        "startTimestampMs" : "1531208377000",
+        "endTimestampMs" : "1531222015256"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 494436876,
+      "centerLngE7" : 10873536,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494433433,
+        "longitudeE7" : 10883707,
+        "placeId" : "ChIJ55TH79jd4EcRtFpeDvdCsE4",
+        "name" : "Place Du Vieux Marché",
+        "locationConfidence" : 27.797832
+      }, {
+        "latitudeE7" : 494431949,
+        "longitudeE7" : 10884076,
+        "placeId" : "ChIJVaKM8djd4EcRtqcrvC3ZdAM",
+        "name" : "Rouen Park",
+        "locationConfidence" : 9.552194
+      }, {
+        "latitudeE7" : 494429370,
+        "longitudeE7" : 10883032,
+        "placeId" : "ChIJw9qh7djd4EcR_vzNJ9kHSps",
+        "name" : "Church of St Joan of Arc",
+        "locationConfidence" : 2.7945752
+      }, {
+        "latitudeE7" : 494436848,
+        "longitudeE7" : 10878466,
+        "placeId" : "ChIJYcpQ-tjd4EcRVgryD1r7660",
+        "name" : "U Express et drive",
+        "locationConfidence" : 1.0915834
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494436818,
+        "longitudeE7" : 10843983,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494960147,
+        "longitudeE7" : 5817855,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1531222015256",
+        "endTimestampMs" : "1531231681989"
+      },
+      "distance" : 57809,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 68.44352450842149
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 18.968069903248395
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 9.426451971867401
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494436836,
+          "lngE7" : 10843987
+        }, {
+          "latE7" : 494484291,
+          "lngE7" : 10995316
+        }, {
+          "latE7" : 494699554,
+          "lngE7" : 11197602
+        }, {
+          "latE7" : 494783058,
+          "lngE7" : 11001503
+        }, {
+          "latE7" : 494486846,
+          "lngE7" : 9710536
+        }, {
+          "latE7" : 494724082,
+          "lngE7" : 8613137
+        }, {
+          "latE7" : 494711265,
+          "lngE7" : 8158748
+        }, {
+          "latE7" : 495247955,
+          "lngE7" : 7286365
+        }, {
+          "latE7" : 494958610,
+          "lngE7" : 5818256
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494484905,
+          "lngE7" : 10995987,
+          "timestampMs" : "1531222522000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 494699576,
+          "lngE7" : 11197609,
+          "timestampMs" : "1531226104000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 494485781,
+          "lngE7" : 9710252,
+          "timestampMs" : "1531228123188",
+          "accuracyMeters" : 82
+        }, {
+          "latE7" : 494709680,
+          "lngE7" : 8156943,
+          "timestampMs" : "1531229341828",
+          "accuracyMeters" : 98
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1531231820581",
+        "location" : {
+          "latitudeE7" : 494960147,
+          "longitudeE7" : 5817855,
+          "accuracyMetres" : 70
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494960518,
+        "longitudeE7" : 5819054,
+        "placeId" : "ChIJYx-hB_BQ4EcRBOaPtjHV4R4",
+        "address" : "11 Rue Roland Garros\n76330 Port-Jérôme-sur-Seine\nFrance",
+        "name" : "11 Rue Roland Garros",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 86.7421
+      },
+      "duration" : {
+        "startTimestampMs" : "1531231681989",
+        "endTimestampMs" : "1531234349501"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 494960457,
+      "centerLngE7" : 5818993,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494949460,
+        "longitudeE7" : 5777900,
+        "placeId" : "ChIJTxGOFvpQ4EcRlbytJtBeYew",
+        "name" : "Parc de la vallée du Télhuet",
+        "locationConfidence" : 6.121617
+      }, {
+        "latitudeE7" : 494987913,
+        "longitudeE7" : 5812998,
+        "placeId" : "ChIJa9FSyvFQ4EcRzlR8S9ZxMGU",
+        "name" : "Le Télhuet",
+        "locationConfidence" : 3.5322995
+      }, {
+        "latitudeE7" : 494948368,
+        "longitudeE7" : 5797138,
+        "placeId" : "ChIJ80hq6vpQ4EcRYioyPIgQ85g",
+        "name" : "Église Notre-Dame - Paroisse Saint Denis des Marais de Seine",
+        "locationConfidence" : 1.4610866
+      }, {
+        "latitudeE7" : 494967960,
+        "longitudeE7" : 5784128,
+        "placeId" : "ChIJPcoAl_BQ4EcR6dMNhqQ6X0I",
+        "name" : "Terrain d'arc CSG",
+        "locationConfidence" : 0.8518039
+      }, {
+        "latitudeE7" : 494940000,
+        "longitudeE7" : 5786510,
+        "placeId" : "ChIJ-ysQT_pQ4EcR2xRsXmWX4z0",
+        "name" : "CSG Pétanque",
+        "locationConfidence" : 0.5794509
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 467579774,
+        "longitudeE7" : -17865823,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 466975946,
+        "longitudeE7" : -19142311,
+        "placeId" : "ChIJl50pA1JWBEgRHOOwEypDE-U",
+        "address" : "Parc Commercial Oceanis\nRdpt de l'Europe\n85800 Saint-Gilles-Croix-de-Vie\nFrance",
+        "name" : "COMMERCIAL PARK Oceanis",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 98.40578
+      },
+      "duration" : {
+        "startTimestampMs" : "1531559918000",
+        "endTimestampMs" : "1531561229000"
+      },
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 98.67659237661603
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.6794499892063594
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.4615994123913045
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 467579727,
+          "lngE7" : -17865874
+        }, {
+          "latE7" : 467476997,
+          "lngE7" : -17969926
+        }, {
+          "latE7" : 466974487,
+          "lngE7" : -17628172
+        }, {
+          "latE7" : 466952095,
+          "lngE7" : -17969115
+        }, {
+          "latE7" : 467088851,
+          "lngE7" : -18783489
+        }, {
+          "latE7" : 467052726,
+          "lngE7" : -18986084
+        }, {
+          "latE7" : 466976852,
+          "lngE7" : -19132175
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 467454363,
+          "lngE7" : -17950290,
+          "timestampMs" : "1531560084000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 466974767,
+          "lngE7" : -17628221,
+          "timestampMs" : "1531560411000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 466952750,
+          "lngE7" : -17966577,
+          "timestampMs" : "1531560548000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 467092785,
+          "lngE7" : -18760358,
+          "timestampMs" : "1531560897000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 467059144,
+          "lngE7" : -18942712,
+          "timestampMs" : "1531560986000",
+          "accuracyMeters" : 10
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1531561242000",
+        "location" : {
+          "latitudeE7" : 466971183,
+          "longitudeE7" : -19127839,
+          "accuracyMetres" : 70
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 466975946,
+        "longitudeE7" : -19142311,
+        "placeId" : "ChIJl50pA1JWBEgRHOOwEypDE-U",
+        "address" : "Parc Commercial Oceanis\nRdpt de l'Europe\n85800 Saint-Gilles-Croix-de-Vie\nFrance",
+        "name" : "COMMERCIAL PARK Oceanis",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 98.40578
+      },
+      "duration" : {
+        "startTimestampMs" : "1531561229000",
+        "endTimestampMs" : "1531564528000"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 466984624,
+          "longitudeE7" : -19125581,
+          "placeId" : "ChIJnUmyKsHf4EcRaVV8Fq_Wseg",
+          "address" : "Parc Commercial Oceanis Rue de l'Aiguillon\nRond-Point de l'Europe\n85800 Saint-Gilles-Croix-de-Vie\nFrance",
+          "name" : "E.Leclerc DRIVE Saint-Gilles-Croix-de-Vie",
+          "locationConfidence" : 40.709175
+        },
+        "duration" : {
+          "startTimestampMs" : "1531561514075",
+          "endTimestampMs" : "1531562071724"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : 466960957,
+        "centerLngE7" : -19125977,
+        "visitConfidence" : 92,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 466980200,
+          "longitudeE7" : -19131129,
+          "placeId" : "ChIJe75Z7kxWBEgRHY-rFGh164w",
+          "name" : "Voyages E.Leclerc",
+          "locationConfidence" : 33.57124
+        }, {
+          "latitudeE7" : 466977330,
+          "longitudeE7" : -19130080,
+          "placeId" : "ChIJRTlXPU1WBEgRyS0PAzkk_l0",
+          "name" : "Yves Rocher",
+          "locationConfidence" : 23.405478
+        }, {
+          "latitudeE7" : 466983908,
+          "longitudeE7" : -19121682,
+          "placeId" : "ChIJq6qqqvpWBEgRdIV2AJ36NaQ",
+          "name" : "Devred",
+          "locationConfidence" : 0.15309554
+        }, {
+          "latitudeE7" : 466975946,
+          "longitudeE7" : -19142311,
+          "placeId" : "ChIJl50pA1JWBEgRHOOwEypDE-U",
+          "name" : "COMMERCIAL PARK Oceanis",
+          "locationConfidence" : 0.116453506
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      }, {
+        "location" : {
+          "latitudeE7" : 466977330,
+          "longitudeE7" : -19130080,
+          "placeId" : "ChIJRTlXPU1WBEgRyS0PAzkk_l0",
+          "address" : "centre commercial oceanis\n1 Rond-Point de l'Europe\n85800 Saint-Gilles-Croix-de-Vie\nFrance",
+          "name" : "Yves Rocher",
+          "sourceInfo" : {
+            "deviceTag" : 179057369
+          },
+          "locationConfidence" : 51.26373
+        },
+        "duration" : {
+          "startTimestampMs" : "1531562131841",
+          "endTimestampMs" : "1531562888615"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 466956397,
+        "centerLngE7" : -19124808,
+        "visitConfidence" : 92,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 466980200,
+          "longitudeE7" : -19131129,
+          "placeId" : "ChIJe75Z7kxWBEgRHY-rFGh164w",
+          "name" : "Voyages E.Leclerc",
+          "locationConfidence" : 24.629011
+        }, {
+          "latitudeE7" : 466984624,
+          "longitudeE7" : -19125581,
+          "placeId" : "ChIJnUmyKsHf4EcRaVV8Fq_Wseg",
+          "name" : "E.Leclerc Drive",
+          "locationConfidence" : 22.004128
+        }, {
+          "latitudeE7" : 466983908,
+          "longitudeE7" : -19121682,
+          "placeId" : "ChIJq6qqqvpWBEgRdIV2AJ36NaQ",
+          "name" : "Devred",
+          "locationConfidence" : 0.3262572
+        }, {
+          "latitudeE7" : 466985050,
+          "longitudeE7" : -19121390,
+          "placeId" : "ChIJB-MojFFWBEgRrMFd-mzs8zU",
+          "name" : "RougeGorge Lingerie",
+          "locationConfidence" : 0.1824703
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      }, {
+        "location" : {
+          "latitudeE7" : 466984624,
+          "longitudeE7" : -19125581,
+          "placeId" : "ChIJnUmyKsHf4EcRaVV8Fq_Wseg",
+          "address" : "Parc Commercial Oceanis Rue de l'Aiguillon\nRond-Point de l'Europe\n85800 Saint-Gilles-Croix-de-Vie\nFrance",
+          "name" : "E.Leclerc DRIVE Saint-Gilles-Croix-de-Vie",
+          "sourceInfo" : {
+            "deviceTag" : 179057369
+          },
+          "locationConfidence" : 55.186768
+        },
+        "duration" : {
+          "startTimestampMs" : "1531563435135",
+          "endTimestampMs" : "1531563996740"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 466953103,
+        "centerLngE7" : -19139221,
+        "visitConfidence" : 92,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 466980200,
+          "longitudeE7" : -19131129,
+          "placeId" : "ChIJe75Z7kxWBEgRHY-rFGh164w",
+          "name" : "Voyages E.Leclerc",
+          "locationConfidence" : 29.373344
+        }, {
+          "latitudeE7" : 466977330,
+          "longitudeE7" : -19130080,
+          "placeId" : "ChIJRTlXPU1WBEgRyS0PAzkk_l0",
+          "name" : "Yves Rocher",
+          "locationConfidence" : 13.291711
+        }, {
+          "latitudeE7" : 466983908,
+          "longitudeE7" : -19121682,
+          "placeId" : "ChIJq6qqqvpWBEgRdIV2AJ36NaQ",
+          "name" : "Devred",
+          "locationConfidence" : 0.19669396
+        }, {
+          "latitudeE7" : 466985050,
+          "longitudeE7" : -19121390,
+          "placeId" : "ChIJB-MojFFWBEgRrMFd-mzs8zU",
+          "name" : "RougeGorge Lingerie",
+          "locationConfidence" : 0.09008228
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      }, {
+        "location" : {
+          "latitudeE7" : 466980200,
+          "longitudeE7" : -19131129,
+          "placeId" : "ChIJe75Z7kxWBEgRHY-rFGh164w",
+          "address" : "Centre commercial Océanis Rond point de l'Europe\n85800 Saint-Gilles-Croix-de-Vie\nFrance",
+          "name" : "Voyages E.Leclerc",
+          "locationConfidence" : 44.15296
+        },
+        "duration" : {
+          "startTimestampMs" : "1531564057349",
+          "endTimestampMs" : "1531564117353"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : 466944089,
+        "centerLngE7" : -19126760,
+        "visitConfidence" : 92,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 466977330,
+          "longitudeE7" : -19130080,
+          "placeId" : "ChIJRTlXPU1WBEgRyS0PAzkk_l0",
+          "name" : "Yves Rocher",
+          "locationConfidence" : 29.979134
+        }, {
+          "latitudeE7" : 466984624,
+          "longitudeE7" : -19125581,
+          "placeId" : "ChIJnUmyKsHf4EcRaVV8Fq_Wseg",
+          "name" : "E.Leclerc Drive",
+          "locationConfidence" : 22.367609
+        }, {
+          "latitudeE7" : 466983908,
+          "longitudeE7" : -19121682,
+          "placeId" : "ChIJq6qqqvpWBEgRdIV2AJ36NaQ",
+          "name" : "Devred",
+          "locationConfidence" : 0.80789703
+        }, {
+          "latitudeE7" : 466985050,
+          "longitudeE7" : -19121390,
+          "placeId" : "ChIJB-MojFFWBEgRrMFd-mzs8zU",
+          "name" : "RougeGorge Lingerie",
+          "locationConfidence" : 0.3546839
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 466973415,
+      "centerLngE7" : -19133115,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 466957877,
+        "longitudeE7" : -19129101,
+        "placeId" : "ChIJ79mzJFJWBEgRLKJl3QDFcZU",
+        "name" : "CENTRAKOR SAINT GILLES CROIX DE VIE",
+        "locationConfidence" : 0.91871876
+      }, {
+        "latitudeE7" : 466962501,
+        "longitudeE7" : -19126782,
+        "placeId" : "ChIJwUK-_ilWBEgRyruaIUUf7mk",
+        "name" : "Intersport",
+        "locationConfidence" : 0.1562116
+      }, {
+        "latitudeE7" : 466951601,
+        "longitudeE7" : -19121950,
+        "placeId" : "ChIJ6Q1pUx1XBEgRSEr1qH3Mc8k",
+        "name" : "LIDL",
+        "locationConfidence" : 0.14988257
+      }, {
+        "latitudeE7" : 466984105,
+        "longitudeE7" : -19450600,
+        "placeId" : "ChIJW3SQ7kxWBEgRsKcLUR7Dhps",
+        "name" : "Grain de Malice",
+        "locationConfidence" : 0.07176489
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 466968924,
+        "longitudeE7" : -19145519,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 466963106,
+        "longitudeE7" : -19391367,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1531564528000",
+        "endTimestampMs" : "1531589895580"
+      },
+      "distance" : 25811,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 86.14470766049413
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 11.860322684581183
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.44101620333718194
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 466968612,
+          "lngE7" : -19145561
+        }, {
+          "latE7" : 467318992,
+          "lngE7" : -18714531
+        }, {
+          "latE7" : 467468719,
+          "lngE7" : -17964062
+        }, {
+          "latE7" : 467321052,
+          "lngE7" : -18719811
+        }, {
+          "latE7" : 466963043,
+          "lngE7" : -19392669
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 467318169,
+          "lngE7" : -18720081,
+          "timestampMs" : "1531565076000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 467488722,
+          "lngE7" : -17975821,
+          "timestampMs" : "1531565561000",
+          "accuracyMeters" : 10
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1531589972967",
+        "location" : {
+          "latitudeE7" : 466963131,
+          "longitudeE7" : -19391713,
+          "accuracyMetres" : 73
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 466963106,
+        "longitudeE7" : -19391367,
+        "placeId" : "ChIJSWmNdCxWBEgR9tHNlHMD2Ys",
+        "address" : "2 Pl Guy Kergoustin\n85800 Saint-Gilles-Croix-de-Vie\nFrance",
+        "name" : "LAVANO - Le cafe-resto du coin...",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 85.10662
+      },
+      "duration" : {
+        "startTimestampMs" : "1531589895580",
+        "endTimestampMs" : "1531591573900"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 466963053,
+      "centerLngE7" : -19391453,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 466963525,
+        "longitudeE7" : -19413286,
+        "placeId" : "ChIJC4ALHCpWBEgR7hQxKinUcUA",
+        "name" : "St-Gilles-Croix-de-Vie",
+        "locationConfidence" : 2.2417586
+      }, {
+        "latitudeE7" : 466961768,
+        "longitudeE7" : -19389956,
+        "placeId" : "ChIJSWmNdCxWBEgRwccjMf2Gh0M",
+        "name" : "Hôtel La Sterne",
+        "locationConfidence" : 1.3201811
+      }, {
+        "latitudeE7" : 466966114,
+        "longitudeE7" : -19394611,
+        "placeId" : "ChIJUyFvCixWBEgR0ztzgrWE4Eo",
+        "name" : "Marché",
+        "locationConfidence" : 1.018349
+      }, {
+        "latitudeE7" : 466965642,
+        "longitudeE7" : -19407497,
+        "placeId" : "ChIJjwJk6itWBEgR7jJDOh4cHwk",
+        "name" : "Les Roseaux",
+        "locationConfidence" : 0.9704578
+      }, {
+        "latitudeE7" : 466960344,
+        "longitudeE7" : -19391583,
+        "placeId" : "ChIJGWJ4cSxWBEgRDgWTetZWKH8",
+        "name" : "Petit Casino",
+        "locationConfidence" : 0.9268101
+      }, {
+        "latitudeE7" : 466953870,
+        "longitudeE7" : -19391640,
+        "placeId" : "ChIJ5eWOfixWBEgRNc9l9haieQE",
+        "name" : "Le Fado",
+        "locationConfidence" : 0.46657532
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 466963166,
+        "longitudeE7" : -19391479,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 463350853,
+        "longitudeE7" : -6691447,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1531591573900",
+        "endTimestampMs" : "1531653963000"
+      },
+      "distance" : 105152,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 84.87019068099015
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 11.71368577774988
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.9713494051959162
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 466963386,
+          "lngE7" : -19392491
+        }, {
+          "latE7" : 464595947,
+          "lngE7" : -8803262
+        }, {
+          "latE7" : 463351707,
+          "lngE7" : -6691446
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1531653971974",
+        "location" : {
+          "latitudeE7" : 463350849,
+          "longitudeE7" : -6691448,
+          "accuracyMetres" : 70
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 463313713,
+        "longitudeE7" : -6676285,
+        "placeId" : "ChIJpRyPfajXBkgRMqndFVIJZik",
+        "address" : "Fossé du Pavillon\n85420 Le Mazeau\nFrance",
+        "name" : "Fossé du Pavillon",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 39.152336
+      },
+      "duration" : {
+        "startTimestampMs" : "1531653963000",
+        "endTimestampMs" : "1531655502096"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 463350800,
+      "centerLngE7" : -6691400,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 463342130,
+        "longitudeE7" : -6728640,
+        "placeId" : "ChIJwVT2AgnXBkgRFZ5oF6NNGkw",
+        "name" : "Pier of the Green Venice",
+        "locationConfidence" : 32.42853
+      }, {
+        "latitudeE7" : 463244602,
+        "longitudeE7" : -6821594,
+        "placeId" : "ChIJAWsQzyfXBkgRNUTE-0dtbjw",
+        "name" : "Rigole de la Rive Droite",
+        "locationConfidence" : 15.317482
+      }, {
+        "latitudeE7" : 463216275,
+        "longitudeE7" : -5861029,
+        "placeId" : "ChIJmbRUoQTIBkgR01rESEz-5W8",
+        "name" : "Parc Naturel Régional du Marais Poitevin",
+        "locationConfidence" : 8.872741
+      }, {
+        "latitudeE7" : 463344993,
+        "longitudeE7" : -6714006,
+        "placeId" : "ChIJA-zAtgnXBkgRj2oymhQp0wA",
+        "locationConfidence" : 1.5606533
+      }, {
+        "latitudeE7" : 463367694,
+        "longitudeE7" : -6690481,
+        "placeId" : "ChIJq0D0s6DXBkgR54Rzh45wMrI",
+        "locationConfidence" : 1.3967067
+      }, {
+        "latitudeE7" : 463367107,
+        "longitudeE7" : -6695638,
+        "placeId" : "ChIJV8JcrKDXBkgRjLVGfkOQzW0",
+        "locationConfidence" : 1.2715479
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 463350848,
+        "longitudeE7" : -6691448,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 467847029,
+        "longitudeE7" : -20660611,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1531655502096",
+        "endTimestampMs" : "1531752453616"
+      },
+      "distance" : 118499,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 58.041203052246914
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 27.5640073043531
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 9.118978827689944
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 463351707,
+          "lngE7" : -6691448
+        }, {
+          "latE7" : 464338035,
+          "lngE7" : -8225076
+        }, {
+          "latE7" : 467847023,
+          "lngE7" : -20660655
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1531753000099",
+        "location" : {
+          "latitudeE7" : 467864823,
+          "longitudeE7" : -20784628,
+          "accuracyMetres" : 75
+        }
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 467847029,
+        "longitudeE7" : -20660611,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 467889460,
+        "longitudeE7" : -20839150,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1531752453616",
+        "endTimestampMs" : "1531753122567"
+      },
+      "distance" : 1710,
+      "activityType" : "CYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 97.16438072267192
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.430040295179567
+      }, {
+        "activityType" : "RUNNING",
+        "probability" : 0.16912270776661026
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 467847023,
+          "lngE7" : -20660655
+        }, {
+          "latE7" : 467889938,
+          "lngE7" : -20837991
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 467889460,
+        "longitudeE7" : -20839150,
+        "placeId" : "ChIJy_0D_XL9BEgRKJwBKYhkWek",
+        "address" : "11 Av. de l'Estacade\n85160 Saint-Jean-de-Monts\nFrance",
+        "name" : "BASE NAUTIQUE de Saint-Jean-de-Monts",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 68.801506
+      },
+      "duration" : {
+        "startTimestampMs" : "1531753122567",
+        "endTimestampMs" : "1531753749117"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 467890374,
+      "centerLngE7" : -20838109,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 467872126,
+        "longitudeE7" : -20828748,
+        "placeId" : "ChIJM8aEMnP9BEgRjRBs_xSLV7M",
+        "name" : "Estacade de Saint Jean de Monts",
+        "locationConfidence" : 16.667482
+      }, {
+        "latitudeE7" : 467900225,
+        "longitudeE7" : -20858793,
+        "placeId" : "ChIJSTP_uXP9BEgRd504m_Qgx7I",
+        "name" : "Belambra Clubs \"Les Grands Espaces\"",
+        "locationConfidence" : 6.04722
+      }, {
+        "latitudeE7" : 467881426,
+        "longitudeE7" : -20817761,
+        "placeId" : "ChIJjcT_a3P9BEgRCZTc7gPVqDE",
+        "name" : "Residence Marina 3",
+        "locationConfidence" : 3.4308038
+      }, {
+        "latitudeE7" : 467893356,
+        "longitudeE7" : -20833494,
+        "placeId" : "ChIJf_sRB3P9BEgRa2aoqFZXUcw",
+        "locationConfidence" : 1.0382216
+      }, {
+        "latitudeE7" : 467889517,
+        "longitudeE7" : -20825897,
+        "placeId" : "ChIJR3N-bnP9BEgRDNQxSHG_Pgc",
+        "name" : "Remaud Catherine",
+        "locationConfidence" : 0.82172334
+      }, {
+        "latitudeE7" : 467893356,
+        "longitudeE7" : -20833494,
+        "placeId" : "ChIJ_RnVqXP9BEgRvwHIliWfXXc",
+        "name" : "Syndicat Copropri Parking Arc En Ciel",
+        "locationConfidence" : 0.5569239
+      }, {
+        "latitudeE7" : 467893356,
+        "longitudeE7" : -20833494,
+        "placeId" : "ChIJtf0NB3P9BEgRGhvGK1lAZfI",
+        "name" : "Apartment Arc en ciel 2-2",
+        "locationConfidence" : 0.49285242
+      }, {
+        "latitudeE7" : 467891979,
+        "longitudeE7" : -20831700,
+        "placeId" : "ChIJjRDVqXP9BEgRxUpZ-zO3dOg",
+        "name" : "Syndic de Coproprietes Res Arc En Ciel",
+        "locationConfidence" : 0.46065113
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 467889460,
+        "longitudeE7" : -20839150,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 468040704,
+        "longitudeE7" : -20946220,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1531753749117",
+        "endTimestampMs" : "1531756685439"
+      },
+      "distance" : 775,
+      "activityType" : "CYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 95.89594854708955
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.586881891997303
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 0.35150387939679656
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 467915992,
+          "lngE7" : -20814049
+        }, {
+          "latE7" : 468039894,
+          "lngE7" : -20946822
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 468040704,
+        "longitudeE7" : -20946220,
+        "placeId" : "ChIJ5T-kU2D9BEgR4biuO3O-EX0",
+        "address" : "168 Rue du Moulin Casse\n85160 Saint-Jean-de-Monts\nFrance",
+        "name" : "Camping Le Fief",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 82.47048
+      },
+      "duration" : {
+        "startTimestampMs" : "1531756685439",
+        "endTimestampMs" : "1531757069131"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 468049567,
+      "centerLngE7" : -20976000,
+      "visitConfidence" : 72,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 468058410,
+        "longitudeE7" : -21010980,
+        "placeId" : "ChIJPzT-YF_9BEgRlX4h0SEPQMU",
+        "name" : "Camping Davière Beach",
+        "locationConfidence" : 7.3073196
+      }, {
+        "latitudeE7" : 468057346,
+        "longitudeE7" : -20963607,
+        "placeId" : "ChIJW1FHU2L9BEgR1fuSeYx-j3c",
+        "name" : "Les Tonnelles Loisirs SARL",
+        "locationConfidence" : 3.2479403
+      }, {
+        "latitudeE7" : 468068436,
+        "longitudeE7" : -21000285,
+        "placeId" : "ChIJW1FHU2L9BEgRUBdplUR_-HA",
+        "name" : "Restaurant la Quich'notte",
+        "locationConfidence" : 1.4752576
+      }, {
+        "latitudeE7" : 468059859,
+        "longitudeE7" : -21004770,
+        "placeId" : "ChIJIR7zgF_9BEgRnQgolQI7SLE",
+        "name" : "Séjours soleil",
+        "locationConfidence" : 1.1788102
+      }, {
+        "latitudeE7" : 468052995,
+        "longitudeE7" : -20951899,
+        "placeId" : "ChIJ0btvzGH9BEgRXG-QcU8SDXg",
+        "name" : "Le Bois Dormant Village",
+        "locationConfidence" : 0.8744013
+      }, {
+        "latitudeE7" : 468065072,
+        "longitudeE7" : -21002736,
+        "placeId" : "ChIJIR7zgF_9BEgRvnxdhCD4Fjo",
+        "name" : "Aux Pas Sages St Jean De Monts",
+        "locationConfidence" : 0.8282572
+      }, {
+        "latitudeE7" : 468057346,
+        "longitudeE7" : -20963607,
+        "placeId" : "ChIJeQaCJGD9BEgRdJ4mIOH-H30",
+        "name" : "Renault",
+        "locationConfidence" : 0.77012503
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 468040704,
+        "longitudeE7" : -20946220,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 467951336,
+        "longitudeE7" : -20438331,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1531757069131",
+        "endTimestampMs" : "1531762813000"
+      },
+      "distance" : 2334,
+      "activityType" : "CYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 83.19388781755154
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 8.843845412734934
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 5.513115591804648
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 468039894,
+          "lngE7" : -20946822
+        }, {
+          "latE7" : 467885017,
+          "lngE7" : -20639452
+        }, {
+          "latE7" : 467956085,
+          "lngE7" : -20447123
+        }, {
+          "latE7" : 467951278,
+          "lngE7" : -20436804
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 467882309,
+          "lngE7" : -20638587,
+          "timestampMs" : "1531761639766",
+          "accuracyMeters" : 92
+        }, {
+          "latE7" : 467955894,
+          "lngE7" : -20447090,
+          "timestampMs" : "1531762719000",
+          "accuracyMeters" : 10
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 467951548,
+        "longitudeE7" : -20447522,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 468916780,
+        "longitudeE7" : -9326355,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1531762813000",
+        "endTimestampMs" : "1531817298813"
+      },
+      "distance" : 94299,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 89.79151629141954
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 5.431711173327697
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.4381104126352302
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 467950859,
+          "lngE7" : -20447909
+        }, {
+          "latE7" : 467775840,
+          "lngE7" : -18769606
+        }, {
+          "latE7" : 467633934,
+          "lngE7" : -18384311
+        }, {
+          "latE7" : 468123550,
+          "lngE7" : -11974533
+        }, {
+          "latE7" : 468765182,
+          "lngE7" : -9259904
+        }, {
+          "latE7" : 468830451,
+          "lngE7" : -9105647
+        }, {
+          "latE7" : 468726921,
+          "lngE7" : -9041993
+        }, {
+          "latE7" : 468834304,
+          "lngE7" : -9102613
+        }, {
+          "latE7" : 468917808,
+          "lngE7" : -9325959
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 468829660,
+          "lngE7" : -9103499,
+          "timestampMs" : "1531814027000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 468725515,
+          "lngE7" : -9042827,
+          "timestampMs" : "1531814248000",
+          "accuracyMeters" : 10
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1531817512441",
+        "location" : {
+          "latitudeE7" : 468915671,
+          "longitudeE7" : -9331943,
+          "accuracyMetres" : 101
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 468896024,
+        "longitudeE7" : -9281158,
+        "placeId" : "ChIJq-JfYbleBkgRY6KNwxZmOEg",
+        "address" : "85590 Les Epesses\nFrance",
+        "name" : "Puy du Fou",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 99.994
+      },
+      "duration" : {
+        "startTimestampMs" : "1531817298813",
+        "endTimestampMs" : "1531840060233"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 468898842,
+      "centerLngE7" : -9309820,
+      "visitConfidence" : 84,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 468922270,
+        "longitudeE7" : -9234095,
+        "placeId" : "ChIJTQcM35BeBkgRptF6VGhbId8",
+        "locationConfidence" : 0.0059969164
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 468899898,
+          "lngE7" : -9313219,
+          "timestampMs" : "1531818216362",
+          "accuracyMeters" : 50
+        }, {
+          "latE7" : 468888545,
+          "lngE7" : -9314881,
+          "timestampMs" : "1531818362023",
+          "accuracyMeters" : 16
+        }, {
+          "latE7" : 468892152,
+          "lngE7" : -9290120,
+          "timestampMs" : "1531819084000",
+          "accuracyMeters" : 22
+        }, {
+          "latE7" : 468884549,
+          "lngE7" : -9282430,
+          "timestampMs" : "1531819176706",
+          "accuracyMeters" : 33
+        }, {
+          "latE7" : 468877164,
+          "lngE7" : -9276130,
+          "timestampMs" : "1531819332700",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 468909927,
+          "lngE7" : -9322008,
+          "timestampMs" : "1531832842000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 468927513,
+          "lngE7" : -9336299,
+          "timestampMs" : "1531833847332",
+          "accuracyMeters" : 36
+        }, {
+          "latE7" : 468921903,
+          "lngE7" : -9324874,
+          "timestampMs" : "1531837258328",
+          "accuracyMeters" : 64
+        }, {
+          "latE7" : 468915358,
+          "lngE7" : -9332522,
+          "timestampMs" : "1531837360867",
+          "accuracyMeters" : 18
+        }, {
+          "latE7" : 468889615,
+          "lngE7" : -9296030,
+          "timestampMs" : "1531837740923",
+          "accuracyMeters" : 34
+        }, {
+          "latE7" : 468896268,
+          "lngE7" : -9295230,
+          "timestampMs" : "1531838052218",
+          "accuracyMeters" : 28
+        }, {
+          "latE7" : 468891033,
+          "lngE7" : -9303056,
+          "timestampMs" : "1531838310000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 468875159,
+          "lngE7" : -9304279,
+          "timestampMs" : "1531838578000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 468879957,
+          "lngE7" : -9303501,
+          "timestampMs" : "1531839004433",
+          "accuracyMeters" : 14
+        }, {
+          "latE7" : 468884779,
+          "lngE7" : -9300660,
+          "timestampMs" : "1531839809808",
+          "accuracyMeters" : 14
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 468880630,
+        "longitudeE7" : -9304709,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 468896024,
+        "longitudeE7" : -9281158,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1531840060233",
+        "endTimestampMs" : "1531904719357"
+      },
+      "distance" : 20130,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 65.24694654995528
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 30.371874011434173
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.9774332692362225
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 468876762,
+          "lngE7" : -9307259
+        }, {
+          "latE7" : 468997344,
+          "lngE7" : -9302831
+        }, {
+          "latE7" : 468981285,
+          "lngE7" : -9345061
+        }, {
+          "latE7" : 469014739,
+          "lngE7" : -10018024
+        }, {
+          "latE7" : 468711204,
+          "lngE7" : -10147703
+        }, {
+          "latE7" : 468830451,
+          "lngE7" : -9105647
+        }, {
+          "latE7" : 468728027,
+          "lngE7" : -9027696
+        }, {
+          "latE7" : 468834304,
+          "lngE7" : -9102613
+        }, {
+          "latE7" : 468899497,
+          "lngE7" : -9287170
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 468990846,
+          "lngE7" : -9327885,
+          "timestampMs" : "1531845945000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 468710831,
+          "lngE7" : -10150747,
+          "timestampMs" : "1531901048205",
+          "accuracyMeters" : 23
+        }, {
+          "latE7" : 468727821,
+          "lngE7" : -9027783,
+          "timestampMs" : "1531901816000",
+          "accuracyMeters" : 10
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1531904719357",
+        "location" : {
+          "latitudeE7" : 468896024,
+          "longitudeE7" : -9281158,
+          "accuracyMetres" : 70
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 468896024,
+        "longitudeE7" : -9281158,
+        "placeId" : "ChIJq-JfYbleBkgRY6KNwxZmOEg",
+        "address" : "85590 Les Epesses\nFrance",
+        "name" : "Puy du Fou",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 99.993645
+      },
+      "duration" : {
+        "startTimestampMs" : "1531904719357",
+        "endTimestampMs" : "1531942680375"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 468899468,
+      "centerLngE7" : -9305215,
+      "visitConfidence" : 86,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 468922270,
+        "longitudeE7" : -9234095,
+        "placeId" : "ChIJTQcM35BeBkgRptF6VGhbId8",
+        "locationConfidence" : 0.006353299
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 468913526,
+          "lngE7" : -9327406,
+          "timestampMs" : "1531904809000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 468919749,
+          "lngE7" : -9304451,
+          "timestampMs" : "1531905011982",
+          "accuracyMeters" : 22
+        }, {
+          "latE7" : 468920902,
+          "lngE7" : -9313360,
+          "timestampMs" : "1531911294476",
+          "accuracyMeters" : 16
+        }, {
+          "latE7" : 468910813,
+          "lngE7" : -9321920,
+          "timestampMs" : "1531911711000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 468895854,
+          "lngE7" : -9305502,
+          "timestampMs" : "1531911883419",
+          "accuracyMeters" : 33
+        }, {
+          "latE7" : 468879004,
+          "lngE7" : -9294126,
+          "timestampMs" : "1531912202966",
+          "accuracyMeters" : 35
+        }, {
+          "latE7" : 468882937,
+          "lngE7" : -9290907,
+          "timestampMs" : "1531916406000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 468893178,
+          "lngE7" : -9296346,
+          "timestampMs" : "1531922051164",
+          "accuracyMeters" : 28
+        }, {
+          "latE7" : 468882552,
+          "lngE7" : -9279787,
+          "timestampMs" : "1531922198000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 468889454,
+          "lngE7" : -9300633,
+          "timestampMs" : "1531922290959",
+          "accuracyMeters" : 31
+        }, {
+          "latE7" : 468889552,
+          "lngE7" : -9289911,
+          "timestampMs" : "1531942066000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 468873672,
+          "lngE7" : -9280026,
+          "timestampMs" : "1531942110879",
+          "accuracyMeters" : 52
+        }, {
+          "latE7" : 468873000,
+          "lngE7" : -9258812,
+          "timestampMs" : "1531942302000",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 468890862,
+        "longitudeE7" : -9289062,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 467581687,
+        "longitudeE7" : -17863287,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1531942872000",
+        "endTimestampMs" : "1531955212233"
+      },
+      "distance" : 67502,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 95.43388262183493
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.611336874730231
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 0.19202743770413994
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 468899497,
+          "lngE7" : -9287170
+        }, {
+          "latE7" : 468107452,
+          "lngE7" : -12021373
+        }, {
+          "latE7" : 467582855,
+          "lngE7" : -17866078
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 467662870,
+        "longitudeE7" : -18313660,
+        "placeId" : "ChIJwRplx65TBEgRhsy32CRDTGU",
+        "address" : "Imp. des Tours\n85220 Commequiers\nFrance",
+        "name" : "Château de Commequiers",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 93.02902
+      },
+      "duration" : {
+        "startTimestampMs" : "1532257350000",
+        "endTimestampMs" : "1532257980054"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 467655767,
+      "centerLngE7" : -18317367,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 467543778,
+        "longitudeE7" : -16791249,
+        "placeId" : "ChIJ26RMWKpWBEgRvD3A_fvxX_k",
+        "name" : "La Vie",
+        "locationConfidence" : 2.5211005
+      }, {
+        "latitudeE7" : 467669432,
+        "longitudeE7" : -18338778,
+        "placeId" : "ChIJDfV2Ra9TBEgRatBvXrXwy_Y",
+        "name" : "Perrin Arnaud",
+        "locationConfidence" : 0.7039621
+      }, {
+        "latitudeE7" : 467660751,
+        "longitudeE7" : -18346066,
+        "placeId" : "ChIJB0miXK9TBEgRRmwbjfySTzI",
+        "name" : "D.f.g",
+        "locationConfidence" : 0.62557817
+      }, {
+        "latitudeE7" : 467661986,
+        "longitudeE7" : -18336700,
+        "placeId" : "ChIJ5THjO69TBEgR5wgswWktjI8",
+        "locationConfidence" : 0.56790584
+      }, {
+        "latitudeE7" : 467645136,
+        "longitudeE7" : -18314915,
+        "placeId" : "ChIJgQP8Xq5TBEgR0L1vhuX12B8",
+        "locationConfidence" : 0.48780844
+      }, {
+        "latitudeE7" : 467657467,
+        "longitudeE7" : -18352967,
+        "placeId" : "ChIJ5SEHNa9TBEgRP3llUuaUnkU",
+        "name" : "cta du chateau",
+        "locationConfidence" : 0.47826478
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 467655767,
+        "longitudeE7" : -18317367
+      },
+      "endLocation" : {
+        "latitudeE7" : 494944350,
+        "longitudeE7" : 1134970
+      },
+      "duration" : {
+        "startTimestampMs" : "1532257980054",
+        "endTimestampMs" : "1532609939000"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494954507,
+          "lngE7" : 1125431,
+          "timestampMs" : "1532609924000",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494936265,
+        "longitudeE7" : 1141732,
+        "placeId" : "ChIJPyPhZxkv4EcROjXLKHeZ-X8",
+        "address" : "32 Rue Jules Lecesne\n76600 Le Havre\nFrance",
+        "name" : "32 Rue Jules Lecesne",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 59.109135
+      },
+      "duration" : {
+        "startTimestampMs" : "1532609939000",
+        "endTimestampMs" : "1532610567342"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 494944350,
+      "centerLngE7" : 1134970,
+      "visitConfidence" : 86,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494959559,
+        "longitudeE7" : 1115995,
+        "placeId" : "ChIJJZ6KOBgv4EcRhNSXBdHBlHk",
+        "name" : "Espace Coty",
+        "locationConfidence" : 8.652711
+      }, {
+        "latitudeE7" : 494967346,
+        "longitudeE7" : 1121106,
+        "placeId" : "ChIJl3b0zRkv4EcRZVZEJUgMz9I",
+        "locationConfidence" : 7.237402
+      }, {
+        "latitudeE7" : 494955093,
+        "longitudeE7" : 1127655,
+        "placeId" : "ChIJ3VlgpRkv4EcR1TdwbP-D7Ss",
+        "name" : "Games Workshop",
+        "locationConfidence" : 0.65505755
+      }, {
+        "latitudeE7" : 494933733,
+        "longitudeE7" : 1118223,
+        "placeId" : "ChIJE8u53hgv4EcRaRdDeStmf08",
+        "name" : "HSBC",
+        "locationConfidence" : 0.6523519
+      }, {
+        "latitudeE7" : 494934334,
+        "longitudeE7" : 1142739,
+        "placeId" : "ChIJtbTLYBkv4EcRJ8NjRHabjaY",
+        "name" : "SOS Famille Emmaüs",
+        "locationConfidence" : 0.62249213
+      }, {
+        "latitudeE7" : 494925719,
+        "longitudeE7" : 1162224,
+        "placeId" : "ChIJ5Xb9yfnAwkcRAXLs0mUapdw",
+        "name" : "Express",
+        "locationConfidence" : 0.57747054
+      }, {
+        "latitudeE7" : 494960369,
+        "longitudeE7" : 1125079,
+        "placeId" : "ChIJrQ5Gthkv4EcReKoRWUh4KiQ",
+        "name" : "Clopinette cigarette électronique",
+        "locationConfidence" : 0.5029697
+      }, {
+        "latitudeE7" : 494947729,
+        "longitudeE7" : 1139129,
+        "placeId" : "ChIJ7czkdhkv4EcRffjM66yQyLo",
+        "name" : "Délégation du Havre du Departement",
+        "locationConfidence" : 0.4758587
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494936265,
+        "longitudeE7" : 1141732,
+        "placeId" : "ChIJPyPhZxkv4EcROjXLKHeZ-X8",
+        "address" : "32 Rue Jules Lecesne\n76600 Le Havre\nFrance",
+        "name" : "32 Rue Jules Lecesne",
+        "semanticType" : "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 59.109135
+      },
+      "endLocation" : {
+        "latitudeE7" : 494939564,
+        "longitudeE7" : 962335,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1532610567342",
+        "endTimestampMs" : "1532612557838"
+      },
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 91.51157274079405
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 6.027405425942732
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.7575779203149118
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494946784,
+          "lngE7" : 1134926
+        }, {
+          "latE7" : 494934844,
+          "lngE7" : 1019326
+        }, {
+          "latE7" : 494938850,
+          "lngE7" : 961690
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494938935,
+        "longitudeE7" : 960457,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494946177,
+        "longitudeE7" : 1148890,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1532612830603",
+        "endTimestampMs" : "1532640577142"
+      },
+      "distance" : 6284,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 48.371507604519664
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 42.717823968328005
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 3.696366365219627
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494939270,
+          "lngE7" : 961180
+        }, {
+          "latE7" : 494949989,
+          "lngE7" : 1053526
+        }, {
+          "latE7" : 494947128,
+          "lngE7" : 1148587
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494941291,
+        "longitudeE7" : 1141008,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494960606,
+        "longitudeE7" : 5819139,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1532642921000",
+        "endTimestampMs" : "1532720410659"
+      },
+      "distance" : 33787,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 85.67854522149739
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 9.393108869631273
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.6435280163158386
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494941139,
+          "lngE7" : 1140625
+        }, {
+          "latE7" : 494981689,
+          "lngE7" : 2239180
+        }, {
+          "latE7" : 494958801,
+          "lngE7" : 5819646
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494960606,
+        "longitudeE7" : 5819139,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 495171297,
+        "longitudeE7" : 1471380,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1532721062512",
+        "endTimestampMs" : "1532795575000"
+      },
+      "distance" : 31480,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 90.66600222048574
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 5.708213012256333
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.0803493116396823
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494958801,
+          "lngE7" : 5819646
+        }, {
+          "latE7" : 494829292,
+          "lngE7" : 3569130
+        }, {
+          "latE7" : 495170097,
+          "lngE7" : 1471793
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 495171297,
+        "longitudeE7" : 1471380,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494822458,
+        "longitudeE7" : 5849198,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1532795575000",
+        "endTimestampMs" : "1533045746000"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 495121682,
+          "lngE7" : 1389770,
+          "timestampMs" : "1532796197278",
+          "accuracyMeters" : 300
+        }, {
+          "latE7" : 494810316,
+          "lngE7" : 5849805,
+          "timestampMs" : "1533045604642",
+          "accuracyMeters" : 31
+        }, {
+          "latE7" : 494811551,
+          "lngE7" : 5842641,
+          "timestampMs" : "1533045638000",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494822458,
+        "longitudeE7" : 5849198,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494947509,
+        "longitudeE7" : 5824943,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1533045746000",
+        "endTimestampMs" : "1533047147615"
+      },
+      "distance" : 1487,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 94.58507884046513
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 4.338710584094764
+      }, {
+        "activityType" : "HIKING",
+        "probability" : 0.4026040375846936
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494822502,
+          "lngE7" : 5849115
+        }, {
+          "latE7" : 494936599,
+          "lngE7" : 5796586
+        }, {
+          "latE7" : 494946708,
+          "lngE7" : 5822315
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494928160,
+          "lngE7" : 5833534,
+          "timestampMs" : "1533046512000",
+          "accuracyMeters" : 10
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494949842,
+        "longitudeE7" : 5823907,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 494960581,
+        "longitudeE7" : 5819139,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1533047574963",
+        "endTimestampMs" : "1533047789413"
+      },
+      "distance" : 123,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 92.07906894812767
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 4.850228893537727
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.4026299617861855
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494950675,
+          "lngE7" : 5822889
+        }, {
+          "latE7" : 494954261,
+          "lngE7" : 5815271
+        }, {
+          "latE7" : 494958801,
+          "lngE7" : 5819646
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1533047945049",
+        "location" : {
+          "latitudeE7" : 494960581,
+          "longitudeE7" : 5819139,
+          "accuracyMetres" : 93
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494960632,
+        "longitudeE7" : 5819132,
+        "placeId" : "ChIJYx-hB_BQ4EcRBOaPtjHV4R4",
+        "address" : "11 Rue Roland Garros\n76330 Port-Jérôme-sur-Seine\nFrance",
+        "name" : "11 Rue Roland Garros",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 97.87227
+      },
+      "duration" : {
+        "startTimestampMs" : "1533047791315",
+        "endTimestampMs" : "1533059867928"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 494960500,
+      "centerLngE7" : 5819075,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494949460,
+        "longitudeE7" : 5777900,
+        "placeId" : "ChIJTxGOFvpQ4EcRlbytJtBeYew",
+        "name" : "Parc de la vallée du Télhuet",
+        "locationConfidence" : 0.8473057
+      }, {
+        "latitudeE7" : 494987913,
+        "longitudeE7" : 5812998,
+        "placeId" : "ChIJa9FSyvFQ4EcRzlR8S9ZxMGU",
+        "name" : "Le Télhuet",
+        "locationConfidence" : 0.5133735
+      }, {
+        "latitudeE7" : 494948368,
+        "longitudeE7" : 5797138,
+        "placeId" : "ChIJ80hq6vpQ4EcRYioyPIgQ85g",
+        "name" : "Église Notre-Dame - Paroisse Saint Denis des Marais de Seine",
+        "locationConfidence" : 0.29991248
+      }, {
+        "latitudeE7" : 494940000,
+        "longitudeE7" : 5786510,
+        "placeId" : "ChIJ-ysQT_pQ4EcR2xRsXmWX4z0",
+        "name" : "CSG Pétanque",
+        "locationConfidence" : 0.16906154
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494960500,
+        "longitudeE7" : 5819075
+      },
+      "endLocation" : {
+        "latitudeE7" : 495046815,
+        "longitudeE7" : 4920957,
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1533059867928",
+        "endTimestampMs" : "1533990560000"
+      },
+      "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494864576,
+          "lngE7" : 5702369,
+          "timestampMs" : "1533060945556",
+          "accuracyMeters" : 98
+        }, {
+          "latE7" : 494867719,
+          "lngE7" : 5717084,
+          "timestampMs" : "1533308999148",
+          "accuracyMeters" : 38
+        } ]
+      }
+    }
+  } ]
+}

@@ -1,0 +1,2060 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494960619,
+        "longitudeE7" : 1140285,
+        "placeId" : "ChIJ5_0dmhkv4EcR0xm3OQ1IJDc",
+        "address" : "2 Rue Jean Paul Sartre\n76600 Le Havre\nFrance",
+        "name" : "School François-Ier",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 91.24166
+      },
+      "duration" : {
+        "startTimestampMs" : "1584105161000",
+        "endTimestampMs" : "1584112042377"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 494960932,
+      "centerLngE7" : 1141013,
+      "visitConfidence" : 91,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494967346,
+        "longitudeE7" : 1121106,
+        "placeId" : "ChIJl3b0zRkv4EcRZVZEJUgMz9I",
+        "locationConfidence" : 6.0327997
+      }, {
+        "latitudeE7" : 494959764,
+        "longitudeE7" : 1114567,
+        "placeId" : "ChIJJZ6KOBgv4EcRhNSXBdHBlHk",
+        "locationConfidence" : 1.7886486
+      }, {
+        "latitudeE7" : 494936265,
+        "longitudeE7" : 1141732,
+        "placeId" : "ChIJqa_-lB4v4EcRUEkRFFQMEg8",
+        "locationConfidence" : 0.2262462
+      }, {
+        "latitudeE7" : 494955184,
+        "longitudeE7" : 1135895,
+        "placeId" : "ChIJ36L_mhkv4EcR_6Nkn0iHBGQ",
+        "locationConfidence" : 0.129847
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494955308,
+        "longitudeE7" : 1127830
+      },
+      "endLocation" : {
+        "latitudeE7" : 494967162,
+        "longitudeE7" : 1120756
+      },
+      "duration" : {
+        "startTimestampMs" : "1584112042377",
+        "endTimestampMs" : "1584112164402"
+      },
+      "distance" : 141,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 89.51545357704163
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 6.531529128551483
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.7711425200104713
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494955062,
+          "lngE7" : 1126661
+        }, {
+          "latE7" : 494957351,
+          "lngE7" : 1125575
+        }, {
+          "latE7" : 494967155,
+          "lngE7" : 1120691
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494967346,
+        "longitudeE7" : 1121106,
+        "placeId" : "ChIJl3b0zRkv4EcRZVZEJUgMz9I",
+        "address" : "74 Rue Maréchal Gallieni\n76600 Le Havre\nFrance",
+        "name" : "74 Rue Maréchal Gallieni",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 96.95375
+      },
+      "duration" : {
+        "startTimestampMs" : "1584112164402",
+        "endTimestampMs" : "1584118087492"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 494967542,
+      "centerLngE7" : 1121456,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494959764,
+        "longitudeE7" : 1114567,
+        "placeId" : "ChIJJZ6KOBgv4EcRhNSXBdHBlHk",
+        "locationConfidence" : 2.3131096
+      }, {
+        "latitudeE7" : 494966458,
+        "longitudeE7" : 1122438,
+        "placeId" : "ChIJofk5LRgv4EcReCZqltkLG-M",
+        "locationConfidence" : 0.36033866
+      }, {
+        "latitudeE7" : 494963762,
+        "longitudeE7" : 1124027,
+        "placeId" : "ChIJmxBeyRkv4EcRsTx4t_5CuZY",
+        "locationConfidence" : 0.15122649
+      }, {
+        "latitudeE7" : 494969011,
+        "longitudeE7" : 1120649,
+        "placeId" : "ChIJY9PT0hkv4EcRSNo0tXwlhjs",
+        "locationConfidence" : 0.13876185
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494967604,
+        "longitudeE7" : 1121635
+      },
+      "endLocation" : {
+        "latitudeE7" : 494956249,
+        "longitudeE7" : 1280982
+      },
+      "duration" : {
+        "startTimestampMs" : "1584118087492",
+        "endTimestampMs" : "1584118942063"
+      },
+      "distance" : 1301,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 92.32087731361389
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 3.211451694369316
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.927664875984192
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494967384,
+          "lngE7" : 1120567
+        }, {
+          "latE7" : 494957046,
+          "lngE7" : 1173240
+        }, {
+          "latE7" : 494961967,
+          "lngE7" : 1219089
+        }, {
+          "latE7" : 494955368,
+          "lngE7" : 1237362
+        }, {
+          "latE7" : 494958190,
+          "lngE7" : 1281078
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494962120,
+          "lngE7" : 1219073,
+          "timestampMs" : "1584118576687",
+          "accuracyMeters" : 14
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494964477,
+        "longitudeE7" : 1282725,
+        "placeId" : "ChIJRR0dlAcv4EcRM7tTG1M_vwU",
+        "address" : "25 Rue Philippe Lebon\n76600 Le Havre\nFrance",
+        "name" : "University of Le Havre",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 79.041115
+      },
+      "duration" : {
+        "startTimestampMs" : "1584118942063",
+        "endTimestampMs" : "1584120804000"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 494956698,
+          "longitudeE7" : 1281261,
+          "placeId" : "ChIJU64pTAYv4EcRcQj4wkX0qa0",
+          "address" : "25 Rue Philippe Lebon\n76600 Le Havre\nFrance",
+          "name" : "Bibliothèque Universitaire",
+          "sourceInfo" : {
+            "deviceTag" : 179057369
+          },
+          "locationConfidence" : 74.53927
+        },
+        "duration" : {
+          "startTimestampMs" : "1584118942063",
+          "endTimestampMs" : "1584120804000"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 494955950,
+        "centerLngE7" : 1279200,
+        "visitConfidence" : 90,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 494958080,
+          "longitudeE7" : 1280296,
+          "placeId" : "ChIJv281SQYv4EcR9Z5_TVVshGk",
+          "locationConfidence" : 1.0706567
+        }, {
+          "latitudeE7" : 494926680,
+          "longitudeE7" : 1247650,
+          "placeId" : "ChIJZZN0HQQv4EcRlIQt1tST-YM",
+          "locationConfidence" : 1.0405935
+        }, {
+          "latitudeE7" : 494962578,
+          "longitudeE7" : 1283984,
+          "placeId" : "ChIJZ6IiNQYv4EcRfj5_oQGuVyE",
+          "locationConfidence" : 0.87011904
+        }, {
+          "latitudeE7" : 494958484,
+          "longitudeE7" : 1262826,
+          "placeId" : "ChIJx9b0cQYv4EcRFfRyUzLcJUw",
+          "locationConfidence" : 0.542541
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 494955950,
+      "centerLngE7" : 1279200,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494955368,
+        "longitudeE7" : 1280702,
+        "placeId" : "ChIJFxM_TgYv4EcR7RHcEstH1DQ",
+        "locationConfidence" : 18.667316
+      }, {
+        "latitudeE7" : 494926680,
+        "longitudeE7" : 1247650,
+        "placeId" : "ChIJZZN0HQQv4EcRlIQt1tST-YM",
+        "locationConfidence" : 1.1034408
+      }, {
+        "latitudeE7" : 494958484,
+        "longitudeE7" : 1262826,
+        "placeId" : "ChIJx9b0cQYv4EcRFfRyUzLcJUw",
+        "locationConfidence" : 0.5753081
+      }, {
+        "latitudeE7" : 494950640,
+        "longitudeE7" : 1250740,
+        "placeId" : "ChIJsViO0QUv4EcRUq_FwfqzpMg",
+        "locationConfidence" : 0.30921727
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494957755,
+        "longitudeE7" : 1265478
+      },
+      "endLocation" : {
+        "latitudeE7" : 494893375,
+        "longitudeE7" : 1320023
+      },
+      "duration" : {
+        "startTimestampMs" : "1584120804000",
+        "endTimestampMs" : "1584121693293"
+      },
+      "distance" : 1513,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 91.84072017669678
+      }, {
+        "activityType" : "STILL",
+        "probability" : 3.835408389568329
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 1.9805552437901497
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494957695,
+          "lngE7" : 1265673
+        }, {
+          "latE7" : 494947586,
+          "lngE7" : 1257639
+        }, {
+          "latE7" : 494913597,
+          "lngE7" : 1258856
+        }, {
+          "latE7" : 494907569,
+          "lngE7" : 1262246
+        }, {
+          "latE7" : 494897994,
+          "lngE7" : 1316826
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494913368,
+          "lngE7" : 1257436,
+          "timestampMs" : "1584121201987",
+          "accuracyMeters" : 30
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494901983,
+        "longitudeE7" : 1299361,
+        "placeId" : "ChIJrWTfcAEv4EcRUNsr5CYjG9U",
+        "address" : "70 Quai Frissard\n76600 Le Havre\nFrance",
+        "name" : "Docks Vauban",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 64.88878
+      },
+      "duration" : {
+        "startTimestampMs" : "1584121693293",
+        "endTimestampMs" : "1584122179121"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 494889030,
+          "longitudeE7" : 1331119,
+          "placeId" : "ChIJB4D376ov4EcRJKdFSgNXfBw",
+          "address" : "112 Quai de la Réunion\n76600 Le Havre\nFrance",
+          "name" : "Decathlon LE HAVRE DOCKS",
+          "sourceInfo" : {
+            "deviceTag" : 179057369
+          },
+          "locationConfidence" : 43.44248
+        },
+        "duration" : {
+          "startTimestampMs" : "1584121693293",
+          "endTimestampMs" : "1584121936312"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 494890263,
+        "centerLngE7" : 1328650,
+        "visitConfidence" : 87,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 494905447,
+          "longitudeE7" : 1311101,
+          "placeId" : "ChIJx7VSaaov4EcRBfVc0Ya7GPQ",
+          "locationConfidence" : 8.020688
+        }, {
+          "latitudeE7" : 494898064,
+          "longitudeE7" : 1308734,
+          "placeId" : "ChIJteTFcwEv4EcRMynnathSs8A",
+          "locationConfidence" : 3.891457
+        }, {
+          "latitudeE7" : 494904314,
+          "longitudeE7" : 1348437,
+          "placeId" : "ChIJ9z_hrasv4EcRvI_CcJ8NXqM",
+          "locationConfidence" : 0.8740367
+        }, {
+          "latitudeE7" : 494896351,
+          "longitudeE7" : 1304121,
+          "placeId" : "ChIJ1bMhgKov4EcRkK4372R0Yzs",
+          "locationConfidence" : 0.7249797
+        }, {
+          "latitudeE7" : 494897815,
+          "longitudeE7" : 1296378,
+          "placeId" : "ChIJK_sR6wAv4EcR7QlSJ4bvbQA",
+          "locationConfidence" : 0.6526688
+        }, {
+          "latitudeE7" : 494899706,
+          "longitudeE7" : 1307411,
+          "placeId" : "ChIJsUBdUAAv4EcRsgokoeIMOVw",
+          "locationConfidence" : 0.47514093
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 494894900,
+      "centerLngE7" : 1322617,
+      "visitConfidence" : 87,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494889030,
+        "longitudeE7" : 1331119,
+        "placeId" : "ChIJB4D376ov4EcRJKdFSgNXfBw",
+        "locationConfidence" : 34.532146
+      }, {
+        "latitudeE7" : 494885064,
+        "longitudeE7" : 1311037,
+        "placeId" : "ChIJO_uIFAAv4EcRvQML7-fZJ_0",
+        "locationConfidence" : 0.48668805
+      }, {
+        "latitudeE7" : 494893230,
+        "longitudeE7" : 1340380,
+        "placeId" : "ChIJBbpWu9ov4EcRFCaV2ChSnyY",
+        "locationConfidence" : 0.027230103
+      }, {
+        "latitudeE7" : 494887010,
+        "longitudeE7" : 1311750,
+        "placeId" : "ChIJHSonnqov4EcRMwvwuju8_yo",
+        "locationConfidence" : 0.025283838
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494893375,
+          "lngE7" : 1320023,
+          "timestampMs" : "1584121693293",
+          "accuracyMeters" : 94
+        }, {
+          "latE7" : 494885304,
+          "lngE7" : 1329295,
+          "timestampMs" : "1584121899922",
+          "accuracyMeters" : 150
+        }, {
+          "latE7" : 494893747,
+          "lngE7" : 1331746,
+          "timestampMs" : "1584122057083",
+          "accuracyMeters" : 100
+        }, {
+          "latE7" : 494902105,
+          "lngE7" : 1316051,
+          "timestampMs" : "1584122143868",
+          "accuracyMeters" : 150
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494899954,
+        "longitudeE7" : 1310842
+      },
+      "endLocation" : {
+        "latitudeE7" : 494966170,
+        "longitudeE7" : 1120372
+      },
+      "duration" : {
+        "startTimestampMs" : "1584122179121",
+        "endTimestampMs" : "1584123641213"
+      },
+      "distance" : 1999,
+      "activityType" : "WALKING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 84.57606434822083
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 9.609702229499817
+      }, {
+        "activityType" : "STILL",
+        "probability" : 3.132336586713791
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494899711,
+          "lngE7" : 1310873
+        }, {
+          "latE7" : 494907569,
+          "lngE7" : 1262246
+        }, {
+          "latE7" : 494916076,
+          "lngE7" : 1257459
+        }, {
+          "latE7" : 494944190,
+          "lngE7" : 1254981
+        }, {
+          "latE7" : 494957466,
+          "lngE7" : 1244888
+        }, {
+          "latE7" : 494955368,
+          "lngE7" : 1237362
+        }, {
+          "latE7" : 494958190,
+          "lngE7" : 1226074
+        }, {
+          "latE7" : 494957046,
+          "lngE7" : 1173240
+        }, {
+          "latE7" : 494966316,
+          "lngE7" : 1121117
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494915504,
+          "lngE7" : 1255661,
+          "timestampMs" : "1584122546081",
+          "accuracyMeters" : 28
+        }, {
+          "latE7" : 494957771,
+          "lngE7" : 1244690,
+          "timestampMs" : "1584123032366",
+          "accuracyMeters" : 23
+        }, {
+          "latE7" : 494958191,
+          "lngE7" : 1225961,
+          "timestampMs" : "1584123153437",
+          "accuracyMeters" : 13
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494959764,
+        "longitudeE7" : 1114567,
+        "placeId" : "ChIJJZ6KOBgv4EcRhNSXBdHBlHk",
+        "address" : "22 Rue Casimir Périer\n76600 Le Havre\nFrance",
+        "name" : "COTY",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 78.52563
+      },
+      "duration" : {
+        "startTimestampMs" : "1584123641213",
+        "endTimestampMs" : "1584127153517"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 494969459,
+          "longitudeE7" : 1115814,
+          "placeId" : "ChIJhzaW1SMv4EcR0cMd37lHPDg",
+          "address" : "Centre commercial Coty\nAv. René Coty\n76600 Le Havre\nFrance",
+          "name" : "McDonald's",
+          "sourceInfo" : {
+            "deviceTag" : 179057369
+          },
+          "locationConfidence" : 36.637665
+        },
+        "duration" : {
+          "startTimestampMs" : "1584123883605",
+          "endTimestampMs" : "1584124889743"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 494970107,
+        "centerLngE7" : 1114109,
+        "visitConfidence" : 90,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 494957559,
+          "longitudeE7" : 1118107,
+          "placeId" : "ChIJbSvm_y8u4EcRaOnxXjTocM4",
+          "locationConfidence" : 7.8968735
+        }, {
+          "latitudeE7" : 494967323,
+          "longitudeE7" : 1114030,
+          "placeId" : "ChIJyyp3WBgv4EcRFXIS-nb6CeQ",
+          "locationConfidence" : 6.62979
+        }, {
+          "latitudeE7" : 494969100,
+          "longitudeE7" : 1112485,
+          "placeId" : "ChIJeXPnwwEv4EcRmUJrqcC3Grc",
+          "locationConfidence" : 4.143069
+        }, {
+          "latitudeE7" : 494971325,
+          "longitudeE7" : 1112998,
+          "placeId" : "ChIJd1W3KBgv4EcRk8DYzLqa-yQ",
+          "locationConfidence" : 0.56093603
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 494969603,
+      "centerLngE7" : 1115076,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494967346,
+        "longitudeE7" : 1121106,
+        "placeId" : "ChIJl3b0zRkv4EcRZVZEJUgMz9I",
+        "locationConfidence" : 19.759834
+      }, {
+        "latitudeE7" : 494979264,
+        "longitudeE7" : 1116332,
+        "placeId" : "ChIJGZDAEaYv4EcRcxMBrk0H20s",
+        "locationConfidence" : 0.51586574
+      }, {
+        "latitudeE7" : 494963762,
+        "longitudeE7" : 1124027,
+        "placeId" : "ChIJmxBeyRkv4EcRsTx4t_5CuZY",
+        "locationConfidence" : 0.50324696
+      }, {
+        "latitudeE7" : 494969581,
+        "longitudeE7" : 1120909,
+        "placeId" : "ChIJ2xL_tRkv4EcRFsU4wucDVT4",
+        "locationConfidence" : 0.35934564
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494968539,
+          "lngE7" : 1119609,
+          "timestampMs" : "1584123762386",
+          "accuracyMeters" : 14
+        }, {
+          "latE7" : 494975374,
+          "lngE7" : 1116713,
+          "timestampMs" : "1584126911463",
+          "accuracyMeters" : 15
+        }, {
+          "latE7" : 494973114,
+          "lngE7" : 1109126,
+          "timestampMs" : "1584127031993",
+          "accuracyMeters" : 116
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494970168,
+        "longitudeE7" : 1110910
+      },
+      "endLocation" : {
+        "latitudeE7" : 494951360,
+        "longitudeE7" : 5820963
+      },
+      "duration" : {
+        "startTimestampMs" : "1584127153517",
+        "endTimestampMs" : "1584129485678"
+      },
+      "distance" : 34291,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 92.06432104110718
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 6.086806580424309
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.3932042047381401
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494970130,
+          "lngE7" : 1110714
+        }, {
+          "latE7" : 494749679,
+          "lngE7" : 4596495
+        }, {
+          "latE7" : 494950904,
+          "lngE7" : 5819888
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1584129623089",
+        "location" : {
+          "latitudeE7" : 494958912,
+          "longitudeE7" : 5819262,
+          "accuracyMetres" : 39
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494960970,
+        "longitudeE7" : 5818368,
+        "placeId" : "ChIJYx-hB_BQ4EcRBOaPtjHV4R4",
+        "address" : "11 Rue Roland Garros\n76330 Port-Jérôme-sur-Seine\nFrance",
+        "name" : "11 Rue Roland Garros",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 98.08014
+      },
+      "duration" : {
+        "startTimestampMs" : "1584129485678",
+        "endTimestampMs" : "1584199569316"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 494959948,
+      "centerLngE7" : 5818995,
+      "visitConfidence" : 89,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494987913,
+        "longitudeE7" : 5812998,
+        "placeId" : "ChIJa9FSyvFQ4EcRzlR8S9ZxMGU",
+        "locationConfidence" : 0.8155392
+      }, {
+        "latitudeE7" : 494948368,
+        "longitudeE7" : 5797138,
+        "placeId" : "ChIJ80hq6vpQ4EcRYioyPIgQ85g",
+        "locationConfidence" : 0.45707023
+      }, {
+        "latitudeE7" : 494954840,
+        "longitudeE7" : 5818260,
+        "placeId" : "ChIJWYayr_pQ4EcRXRLkTNls5JQ",
+        "locationConfidence" : 0.22922847
+      }, {
+        "latitudeE7" : 494940000,
+        "longitudeE7" : 5786510,
+        "placeId" : "ChIJ-ysQT_pQ4EcR2xRsXmWX4z0",
+        "locationConfidence" : 0.13484234
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494958156,
+        "longitudeE7" : 5821239
+      },
+      "endLocation" : {
+        "latitudeE7" : 494977650,
+        "longitudeE7" : 1115146
+      },
+      "duration" : {
+        "startTimestampMs" : "1584199569316",
+        "endTimestampMs" : "1584202393000"
+      },
+      "distance" : 34395,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 93.50213408470154
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.6040417850017548
+      }, {
+        "activityType" : "STILL",
+        "probability" : 0.8004519157111645
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494958877,
+          "lngE7" : 5820040
+        }, {
+          "latE7" : 494763069,
+          "lngE7" : 4638423
+        }, {
+          "latE7" : 495049591,
+          "lngE7" : 1990574
+        }, {
+          "latE7" : 495036544,
+          "lngE7" : 1925936
+        }, {
+          "latE7" : 494999847,
+          "lngE7" : 1271414
+        }, {
+          "latE7" : 494999351,
+          "lngE7" : 1247033
+        }, {
+          "latE7" : 494977760,
+          "lngE7" : 1115842
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 495049667,
+          "lngE7" : 1990523,
+          "timestampMs" : "1584201472634",
+          "accuracyMeters" : 13
+        }, {
+          "latE7" : 495000267,
+          "lngE7" : 1273310,
+          "timestampMs" : "1584202181000",
+          "accuracyMeters" : 4
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1584202705907",
+        "location" : {
+          "latitudeE7" : 494969051,
+          "longitudeE7" : 1120047,
+          "accuracyMetres" : 26
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494967346,
+        "longitudeE7" : 1121106,
+        "placeId" : "ChIJl3b0zRkv4EcRZVZEJUgMz9I",
+        "address" : "74 Rue Maréchal Gallieni\n76600 Le Havre\nFrance",
+        "name" : "74 Rue Maréchal Gallieni",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 75.91199
+      },
+      "duration" : {
+        "startTimestampMs" : "1584202393000",
+        "endTimestampMs" : "1584203790147"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 494970092,
+      "centerLngE7" : 1118708,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494959764,
+        "longitudeE7" : 1114567,
+        "placeId" : "ChIJJZ6KOBgv4EcRhNSXBdHBlHk",
+        "locationConfidence" : 13.2326975
+      }, {
+        "latitudeE7" : 494979264,
+        "longitudeE7" : 1116332,
+        "placeId" : "ChIJGZDAEaYv4EcRcxMBrk0H20s",
+        "locationConfidence" : 4.1444426
+      }, {
+        "latitudeE7" : 494969581,
+        "longitudeE7" : 1120909,
+        "placeId" : "ChIJ2xL_tRkv4EcRFsU4wucDVT4",
+        "locationConfidence" : 2.3545628
+      }, {
+        "latitudeE7" : 494979680,
+        "longitudeE7" : 1148320,
+        "placeId" : "ChIJm7AQrRAv4EcRERQQir2BWDM",
+        "locationConfidence" : 1.4111733
+      }, {
+        "latitudeE7" : 494963762,
+        "longitudeE7" : 1124027,
+        "placeId" : "ChIJmxBeyRkv4EcRsTx4t_5CuZY",
+        "locationConfidence" : 1.3622502
+      }, {
+        "latitudeE7" : 494974382,
+        "longitudeE7" : 1135919,
+        "placeId" : "ChIJF5N1AJOhDEERRVFkBV3Inok",
+        "locationConfidence" : 0.811044
+      }, {
+        "latitudeE7" : 494969011,
+        "longitudeE7" : 1120649,
+        "placeId" : "ChIJY9PT0hkv4EcRSNo0tXwlhjs",
+        "locationConfidence" : 0.5518387
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494971508,
+        "longitudeE7" : 1115477
+      },
+      "endLocation" : {
+        "latitudeE7" : 494884977,
+        "longitudeE7" : 1313086
+      },
+      "duration" : {
+        "startTimestampMs" : "1584203790147",
+        "endTimestampMs" : "1584204543020"
+      },
+      "distance" : 2098,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 73.56468439102173
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 14.487805962562561
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 9.194338321685791
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494971160,
+          "lngE7" : 1115982
+        }, {
+          "latE7" : 494945716,
+          "lngE7" : 1114014
+        }, {
+          "latE7" : 494935913,
+          "lngE7" : 1156304
+        }, {
+          "latE7" : 494916343,
+          "lngE7" : 1326705
+        }, {
+          "latE7" : 494911079,
+          "lngE7" : 1305129
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494935875,
+          "lngE7" : 1156300,
+          "timestampMs" : "1584204126000",
+          "accuracyMeters" : 7
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1584204496521",
+        "location" : {
+          "latitudeE7" : 494899879,
+          "longitudeE7" : 1314738,
+          "accuracyMetres" : 108
+        }
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494884977,
+        "longitudeE7" : 1313086
+      },
+      "endLocation" : {
+        "latitudeE7" : 494902273,
+        "longitudeE7" : 1309495
+      },
+      "duration" : {
+        "startTimestampMs" : "1584204543020",
+        "endTimestampMs" : "1584204665185"
+      },
+      "distance" : 194,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 49.0182101726532
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 46.73125743865967
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 2.7338994666934013
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494886054,
+          "lngE7" : 1312475
+        }, {
+          "latE7" : 494900856,
+          "lngE7" : 1316497
+        }, {
+          "latE7" : 494899711,
+          "lngE7" : 1310873
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494901983,
+        "longitudeE7" : 1299361,
+        "placeId" : "ChIJrWTfcAEv4EcRUNsr5CYjG9U",
+        "address" : "70 Quai Frissard\n76600 Le Havre\nFrance",
+        "name" : "Docks Vauban",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 99.96728
+      },
+      "duration" : {
+        "startTimestampMs" : "1584204665185",
+        "endTimestampMs" : "1584209192739"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 494905447,
+          "longitudeE7" : 1311101,
+          "placeId" : "ChIJx7VSaaov4EcRBfVc0Ya7GPQ",
+          "address" : "centre commercial Docks Vauban\n76600 Le Havre\nFrance",
+          "name" : "Gaumont Docks Vauban",
+          "sourceInfo" : {
+            "deviceTag" : 179057369
+          },
+          "locationConfidence" : 24.097692
+        },
+        "duration" : {
+          "startTimestampMs" : "1584204665185",
+          "endTimestampMs" : "1584204907239"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 494905443,
+        "centerLngE7" : 1305785,
+        "visitConfidence" : 93,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 494905669,
+          "longitudeE7" : 1300595,
+          "placeId" : "ChIJ1SrIkwAv4EcRcZzBiNDN8Tw",
+          "locationConfidence" : 21.203222
+        }, {
+          "latitudeE7" : 494906938,
+          "longitudeE7" : 1305019,
+          "placeId" : "ChIJwcY95x0v4EcRHmoxXO6IJfE",
+          "locationConfidence" : 15.979455
+        }, {
+          "latitudeE7" : 494909590,
+          "longitudeE7" : 1308584,
+          "placeId" : "ChIJNeUR6wAv4EcRntL5mYKX7rU",
+          "locationConfidence" : 7.1478267
+        }, {
+          "latitudeE7" : 494902522,
+          "longitudeE7" : 1311070,
+          "placeId" : "ChIJD9cznQAv4EcRaNrsm3z4e6Y",
+          "locationConfidence" : 4.8180656
+        }, {
+          "latitudeE7" : 494901934,
+          "longitudeE7" : 1307161,
+          "placeId" : "ChIJxfhT8AAv4EcROWlQJNlbc00",
+          "locationConfidence" : 2.5989697
+        }, {
+          "latitudeE7" : 494904442,
+          "longitudeE7" : 1298523,
+          "placeId" : "ChIJrWTfcAEv4EcRObMilK_FwnE",
+          "locationConfidence" : 1.8344187
+        }, {
+          "latitudeE7" : 494906499,
+          "longitudeE7" : 1308772,
+          "placeId" : "ChIJrWTfcAEv4EcRnl_HFFY3Nas",
+          "locationConfidence" : 1.2479085
+        }, {
+          "latitudeE7" : 494898648,
+          "longitudeE7" : 1281237,
+          "placeId" : "ChIJoUY8cQEv4EcR_GsHcnVmjp4",
+          "locationConfidence" : 0.9290758
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      }, {
+        "location" : {
+          "latitudeE7" : 494906938,
+          "longitudeE7" : 1305019,
+          "placeId" : "ChIJwcY95x0v4EcRHmoxXO6IJfE",
+          "address" : "70 Quai Frissard\n76600 Le Havre\nFrance",
+          "name" : "Accrosport",
+          "sourceInfo" : {
+            "deviceTag" : 179057369
+          },
+          "locationConfidence" : 39.129322
+        },
+        "duration" : {
+          "startTimestampMs" : "1584205028113",
+          "endTimestampMs" : "1584207062098"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 494907154,
+        "centerLngE7" : 1304533,
+        "visitConfidence" : 93,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 494905669,
+          "longitudeE7" : 1300595,
+          "placeId" : "ChIJ1SrIkwAv4EcRcZzBiNDN8Tw",
+          "locationConfidence" : 15.942033
+        }, {
+          "latitudeE7" : 494905447,
+          "longitudeE7" : 1311101,
+          "placeId" : "ChIJx7VSaaov4EcRBfVc0Ya7GPQ",
+          "locationConfidence" : 13.46401
+        }, {
+          "latitudeE7" : 494909590,
+          "longitudeE7" : 1308584,
+          "placeId" : "ChIJNeUR6wAv4EcRntL5mYKX7rU",
+          "locationConfidence" : 7.417652
+        }, {
+          "latitudeE7" : 494906499,
+          "longitudeE7" : 1308772,
+          "placeId" : "ChIJrWTfcAEv4EcRnl_HFFY3Nas",
+          "locationConfidence" : 2.0367227
+        }, {
+          "latitudeE7" : 494904442,
+          "longitudeE7" : 1298523,
+          "placeId" : "ChIJrWTfcAEv4EcRObMilK_FwnE",
+          "locationConfidence" : 1.9394184
+        }, {
+          "latitudeE7" : 494902522,
+          "longitudeE7" : 1311070,
+          "placeId" : "ChIJD9cznQAv4EcRaNrsm3z4e6Y",
+          "locationConfidence" : 1.6330369
+        }, {
+          "latitudeE7" : 494899535,
+          "longitudeE7" : 1297300,
+          "placeId" : "ChIJp2XfcAEv4EcRdsIz0iKMFWI",
+          "locationConfidence" : 1.3108631
+        }, {
+          "latitudeE7" : 494901934,
+          "longitudeE7" : 1307161,
+          "placeId" : "ChIJxfhT8AAv4EcROWlQJNlbc00",
+          "locationConfidence" : 1.2787843
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      }, {
+        "location" : {
+          "latitudeE7" : 494905669,
+          "longitudeE7" : 1300595,
+          "placeId" : "ChIJ1SrIkwAv4EcRcZzBiNDN8Tw",
+          "address" : "70 Quai Frissard\n76600 Le Havre\nFrance",
+          "name" : "ZARA",
+          "sourceInfo" : {
+            "deviceTag" : 179057369
+          },
+          "locationConfidence" : 20.954939
+        },
+        "duration" : {
+          "startTimestampMs" : "1584207436096",
+          "endTimestampMs" : "1584208174968"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 494907252,
+        "centerLngE7" : 1304616,
+        "visitConfidence" : 93,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 494906938,
+          "longitudeE7" : 1305019,
+          "placeId" : "ChIJwcY95x0v4EcRHmoxXO6IJfE",
+          "locationConfidence" : 20.731602
+        }, {
+          "latitudeE7" : 494905447,
+          "longitudeE7" : 1311101,
+          "placeId" : "ChIJx7VSaaov4EcRBfVc0Ya7GPQ",
+          "locationConfidence" : 20.325418
+        }, {
+          "latitudeE7" : 494909590,
+          "longitudeE7" : 1308584,
+          "placeId" : "ChIJNeUR6wAv4EcRntL5mYKX7rU",
+          "locationConfidence" : 11.546589
+        }, {
+          "latitudeE7" : 494906499,
+          "longitudeE7" : 1308772,
+          "placeId" : "ChIJrWTfcAEv4EcRnl_HFFY3Nas",
+          "locationConfidence" : 2.4716208
+        }, {
+          "latitudeE7" : 494902522,
+          "longitudeE7" : 1311070,
+          "placeId" : "ChIJD9cznQAv4EcRaNrsm3z4e6Y",
+          "locationConfidence" : 1.4903212
+        }, {
+          "latitudeE7" : 494904442,
+          "longitudeE7" : 1298523,
+          "placeId" : "ChIJrWTfcAEv4EcRObMilK_FwnE",
+          "locationConfidence" : 1.4147469
+        }, {
+          "latitudeE7" : 494901934,
+          "longitudeE7" : 1307161,
+          "placeId" : "ChIJxfhT8AAv4EcROWlQJNlbc00",
+          "locationConfidence" : 0.93088764
+        }, {
+          "latitudeE7" : 494898648,
+          "longitudeE7" : 1281237,
+          "placeId" : "ChIJoUY8cQEv4EcR_GsHcnVmjp4",
+          "locationConfidence" : 0.72759473
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      }, {
+        "location" : {
+          "latitudeE7" : 494906938,
+          "longitudeE7" : 1305019,
+          "placeId" : "ChIJwcY95x0v4EcRHmoxXO6IJfE",
+          "address" : "70 Quai Frissard\n76600 Le Havre\nFrance",
+          "name" : "Accrosport",
+          "sourceInfo" : {
+            "deviceTag" : 179057369
+          },
+          "locationConfidence" : 36.034912
+        },
+        "duration" : {
+          "startTimestampMs" : "1584208343279",
+          "endTimestampMs" : "1584208464219"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 494906995,
+        "centerLngE7" : 1306092,
+        "visitConfidence" : 93,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 494905669,
+          "longitudeE7" : 1300595,
+          "placeId" : "ChIJ1SrIkwAv4EcRcZzBiNDN8Tw",
+          "locationConfidence" : 17.066607
+        }, {
+          "latitudeE7" : 494905447,
+          "longitudeE7" : 1311101,
+          "placeId" : "ChIJx7VSaaov4EcRBfVc0Ya7GPQ",
+          "locationConfidence" : 13.931762
+        }, {
+          "latitudeE7" : 494909590,
+          "longitudeE7" : 1308584,
+          "placeId" : "ChIJNeUR6wAv4EcRntL5mYKX7rU",
+          "locationConfidence" : 6.9583154
+        }, {
+          "latitudeE7" : 494901934,
+          "longitudeE7" : 1307161,
+          "placeId" : "ChIJxfhT8AAv4EcROWlQJNlbc00",
+          "locationConfidence" : 4.141857
+        }, {
+          "latitudeE7" : 494902522,
+          "longitudeE7" : 1311070,
+          "placeId" : "ChIJD9cznQAv4EcRaNrsm3z4e6Y",
+          "locationConfidence" : 3.9213312
+        }, {
+          "latitudeE7" : 494904442,
+          "longitudeE7" : 1298523,
+          "placeId" : "ChIJrWTfcAEv4EcRObMilK_FwnE",
+          "locationConfidence" : 2.5923698
+        }, {
+          "latitudeE7" : 494899535,
+          "longitudeE7" : 1297300,
+          "placeId" : "ChIJp2XfcAEv4EcRdsIz0iKMFWI",
+          "locationConfidence" : 2.1893535
+        }, {
+          "latitudeE7" : 494906499,
+          "longitudeE7" : 1308772,
+          "placeId" : "ChIJrWTfcAEv4EcRnl_HFFY3Nas",
+          "locationConfidence" : 2.0341182
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      }, {
+        "location" : {
+          "latitudeE7" : 494904442,
+          "longitudeE7" : 1298523,
+          "placeId" : "ChIJrWTfcAEv4EcRObMilK_FwnE",
+          "address" : "70 Quai Frissard\n76600 Le Havre\nFrance",
+          "name" : "PLEIN CIEL",
+          "sourceInfo" : {
+            "deviceTag" : 179057369
+          },
+          "locationConfidence" : 21.53276
+        },
+        "duration" : {
+          "startTimestampMs" : "1584208827990",
+          "endTimestampMs" : "1584209192739"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 494901023,
+        "centerLngE7" : 1303152,
+        "visitConfidence" : 93,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 494905669,
+          "longitudeE7" : 1300595,
+          "placeId" : "ChIJ1SrIkwAv4EcRcZzBiNDN8Tw",
+          "locationConfidence" : 18.835365
+        }, {
+          "latitudeE7" : 494901934,
+          "longitudeE7" : 1307161,
+          "placeId" : "ChIJxfhT8AAv4EcROWlQJNlbc00",
+          "locationConfidence" : 17.03392
+        }, {
+          "latitudeE7" : 494899535,
+          "longitudeE7" : 1297300,
+          "placeId" : "ChIJp2XfcAEv4EcRdsIz0iKMFWI",
+          "locationConfidence" : 10.421038
+        }, {
+          "latitudeE7" : 494905447,
+          "longitudeE7" : 1311101,
+          "placeId" : "ChIJx7VSaaov4EcRBfVc0Ya7GPQ",
+          "locationConfidence" : 7.486843
+        }, {
+          "latitudeE7" : 494899810,
+          "longitudeE7" : 1304609,
+          "placeId" : "ChIJOyP4HAEv4EcRZhyOufCIRXU",
+          "locationConfidence" : 3.1894276
+        }, {
+          "latitudeE7" : 494902522,
+          "longitudeE7" : 1311070,
+          "placeId" : "ChIJD9cznQAv4EcRaNrsm3z4e6Y",
+          "locationConfidence" : 1.2132949
+        }, {
+          "latitudeE7" : 494896351,
+          "longitudeE7" : 1304121,
+          "placeId" : "ChIJ1bMhgKov4EcRkK4372R0Yzs",
+          "locationConfidence" : 1.128673
+        }, {
+          "latitudeE7" : 494899823,
+          "longitudeE7" : 1298511,
+          "placeId" : "ChIJ_WwEjAAv4EcRb_XVMDzHh-g",
+          "locationConfidence" : 1.0846394
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 494906792,
+      "centerLngE7" : 1305169,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494923692,
+        "longitudeE7" : 1299787,
+        "placeId" : "ChIJn7TCVvEv4EcRzw9ppoPeSKM",
+        "locationConfidence" : 0.007536606
+      }, {
+        "latitudeE7" : 494929914,
+        "longitudeE7" : 1303849,
+        "placeId" : "ChIJgwAvTgcv4EcRkOzc6YHC5cA",
+        "locationConfidence" : 0.006873918
+      }, {
+        "latitudeE7" : 494912310,
+        "longitudeE7" : 1308620,
+        "placeId" : "ChIJz01dkgIv4EcR_u7btcQfSQs",
+        "locationConfidence" : 0.004883453
+      }, {
+        "latitudeE7" : 494889030,
+        "longitudeE7" : 1331119,
+        "placeId" : "ChIJB4D376ov4EcRJKdFSgNXfBw",
+        "locationConfidence" : 0.0027523362
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494902273,
+          "lngE7" : 1309495,
+          "timestampMs" : "1584204665185",
+          "accuracyMeters" : 15
+        }, {
+          "latE7" : 494906942,
+          "lngE7" : 1304322,
+          "timestampMs" : "1584205270943",
+          "accuracyMeters" : 59
+        }, {
+          "latE7" : 494900929,
+          "lngE7" : 1302426,
+          "timestampMs" : "1584209071563",
+          "accuracyMeters" : 83
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494899886,
+        "longitudeE7" : 1302977
+      },
+      "endLocation" : {
+        "latitudeE7" : 494891742,
+        "longitudeE7" : 1386652
+      },
+      "duration" : {
+        "startTimestampMs" : "1584209192739",
+        "endTimestampMs" : "1584209677215"
+      },
+      "distance" : 661,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 53.10739874839783
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 40.93858599662781
+      }, {
+        "activityType" : "STILL",
+        "probability" : 2.149074710905552
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494897232,
+          "lngE7" : 1301261
+        }, {
+          "latE7" : 494878616,
+          "lngE7" : 1378435
+        }, {
+          "latE7" : 494894752,
+          "lngE7" : 1390344
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494885888,
+        "longitudeE7" : 1389457,
+        "placeId" : "ChIJnSos6Kwv4EcRVZzqCgiqAwE",
+        "address" : "17 Rue Ferrer Cs 60880\n76600 Le Havre\nFrance",
+        "name" : "Pôle emploi - Le Havre Ferrer",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 28.59744
+      },
+      "duration" : {
+        "startTimestampMs" : "1584209677215",
+        "endTimestampMs" : "1584209964616"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "centerLatE7" : 494888733,
+      "centerLngE7" : 1386433,
+      "visitConfidence" : 83,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494904895,
+        "longitudeE7" : 1414003,
+        "placeId" : "ChIJeTm6k60v4EcR-AuqQCklhto",
+        "locationConfidence" : 18.057228
+      }, {
+        "latitudeE7" : 494891914,
+        "longitudeE7" : 1377523,
+        "placeId" : "ChIJr_yKu6wv4EcRsrAkuL-vGWA",
+        "locationConfidence" : 15.293694
+      }, {
+        "latitudeE7" : 494876554,
+        "longitudeE7" : 1364593,
+        "placeId" : "ChIJG41wsFQu4EcR7NDJrxgg1t0",
+        "locationConfidence" : 14.229683
+      }, {
+        "latitudeE7" : 494894272,
+        "longitudeE7" : 1373308,
+        "placeId" : "ChIJT-1rBK0v4EcRELJhBxcAEsE",
+        "locationConfidence" : 12.854173
+      }, {
+        "latitudeE7" : 494897279,
+        "longitudeE7" : 1410892,
+        "placeId" : "ChIJb9q0D60v4EcRCaJ6BmXBdr8",
+        "locationConfidence" : 3.8278937
+      }, {
+        "latitudeE7" : 494883959,
+        "longitudeE7" : 1370689,
+        "placeId" : "ChIJc5FttQUv4EcR7TgO_X1FhKU",
+        "locationConfidence" : 2.235034
+      }, {
+        "latitudeE7" : 494921850,
+        "longitudeE7" : 1377600,
+        "placeId" : "ChIJP3Iep64v4EcRS7--k08zhyU",
+        "locationConfidence" : 1.7220076
+      }, {
+        "latitudeE7" : 494900690,
+        "longitudeE7" : 1369506,
+        "placeId" : "ChIJR6V7gasv4EcRQlnBZmApXWY",
+        "locationConfidence" : 1.3465675
+      }, {
+        "latitudeE7" : 494882185,
+        "longitudeE7" : 1385178,
+        "placeId" : "ChIJf-C6V6wv4EcRvdJgLjmJbyo",
+        "locationConfidence" : 1.0389919
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494889075,
+        "longitudeE7" : 1390918
+      },
+      "endLocation" : {
+        "latitudeE7" : 494900145,
+        "longitudeE7" : 1311045
+      },
+      "duration" : {
+        "startTimestampMs" : "1584209964616",
+        "endTimestampMs" : "1584211189811"
+      },
+      "distance" : 4026,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 74.30416345596313
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 19.829411804676056
+      }, {
+        "activityType" : "STILL",
+        "probability" : 2.758876420557499
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494887847,
+          "lngE7" : 1393616
+        }, {
+          "latE7" : 494916877,
+          "lngE7" : 1329520
+        }, {
+          "latE7" : 494902610,
+          "lngE7" : 1192002
+        }, {
+          "latE7" : 494925880,
+          "lngE7" : 1187833
+        }, {
+          "latE7" : 494925880,
+          "lngE7" : 1187833
+        }, {
+          "latE7" : 494952774,
+          "lngE7" : 1128512
+        }, {
+          "latE7" : 494967689,
+          "lngE7" : 1120397
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494903374,
+          "lngE7" : 1195277,
+          "timestampMs" : "1584210362027",
+          "accuracyMeters" : 15
+        }, {
+          "latE7" : 494925117,
+          "lngE7" : 1188080,
+          "timestampMs" : "1584210422286",
+          "accuracyMeters" : 31
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1584211267698",
+        "location" : {
+          "latitudeE7" : 494899149,
+          "longitudeE7" : 1303982,
+          "accuracyMetres" : 85
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494901983,
+        "longitudeE7" : 1299361,
+        "placeId" : "ChIJrWTfcAEv4EcRUNsr5CYjG9U",
+        "address" : "70 Quai Frissard\n76600 Le Havre\nFrance",
+        "name" : "Docks Vauban",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 99.76902
+      },
+      "duration" : {
+        "startTimestampMs" : "1584211189811",
+        "endTimestampMs" : "1584217043729"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 494902522,
+          "longitudeE7" : 1311070,
+          "placeId" : "ChIJD9cznQAv4EcRaNrsm3z4e6Y",
+          "address" : "70 Quai Frissard\n76600 Le Havre\nFrance",
+          "name" : "Micromania",
+          "sourceInfo" : {
+            "deviceTag" : 179057369
+          },
+          "locationConfidence" : 22.553995
+        },
+        "duration" : {
+          "startTimestampMs" : "1584211189811",
+          "endTimestampMs" : "1584211695292"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 494902926,
+        "centerLngE7" : 1310214,
+        "visitConfidence" : 93,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 494901934,
+          "longitudeE7" : 1307161,
+          "placeId" : "ChIJxfhT8AAv4EcROWlQJNlbc00",
+          "locationConfidence" : 19.51354
+        }, {
+          "latitudeE7" : 494905669,
+          "longitudeE7" : 1300595,
+          "placeId" : "ChIJ1SrIkwAv4EcRcZzBiNDN8Tw",
+          "locationConfidence" : 18.295044
+        }, {
+          "latitudeE7" : 494901655,
+          "longitudeE7" : 1311205,
+          "placeId" : "ChIJB4BSnQAv4EcR_KXkQ_ouVdQ",
+          "locationConfidence" : 17.447128
+        }, {
+          "latitudeE7" : 494905447,
+          "longitudeE7" : 1311101,
+          "placeId" : "ChIJx7VSaaov4EcRBfVc0Ya7GPQ",
+          "locationConfidence" : 14.523756
+        }, {
+          "latitudeE7" : 494904442,
+          "longitudeE7" : 1298523,
+          "placeId" : "ChIJrWTfcAEv4EcRObMilK_FwnE",
+          "locationConfidence" : 1.2152685
+        }, {
+          "latitudeE7" : 494898648,
+          "longitudeE7" : 1281237,
+          "placeId" : "ChIJoUY8cQEv4EcR_GsHcnVmjp4",
+          "locationConfidence" : 1.0165268
+        }, {
+          "latitudeE7" : 494899535,
+          "longitudeE7" : 1297300,
+          "placeId" : "ChIJp2XfcAEv4EcRdsIz0iKMFWI",
+          "locationConfidence" : 0.77709943
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      }, {
+        "location" : {
+          "latitudeE7" : 494905447,
+          "longitudeE7" : 1311101,
+          "placeId" : "ChIJx7VSaaov4EcRBfVc0Ya7GPQ",
+          "address" : "centre commercial Docks Vauban\n76600 Le Havre\nFrance",
+          "name" : "Gaumont Docks Vauban",
+          "sourceInfo" : {
+            "deviceTag" : 179057369
+          },
+          "locationConfidence" : 19.79228
+        },
+        "duration" : {
+          "startTimestampMs" : "1584211816469",
+          "endTimestampMs" : "1584216714882"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 494899930,
+        "centerLngE7" : 1313593,
+        "visitConfidence" : 93,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 494901655,
+          "longitudeE7" : 1311205,
+          "placeId" : "ChIJB4BSnQAv4EcR_KXkQ_ouVdQ",
+          "locationConfidence" : 17.740469
+        }, {
+          "latitudeE7" : 494898064,
+          "longitudeE7" : 1308734,
+          "placeId" : "ChIJteTFcwEv4EcRMynnathSs8A",
+          "locationConfidence" : 17.184692
+        }, {
+          "latitudeE7" : 494902522,
+          "longitudeE7" : 1311070,
+          "placeId" : "ChIJD9cznQAv4EcRaNrsm3z4e6Y",
+          "locationConfidence" : 15.812476
+        }, {
+          "latitudeE7" : 494904442,
+          "longitudeE7" : 1298523,
+          "placeId" : "ChIJGTr2KEYv4EcR-2y9tfGDXUU",
+          "locationConfidence" : 14.384707
+        }, {
+          "latitudeE7" : 494899706,
+          "longitudeE7" : 1307411,
+          "placeId" : "ChIJsUBdUAAv4EcRsgokoeIMOVw",
+          "locationConfidence" : 2.6821983
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 494899945,
+      "centerLngE7" : 1313761,
+      "visitConfidence" : 93,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494885064,
+        "longitudeE7" : 1311037,
+        "placeId" : "ChIJO_uIFAAv4EcRvQML7-fZJ_0",
+        "locationConfidence" : 0.12912877
+      }, {
+        "latitudeE7" : 494889030,
+        "longitudeE7" : 1331119,
+        "placeId" : "ChIJB4D376ov4EcRJKdFSgNXfBw",
+        "locationConfidence" : 0.08569917
+      }, {
+        "latitudeE7" : 494896351,
+        "longitudeE7" : 1304121,
+        "placeId" : "ChIJT9DcYgAv4EcRMFQq9c24Fd0",
+        "locationConfidence" : 0.0030141878
+      }, {
+        "latitudeE7" : 494893230,
+        "longitudeE7" : 1340380,
+        "placeId" : "ChIJBbpWu9ov4EcRFCaV2ChSnyY",
+        "locationConfidence" : 0.0026759775
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494903350,
+          "lngE7" : 1305756,
+          "timestampMs" : "1584211432160",
+          "accuracyMeters" : 27
+        }, {
+          "latE7" : 494902802,
+          "lngE7" : 1313004,
+          "timestampMs" : "1584211695292",
+          "accuracyMeters" : 26
+        }, {
+          "latE7" : 494897676,
+          "lngE7" : 1313907,
+          "timestampMs" : "1584216838101",
+          "accuracyMeters" : 38
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494899571,
+        "longitudeE7" : 1322420
+      },
+      "endLocation" : {
+        "latitudeE7" : 494960713,
+        "longitudeE7" : 5819125
+      },
+      "duration" : {
+        "startTimestampMs" : "1584217043729",
+        "endTimestampMs" : "1584220979060"
+      },
+      "distance" : 32503,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 91.91551208496094
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 5.056324973702431
+      }, {
+        "activityType" : "STILL",
+        "probability" : 2.0411908626556396
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494902496,
+          "lngE7" : 1334092
+        }, {
+          "latE7" : 494749679,
+          "lngE7" : 4596495
+        }, {
+          "latE7" : 494958877,
+          "lngE7" : 5820040
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1584220804547",
+        "location" : {
+          "latitudeE7" : 494960302,
+          "longitudeE7" : 5819420,
+          "accuracyMetres" : 122
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494960970,
+        "longitudeE7" : 5818368,
+        "placeId" : "ChIJYx-hB_BQ4EcRBOaPtjHV4R4",
+        "address" : "11 Rue Roland Garros\n76330 Port-Jérôme-sur-Seine\nFrance",
+        "name" : "11 Rue Roland Garros",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 98.117325
+      },
+      "duration" : {
+        "startTimestampMs" : "1584220979060",
+        "endTimestampMs" : "1584271672967"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 494960208,
+      "centerLngE7" : 5818914,
+      "visitConfidence" : 85,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494987913,
+        "longitudeE7" : 5812998,
+        "placeId" : "ChIJa9FSyvFQ4EcRzlR8S9ZxMGU",
+        "locationConfidence" : 1.0261838
+      }, {
+        "latitudeE7" : 494948368,
+        "longitudeE7" : 5797138,
+        "placeId" : "ChIJ80hq6vpQ4EcRYioyPIgQ85g",
+        "locationConfidence" : 0.3992605
+      }, {
+        "latitudeE7" : 494954840,
+        "longitudeE7" : 5818260,
+        "placeId" : "ChIJWYayr_pQ4EcRXRLkTNls5JQ",
+        "locationConfidence" : 0.23964849
+      }, {
+        "latitudeE7" : 494940000,
+        "longitudeE7" : 5786510,
+        "placeId" : "ChIJ-ysQT_pQ4EcR2xRsXmWX4z0",
+        "locationConfidence" : 0.10229718
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494960334,
+        "longitudeE7" : 5818918
+      },
+      "endLocation" : {
+        "latitudeE7" : 494934086,
+        "longitudeE7" : 5795901
+      },
+      "duration" : {
+        "startTimestampMs" : "1584271672967",
+        "endTimestampMs" : "1584271801886"
+      },
+      "distance" : 335,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 57.55781531333923
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 22.478055953979492
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 13.510684669017792
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494958763,
+          "lngE7" : 5819360
+        }, {
+          "latE7" : 494935226,
+          "lngE7" : 5794945
+        }, {
+          "latE7" : 494934349,
+          "lngE7" : 5795950
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1584271864385",
+        "location" : {
+          "latitudeE7" : 494933953,
+          "longitudeE7" : 5796186,
+          "accuracyMetres" : 77
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494949460,
+        "longitudeE7" : 5777900,
+        "placeId" : "ChIJTxGOFvpQ4EcRlbytJtBeYew",
+        "address" : "6 Allée Notre Dame\n76330 Port-Jérôme-sur-Seine\nFrance",
+        "name" : "Parc de la vallée du Télhuet",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 49.043915
+      },
+      "duration" : {
+        "startTimestampMs" : "1584271801886",
+        "endTimestampMs" : "1584272772835"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 494926667,
+      "centerLngE7" : 5798800,
+      "visitConfidence" : 79,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494930176,
+        "longitudeE7" : 5805040,
+        "placeId" : "ChIJ6eClqvtQ4EcRMAwJVcMWfvM",
+        "locationConfidence" : 20.50319
+      }, {
+        "latitudeE7" : 494948368,
+        "longitudeE7" : 5797138,
+        "placeId" : "ChIJ80hq6vpQ4EcRYioyPIgQ85g",
+        "locationConfidence" : 9.23092
+      }, {
+        "latitudeE7" : 494924290,
+        "longitudeE7" : 5794406,
+        "placeId" : "ChIJ4xdyWWdR4EcRZ51DQRtI7_0",
+        "locationConfidence" : 6.884309
+      }, {
+        "latitudeE7" : 494987913,
+        "longitudeE7" : 5812998,
+        "placeId" : "ChIJa9FSyvFQ4EcRzlR8S9ZxMGU",
+        "locationConfidence" : 5.448282
+      }, {
+        "latitudeE7" : 494874724,
+        "longitudeE7" : 5770065,
+        "placeId" : "ChIJc0coq_tQ4EcRVhVNqxTzvPY",
+        "locationConfidence" : 3.2520442
+      }, {
+        "latitudeE7" : 494919310,
+        "longitudeE7" : 5831950,
+        "placeId" : "ChIJTadtueRQ4EcRBE7g9hg00Oc",
+        "locationConfidence" : 1.9213539
+      }, {
+        "latitudeE7" : 494940000,
+        "longitudeE7" : 5786510,
+        "placeId" : "ChIJ-ysQT_pQ4EcR2xRsXmWX4z0",
+        "locationConfidence" : 1.0034814
+      }, {
+        "latitudeE7" : 494967960,
+        "longitudeE7" : 5784128,
+        "placeId" : "ChIJPcoAl_BQ4EcR6dMNhqQ6X0I",
+        "locationConfidence" : 0.93485886
+      }, {
+        "latitudeE7" : 494935544,
+        "longitudeE7" : 5787027,
+        "placeId" : "ChIJMV4fTfpQ4EcRDxV_5vNxTTk",
+        "locationConfidence" : 0.886966
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494932024,
+        "longitudeE7" : 5800329
+      },
+      "endLocation" : {
+        "latitudeE7" : 494960334,
+        "longitudeE7" : 5818918
+      },
+      "duration" : {
+        "startTimestampMs" : "1584272772835",
+        "endTimestampMs" : "1584272894004"
+      },
+      "distance" : 342,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 63.8680636882782
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 16.43398255109787
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 13.221655786037445
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494931869,
+          "lngE7" : 5800788
+        }, {
+          "latE7" : 494936599,
+          "lngE7" : 5796586
+        }, {
+          "latE7" : 494958763,
+          "lngE7" : 5819360
+        } ]
+      },
+      "parkingEvent" : {
+        "timestampMs" : "1584272997219",
+        "location" : {
+          "latitudeE7" : 494960178,
+          "longitudeE7" : 5818970,
+          "accuracyMetres" : 110
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494960970,
+        "longitudeE7" : 5818368,
+        "placeId" : "ChIJYx-hB_BQ4EcRBOaPtjHV4R4",
+        "address" : "11 Rue Roland Garros\n76330 Port-Jérôme-sur-Seine\nFrance",
+        "name" : "11 Rue Roland Garros",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 91.548615
+      },
+      "duration" : {
+        "startTimestampMs" : "1584272894004",
+        "endTimestampMs" : "1584282426955"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 494959879,
+      "centerLngE7" : 5818750,
+      "visitConfidence" : 79,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494930176,
+        "longitudeE7" : 5805040,
+        "placeId" : "ChIJ6eClqvtQ4EcRMAwJVcMWfvM",
+        "locationConfidence" : 6.0581627
+      }, {
+        "latitudeE7" : 494987913,
+        "longitudeE7" : 5812998,
+        "placeId" : "ChIJa9FSyvFQ4EcRzlR8S9ZxMGU",
+        "locationConfidence" : 1.2373371
+      }, {
+        "latitudeE7" : 494948368,
+        "longitudeE7" : 5797138,
+        "placeId" : "ChIJ80hq6vpQ4EcRYioyPIgQ85g",
+        "locationConfidence" : 0.5312998
+      }, {
+        "latitudeE7" : 494954840,
+        "longitudeE7" : 5818260,
+        "placeId" : "ChIJWYayr_pQ4EcRXRLkTNls5JQ",
+        "locationConfidence" : 0.24549244
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 494960034,
+        "longitudeE7" : 5818411
+      },
+      "endLocation" : {
+        "latitudeE7" : 494959244,
+        "longitudeE7" : 5817059
+      },
+      "duration" : {
+        "startTimestampMs" : "1584282426955",
+        "endTimestampMs" : "1584283766291"
+      },
+      "distance" : 13,
+      "activityType" : "CYCLING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 69.74541544914246
+      }, {
+        "activityType" : "STILL",
+        "probability" : 12.360596656799316
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 8.654121309518814
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494958724,
+          "lngE7" : 5818786
+        }, {
+          "latE7" : 494958572,
+          "lngE7" : 5818244
+        }, {
+          "latE7" : 494958419,
+          "lngE7" : 5817735
+        } ]
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494960970,
+        "longitudeE7" : 5818368,
+        "placeId" : "ChIJYx-hB_BQ4EcRBOaPtjHV4R4",
+        "address" : "11 Rue Roland Garros\n76330 Port-Jérôme-sur-Seine\nFrance",
+        "name" : "11 Rue Roland Garros",
+        "sourceInfo" : {
+          "deviceTag" : 179057369
+        },
+        "locationConfidence" : 98.36099
+      },
+      "duration" : {
+        "startTimestampMs" : "1584283766291",
+        "endTimestampMs" : "1584398641533"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 494960115,
+      "centerLngE7" : 5818842,
+      "visitConfidence" : 85,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494987913,
+        "longitudeE7" : 5812998,
+        "placeId" : "ChIJa9FSyvFQ4EcRzlR8S9ZxMGU",
+        "locationConfidence" : 0.86463577
+      }, {
+        "latitudeE7" : 494948368,
+        "longitudeE7" : 5797138,
+        "placeId" : "ChIJ80hq6vpQ4EcRYioyPIgQ85g",
+        "locationConfidence" : 0.30109584
+      }, {
+        "latitudeE7" : 494954840,
+        "longitudeE7" : 5818260,
+        "placeId" : "ChIJWYayr_pQ4EcRXRLkTNls5JQ",
+        "locationConfidence" : 0.22649223
+      }, {
+        "latitudeE7" : 494940000,
+        "longitudeE7" : 5786510,
+        "placeId" : "ChIJ-ysQT_pQ4EcR2xRsXmWX4z0",
+        "locationConfidence" : 0.11206149
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}

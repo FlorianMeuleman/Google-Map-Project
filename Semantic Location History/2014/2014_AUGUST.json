@@ -1,0 +1,1456 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494975092,
+        "longitudeE7" : 5678002,
+        "placeId" : "ChIJmy4EuVlQ4EcRSyR7-kpxtyM",
+        "locationConfidence" : 99.98954
+      },
+      "duration" : {
+        "startTimestampMs" : "1407011999258",
+        "endTimestampMs" : "1407070715902"
+      },
+      "centerLatE7" : 494974659,
+      "centerLngE7" : 5677999,
+      "visitConfidence" : 80,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcRxmpmbHobpMs",
+        "name" : "Transport 3 D",
+        "locationConfidence" : 0.0048128203
+      }, {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcReDiWaOs5wIQ",
+        "name" : "Transports 3D",
+        "locationConfidence" : 0.0017690631
+      }, {
+        "latitudeE7" : 494965149,
+        "longitudeE7" : 5679164,
+        "placeId" : "ChIJD-1Q0FlQ4EcR5y_klTTeeXg",
+        "name" : "Exxon Mobil Sports et Loisirs",
+        "locationConfidence" : 0.001420326
+      }, {
+        "latitudeE7" : 494955669,
+        "longitudeE7" : 5688473,
+        "placeId" : "ChIJfWI-g1dQ4EcRYTkJZkyWyv8",
+        "name" : "Rosay Dumouchel Marie Francoise",
+        "locationConfidence" : 6.6033436E-4
+      }, {
+        "latitudeE7" : 494950807,
+        "longitudeE7" : 5688644,
+        "placeId" : "ChIJN097mVdQ4EcRgXtAGNblbPQ",
+        "name" : "Foyer des Sports",
+        "locationConfidence" : 6.0565583E-4
+      }, {
+        "latitudeE7" : 494954150,
+        "longitudeE7" : 5691560,
+        "placeId" : "ChIJbXO0mldQ4EcRFtDgxaNdBV4",
+        "name" : "Club Sportif De Gravenchon",
+        "locationConfidence" : 5.083869E-4
+      }, {
+        "latitudeE7" : 494961967,
+        "longitudeE7" : 5685439,
+        "placeId" : "ChIJCUIjK1hQ4EcRxL0D_ErIfzA",
+        "name" : "Chauveau Grandin Jeanine",
+        "locationConfidence" : 3.4578622E-4
+      }, {
+        "latitudeE7" : 494964869,
+        "longitudeE7" : 5642745,
+        "placeId" : "ChIJ1Q7kcVpQ4EcR6ORWBa5ewWI",
+        "name" : "Meslet Yolande",
+        "locationConfidence" : 3.3695708E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494975092,
+        "longitudeE7" : 5678002,
+        "placeId" : "ChIJmy4EuVlQ4EcRSyR7-kpxtyM",
+        "locationConfidence" : 99.98632
+      },
+      "duration" : {
+        "startTimestampMs" : "1407075967578",
+        "endTimestampMs" : "1407077950760"
+      },
+      "centerLatE7" : 494974969,
+      "centerLngE7" : 5678306,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcRxmpmbHobpMs",
+        "name" : "Transport 3 D",
+        "locationConfidence" : 0.0047993264
+      }, {
+        "latitudeE7" : 494950807,
+        "longitudeE7" : 5688644,
+        "placeId" : "ChIJN097mVdQ4EcRgXtAGNblbPQ",
+        "name" : "Foyer des Sports",
+        "locationConfidence" : 0.0037124457
+      }, {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcReDiWaOs5wIQ",
+        "name" : "Transports 3D",
+        "locationConfidence" : 0.0018424755
+      }, {
+        "latitudeE7" : 494965149,
+        "longitudeE7" : 5679164,
+        "placeId" : "ChIJD-1Q0FlQ4EcR5y_klTTeeXg",
+        "name" : "Exxon Mobil Sports et Loisirs",
+        "locationConfidence" : 0.0010902847
+      }, {
+        "latitudeE7" : 494961967,
+        "longitudeE7" : 5685439,
+        "placeId" : "ChIJCUIjK1hQ4EcRxL0D_ErIfzA",
+        "name" : "Chauveau Grandin Jeanine",
+        "locationConfidence" : 8.198008E-4
+      }, {
+        "latitudeE7" : 494955669,
+        "longitudeE7" : 5688473,
+        "placeId" : "ChIJfWI-g1dQ4EcRYTkJZkyWyv8",
+        "name" : "Rosay Dumouchel Marie Francoise",
+        "locationConfidence" : 6.361546E-4
+      }, {
+        "latitudeE7" : 494954150,
+        "longitudeE7" : 5691560,
+        "placeId" : "ChIJbXO0mldQ4EcRFtDgxaNdBV4",
+        "name" : "Club Sportif De Gravenchon",
+        "locationConfidence" : 4.7859017E-4
+      }, {
+        "latitudeE7" : 494964869,
+        "longitudeE7" : 5642745,
+        "placeId" : "ChIJ1Q7kcVpQ4EcR6ORWBa5ewWI",
+        "name" : "Meslet Yolande",
+        "locationConfidence" : 3.0129196E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494975092,
+        "longitudeE7" : 5678002,
+        "placeId" : "ChIJmy4EuVlQ4EcRSyR7-kpxtyM",
+        "locationConfidence" : 99.98972
+      },
+      "duration" : {
+        "startTimestampMs" : "1407179785997",
+        "endTimestampMs" : "1407180539507"
+      },
+      "centerLatE7" : 494974969,
+      "centerLngE7" : 5677708,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcRxmpmbHobpMs",
+        "name" : "Transport 3 D",
+        "locationConfidence" : 0.0036735756
+      }, {
+        "latitudeE7" : 494950807,
+        "longitudeE7" : 5688644,
+        "placeId" : "ChIJN097mVdQ4EcRgXtAGNblbPQ",
+        "name" : "Foyer des Sports",
+        "locationConfidence" : 0.0034534005
+      }, {
+        "latitudeE7" : 494965149,
+        "longitudeE7" : 5679164,
+        "placeId" : "ChIJD-1Q0FlQ4EcR5y_klTTeeXg",
+        "name" : "Exxon Mobil Sports et Loisirs",
+        "locationConfidence" : 7.648558E-4
+      }, {
+        "latitudeE7" : 494961967,
+        "longitudeE7" : 5685439,
+        "placeId" : "ChIJCUIjK1hQ4EcRxL0D_ErIfzA",
+        "name" : "Chauveau Grandin Jeanine",
+        "locationConfidence" : 6.4350606E-4
+      }, {
+        "latitudeE7" : 494955669,
+        "longitudeE7" : 5688473,
+        "placeId" : "ChIJfWI-g1dQ4EcRYTkJZkyWyv8",
+        "name" : "Rosay Dumouchel Marie Francoise",
+        "locationConfidence" : 5.527994E-4
+      }, {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcReDiWaOs5wIQ",
+        "name" : "Transports 3D",
+        "locationConfidence" : 4.6248172E-4
+      }, {
+        "latitudeE7" : 494954150,
+        "longitudeE7" : 5691560,
+        "placeId" : "ChIJbXO0mldQ4EcRFtDgxaNdBV4",
+        "name" : "Club Sportif De Gravenchon",
+        "locationConfidence" : 4.2584172E-4
+      }, {
+        "latitudeE7" : 494964869,
+        "longitudeE7" : 5642745,
+        "placeId" : "ChIJ1Q7kcVpQ4EcR6ORWBa5ewWI",
+        "name" : "Meslet Yolande",
+        "locationConfidence" : 2.972071E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494975092,
+        "longitudeE7" : 5678002,
+        "placeId" : "ChIJmy4EuVlQ4EcRSyR7-kpxtyM",
+        "locationConfidence" : 99.98139
+      },
+      "duration" : {
+        "startTimestampMs" : "1407781369841",
+        "endTimestampMs" : "1407784229200"
+      },
+      "centerLatE7" : 494974700,
+      "centerLngE7" : 5677213,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcRxmpmbHobpMs",
+        "name" : "Transport 3 D",
+        "locationConfidence" : 0.0065087695
+      }, {
+        "latitudeE7" : 494950807,
+        "longitudeE7" : 5688644,
+        "placeId" : "ChIJN097mVdQ4EcRgXtAGNblbPQ",
+        "name" : "Foyer des Sports",
+        "locationConfidence" : 0.004891408
+      }, {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcReDiWaOs5wIQ",
+        "name" : "Transports 3D",
+        "locationConfidence" : 0.002543086
+      }, {
+        "latitudeE7" : 494965149,
+        "longitudeE7" : 5679164,
+        "placeId" : "ChIJD-1Q0FlQ4EcR5y_klTTeeXg",
+        "name" : "Exxon Mobil Sports et Loisirs",
+        "locationConfidence" : 0.0017030697
+      }, {
+        "latitudeE7" : 494961967,
+        "longitudeE7" : 5685439,
+        "placeId" : "ChIJCUIjK1hQ4EcRxL0D_ErIfzA",
+        "name" : "Chauveau Grandin Jeanine",
+        "locationConfidence" : 0.0010714148
+      }, {
+        "latitudeE7" : 494955669,
+        "longitudeE7" : 5688473,
+        "placeId" : "ChIJfWI-g1dQ4EcRYTkJZkyWyv8",
+        "name" : "Rosay Dumouchel Marie Francoise",
+        "locationConfidence" : 8.3320006E-4
+      }, {
+        "latitudeE7" : 494954150,
+        "longitudeE7" : 5691560,
+        "placeId" : "ChIJbXO0mldQ4EcRFtDgxaNdBV4",
+        "name" : "Club Sportif De Gravenchon",
+        "locationConfidence" : 6.230311E-4
+      }, {
+        "latitudeE7" : 494964869,
+        "longitudeE7" : 5642745,
+        "placeId" : "ChIJ1Q7kcVpQ4EcR6ORWBa5ewWI",
+        "name" : "Meslet Yolande",
+        "locationConfidence" : 4.3392633E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 494975092,
+        "longitudeE7" : 5678002,
+        "placeId" : "ChIJmy4EuVlQ4EcRSyR7-kpxtyM",
+        "locationConfidence" : 99.98315
+      },
+      "duration" : {
+        "startTimestampMs" : "1407937420803",
+        "endTimestampMs" : "1407938545520"
+      },
+      "centerLatE7" : 494974912,
+      "centerLngE7" : 5678280,
+      "visitConfidence" : 78,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcRxmpmbHobpMs",
+        "name" : "Transport 3 D",
+        "locationConfidence" : 0.004900167
+      }, {
+        "latitudeE7" : 494965149,
+        "longitudeE7" : 5679164,
+        "placeId" : "ChIJD-1Q0FlQ4EcR5y_klTTeeXg",
+        "name" : "Exxon Mobil Sports et Loisirs",
+        "locationConfidence" : 0.003957515
+      }, {
+        "latitudeE7" : 494950807,
+        "longitudeE7" : 5688644,
+        "placeId" : "ChIJN097mVdQ4EcRgXtAGNblbPQ",
+        "name" : "Foyer des Sports",
+        "locationConfidence" : 0.0038212878
+      }, {
+        "latitudeE7" : 494976253,
+        "longitudeE7" : 5658135,
+        "placeId" : "ChIJjx8R31lQ4EcReDiWaOs5wIQ",
+        "name" : "Transports 3D",
+        "locationConfidence" : 0.001885132
+      }, {
+        "latitudeE7" : 494961967,
+        "longitudeE7" : 5685439,
+        "placeId" : "ChIJCUIjK1hQ4EcRxL0D_ErIfzA",
+        "name" : "Chauveau Grandin Jeanine",
+        "locationConfidence" : 8.437795E-4
+      }, {
+        "latitudeE7" : 494955669,
+        "longitudeE7" : 5688473,
+        "placeId" : "ChIJfWI-g1dQ4EcRYTkJZkyWyv8",
+        "name" : "Rosay Dumouchel Marie Francoise",
+        "locationConfidence" : 6.4953696E-4
+      }, {
+        "latitudeE7" : 494954150,
+        "longitudeE7" : 5691560,
+        "placeId" : "ChIJbXO0mldQ4EcRFtDgxaNdBV4",
+        "name" : "Club Sportif De Gravenchon",
+        "locationConfidence" : 4.884428E-4
+      }, {
+        "latitudeE7" : 494964869,
+        "longitudeE7" : 5642745,
+        "placeId" : "ChIJ1Q7kcVpQ4EcR6ORWBa5ewWI",
+        "name" : "Meslet Yolande",
+        "locationConfidence" : 3.0699672E-4
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1407999646739",
+        "endTimestampMs" : "1407999828818"
+      },
+      "distance" : 983,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494975738,
+          "lngE7" : 5676615
+        }, {
+          "latE7" : 494929733,
+          "lngE7" : 5655164
+        }, {
+          "latE7" : 494938240,
+          "lngE7" : 5694528
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494930649,
+          "lngE7" : 5655364,
+          "timestampMs" : "1407999737850",
+          "accuracyMeters" : 30
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1408000101028",
+        "endTimestampMs" : "1408003031814"
+      },
+      "distance" : 46193,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 494939842,
+          "lngE7" : 5695030
+        }, {
+          "latE7" : 494887619,
+          "lngE7" : 5669425
+        }, {
+          "latE7" : 494824600,
+          "lngE7" : 5790452
+        }, {
+          "latE7" : 495036392,
+          "lngE7" : 6696503
+        }, {
+          "latE7" : 495286979,
+          "lngE7" : 7531753
+        }, {
+          "latE7" : 492996101,
+          "lngE7" : 8744583
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 494889030,
+          "lngE7" : 5670809,
+          "timestampMs" : "1408000190992",
+          "accuracyMeters" : 12
+        }, {
+          "latE7" : 494825020,
+          "lngE7" : 5790939,
+          "timestampMs" : "1408000327158",
+          "accuracyMeters" : 13
+        }, {
+          "latE7" : 495036316,
+          "lngE7" : 6696829,
+          "timestampMs" : "1408000787978",
+          "accuracyMeters" : 39
+        }, {
+          "latE7" : 495286407,
+          "lngE7" : 7533471,
+          "timestampMs" : "1408001334055",
+          "accuracyMeters" : 32
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1408003490992",
+        "endTimestampMs" : "1408010210329"
+      },
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 492995910,
+          "lngE7" : 8744812
+        }, {
+          "latE7" : 492894515,
+          "lngE7" : 10010313
+        }, {
+          "latE7" : 492852401,
+          "lngE7" : 10086257
+        }, {
+          "latE7" : 491497764,
+          "lngE7" : 9050567
+        }, {
+          "latE7" : 491484298,
+          "lngE7" : 9005724
+        }, {
+          "latE7" : 491193313,
+          "lngE7" : 9108781
+        }, {
+          "latE7" : 489599151,
+          "lngE7" : 9425570
+        }, {
+          "latE7" : 489577255,
+          "lngE7" : 9439461
+        }, {
+          "latE7" : 487379646,
+          "lngE7" : 9203009
+        }, {
+          "latE7" : 486919059,
+          "lngE7" : 10707186
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 492893753,
+          "lngE7" : 10008852,
+          "timestampMs" : "1408004484251",
+          "accuracyMeters" : 18
+        }, {
+          "latE7" : 492852859,
+          "lngE7" : 10086730,
+          "timestampMs" : "1408004664267",
+          "accuracyMeters" : 12
+        }, {
+          "latE7" : 491497078,
+          "lngE7" : 9050818,
+          "timestampMs" : "1408005996771",
+          "accuracyMeters" : 20
+        }, {
+          "latE7" : 491484184,
+          "lngE7" : 9008748,
+          "timestampMs" : "1408006087111",
+          "accuracyMeters" : 12
+        }, {
+          "latE7" : 491193199,
+          "lngE7" : 9108060,
+          "timestampMs" : "1408006313874",
+          "accuracyMeters" : 13
+        }, {
+          "latE7" : 489599113,
+          "lngE7" : 9426326,
+          "timestampMs" : "1408007554953",
+          "accuracyMeters" : 16
+        }, {
+          "latE7" : 489575806,
+          "lngE7" : 9440414,
+          "timestampMs" : "1408007736927",
+          "accuracyMeters" : 47
+        }, {
+          "latE7" : 487380371,
+          "lngE7" : 9200807,
+          "timestampMs" : "1408009011718",
+          "accuracyMeters" : 14
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 486909540,
+        "longitudeE7" : 10737660,
+        "placeId" : "ChIJbfIeLkvg40cRD8bjE__BsCQ",
+        "address" : "5 Rue Saint-Jean\n28270 Brezolles\nFrance",
+        "name" : "Spar",
+        "locationConfidence" : 14.5310335
+      },
+      "duration" : {
+        "startTimestampMs" : "1408010210329",
+        "endTimestampMs" : "1408012531257"
+      },
+      "centerLatE7" : 486918227,
+      "centerLngE7" : 10707496,
+      "visitConfidence" : 74,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 486906298,
+        "longitudeE7" : 10736230,
+        "placeId" : "ChIJFffgNkvg40cR_xrHyzRwDUs",
+        "name" : "Sci Gilles Immobilier",
+        "locationConfidence" : 10.57796
+      }, {
+        "latitudeE7" : 486913966,
+        "longitudeE7" : 10717154,
+        "placeId" : "ChIJt5YNAUvg40cRr1vuUTT2JoU",
+        "name" : "Syndicat d'Eau",
+        "locationConfidence" : 7.011121
+      }, {
+        "latitudeE7" : 486913966,
+        "longitudeE7" : 10717154,
+        "placeId" : "ChIJt5YNAUvg40cRmibKdaOdUiY",
+        "name" : "Siadep Région Brezolle",
+        "locationConfidence" : 7.011121
+      }, {
+        "latitudeE7" : 486918209,
+        "longitudeE7" : 10722864,
+        "placeId" : "ChIJQRSC40rg40cRNTa8g5VddQE",
+        "name" : "Reverse Lalandre Eliane",
+        "locationConfidence" : 4.827321
+      }, {
+        "latitudeE7" : 486906078,
+        "longitudeE7" : 10735983,
+        "placeId" : "ChIJazIeN0vg40cRcvrFTS88lvw",
+        "name" : "Agence De La Halle",
+        "locationConfidence" : 4.6910377
+      }, {
+        "latitudeE7" : 486912787,
+        "longitudeE7" : 10718421,
+        "placeId" : "ChIJOV24HEvg40cRC-pV3J7ptGo",
+        "name" : "La Compagnie Du Petit Loir",
+        "locationConfidence" : 4.654079
+      }, {
+        "latitudeE7" : 486915856,
+        "longitudeE7" : 10723917,
+        "placeId" : "ChIJAxF24krg40cRzr8aPeaChKI",
+        "name" : "Louis Grineiser Sophie",
+        "locationConfidence" : 4.192164
+      }, {
+        "latitudeE7" : 486904690,
+        "longitudeE7" : 10738647,
+        "placeId" : "ChIJaUzsNEvg40cRJPKjPwBSUzU",
+        "name" : "Agence Groupama Brezolles",
+        "locationConfidence" : 3.9726372
+      }, {
+        "latitudeE7" : 486900737,
+        "longitudeE7" : 10732428,
+        "placeId" : "ChIJ1ULYRkvg40cRX_aq2TW2Q5Y",
+        "name" : "CITY PIZZA",
+        "locationConfidence" : 3.6709397
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 486909540,
+        "longitudeE7" : 10737660,
+        "placeId" : "ChIJbfIeLkvg40cRD8bjE__BsCQ",
+        "address" : "5 Rue Saint-Jean\n28270 Brezolles\nFrance",
+        "name" : "Spar",
+        "locationConfidence" : 14.5310335
+      },
+      "endLocation" : {
+        "latitudeE7" : 480703422,
+        "longitudeE7" : 24309052,
+        "placeId" : "ChIJrZeznMuf5UcRuqc0NkenRu4",
+        "address" : "14 Pl. du Marché\n45340 Beaune-la-Rolande\nFrance",
+        "name" : "Café de la Place",
+        "locationConfidence" : 23.781464
+      },
+      "duration" : {
+        "startTimestampMs" : "1408012551420",
+        "endTimestampMs" : "1408020485907"
+      },
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 486915283,
+          "lngE7" : 10709655
+        }, {
+          "latE7" : 484541702,
+          "lngE7" : 14588789
+        }, {
+          "latE7" : 484534873,
+          "lngE7" : 14545060
+        }, {
+          "latE7" : 484109230,
+          "lngE7" : 15197376
+        }, {
+          "latE7" : 481862602,
+          "lngE7" : 19281044
+        }, {
+          "latE7" : 481686820,
+          "lngE7" : 19959002
+        }, {
+          "latE7" : 481693000,
+          "lngE7" : 22294383
+        }, {
+          "latE7" : 480703086,
+          "lngE7" : 24311058
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 484541626,
+          "lngE7" : 14588377,
+          "timestampMs" : "1408014842863",
+          "accuracyMeters" : 11
+        }, {
+          "latE7" : 484534264,
+          "lngE7" : 14546022,
+          "timestampMs" : "1408014933897",
+          "accuracyMeters" : 12
+        }, {
+          "latE7" : 484108582,
+          "lngE7" : 15196763,
+          "timestampMs" : "1408015661087",
+          "accuracyMeters" : 15
+        }, {
+          "latE7" : 481864395,
+          "lngE7" : 19279346,
+          "timestampMs" : "1408017939933",
+          "accuracyMeters" : 13
+        }, {
+          "latE7" : 481688080,
+          "lngE7" : 19959441,
+          "timestampMs" : "1408018257904",
+          "accuracyMeters" : 19
+        }, {
+          "latE7" : 481691666,
+          "lngE7" : 22294545,
+          "timestampMs" : "1408019395850",
+          "accuracyMeters" : 20
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 480703422,
+        "longitudeE7" : 24309052,
+        "placeId" : "ChIJrZeznMuf5UcRuqc0NkenRu4",
+        "address" : "14 Pl. du Marché\n45340 Beaune-la-Rolande\nFrance",
+        "name" : "Café de la Place",
+        "locationConfidence" : 23.781464
+      },
+      "duration" : {
+        "startTimestampMs" : "1408020485907",
+        "endTimestampMs" : "1408022950038"
+      },
+      "centerLatE7" : 480701218,
+      "centerLngE7" : 24306922,
+      "visitConfidence" : 65,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 480703231,
+        "longitudeE7" : 24306838,
+        "placeId" : "ChIJOa3bhMuf5UcReKTJLN36xAo",
+        "name" : "Pâtisserie CYRILLE PERTUISOT \"Au Gentil Marquis\"",
+        "locationConfidence" : 8.569279
+      }, {
+        "latitudeE7" : 480698940,
+        "longitudeE7" : 24301910,
+        "placeId" : "ChIJh9Muicuf5UcRMPYD8op7QTE",
+        "name" : "Caisse d'Epargne Beaune La Rolande",
+        "locationConfidence" : 6.781974
+      }, {
+        "latitudeE7" : 480702586,
+        "longitudeE7" : 24291825,
+        "placeId" : "ChIJ-X3-8Muf5UcRJUVJOgpsG5s",
+        "name" : "Hospital Beaune La Rolande",
+        "locationConfidence" : 6.40312
+      }, {
+        "latitudeE7" : 480701395,
+        "longitudeE7" : 24300693,
+        "placeId" : "ChIJnzxBjsuf5UcRT8xk8uShMDw",
+        "name" : "CIC",
+        "locationConfidence" : 5.358072
+      }, {
+        "latitudeE7" : 480699517,
+        "longitudeE7" : 24307073,
+        "placeId" : "ChIJm48_eMuf5UcRm2EPl-93QoU",
+        "name" : "Guerton Nathalie",
+        "locationConfidence" : 4.486077
+      }, {
+        "latitudeE7" : 480703349,
+        "longitudeE7" : 24308291,
+        "placeId" : "ChIJK6u3hMuf5UcRdDczjyB4WJ4",
+        "name" : "Agence Immobiliere Beaunoise",
+        "locationConfidence" : 4.018362
+      }, {
+        "latitudeE7" : 480699100,
+        "longitudeE7" : 24303400,
+        "placeId" : "ChIJwYiyiMuf5UcR0FAPncUxiA0",
+        "name" : "Holding Beaune",
+        "locationConfidence" : 3.898816
+      }, {
+        "latitudeE7" : 480701140,
+        "longitudeE7" : 24314330,
+        "placeId" : "ChIJXRoyesuf5UcRplzgvmAmB00",
+        "name" : "PRO&Cie - Ets Piron",
+        "locationConfidence" : 2.4682953
+      }, {
+        "latitudeE7" : 480699779,
+        "longitudeE7" : 24300120,
+        "placeId" : "ChIJOQhVicuf5UcRP4OUdF2CTfQ",
+        "name" : "Chardaire Franck",
+        "locationConfidence" : 2.4526749
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1408022950038",
+        "endTimestampMs" : "1408024732825"
+      },
+      "distance" : 22128,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 480694580,
+          "lngE7" : 24305992
+        }, {
+          "latE7" : 480335235,
+          "lngE7" : 24708468
+        }, {
+          "latE7" : 479804382,
+          "lngE7" : 26255040
+        }, {
+          "latE7" : 479874343,
+          "lngE7" : 26389880
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 480335159,
+          "lngE7" : 24708416,
+          "timestampMs" : "1408023223873",
+          "accuracyMeters" : 17
+        }, {
+          "latE7" : 479804344,
+          "lngE7" : 26254466,
+          "timestampMs" : "1408024269633",
+          "accuracyMeters" : 15
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1408025474614",
+        "endTimestampMs" : "1408026215765"
+      },
+      "distance" : 500,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1408026386051",
+        "endTimestampMs" : "1408029606432"
+      },
+      "distance" : 1538,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 479714371,
+        "longitudeE7" : 26141749,
+        "placeId" : "ChIJobMlgGJ55UcRFwphCc01bcE",
+        "address" : "173 Route St Maurice, 45700 Chevillon Sur Huillard, France",
+        "name" : "Jmd Isolation",
+        "locationConfidence" : 100.0
+      },
+      "duration" : {
+        "startTimestampMs" : "1408029666335",
+        "endTimestampMs" : "1408030548203"
+      },
+      "centerLatE7" : 479733600,
+      "centerLngE7" : 26172400,
+      "visitConfidence" : 64,
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1408271402022",
+        "endTimestampMs" : "1408296331837"
+      },
+      "distance" : 92371,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1408296331837",
+        "endTimestampMs" : "1408299461066"
+      },
+      "distance" : 1107,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 444693582,
+        "longitudeE7" : 63331813
+      },
+      "endLocation" : {
+        "latitudeE7" : 443884197,
+        "longitudeE7" : 66531392
+      },
+      "duration" : {
+        "startTimestampMs" : "1408804529370",
+        "endTimestampMs" : "1408808600884"
+      },
+      "distance" : 23007,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 444694252,
+          "lngE7" : 63332262
+        }, {
+          "latE7" : 443884162,
+          "lngE7" : 66531047
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 443884197,
+        "longitudeE7" : 66531392
+      },
+      "endLocation" : {
+        "latitudeE7" : 443884197,
+        "longitudeE7" : 66531392
+      },
+      "duration" : {
+        "startTimestampMs" : "1408808600884",
+        "endTimestampMs" : "1408809848604"
+      },
+      "distance" : 2333,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 443884197,
+        "longitudeE7" : 66531392
+      },
+      "endLocation" : {
+        "latitudeE7" : 443878459,
+        "longitudeE7" : 66532409,
+        "placeId" : "ChIJ-62O0oSRzBIR9u6djuPWgW0",
+        "address" : "3 Rue Cardinalis\n04400 Barcelonnette\nFrance",
+        "name" : "Restaurant le Bocaccino",
+        "locationConfidence" : 8.106472
+      },
+      "duration" : {
+        "startTimestampMs" : "1408809882348",
+        "endTimestampMs" : "1408810759895"
+      },
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 443878818,
+          "lngE7" : 66531652,
+          "timestampMs" : "1408811186707",
+          "accuracyMeters" : 47
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 443878459,
+        "longitudeE7" : 66532409,
+        "placeId" : "ChIJ-62O0oSRzBIR9u6djuPWgW0",
+        "address" : "3 Rue Cardinalis\n04400 Barcelonnette\nFrance",
+        "name" : "Restaurant le Bocaccino",
+        "locationConfidence" : 8.106472
+      },
+      "duration" : {
+        "startTimestampMs" : "1408810759895",
+        "endTimestampMs" : "1408813736756"
+      },
+      "centerLatE7" : 443884656,
+      "centerLngE7" : 66535438,
+      "visitConfidence" : 72,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 443884814,
+        "longitudeE7" : 66533716,
+        "placeId" : "ChIJW9F3y4SRzBIR1ESKD43TzjI",
+        "name" : "Hôtel Azteca",
+        "locationConfidence" : 7.749863
+      }, {
+        "latitudeE7" : 443876202,
+        "longitudeE7" : 66528567,
+        "placeId" : "ChIJMU61LZuRzBIR03I75iT2P3I",
+        "name" : "Hôtel Bar Le Choucas",
+        "locationConfidence" : 6.790773
+      }, {
+        "latitudeE7" : 443881840,
+        "longitudeE7" : 66533674,
+        "placeId" : "ChIJU9mSLpuRzBIR--FATiSUjYY",
+        "name" : "Eurl Benoit-lizon",
+        "locationConfidence" : 6.303553
+      }, {
+        "latitudeE7" : 443880443,
+        "longitudeE7" : 66531583,
+        "placeId" : "ChIJwaypzISRzBIRnpZyVfuXbqI",
+        "name" : "La Source de Jade",
+        "locationConfidence" : 3.9367948
+      }, {
+        "latitudeE7" : 443870631,
+        "longitudeE7" : 66531065,
+        "placeId" : "ChIJ1R6cK4WRzBIR62P_QpJm_h4",
+        "name" : "Restaurant l'Abri",
+        "locationConfidence" : 3.8305714
+      }, {
+        "latitudeE7" : 443875425,
+        "longitudeE7" : 66535324,
+        "placeId" : "ChIJQ0KW0YSRzBIRBYdEO2klrLY",
+        "name" : "Residence de Tourisme La Plancha",
+        "locationConfidence" : 3.396003
+      }, {
+        "latitudeE7" : 443873663,
+        "longitudeE7" : 66535836,
+        "placeId" : "ChIJu2co1YSRzBIRymfxsbRF0u0",
+        "name" : "Le Patio",
+        "locationConfidence" : 3.2680702
+      }, {
+        "latitudeE7" : 443876997,
+        "longitudeE7" : 66540925,
+        "placeId" : "ChIJQ0KW0YSRzBIRLvmZKWBeMns",
+        "name" : "Restaurant Crêperie Lou Rastelier",
+        "locationConfidence" : 3.074063
+      }, {
+        "latitudeE7" : 443885259,
+        "longitudeE7" : 66516812,
+        "placeId" : "ChIJK_zJMJuRzBIRF-RkImhTVkk",
+        "name" : "School André Honnorat",
+        "locationConfidence" : 2.2901814
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 443842401,
+        "longitudeE7" : 66512321
+      },
+      "endLocation" : {
+        "latitudeE7" : 443809672,
+        "longitudeE7" : 66256306
+      },
+      "duration" : {
+        "startTimestampMs" : "1408814231298",
+        "endTimestampMs" : "1408814409619"
+      },
+      "distance" : 96,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 443809672,
+        "longitudeE7" : 66256306
+      },
+      "endLocation" : {
+        "latitudeE7" : 443809672,
+        "longitudeE7" : 66256306
+      },
+      "duration" : {
+        "startTimestampMs" : "1408814409619",
+        "endTimestampMs" : "1408814605502"
+      },
+      "distance" : 64,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1408814779879",
+        "endTimestampMs" : "1408815333124"
+      },
+      "distance" : 227,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1409265233188",
+        "endTimestampMs" : "1409282117358"
+      },
+      "distance" : 6045,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1409295044480",
+        "endTimestampMs" : "1409303506274"
+      },
+      "distance" : 853,
+      "confidence" : "UNKNOWN_CONFIDENCE",
+      "activities" : [ {
+        "activityType" : "UNKNOWN_ACTIVITY_TYPE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 444565724,
+        "longitudeE7" : 63042229
+      },
+      "endLocation" : {
+        "latitudeE7" : 444405127,
+        "longitudeE7" : 64146046
+      },
+      "duration" : {
+        "startTimestampMs" : "1409303506274",
+        "endTimestampMs" : "1409305472602"
+      },
+      "distance" : 6933,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 444405127,
+        "longitudeE7" : 64146046
+      },
+      "endLocation" : {
+        "latitudeE7" : 444405127,
+        "longitudeE7" : 64146046
+      },
+      "duration" : {
+        "startTimestampMs" : "1409305472602",
+        "endTimestampMs" : "1409308138797"
+      },
+      "distance" : 1993,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 444405127,
+        "longitudeE7" : 64146046
+      },
+      "endLocation" : {
+        "latitudeE7" : 444561488,
+        "longitudeE7" : 63061833
+      },
+      "duration" : {
+        "startTimestampMs" : "1409308161638",
+        "endTimestampMs" : "1409314845890"
+      },
+      "distance" : 15069,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 444565724,
+        "longitudeE7" : 63042229
+      },
+      "endLocation" : {
+        "latitudeE7" : 444565724,
+        "longitudeE7" : 63042229
+      },
+      "duration" : {
+        "startTimestampMs" : "1409318977106",
+        "endTimestampMs" : "1409320957401"
+      },
+      "distance" : 2913,
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 444565724,
+        "longitudeE7" : 63042229
+      },
+      "endLocation" : {
+        "latitudeE7" : 444565724,
+        "longitudeE7" : 63042229
+      },
+      "duration" : {
+        "startTimestampMs" : "1409321566057",
+        "endTimestampMs" : "1409321807822"
+      },
+      "distance" : 257,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 444561488,
+        "longitudeE7" : 63061833
+      },
+      "endLocation" : {
+        "latitudeE7" : 444405127,
+        "longitudeE7" : 64146046
+      },
+      "duration" : {
+        "startTimestampMs" : "1409322230574",
+        "endTimestampMs" : "1409324716662"
+      },
+      "distance" : 8140,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+      },
+      "endLocation" : {
+      },
+      "duration" : {
+        "startTimestampMs" : "1409324716662",
+        "endTimestampMs" : "1409332197001"
+      },
+      "distance" : 6951,
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 444405294,
+        "longitudeE7" : 64145576
+      },
+      "endLocation" : {
+        "latitudeE7" : 444405294,
+        "longitudeE7" : 64145576
+      },
+      "duration" : {
+        "startTimestampMs" : "1409332258596",
+        "endTimestampMs" : "1409332881647"
+      },
+      "distance" : 2425,
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_VEHICLE",
+        "probability" : 0.0
+      }, {
+        "activityType" : "FLYING",
+        "probability" : 0.0
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 0.0
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  } ]
+}
