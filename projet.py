@@ -306,10 +306,13 @@ elif dataset == "Semantic Location History with update":
 
     moyenne = df_sorted.groupby(["activityType"]).mean()[["duree", "speed"]]
 
+    st.header("Time and speed depending on the activity type")
+
     moyenne
 
     plt.figure(figsize=(25, 8))
     plt.bar(moyenne.index, moyenne["duree"])
+    plt.ylabel("time in hour")
     plt.title("Average journey time in hours depending on the activity type")
 
     plt.show()
@@ -318,6 +321,7 @@ elif dataset == "Semantic Location History with update":
 
     plt.figure(figsize=(25, 8))
     plt.bar(moyenne.index, moyenne["speed"])
+    plt.ylabel("speed in km/h")
     plt.title("Average speed in km/h depending on the activity type")
 
     plt.show()
@@ -348,6 +352,6 @@ else:
         longitude=2.3688847, latitude=48.7903962, zoom=6, min_zoom=5, max_zoom=15, pitch=40.5, bearing=-27.36,
     )
 
-    st.header("Display Display of positions on 3d diagram")
+    st.header("Display of positions on 3d diagram")
     # Render
     st.pydeck_chart(pdk.Deck(layers=[layer], initial_view_state=view_state))
