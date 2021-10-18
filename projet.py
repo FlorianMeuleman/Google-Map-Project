@@ -95,18 +95,19 @@ if dataset == "Home":
     st.text("Analysis and visualization of the visited place from the Semantic Location Historic folder")
     st.text("Analysis and visualization of the trips from the Semantic Location Historic folder")
 
-    st.title("Analysis and visualization of the 'historique des positions' file")
-
-    st.text("The file is in json so i obtain an unreadable dataframe")
-    st.text("So I turned the json file into a dictionaty, save into a new dataframe only the values I need and remove all the stationaty positions")
-    st.text("json file : 500 000 rows, new dataframe : 1 500 rows")
-
 
 ###############################################
 #           Historique des position           #
 ###############################################
 
 elif dataset == "Historique des positions.json":
+
+    st.title("Analysis and visualization of the 'historique des positions' file")
+
+    st.text("The file is in json so i obtain an unreadable dataframe")
+    st.text("So I turned the json file into a dictionaty, save into a new dataframe only the values I need and remove all the stationaty positions")
+    st.text("json file : 500 000 rows, new dataframe : 1 500 rows")
+
     df = pd.read_json('Historique des positions.json')
 
     df_sorted = pd.DataFrame(columns=[
